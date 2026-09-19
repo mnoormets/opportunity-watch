@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "targets": {
+    "claude-corps": {
+      "snapshot": {
+        "hash": "cdd7d01190005c62877f50aac4acd76f2950fdc3e133243c52c0aac3d3836968",
+        "status": "OPEN"
+      },
+      "config": "c0c1c0011b44483dcd46532d5a3e0ecd5908fbb2893210860da2a0a3f11c8c48",
+      "failures": 0,
+      "next_check": 0
+    }
+  },
+  "outbox": [],
+  "hosts": {},
+  "delivery_after": {},
+  "last_run_utc": "2026-09-19T17:48:03+00:00"
+}
