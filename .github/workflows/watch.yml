@@ -1,0 +1,79 @@
+name: Opportunity watch
+on:
+  schedule:
+    - cron: '3,13,23,33,43,53 * * * *'
+  workflow_dispatch:
+    inputs:
+      validate_only:
+        description: 'Test live page access without sending Discord alerts'
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: opportunity-watch
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - run: python -m unittest discover -s . -p test_monitor.py -v
+      - name: Validate live page access
+        if: inputs.validate_only == true
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import requests
+          import monitor
+          with requests.Session() as session:
+              session.headers['User-Agent'] = 'OpportunityWatch/1.0'
+              fetcher = monitor.Fetcher(session, {'hosts': {}})
+              for target in monitor.load_config(Path('config.json'))['targets']:
+                  print(target['name'], monitor.extract(fetcher.page(target['url']), target))
+          PY
+      - name: Load persistent state
+        id: state
+        if: inputs.validate_only != true
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          remote_ref=$(git ls-remote --heads origin monitor-state)
+          if [ -n "$remote_ref" ]; then
+            git fetch origin monitor-state
+            git worktree add -B monitor-state state-store FETCH_HEAD
+          else
+            git worktree add --detach state-store HEAD
+            cd state-store
+            git checkout --orphan monitor-state
+            git rm -rf .
+            printf 'state.json.lock\nstate.json.tmp\n' > .gitignore
+          fi
+      - name: Check pages and send notifications
+        if: inputs.validate_only != true
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python monitor.py --state state-store/state.json
+      - name: Save state even after monitor errors
+        if: always() && steps.state.outcome == 'success'
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd state-store
+          if [ -f state.json ]; then
+            git add .gitignore state.json
+            if ! git diff --cached --quiet; then
+              git commit -m 'Persist monitor state'
+              git push origin HEAD:refs/heads/monitor-state
+            fi
+          fi
