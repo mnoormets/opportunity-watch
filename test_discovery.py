@@ -18,6 +18,45 @@ def sample(**fields):
 
 
 class DiscoveryTests(unittest.TestCase):
+    def test_primary_priority_and_secondary_cap(self):
+        rows = {str(i): sample(title="AI engineer", score=4, published=NOW) for i in range(10)}
+        rows["programme"] = sample(title="AI fellowship applications open", kind="news", score=1, published=NOW)
+        for i in range(10):
+            rows["side"+str(i)] = sample(title="AI hackathon prize", kind="news", score=99, published=NOW)
+        selected = d.choose(rows, 5, 1)
+        self.assertEqual(len(selected), 5)
+        self.assertEqual(selected[0][0], "programme")
+        self.assertEqual(sum(d.category(r)=="secondary" for _,r in selected), 1)
+        self.assertTrue(all(d.category(r)!="secondary" for _,r in d.choose(rows, 5, 0)))
+
+    def test_social_discussion_is_not_a_vacancy(self):
+        self.assertIsNone(d.rank(sample(kind="news", discovery_only=True, title="Which AI video model for your next paid project?"), NOW))
+        self.assertIsNotNone(d.rank(sample(kind="news", discovery_only=True, title="Applications open for paid AI fellowship"), NOW))
+
+    def test_social_publisher_is_checked(self):
+        source = dict(SOURCE, kind="news", publisher_domain="youtube.com")
+        xml = b'<rss><channel><item><title>Paid AI internship</title><link>https://example.org/1</link><source url="https://unrelated.org">Other</source></item></channel></rss>'
+        self.assertEqual(d.parse(source, xml), [])
+        self.assertEqual(len(d.parse(source, xml.replace(b'https://unrelated.org',b'https://www.youtube.com'))), 1)
+
+    def test_hn_excludes_job_seekers_and_general_discussion(self):
+        source = dict(SOURCE, kind="hn")
+        hits = [{"objectID":"123", "parent_id":10, "story_id":10, "story_title":"Ask HN: Who is hiring?", "comment_text":"AI engineer | Remote | Europe", "created_at":NOW},
+                {"objectID":"124", "parent_id":10, "story_id":10, "story_title":"Ask HN: Who is hiring?", "comment_text":"SEEKING WORK as AI engineer"},
+                {"objectID":"125", "parent_id":10, "story_id":10, "story_title":"Discussion about AI", "comment_text":"AI engineer | Remote"}]
+        rows = d.parse(source, json.dumps({"hits":hits}).encode())
+        self.assertEqual(len(rows), 1)
+        self.assertEqual(d.parse(source, json.dumps({"hits":[dict(hits[0], parent_id=123)]}).encode()), [])
+        self.assertEqual(rows[0]["url"], "https://news.ycombinator.com/item?id=123")
+        self.assertIsNotNone(d.rank(rows[0], NOW))
+
+    def test_jobicy_salary_units_retained(self):
+        source = dict(SOURCE, kind="jobicy")
+        row = {"jobTitle":"AI Engineer", "url":"https://jobicy.com/jobs/1", "jobGeo":"Europe", "salaryMin":50000, "salaryCurrency":"EUR", "salaryPeriod":"yearly"}
+        parsed = d.parse(source, json.dumps({"jobs":[row]}).encode())[0]
+        self.assertIn("EUR / yearly", parsed["salary"])
+        self.assertIsNotNone(d.rank(parsed, NOW))
+
     def test_crime_bounties_excluded(self):
         self.assertIsNone(d.rank(sample(kind="news", title="Pakistan announces bounty on wanted suspect"), NOW))
         self.assertIsNotNone(d.rank(sample(kind="news", title="Applications open for software bug bounty program"), NOW))
@@ -39,6 +78,7 @@ class DiscoveryTests(unittest.TestCase):
         self.assertIsNone(d.rank(sample(title="Accountant", description="Our company uses AI"), NOW))
 
     def test_awarded_grant_not_an_open_opportunity(self):
+        self.assertIsNone(d.rank(sample(kind="news", title="Someone joins Open Source AI Fellowship"), NOW))
         self.assertIsNone(d.rank(sample(kind="news", title="University awarded AI research grant"), NOW))
 
     def test_free_course_excluded_paid_call_included(self):

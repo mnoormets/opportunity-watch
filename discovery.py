@@ -20,7 +20,7 @@ import monitor as m
 AI = re.compile(r"\b(ai|artificial intelligence|machine learning|llm|generative|data annotat\w*|data label\w*|prompt engineer\w*|search evaluat\w*|internet assess\w*|tehisintellekt)\b", re.I)
 OPPORTUNITY = re.compile(r"\b(fellowship\w*|residenc\w*|internship\w*|scholarship\w*|stipend\w*|hackathon\w*|bount\w*|grant\w*|accelerator\w*|paid research|paid user testing|paid participants|häkaton\w*|stipendium\w*|toetus\w*|taotlusvoor\w*)\b", re.I)
 ACTION = re.compile(r"\b(apply|application\w*|open|launch\w*|hiring|recruit\w*|register|registration|prize\w*|announc\w*|kandideeri\w*|taotlusvoor\w*|auhinnafond\w*|tasustatud)\b", re.I)
-NEGATIVE = re.compile(r"\b(layoffs?|scams?|fraud|applications? (?:are )?closed|deadline (?:has )?passed|winners? announced|awarded|receives? grant|lands? .*grant|unpaid|volunteer|pay to apply|get rich|passive income|crypto airdrop)\b", re.I)
+NEGATIVE = re.compile(r"\b(joins? .*fellowship|selected for|accepted into|graduates? from|layoffs?|scams?|fraud|applications? (?:are )?closed|deadline (?:has )?passed|winners? announced|awarded|receives? grant|lands? .*grant|unpaid|volunteer|pay to apply|get rich|passive income|crypto airdrop)\b", re.I)
 EU = re.compile(r"\b(europe|european|eu|eea|emea|estonia|eesti|tallinn|tartu|germany|deutschland|berlin|munich|france|paris|netherlands|amsterdam|ireland|dublin|spain|portugal|poland|italy|sweden|finland|denmark|belgium|austria|czech|latvia|lithuania|romania|bulgaria|croatia|slovenia|slovakia|hungary|greece|cyprus|malta|luxembourg)\b", re.I)
 WORLD = re.compile(r"\b(worldwide|global|anywhere|international|all countries|work from anywhere)\b", re.I)
 OUTSIDE = re.compile(r"\b(united states|usa|us only|u\.s\.|canada|united kingdom|uk only|australia|new zealand|india|pakistan|philippines|singapore|brazil|latam|north america)\b", re.I)
@@ -61,7 +61,7 @@ def item(source, title, url, description="", location="", company="", date=None,
     return {"source": source["name"], "source_id": source["id"], "kind": source["kind"],
             "title": plain(title)[:220], "url": canonical(url), "description": plain(description)[:8000],
             "location": plain(location)[:180], "company": plain(company)[:120], "published": timestamp(date),
-            "salary": plain(salary)[:180], "remote": bool(remote)}
+            "salary": plain(salary)[:180], "remote": bool(remote), "discovery_only": bool(source.get("discovery_only"))}
 
 
 def parse(source, body):
@@ -76,11 +76,33 @@ def parse(source, body):
         for node in root.findall("./channel/item"):
             title, url = node.findtext("title"), node.findtext("link")
             if title and url:
+                origin = node.find("source")
+                required = source.get("publisher_domain")
+                if required and (origin is None or urlsplit(origin.get("url", "")).hostname not in (required, "www." + required)):
+                    continue
                 rows.append(item(source, title, url, node.findtext("description"), date=node.findtext("pubDate"), remote=kind == "rss_jobs"))
         return rows
     data = json.loads(body)
     rows = []
-    if kind == "remoteok":
+    if kind == "hn":
+        for hit in data["hits"]:
+            text = plain(hit.get("comment_text"))
+            if hit.get("parent_id") != hit.get("story_id") or hit.get("parent_id") is None:
+                continue
+            if not text or not re.search(r"who is hiring|freelancer", hit.get("story_title") or "", re.I):
+                continue
+            if re.search(r"SEEKING WORK|interested in (?:the|this)|looking for (?:a |my next )?(?:job|role)|available for hire", text[:180], re.I):
+                continue
+            rows.append(item(source, text[:220], "https://news.ycombinator.com/item?id=" + str(int(hit["objectID"])),
+                             text, date=hit.get("created_at"), remote=bool(re.search(r"remote", text, re.I))))
+    elif kind == "jobicy":
+        for row in data["jobs"]:
+            salary = ""
+            if row.get("salaryMin") and row.get("salaryCurrency") and row.get("salaryPeriod"):
+                salary = f"{row['salaryMin']}–{row.get('salaryMax') or row['salaryMin']} {row['salaryCurrency']} / {row['salaryPeriod']}"
+            rows.append(item(source, row["jobTitle"], row["url"], row.get("jobDescription"), row.get("jobGeo"),
+                             row.get("companyName"), row.get("pubDate"), salary=salary, remote=True))
+    elif kind == "remoteok":
         if not isinstance(data, list):
             raise ValueError("Expected Remote OK list")
         for row in data:
@@ -108,6 +130,30 @@ def unrelated_bounty(row):
         r"\b(software|bug|security|vulnerabilit\w*|developer\w*|coding|open.source|AI|hackathon\w*)\b", text, re.I))
 
 
+def category(row):
+    title = row["title"]
+    if re.search(r"fellowship|residenc|claude corps|paid (?:training|bootcamp)|tasustatud .*õpe", title, re.I):
+        return "programme"
+    if re.search(r"hackathon|häkaton|bount|grant|scholarship|paid research|paid user testing|paid participants|paid project|seeking freelancer|otsin tegijat|stipendium|toetus", title, re.I):
+        return "secondary"
+    if row["kind"] in ("news", "hn") and not re.search(r"hiring|jobs?|career|internship|recruit|trainer|evaluator|rater|kandideeri|tööpakkumine", title, re.I):
+        return "secondary"
+    return "job"
+
+
+def choose(candidates, limit, secondary_limit):
+    ordered = sorted(candidates.items(), key=lambda p: (p[1]["score"], p[1]["published"] or 0), reverse=True)
+    programmes = [p for p in ordered if category(p[1]) == "programme"]
+    jobs = [p for p in ordered if category(p[1]) == "job"]
+    secondary = [p for p in ordered if category(p[1]) == "secondary"]
+    chosen = []
+    primary_limit = limit - min(secondary_limit, len(secondary), max(0, limit - 1))
+    while len(chosen) < primary_limit and (programmes or jobs):
+        group = programmes if len(chosen) % 2 == 0 and programmes else jobs or programmes
+        chosen.append(group.pop(0))
+    return chosen + secondary[:max(0, min(secondary_limit, limit - len(chosen)))]
+
+
 def rank(row, now, max_age_days=14):
     """Conservative keyword filter. Returns None or (score, location-label)."""
     title, description = row["title"], row["description"]
@@ -118,15 +164,26 @@ def rank(row, now, max_age_days=14):
     if NEGATIVE.search(title) or unrelated_bounty(row):
         return None
     news = row["kind"] == "news"
+    if row.get("discovery_only"):
+        if not re.search(r"applications? open|apply|we.re hiring|hiring:|looking for|seeking|recruit|launch|kandideeri", title, re.I):
+            return None
+        if not (AI.search(title) or re.search(r"fellowship|residenc|claude corps|paid project", title, re.I)):
+            return None
+        if re.search(r"\b(Dubai|India|Pakistan|United States|U\.S\.)\b", title, re.I) and not (EU.search(title) or WORLD.search(title)):
+            return None
+    if row["kind"] == "hn":
+        if not (AI.search(text) or OPPORTUNITY.search(text) or re.search(r"SEEKING FREELANCER", title, re.I)):
+            return None
     if news:
+        client = bool(re.search(r"looking for someone|seeking freelancer|hiring.*paid project|otsin tegijat|vajan .*tegijat", text, re.I) and PAY.search(text))
         task_job = AI.search(text) and re.search(r"trainer|evaluator|rater|annotation|labeling", text, re.I) and re.search(r"hiring|jobs|recruit", text, re.I)
-        if not task_job and (not ACTION.search(text) or not OPPORTUNITY.search(text)):
+        if not (task_job or client) and (not ACTION.search(text) or not OPPORTUNITY.search(text)):
             return None
-        if not task_job and not (AI.search(text) or re.search(r"tech|startup|hackathon|häkaton|bount|paid research|paid user testing|paid participants|stipendium|taotlusvoor", text, re.I)):
+        if not (task_job or client) and not (AI.search(text) or re.search(r"tech|startup|hackathon|häkaton|bount|paid research|paid user testing|paid participants|stipendium|taotlusvoor", text, re.I)):
             return None
-        if not task_job and not PAY.search(text) and not re.search(r"fellowship|residenc", text, re.I):
+        if not (task_job or client) and not PAY.search(text) and not re.search(r"fellowship|residenc", text, re.I):
             return None
-    elif not (AI.search(title) or OPPORTUNITY.search(title)):
+    elif row["kind"] != "hn" and not (AI.search(title) or OPPORTUNITY.search(title)):
         # Avoid every ordinary job mentioning the company's use of AI.
         return None
     location = row["location"]
@@ -163,6 +220,8 @@ def fingerprint(row):
     # Cross-source job duplicates often have tracking links but identical title/company.
     title = re.sub(r"\W+", " ", row["title"].casefold()).strip()
     company = re.sub(r"\W+", " ", row["company"].casefold()).strip()
+    if row.get("discovery_only"):
+        return m.digest("social|" + title)
     return m.digest(title + "|" + company) if company else m.digest(row["url"])
 
 
@@ -171,7 +230,8 @@ def message(row):
     label = "UUS OTSINGULEID — vajab kontrolli" if news else "LEITUD TÖÖ / PROGRAMM — kontrolli kuulutust"
     date = datetime.fromtimestamp(row["published"], timezone.utc).strftime("%Y-%m-%d") if row["published"] else "pole avaldatud"
     title = row["title"].replace("@", "＠")
-    lines = [label, title]
+    group = {"programme": "PÕHIFOOKUS · PROGRAMM", "job": "PÕHIFOOKUS · TÖÖ", "secondary": "LISAVÕIMALUS"}[category(row)]
+    lines = [group, label, title]
     if row["company"]:
         lines.append("Ettevõte: " + row["company"])
     lines.extend(["Asukoht: " + row["region"], "Avaldatud: " + date, "Allikas: " + row["source"]])
@@ -183,6 +243,9 @@ def message(row):
         lines.append("Uudis/otsingutulemus, mitte kontrollitud avatud kandideerimisvorm.")
     if row["source_id"] == "remotive":
         lines.append("Remotive avalik voog võib hilineda 24 tundi.")
+    if row.get("discovery_only"):
+        lines.append("Sotsiaalmeedia vihje: kontrolli algset pakkumist; video/postitus ei tõenda avatud kohta.")
+    lines.append("Järgmine samm: ava link ning kontrolli tähtaega, tasu ja kandideerimisnõudeid.")
     body = "\n".join(lines)
     # monitor.enqueue has an 1800-character budget including its timestamp.
     return body[:max(0, 1730 - len(row["url"]))] + "\n" + row["url"]
@@ -192,6 +255,10 @@ def fetch(session, source):
     url = source.get("url")
     if source["kind"] == "news":
         url = "https://news.google.com/rss/search?" + urlencode({"q": source["query"], "hl": "en-US", "gl": "US", "ceid": "US:en"})
+    if source["kind"] == "hn":
+        url = "https://hn.algolia.com/api/v1/search_by_date?" + urlencode({
+            "query": source["query"], "tags": "comment", "hitsPerPage": 100,
+            "numericFilters": "created_at_i>" + str(int(time.time() - 14 * 86400))})
     with session.get(url, timeout=(10, 25), stream=True) as response:
         if response.status_code in (429, 503):
             raise m.FetchError(f"HTTP {response.status_code}", max(3600, m.retry_seconds(response.headers.get("Retry-After"))))
@@ -256,25 +323,21 @@ def run(config, path, report_path, dry_run=False):
             time.sleep(1)
         today = datetime.now(timezone.utc).date().isoformat()
         if state["daily"]["day"] != today:
-            state["daily"] = {"day": today, "sent": 0}
+            state["daily"] = {"day": today, "sent": 0, "secondary": 0}
         for key, row in list(state["candidates"].items()):
-            if unrelated_bounty(row) or (row["published"] or row["found_at"]) < now - config["max_age_days"] * 86400:
+            if NEGATIVE.search(row["title"]) or unrelated_bounty(row) or (row["published"] or row["found_at"]) < now - config["max_age_days"] * 86400:
                 del state["candidates"][key]
         limit = config["alerts_per_run"] if state["initialized"] else config["initial_alerts"]
         limit = max(0, min(limit, config["alerts_per_day"] - state["daily"]["sent"]))
-        # Keep news/program opportunities represented even when job feeds have many matches.
-        ordered = sorted(state["candidates"].items(), key=lambda pair: (pair[1]["score"], pair[1]["published"] or 0), reverse=True)
-        news = [pair for pair in ordered if pair[1]["kind"] == "news"]
-        jobs = [pair for pair in ordered if pair[1]["kind"] != "news"]
-        chosen = []
-        while len(chosen) < limit and (news or jobs):
-            group = news if len(chosen) % 2 == 1 and news else jobs or news
-            chosen.append(group.pop(0))
+        secondary_left = max(0, config.get("secondary_per_day", 4) - state["daily"].get("secondary", 0))
+        chosen = choose(state["candidates"], limit, min(config.get("secondary_per_run", 1), secondary_left))
         for key, row in chosen:
             m.enqueue(state, destinations, message(row))
             report["selected"].append(row)
             del state["candidates"][key]
             state["daily"]["sent"] += 1
+            if category(row) == "secondary":
+                state["daily"]["secondary"] = state["daily"].get("secondary", 0) + 1
         state["initialized"] = True
         state["last_run_utc"] = m.utc()
         state["seen"] = {key: seen for key, seen in state["seen"].items() if seen > now - 180 * 86400}

@@ -2,7 +2,7 @@
 
 Python 3.11+ jälgija avalike kandideerimislehtede, fellowship'ide ja tööpakkumiste plokkide jaoks. Kasutab Requests'i ning BeautifulSoup'i. Vaikimisi kontroll iga 10 minuti järel; teade läheb kohe pärast muudatuse tuvastamist Discordi ja/või Telegrami.
 
-**Olemasolev GitHubi paigaldus on ühendatud Discordiga.** Lehejälgija kõrval töötab automaatne võimaluste avastaja. Uuesti paigaldada pole vaja. Allpool olev paigaldusjuhend on uue eraldi paigalduse jaoks. Kaasas on 23 automaattesti.
+**Olemasolev GitHubi paigaldus on ühendatud Discordiga.** Lehejälgija kõrval töötab automaatne võimaluste avastaja. Uuesti paigaldada pole vaja. Allpool olev paigaldusjuhend on uue eraldi paigalduse jaoks. Kaasas on 29 automaattesti.
 
 ## Mida see tuvastab?
 
@@ -153,3 +153,14 @@ Testid katavad staatusevahetuse, segase staatuse, tekstimüra, lingimuutuse, HTM
 - [Telegram Bot API](https://core.telegram.org/bots/api)
 - [Discord webhook API](https://docs.discord.com/developers/resources/webhook#execute-webhook)
 - [CodePath Claude Corps](https://www.codepath.org/claude-corps): kontrollimise ajal ütleb FAQ, et Cohort 1 kandideerimine on avatud. Samuti nõutakse USA-s töötamise õigust ja kuni kaht aastat täiskohaga töökogemust. Kontrolli sobivust enne kandideerimist.
+
+
+## Laiendatud otsing ja prioriteedid (20.09.2026)
+
+Tööd ning Claude Corpsi laadsete programmide avamised on põhifookus. Viie teate seas on kuni üks kõrvalvõimalus; neid saadetakse kuni neli päevas, kokku endiselt kuni 20. Programmid ja tööd vahelduvad; ülejäänud kohad täituvad olemasolevate põhivõimalustega. Puuduvat kõrvalvõimalust ei asendata müraga.
+
+Lisatud Jobicy tasuta avalik API (kord tunnis), Hacker Newsi värbamis- ja vabakutseliste vestluste otsing (Algolia, kord tunnis), tasustatud programmide/projektide lisaotsingud ning Google Newsi indeksisse jõudnud YouTube'i, X-i ja TikToki postitused (kord kuue tunni jooksul). Sotsiaalmeedia tulemuse avaldaja domeen kontrollitakse üle. See EI OLE nende platvormide otseühendus ega kogu postituste või videote sisu analüüs. Redditi katse ei leidnud tulemusi ning Reddit pole lisatud toimiva allikana. Sotsiaalmeedia vihjed on kontrollimata; link võib minna Google Newsi kaudu postitusele.
+
+Hacker Newsist võetakse ainult värbamisvestluste algsed kommentaarid; tööotsijate enesereklaam ja vastused jäetakse välja. Jobicy allika tasule lisatakse valuuta ja periood ainult nende olemasolul. Pakkumise sobivust, tähtaega, klienti ega tasumist skript sõltumatult ei kinnita. Automaatset klientidele kirjutamist, kandideerimist, uute domeenide jälgimisse lisamist ega videotranskriptide analüüsi ei toimu.
+
+Allikate juhendid: https://github.com/Jobicy/remote-jobs-api ja https://hn.algolia.com/api . Jobicy päringute intervall järgib vähemalt ühe tunni piiri. GitHubi ajastaja tegelikud viivitused jäävad alles.
