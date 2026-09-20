@@ -69,6 +69,25 @@ class MonitorTests(unittest.TestCase):
         m.check(TARGET, fetcher, data, {"discord": "url"})
         self.assertIn("MONITOR RECOVERED", data["outbox"][-1]["text"])
 
+    def test_archive_tracks_confirmed_delivery_and_retry(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path, data = Path(directory) / "state.json", state()
+            offer = {"title": "AI fellowship", "url": "https://example.org/apply"}
+            m.enqueue(data, {"discord": "secret"}, "Apply now", offer)
+            key = m.digest(offer["url"])
+            self.assertTrue(data["opportunities"][key]["discord_pending"])
+            self.assertIn("OW-", data["outbox"][0]["text"])
+            with patch.object(m, "deliver", side_effect=requests.Timeout()):
+                m.flush(Mock(), data, {"discord":"secret"}, path)
+            self.assertNotIn("discord_sent_at", data["opportunities"][key])
+            data["delivery_after"] = {}
+            with patch.object(m, "deliver", return_value={"message_id":"123", "channel_id":"456"}):
+                m.flush(Mock(), data, {"discord":"secret"}, path)
+            loaded = json.loads(path.read_text())
+            self.assertEqual(loaded["outbox"], [])
+            self.assertEqual(loaded["opportunities"][key]["delivery_evidence"], "api_success")
+            self.assertTrue(loaded["opportunities"][key]["discord_url"].endswith('/456/123'))
+
     def test_partial_delivery_survives_restart(self):
         with tempfile.TemporaryDirectory() as directory:
             path, data = Path(directory) / "state.json", state()

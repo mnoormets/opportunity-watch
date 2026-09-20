@@ -188,9 +188,26 @@ def channels():
     return result
 
 
-def enqueue(state, destinations, message):
-    state["outbox"].append({"text": (utc() + "\n" + message)[:1800],
-                            "pending": list(destinations)})
+def archive_offer(state, opportunity):
+    key = digest(opportunity["url"])
+    archive = state.setdefault("opportunities", {})
+    row = archive.setdefault(key, {"first_seen_at": utc()})
+    row.update({k: v for k, v in opportunity.items() if k not in ("description",)})
+    row["reference"] = "OW-" + key[:10].upper()
+    return key
+
+
+def enqueue(state, destinations, message, opportunity=None):
+    event = {"text": (utc() + "\n" + message)[:1800], "pending": list(destinations)}
+    if opportunity:
+        key = archive_offer(state, opportunity)
+        event["opportunity_id"] = key
+        row = state["opportunities"][key]
+        if "discord" in destinations:
+            row["discord_pending"] = True
+        # A short shared reference lets users find a notification in the local archive.
+        event["text"] = (utc() + "\n" + row["reference"] + "\n" + message)[:1800]
+    state["outbox"].append(event)
 
 
 def deliver(session, channel, destination, message):
@@ -218,6 +235,13 @@ def deliver(session, channel, destination, message):
             raise FetchError(f"Alert HTTP {response.status_code}")
         if channel == "telegram" and not response.json().get("ok"):
             raise FetchError("Telegram rejected message")
+        if channel == "discord":
+            try:
+                receipt = response.json()
+                if isinstance(receipt, dict) and all(str(receipt.get(k, '')).isdigit() for k in ('id', 'channel_id')):
+                    return {"message_id": str(receipt['id']), "channel_id": str(receipt['channel_id'])}
+            except ValueError:
+                pass
 
 
 def flush(session, state, destinations, path):
@@ -231,7 +255,7 @@ def flush(session, state, destinations, path):
                 blocked.add(channel)
                 continue
             try:
-                deliver(session, channel, destinations[channel], event["text"])
+                receipt = deliver(session, channel, destinations[channel], event["text"])
             except (requests.RequestException, FetchError, ValueError) as exc:
                 # Do not log exceptions containing webhook URLs or Telegram tokens.
                 LOG.error("%s alert failed (%s); queued for retry", channel, type(exc).__name__)
@@ -239,6 +263,11 @@ def flush(session, state, destinations, path):
                 blocked.add(channel)
             else:
                 event["pending"].remove(channel)
+                row = state.get("opportunities", {}).get(event.get("opportunity_id"))
+                if row is not None and channel == "discord":
+                    row.update(discord_sent_at=utc(), discord_pending=False, delivery_evidence="api_success")
+                    if isinstance(receipt, dict):
+                        row["discord_url"] = "https://discord.com/channels/787327675949121567/" + receipt['channel_id'] + "/" + receipt['message_id']
             save(path, state)
         if not event["pending"]:
             state["outbox"].remove(event)
@@ -273,7 +302,8 @@ def check(target, fetcher, state, destinations):
     elif current["hash"] != old["hash"] and target.get("alert_on_change", True):
         reason = "CONTENT CHANGED"
     if reason:
-        enqueue(state, destinations, f"{reason}: {target['name']}\nSignal: {current['status']} (verify on page)\n{target['url']}")
+        enqueue(state, destinations, f"{reason}: {target['name']}\nSignal: {current['status']} (verify on page)\n{target['url']}",
+                {"title": target['name'], "url": target['url'], "kind": "page_monitor", "source": "Application page monitor", "signal": current['status']})
     record.update(snapshot=current, config=signature, failures=0, next_check=0)
     LOG.info("%s: %s%s", target["id"], current["status"], " / " + reason if reason else " / unchanged")
     return False

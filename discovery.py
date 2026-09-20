@@ -281,6 +281,8 @@ def run(config, path, report_path, dry_run=False):
     if state.get("version") != 1:
         raise ValueError("Unsupported discovery state")
     report = {"checked_at": m.utc(), "sources": [], "selected": []}
+    for row in state["candidates"].values():
+        m.archive_offer(state, row)
     with requests.Session() as session:
         session.headers.update({"User-Agent": "OpportunityWatch/1.0", "Accept-Language": "en"})
         if not dry_run:
@@ -313,6 +315,8 @@ def run(config, path, report_path, dry_run=False):
                         row["found_at"] = now
                         # Do not persist full scraped descriptions in a public repository.
                         row.pop("description")
+                        row["category"] = category(row)
+                        m.archive_offer(state, row)
                         state["candidates"][key] = row
                         accepted += 1
                 record.update(failures=0, next_check=now + source["interval_seconds"], last_success=m.utc(), items=len(rows), accepted=accepted)
@@ -332,7 +336,7 @@ def run(config, path, report_path, dry_run=False):
         secondary_left = max(0, config.get("secondary_per_day", 4) - state["daily"].get("secondary", 0))
         chosen = choose(state["candidates"], limit, min(config.get("secondary_per_run", 1), secondary_left))
         for key, row in chosen:
-            m.enqueue(state, destinations, message(row))
+            m.enqueue(state, destinations, message(row), row)
             report["selected"].append(row)
             del state["candidates"][key]
             state["daily"]["sent"] += 1
