@@ -8,11 +8,14 @@ on:
         description: 'Test live page access without sending Discord alerts'
         type: boolean
         default: false
+
 permissions:
   contents: write
+
 concurrency:
   group: opportunity-watch
   cancel-in-progress: false
+
 jobs:
   check:
     runs-on: ubuntu-latest
@@ -24,7 +27,7 @@ jobs:
           python-version: '3.12'
           cache: pip
       - run: python -m pip install -r requirements.txt
-      - run: python -m unittest discover -s . -p test_monitor.py -v
+      - run: python -m unittest discover -s . -p 'test_*.py' -v
       - name: Validate live page access
         if: inputs.validate_only == true
         run: |
@@ -38,6 +41,9 @@ jobs:
               for target in monitor.load_config(Path('config.json'))['targets']:
                   print(target['name'], monitor.extract(fetcher.page(target['url']), target))
           PY
+
+      # The state branch is durable; Actions cache eviction cannot erase history.
+      # It stores public-page hashes, status, error counters and pending alerts.
       - name: Load persistent state
         id: state
         if: inputs.validate_only != true
@@ -57,6 +63,7 @@ jobs:
             git rm -rf .
             printf 'state.json.lock\nstate.json.tmp\n' > .gitignore
           fi
+
       - name: Check pages and send notifications
         if: inputs.validate_only != true
         env:
@@ -64,6 +71,13 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python monitor.py --state state-store/state.json
+
+      - name: Discover new opportunities across sources
+        if: always() && steps.state.outcome == 'success' && inputs.validate_only != true
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python discovery.py --state state-store/discovery-state.json --report state-store/discovery-report.json
+
       - name: Save state even after monitor errors
         if: always() && steps.state.outcome == 'success'
         shell: bash
@@ -72,6 +86,9 @@ jobs:
           cd state-store
           if [ -f state.json ]; then
             git add .gitignore state.json
+            for file in discovery-state.json discovery-report.json; do
+              if [ -f "$file" ]; then git add "$file"; fi
+            done
             if ! git diff --cached --quiet; then
               git commit -m 'Persist monitor state'
               git push origin HEAD:refs/heads/monitor-state
