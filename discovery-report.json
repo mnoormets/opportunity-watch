@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-20T17:43:41+00:00",
+  "checked_at": "2026-09-20T19:46:10+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,17 +9,12 @@
     {
       "id": "arbeitnow",
       "items": 250,
-      "new_candidates": 10
+      "new_candidates": 4
     },
     {
       "id": "startup",
       "items": 50,
       "new_candidates": 0
-    },
-    {
-      "id": "remotive",
-      "items": 20,
-      "new_candidates": 1
     },
     {
       "id": "news_fellowships",
@@ -28,12 +23,12 @@
     },
     {
       "id": "news_paid_training",
-      "items": 29,
+      "items": 30,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 7,
+      "items": 8,
       "new_candidates": 0
     },
     {
@@ -43,12 +38,12 @@
     },
     {
       "id": "news_grants",
-      "items": 67,
+      "items": 66,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 61,
+      "items": 62,
       "new_candidates": 0
     },
     {
@@ -82,31 +77,11 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 98,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 8,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
       "new_candidates": 0
     }
   ],
   "selected": [],
-  "queued_candidates": 77
+  "queued_candidates": 81
 }
