@@ -18,6 +18,11 @@ def sample(**fields):
 
 
 class DiscoveryTests(unittest.TestCase):
+    def test_crime_bounties_excluded(self):
+        self.assertIsNone(d.rank(sample(kind="news", title="Pakistan announces bounty on wanted suspect"), NOW))
+        self.assertIsNotNone(d.rank(sample(kind="news", title="Applications open for software bug bounty program"), NOW))
+        self.assertTrue(d.unrelated_bounty({"title": "Pakistan announces bounty on wanted suspect"}))
+
     def test_worldwide_and_europe(self):
         self.assertIsNotNone(d.rank(sample(), NOW))
         self.assertIsNotNone(d.rank(sample(location="Europe"), NOW))

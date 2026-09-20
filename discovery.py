@@ -102,6 +102,12 @@ def parse(source, body):
     return rows
 
 
+def unrelated_bounty(row):
+    text = row["title"] + " " + row.get("description", "")
+    return bool(re.search(r"\bbount\w*\b", text, re.I) and not re.search(
+        r"\b(software|bug|security|vulnerabilit\w*|developer\w*|coding|open.source|AI|hackathon\w*)\b", text, re.I))
+
+
 def rank(row, now, max_age_days=14):
     """Conservative keyword filter. Returns None or (score, location-label)."""
     title, description = row["title"], row["description"]
@@ -109,7 +115,7 @@ def rank(row, now, max_age_days=14):
     date = row["published"]
     if date and (date < now - max_age_days * 86400 or date > now + 86400):
         return None
-    if NEGATIVE.search(title):
+    if NEGATIVE.search(title) or unrelated_bounty(row):
         return None
     news = row["kind"] == "news"
     if news:
@@ -252,7 +258,7 @@ def run(config, path, report_path, dry_run=False):
         if state["daily"]["day"] != today:
             state["daily"] = {"day": today, "sent": 0}
         for key, row in list(state["candidates"].items()):
-            if (row["published"] or row["found_at"]) < now - config["max_age_days"] * 86400:
+            if unrelated_bounty(row) or (row["published"] or row["found_at"]) < now - config["max_age_days"] * 86400:
                 del state["candidates"][key]
         limit = config["alerts_per_run"] if state["initialized"] else config["initial_alerts"]
         limit = max(0, min(limit, config["alerts_per_day"] - state["daily"]["sent"]))
