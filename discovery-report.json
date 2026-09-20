@@ -1,174 +1,43 @@
 {
-  "checked_at": "2026-09-20T11:20:55+00:00",
-  "sources": [
-    {
-      "id": "remoteok",
-      "items": 99,
-      "new_candidates": 0
-    },
-    {
-      "id": "arbeitnow",
-      "items": 250,
-      "new_candidates": 3
-    },
-    {
-      "id": "startup",
-      "items": 50,
-      "new_candidates": 1
-    },
-    {
-      "id": "news_fellowships",
-      "items": 7,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_paid_training",
-      "items": 28,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_ai_tasks",
-      "items": 9,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_hackathons",
-      "items": 61,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_grants",
-      "items": 68,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_bounties",
-      "items": 63,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_paid_research",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_estonia",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
-      "id": "jobicy",
-      "items": 100,
-      "new_candidates": 1
-    },
-    {
-      "id": "hn_ai",
-      "items": 3,
-      "new_candidates": 3
-    },
-    {
-      "id": "hn_ml",
-      "items": 1,
-      "new_candidates": 0
-    },
-    {
-      "id": "hn_projects",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_youtube",
-      "items": 98,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_corps",
-      "items": 8,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
-      "new_candidates": 0
-    }
-  ],
+  "checked_at": "2026-09-20T11:41:23+00:00",
+  "sources": [],
   "selected": [
     {
-      "source": "Google News: AI fellowships",
-      "source_id": "news_fellowships",
-      "kind": "news",
-      "title": "How to use AI in residency applications? Learn the rules of the road - American Medical Association | AMA",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVV9yWlRtSXNuZ05hRnNaMWJ4dmtYaTBEYkxxMnRYQml6NTV6a0pPYU1SZFRvcmJ4NXJzS19MM08yS1MzYTlVSVJIYmplS3JHR0RwbC1JbkZoMWNld3U0UmluQjZiYUgwSmNpSXVDNU5iLWQ2YnJ3RTQ0blhmUVV3R0hZWl9Tc0kwNGM3bVJDbVFYRmEzeHdxdDlFN2pacnJsT3hMMnVPR1RpY0I1T242M1JR?oc=5",
-      "location": "",
-      "company": "",
-      "published": 1788937200.0,
-      "salary": "",
-      "remote": false,
-      "score": 4,
-      "region": "Asukoht kinnitamata; kaugtöö ei tähenda automaatselt Eestist sobivust",
-      "found_at": 1789898882.1387823
-    },
-    {
       "source": "Arbeitnow",
       "source_id": "arbeitnow",
       "kind": "arbeitnow",
-      "title": "Associate Applied (AI) Value Engineer (DACH) - Orbit Program",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/associate-applied-ai-value-engineer-dach-orbit-program-munich-417491",
-      "location": "Munich",
-      "company": "celonis",
-      "published": 1789894536.0,
+      "title": "Implementation Specialist -AI Phone Assistant (x/f/m)",
+      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/implementation-specialist-ai-phone-assistant-berlin-berlin-374630",
+      "location": "Berlin, Berlin",
+      "company": "Doctolib",
+      "published": 1789883711.0,
       "salary": "",
       "remote": false,
       "score": 8,
-      "region": "Munich — kontrolli riigi/tööloa nõudeid",
+      "region": "Berlin, Berlin — kontrolli riigi/tööloa nõudeid",
       "found_at": 1789898882.1387823
     },
     {
       "source": "Arbeitnow",
       "source_id": "arbeitnow",
       "kind": "arbeitnow",
-      "title": "Associate (AI) Solution Consultant - Orbit Program",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/associate-ai-solution-consultant-orbit-program-munich-24771",
-      "location": "Munich",
-      "company": "celonis",
-      "published": 1789894536.0,
+      "title": "(Senior) Product Marketing Manager (m/w/d) - AI LegalTech",
+      "url": "https://www.arbeitnow.com/jobs/companies/jupus/senior-product-marketing-manager-ai-legaltech-germany-345046",
+      "location": "Germany",
+      "company": "Jupus",
+      "published": 1789882810.0,
       "salary": "",
       "remote": false,
       "score": 8,
-      "region": "Munich — kontrolli riigi/tööloa nõudeid",
+      "region": "Germany — kontrolli riigi/tööloa nõudeid",
       "found_at": 1789898882.1387823
     },
     {
       "source": "Arbeitnow",
       "source_id": "arbeitnow",
       "kind": "arbeitnow",
-      "title": "GEO & AI Search Consultant (f/m/d) German-speaking",
-      "url": "https://www.arbeitnow.com/jobs/companies/awin/geo-ai-search-consultant-german-speaking-berlin-berlin-munchen-bavaria-270229",
-      "location": "Berlin, Berlin; München, Bavaria",
-      "company": "Awin",
-      "published": 1789883715.0,
-      "salary": "",
-      "remote": false,
-      "score": 8,
-      "region": "Berlin, Berlin; München, Bavaria — kontrolli riigi/tööloa nõudeid",
-      "found_at": 1789898882.1387823
-    },
-    {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Stage – Assistant(e) Communication & Événementiel (Hackathons Adopt AI)",
-      "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-assistante-communication-evenementiel-hackathons-adopt-ai-9th-arrondissement-of-paris-75009-paris-49627",
+      "title": "Stage Communication – Stratégie événementielle & coordination (Adopt AI)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-communication-strategie-evenementielle-coordination-adopt-ai-9th-arrondissement-of-paris-75009-paris-26661",
       "location": "9th arrondissement of Paris, 75009, Paris",
       "company": "Artefactjobs",
       "published": 1789869305.0,
@@ -177,7 +46,37 @@
       "score": 8,
       "region": "9th arrondissement of Paris, 75009, Paris — kontrolli riigi/tööloa nõudeid",
       "found_at": 1789898882.1387823
+    },
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Stage Communication – Stratégie & création de contenus (Adopt AI)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-communication-strategie-creation-de-contenus-adopt-ai-9th-arrondissement-of-paris-75009-paris-312880",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "company": "Artefactjobs",
+      "published": 1789869305.0,
+      "salary": "",
+      "remote": false,
+      "score": 8,
+      "region": "9th arrondissement of Paris, 75009, Paris — kontrolli riigi/tööloa nõudeid",
+      "found_at": 1789898882.1387823
+    },
+    {
+      "source": "Google News: hackathons",
+      "source_id": "news_hackathons",
+      "kind": "news",
+      "title": "Ncorea says Playdata students win top prize at 2026 KDT hackathon - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOV9KT00xS2R4UVh3WjB4U2plVWE2TjQ3LUtRYUxQUlhIM0VncUFnX3hqUmZwVU1nOUIyZDdGMUNQYTRBMk44ZDVuOHNSYmhSanc3eGtiV3JrNjhTeGItbm9mV0dCOTVpZG1CckJnQ2l1VUxsWEg2dXdqN0J1RW9vUTNxYW54QzJsMVFPOTJ0aTFoUHA5VlFzQVhMZ3JjN0Zfc3ZCSDR4VHJQQQ?oc=5",
+      "location": "",
+      "company": "",
+      "published": 1789522144.0,
+      "salary": "",
+      "remote": false,
+      "score": 4,
+      "region": "Asukoht kinnitamata; kaugtöö ei tähenda automaatselt Eestist sobivust",
+      "found_at": 1789898882.1387823
     }
   ],
-  "queued_candidates": 45
+  "queued_candidates": 40
 }

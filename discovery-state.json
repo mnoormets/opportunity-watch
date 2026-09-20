@@ -1334,36 +1334,6 @@
       "region": "München — Eestist sobivus kinnitamata",
       "found_at": 1789898882.1387823
     },
-    "1664683f2601d2cb52503cc4fca67a69f4d3c61e0be1a363754259502e1cbbe6": {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Implementation Specialist -AI Phone Assistant (x/f/m)",
-      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/implementation-specialist-ai-phone-assistant-berlin-berlin-374630",
-      "location": "Berlin, Berlin",
-      "company": "Doctolib",
-      "published": 1789883711.0,
-      "salary": "",
-      "remote": false,
-      "score": 8,
-      "region": "Berlin, Berlin — kontrolli riigi/tööloa nõudeid",
-      "found_at": 1789898882.1387823
-    },
-    "4a7d86847af740afca70e1b5644b1900997eaed68e77a6bafe1082b31172779c": {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "(Senior) Product Marketing Manager (m/w/d) - AI LegalTech",
-      "url": "https://www.arbeitnow.com/jobs/companies/jupus/senior-product-marketing-manager-ai-legaltech-germany-345046",
-      "location": "Germany",
-      "company": "Jupus",
-      "published": 1789882810.0,
-      "salary": "",
-      "remote": false,
-      "score": 8,
-      "region": "Germany — kontrolli riigi/tööloa nõudeid",
-      "found_at": 1789898882.1387823
-    },
     "4bf2c5607d2c9d3ea07643175205890a34697b8d0259c12fe4ec4ed9c4fad0c4": {
       "source": "Arbeitnow",
       "source_id": "arbeitnow",
@@ -1559,36 +1529,6 @@
       "region": "London — Eestist sobivus kinnitamata",
       "found_at": 1789898882.1387823
     },
-    "c5e07db7ff2db49143260ca9fbb1940f1916fde3bf480cfd84a9d8095022320a": {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Stage Communication – Stratégie événementielle & coordination (Adopt AI)",
-      "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-communication-strategie-evenementielle-coordination-adopt-ai-9th-arrondissement-of-paris-75009-paris-26661",
-      "location": "9th arrondissement of Paris, 75009, Paris",
-      "company": "Artefactjobs",
-      "published": 1789869305.0,
-      "salary": "",
-      "remote": false,
-      "score": 8,
-      "region": "9th arrondissement of Paris, 75009, Paris — kontrolli riigi/tööloa nõudeid",
-      "found_at": 1789898882.1387823
-    },
-    "9ae8f64caed56bf4bd29d7c10f4145ec32ac4cae73ff7e68d02f6288f0e03961": {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Stage Communication – Stratégie & création de contenus (Adopt AI)",
-      "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-communication-strategie-creation-de-contenus-adopt-ai-9th-arrondissement-of-paris-75009-paris-312880",
-      "location": "9th arrondissement of Paris, 75009, Paris",
-      "company": "Artefactjobs",
-      "published": 1789869305.0,
-      "salary": "",
-      "remote": false,
-      "score": 8,
-      "region": "9th arrondissement of Paris, 75009, Paris — kontrolli riigi/tööloa nõudeid",
-      "found_at": 1789898882.1387823
-    },
     "1d40f308300a576a0d81886e94506d8f3dc28ea4c2be75b89dd078a1bb1abfda": {
       "source": "Arbeitnow",
       "source_id": "arbeitnow",
@@ -1748,21 +1688,6 @@
       "location": "",
       "company": "",
       "published": 1788920886.0,
-      "salary": "",
-      "remote": false,
-      "score": 4,
-      "region": "Asukoht kinnitamata; kaugtöö ei tähenda automaatselt Eestist sobivust",
-      "found_at": 1789898882.1387823
-    },
-    "3cdb47112edc9f59781a754c0d5ccef0cc9e1062e28a81e6d712f2706e3c22ef": {
-      "source": "Google News: hackathons",
-      "source_id": "news_hackathons",
-      "kind": "news",
-      "title": "Ncorea says Playdata students win top prize at 2026 KDT hackathon - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOV9KT00xS2R4UVh3WjB4U2plVWE2TjQ3LUtRYUxQUlhIM0VncUFnX3hqUmZwVU1nOUIyZDdGMUNQYTRBMk44ZDVuOHNSYmhSanc3eGtiV3JrNjhTeGItbm9mV0dCOTVpZG1CckJnQ2l1VUxsWEg2dXdqN0J1RW9vUTNxYW54QzJsMVFPOTJ0aTFoUHA5VlFzQVhMZ3JjN0Zfc3ZCSDR4VHJQQQ?oc=5",
-      "location": "",
-      "company": "",
-      "published": 1789522144.0,
       "salary": "",
       "remote": false,
       "score": 4,
@@ -1932,9 +1857,9 @@
   "delivery_after": {},
   "daily": {
     "day": "2026-09-20",
-    "sent": 14,
-    "secondary": 1
+    "sent": 19,
+    "secondary": 2
   },
   "initialized": true,
-  "last_run_utc": "2026-09-20T11:21:24+00:00"
+  "last_run_utc": "2026-09-20T11:41:23+00:00"
 }
