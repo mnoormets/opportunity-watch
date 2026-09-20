@@ -1,0 +1,22 @@
+{
+  "region": "estonia_eu_worldwide_remote",
+  "experience": "all",
+  "max_age_days": 14,
+  "initial_alerts": 4,
+  "alerts_per_run": 5,
+  "alerts_per_day": 20,
+  "sources": [
+    {"id":"remoteok", "name":"Remote OK", "kind":"remoteok", "url":"https://remoteok.com/api", "interval_seconds":3600},
+    {"id":"arbeitnow", "name":"Arbeitnow", "kind":"arbeitnow", "url":"https://www.arbeitnow.com/api/job-board-api", "interval_seconds":3600},
+    {"id":"startup", "name":"Startup Jobs", "kind":"rss_jobs", "url":"https://startup.jobs/feeds/jobs?workplace=remote", "interval_seconds":3600},
+    {"id":"remotive", "name":"Remotive", "kind":"remotive", "url":"https://remotive.com/api/remote-jobs", "interval_seconds":21600},
+    {"id":"news_fellowships", "name":"Google News: AI fellowships", "kind":"news", "query":"(\"AI fellowship\" OR \"AI residency\" OR \"artificial intelligence fellowship\") (applications OR apply OR open OR launch) when:14d", "interval_seconds":3600},
+    {"id":"news_paid_training", "name":"Google News: paid AI training", "kind":"news", "query":"(\"AI\" OR \"artificial intelligence\") (\"paid training\" OR \"paid internship\" OR \"paid fellowship\" OR \"stipend\") (apply OR applications OR hiring OR open OR launch) when:14d", "interval_seconds":3600},
+    {"id":"news_ai_tasks", "name":"Google News: AI tasks", "kind":"news", "query":"(\"AI trainer\" OR \"AI evaluator\" OR \"data annotation\" OR \"AI rater\") (hiring OR jobs OR remote OR freelance) when:14d", "interval_seconds":3600},
+    {"id":"news_hackathons", "name":"Google News: hackathons", "kind":"news", "query":"(AI OR tech OR coding) (hackathon OR challenge OR competition) (prize OR prizes OR register OR registration OR applications) when:14d", "interval_seconds":3600},
+    {"id":"news_grants", "name":"Google News: open grants", "kind":"news", "query":"(AI OR technology OR startup) (grant OR grants OR scholarship OR accelerator) (\"applications open\" OR \"call for applications\" OR \"apply now\" OR \"open call\") when:14d", "interval_seconds":3600},
+    {"id":"news_bounties", "name":"Google News: bounties", "kind":"news", "query":"(AI OR software OR \"open source\") (bounty OR bounties OR \"paid project\") (launch OR open OR apply OR announces) when:14d", "interval_seconds":3600},
+    {"id":"news_paid_research", "name":"Google News: paid research", "kind":"news", "query":"(\"paid research study\" OR \"paid user testing\" OR \"paid participants\") (online OR remote OR Europe) when:14d", "interval_seconds":3600},
+    {"id":"news_estonia", "name":"Google News: Eesti", "kind":"news", "query":"(tehisintellekt OR AI OR häkaton OR stipendium OR toetus) (kandideerimine OR kandideeri OR taotlusvoor OR auhinnafond OR tasustatud) when:14d", "interval_seconds":3600}
+  ]
+}

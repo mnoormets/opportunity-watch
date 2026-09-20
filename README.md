@@ -2,7 +2,7 @@
 
 Python 3.11+ jälgija avalike kandideerimislehtede, fellowship'ide ja tööpakkumiste plokkide jaoks. Kasutab Requests'i ning BeautifulSoup'i. Vaikimisi kontroll iga 10 minuti järel; teade läheb kohe pärast muudatuse tuvastamist Discordi ja/või Telegrami.
 
-**See pakett on valmis seadistamiseks, kuid pole sinu eest majutusse paigaldatud.** Lisa enda teavituskanali saladused ja käivita esimene kontroll. Tegelike kanalitega saatmist ei ole siin testitud; kaasas on 12 võrguühenduseta automaattesti.
+**Olemasolev GitHubi paigaldus on ühendatud Discordiga.** Lehejälgija kõrval töötab automaatne võimaluste avastaja. Uuesti paigaldada pole vaja. Allpool olev paigaldusjuhend on uue eraldi paigalduse jaoks. Kaasas on 23 automaattesti.
 
 ## Mida see tuvastab?
 
@@ -12,7 +12,21 @@ Python 3.11+ jälgija avalike kandideerimislehtede, fellowship'ide ja tööpakku
 - Kui seadistust muudad, tekib uus BASELINE. Sama sisu korduvat teadet ei tekita.
 - Kolm järjestikust lugemisviga annavad MONITOR ERROR teate; taastumine annab MONITOR RECOVERED teate. Viga ei asenda viimast õnnestunud võrdlusolekut.
 
-Skript jälgib **ainult sinu lisatud URL-e**. See ei avasta automaatselt kõiki uusi rahateenimisvõimalusi internetis. Lisa eraldi programmilehed ja karjäärilehtede tööpakkumiste loendid; uue pakkumise tekst või link muudab räsi.
+## Automaatne avastamine
+
+`discovery.py` leiab ise uusi kuulutusi Remote OK, Arbeitnow, Startup Jobs ja Remotive voogudest ning kaheksast Google Newsi märksõnaotsingust. Otsingud hõlmavad AI-tööd, tasustatud andmemärgistamist, praktikat, fellowship'e, stipendiume, toetusi, bounty-projekte, tasustatud uuringuid ja auhinnarahaga häkatone. Otsingutulemuste veebilehti ei pea kasutaja ette teadma.
+
+Töövoog käivitub iga 10 minuti järel. Avastaja küsib enamikku allikaid kuni kord tunnis; Remotive'i iga 6 tunni järel vastavalt allika soovitusele. Remotive'i avalikul vool on lisaks umbes 24-tunnine viivitus. Esimene otsing saadab kuni 4 leidu, järgnevad kuni 5 käivituse kohta ja 20 päevas; ülejäänud sobivad leiud jäävad tähtsuse järgi järjekorda kuni aegumiseni. Muutumata leide ei saadeta uuesti.
+
+Fookus on Eesti/EL-il ja ülemaailmsel kaugtööl; kogemustaset ei piirata. Selgelt ainult USA-le või muule väljaspool valikut asuvale piirkonnale mõeldud kuulutused filtreeritakse. Puuduv või ebaselge asukoht märgitakse kinnitamata sobivusena. Märksõnafiltrid ei asenda kandidaadi sobivuse, tööloa, tasu või kuulutuse usaldusväärsuse kontrolli.
+
+Google Newsi leiud on uudise/otsinguleiu sildiga ja viivad selle uudise juurde, mitte tingimata otse taotlusvormile. Need ei ole kinnitus, et kandideerimine on avatud. Otsija ei kata kogu internetti, tasulisi ega sisselogimise taga kanaleid. Uudiste indekseerimise ja ajastuse viivitused tähendavad, et leidmise minutit ei saa garanteerida.
+
+`monitor.py` jätkab täpsete lehtede staatusevahetuste jälgimist `config.json` järgi. Avastaja konfiguratsioon on `discovery_config.json`. Mõlema olek salvestatakse `monitor-state` harusse. Avastaja raport näitab allikate õnnestumisi/tõrkeid, leitud kandidaatide arvu ja saatmisjärjekorda.
+
+Allikad: [Remote OK](https://remoteok.com/faq), [Arbeitnow](https://www.arbeitnow.com/blog/job-board-api), [Startup Jobs](https://startup.jobs/api), [Remotive](https://github.com/remotive-io/remote-jobs-api). Google Newsi RSS-liides pole stabiilsuse garantiiga API; selle töötamist kontrolliti päris võrgupäringutega.
+
+Sõnumid viitavad allikale ning kasutavad algse kuulutuse linki. Täispikki töökuulutuste kirjeldusi ei salvestata avalikku olekuharusse.
 
 ## Kiire kohalik käivitamine
 
@@ -122,7 +136,7 @@ Edastus järgib **vähemalt ühe saatmiskatse** põhimõtet: ajakatkestuse või 
 ## Kontrollimine
 
 ```bash
-python -m unittest discover -s . -p test_monitor.py -v
+python -m unittest discover -s . -p 'test_*.py' -v
 python monitor.py --test-alert
 python monitor.py
 ```

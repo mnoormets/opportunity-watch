@@ -4,3 +4,7 @@ __pycache__/
 state.json
 state.json.*
 state-store/
+discovery-state.json
+discovery-state.json.*
+discovery-report.json
+*.lock
