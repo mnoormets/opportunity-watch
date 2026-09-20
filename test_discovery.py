@@ -78,6 +78,7 @@ class DiscoveryTests(unittest.TestCase):
         self.assertIsNone(d.rank(sample(title="Accountant", description="Our company uses AI"), NOW))
 
     def test_awarded_grant_not_an_open_opportunity(self):
+        self.assertIsNone(d.rank(sample(kind="news", title="How to use AI in residency applications? Learn the rules"), NOW))
         self.assertIsNone(d.rank(sample(kind="news", title="Someone joins Open Source AI Fellowship"), NOW))
         self.assertIsNone(d.rank(sample(kind="news", title="University awarded AI research grant"), NOW))
 
