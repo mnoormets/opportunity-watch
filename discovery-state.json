@@ -1565,27 +1565,52 @@
     "973500c3ae948607d1c4db208af6af2cd9362fc8c24a1a2b36102cdbe5efa671": 1789933570.598482,
     "c98de021d9df6c418d4d38f39137da773267611212d24f5c6355f630bfbcee69": 1789933570.598482,
     "b9d6992fdc761c0920aa5a7f3baff45218409cc50ebc86d3e5a20d0b4184f5b8": 1789933570.598482,
-    "88a4cd50906e97bdaa9a157a4dbab46cb8d0512340060a7d23807a64757bc41f": 1789933570.598482
+    "88a4cd50906e97bdaa9a157a4dbab46cb8d0512340060a7d23807a64757bc41f": 1789933570.598482,
+    "158ccf9aea1b8ddcc9a9b40c1bd34740acbc629db69ee5ac6d7b0ef24dd6472f": 1789941258.36956,
+    "2c152bb1e033445ea4fac9349aa3da1298f5042029e313c3b6b7fa68613b8d93": 1789941258.36956,
+    "3efa5c355b70deeda81c63ee1cbf9d59da18205dceed4830ae17ca2ad0e33c79": 1789941258.36956,
+    "abf4179f229983e371afec75e9f8d0bc995e053f185767b07074753f8ce8c9ea": 1789941258.36956,
+    "ae8be7f9f5010c233874ac228dca173450d555a5c02f7b71ddafdea96bf2c0c7": 1789941258.36956,
+    "5c4e4c7637de372e4e663d8bbef565af8a0e17159d1d9750bb6f0206a2b8ab5e": 1789941258.36956,
+    "f1d89a58bd4e83501f4bb6f16af29e0b06355a1234df5ed2ea57b07c916ec449": 1789941258.36956,
+    "9bdcc944ec6c9966a5e66527b13bfe61f50e6af9bb35b091f05ef0587e069def": 1789941258.36956,
+    "cc61a6aa44e0713a8fede570c278f4517a8b811992056a88e2c7eeecfc20d2b3": 1789941258.36956,
+    "282834980c822e711e7149ac0d8233a5eebe5d55ea9081c6a4814f84e798ee9d": 1789941258.36956,
+    "421e4f44ae07271a12c3fd0a80aee401e8bf499ba0ed17086a4a64d5c43f2e7e": 1789941258.36956,
+    "8c85628043cd10a870fad22e201e1fe31d6b6103890534f70a92a3ed76852381": 1789941258.36956,
+    "a9c55a126b2bbafcf5f38aa2afeb5fb43ffed3afd117cdf08b04eb7905b6d186": 1789941258.36956,
+    "b5daa7e2ccd156690391a6302157affe895c3fc862f1952a83caa9559c8104a3": 1789941258.36956,
+    "1df9ac5da2d462ea76d9e7cd61cec8c3b09e2a32698ce00d6f9b7354638e12bb": 1789941258.36956,
+    "563983a6c1ee697703ecf6b7ad6290bb8d9e8a95187eef3a767390eb81fb4eb8": 1789941258.36956,
+    "46a0ab9c361f6e2e893f9131d85dfe854fb63a3be0e6314132181543cc48e439": 1789941258.36956,
+    "8fe6e14dcf20099074a6f54d5b5e8bbaedf19c298da6677ef72e339558f9f06e": 1789941258.36956,
+    "1a57e68fea2372bc4c843e57655fa5f615eb428149566c37f1be6fdb65319f28": 1789941258.36956,
+    "756797759a6ffe04166c33a573c13510a6a9be7d5390cce66282c08fc3a8250f": 1789941258.36956,
+    "ee1766aa934b4e02ec02655f2972fcb4385fec386a1c12afcd9b9950b22080c4": 1789941258.36956,
+    "adb43e3024baab35ad048a46f81817d3d7e735cdfb66818ebf192da7356f0fa2": 1789941258.36956,
+    "dc2baf1f08f3088cd85464593592e2c80c92e6d78e610782002b26d7c1746586": 1789941258.36956,
+    "5bdda066a2616954ee31a89d785a7587be27f8e08b8750664c286b4594da7585": 1789941258.36956,
+    "66bcfdd498bf7e86a96d3ee603352ccfc3b00655cc82ddc41104bc2546c6cff4": 1789941258.36956
   },
   "sources": {
     "remoteok": {
       "failures": 0,
-      "next_check": 1789937170.598482,
-      "last_success": "2026-09-20T19:46:11+00:00",
+      "next_check": 1789944858.36956,
+      "last_success": "2026-09-20T21:54:19+00:00",
       "items": 99,
       "accepted": 0
     },
     "arbeitnow": {
       "failures": 0,
-      "next_check": 1789937170.598482,
-      "last_success": "2026-09-20T19:46:13+00:00",
+      "next_check": 1789944858.36956,
+      "last_success": "2026-09-20T21:54:20+00:00",
       "items": 250,
-      "accepted": 4
+      "accepted": 1
     },
     "startup": {
       "failures": 0,
-      "next_check": 1789937170.598482,
-      "last_success": "2026-09-20T19:46:14+00:00",
+      "next_check": 1789944858.36956,
+      "last_success": "2026-09-20T21:54:22+00:00",
       "items": 50,
       "accepted": 0
     },
@@ -1598,85 +1623,85 @@
     },
     "news_fellowships": {
       "failures": 0,
-      "next_check": 1789937170.598482,
-      "last_success": "2026-09-20T19:46:15+00:00",
+      "next_check": 1789944858.36956,
+      "last_success": "2026-09-20T21:54:23+00:00",
       "items": 7,
       "accepted": 0
     },
     "news_paid_training": {
       "failures": 0,
-      "next_check": 1789937170.598482,
-      "last_success": "2026-09-20T19:46:17+00:00",
-      "items": 30,
+      "next_check": 1789944858.36956,
+      "last_success": "2026-09-20T21:54:25+00:00",
+      "items": 28,
       "accepted": 0
     },
     "news_ai_tasks": {
       "failures": 0,
-      "next_check": 1789937170.598482,
-      "last_success": "2026-09-20T19:46:18+00:00",
-      "items": 8,
+      "next_check": 1789944858.36956,
+      "last_success": "2026-09-20T21:54:26+00:00",
+      "items": 7,
       "accepted": 0
     },
     "news_hackathons": {
       "failures": 0,
-      "next_check": 1789937170.598482,
-      "last_success": "2026-09-20T19:46:19+00:00",
-      "items": 62,
+      "next_check": 1789944858.36956,
+      "last_success": "2026-09-20T21:54:27+00:00",
+      "items": 61,
       "accepted": 0
     },
     "news_grants": {
       "failures": 0,
-      "next_check": 1789937170.598482,
-      "last_success": "2026-09-20T19:46:21+00:00",
-      "items": 66,
+      "next_check": 1789944858.36956,
+      "last_success": "2026-09-20T21:54:29+00:00",
+      "items": 68,
       "accepted": 0
     },
     "news_bounties": {
       "failures": 0,
-      "next_check": 1789937170.598482,
-      "last_success": "2026-09-20T19:46:22+00:00",
+      "next_check": 1789944858.36956,
+      "last_success": "2026-09-20T21:54:30+00:00",
       "items": 62,
       "accepted": 0
     },
     "news_paid_research": {
       "failures": 0,
-      "next_check": 1789937170.598482,
-      "last_success": "2026-09-20T19:46:23+00:00",
+      "next_check": 1789944858.36956,
+      "last_success": "2026-09-20T21:54:31+00:00",
       "items": 0,
       "accepted": 0
     },
     "news_estonia": {
       "failures": 0,
-      "next_check": 1789937170.598482,
-      "last_success": "2026-09-20T19:46:25+00:00",
+      "next_check": 1789944858.36956,
+      "last_success": "2026-09-20T21:54:32+00:00",
       "items": 0,
       "accepted": 0
     },
     "jobicy": {
       "failures": 0,
-      "next_check": 1789937170.598482,
-      "last_success": "2026-09-20T19:46:26+00:00",
+      "next_check": 1789944858.36956,
+      "last_success": "2026-09-20T21:54:34+00:00",
       "items": 100,
       "accepted": 0
     },
     "hn_ai": {
       "failures": 0,
-      "next_check": 1789937170.598482,
-      "last_success": "2026-09-20T19:46:28+00:00",
+      "next_check": 1789944858.36956,
+      "last_success": "2026-09-20T21:54:36+00:00",
       "items": 1,
       "accepted": 0
     },
     "hn_ml": {
       "failures": 0,
-      "next_check": 1789937170.598482,
-      "last_success": "2026-09-20T19:46:29+00:00",
+      "next_check": 1789944858.36956,
+      "last_success": "2026-09-20T21:54:37+00:00",
       "items": 0,
       "accepted": 0
     },
     "hn_projects": {
       "failures": 0,
-      "next_check": 1789937170.598482,
-      "last_success": "2026-09-20T19:46:30+00:00",
+      "next_check": 1789944858.36956,
+      "last_success": "2026-09-20T21:54:38+00:00",
       "items": 0,
       "accepted": 0
     },
@@ -1703,9 +1728,9 @@
     },
     "news_corps": {
       "failures": 0,
-      "next_check": 1789937170.598482,
-      "last_success": "2026-09-20T19:46:31+00:00",
-      "items": 8,
+      "next_check": 1789944858.36956,
+      "last_success": "2026-09-20T21:54:40+00:00",
+      "items": 7,
       "accepted": 0
     },
     "news_clients": {
@@ -2984,6 +3009,23 @@
       "region": "München — Eestist sobivus kinnitamata",
       "found_at": 1789933570.598482,
       "category": "job"
+    },
+    "46a0ab9c361f6e2e893f9131d85dfe854fb63a3be0e6314132181543cc48e439": {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "AI scientist for Quantum Computing (Massy)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/quandela/ai-scientist-for-quantum-computing-massy-101398",
+      "location": "Massy, France",
+      "company": "Quandela",
+      "published": 1789932005.0,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "score": 8,
+      "region": "Massy, France — kontrolli riigi/tööloa nõudeid",
+      "found_at": 1789941258.36956,
+      "category": "job"
     }
   },
   "outbox": [],
@@ -2994,7 +3036,7 @@
     "secondary": 2
   },
   "initialized": true,
-  "last_run_utc": "2026-09-20T19:49:00+00:00",
+  "last_run_utc": "2026-09-20T21:54:41+00:00",
   "opportunities": {
     "b80d1e466f51065435882b9898c9ef4dbb874a8d99404eb295d8194df93f7670": {
       "first_seen_at": "2026-09-20T19:46:10+00:00",
@@ -4425,6 +4467,25 @@
       "found_at": 1789933570.598482,
       "category": "job",
       "reference": "OW-92ED22D817"
+    },
+    "32613b6080fa74f6149bc4b8134ddc27b8a8d05d2e3556166cccf0db11adee2c": {
+      "first_seen_at": "2026-09-20T21:54:20+00:00",
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "AI scientist for Quantum Computing (Massy)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/quandela/ai-scientist-for-quantum-computing-massy-101398",
+      "location": "Massy, France",
+      "company": "Quandela",
+      "published": 1789932005.0,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "score": 8,
+      "region": "Massy, France — kontrolli riigi/tööloa nõudeid",
+      "found_at": 1789941258.36956,
+      "category": "job",
+      "reference": "OW-32613B6080"
     }
   }
 }

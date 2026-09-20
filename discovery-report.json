@@ -1,6 +1,87 @@
 {
-  "checked_at": "2026-09-20T19:49:00+00:00",
-  "sources": [],
+  "checked_at": "2026-09-20T21:54:18+00:00",
+  "sources": [
+    {
+      "id": "remoteok",
+      "items": 99,
+      "new_candidates": 0
+    },
+    {
+      "id": "arbeitnow",
+      "items": 250,
+      "new_candidates": 1
+    },
+    {
+      "id": "startup",
+      "items": 50,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_fellowships",
+      "items": 7,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_paid_training",
+      "items": 28,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_ai_tasks",
+      "items": 7,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_hackathons",
+      "items": 61,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_grants",
+      "items": 68,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_bounties",
+      "items": 62,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_paid_research",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_estonia",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
+      "id": "jobicy",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "hn_ai",
+      "items": 1,
+      "new_candidates": 0
+    },
+    {
+      "id": "hn_ml",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
+      "id": "hn_projects",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_corps",
+      "items": 7,
+      "new_candidates": 0
+    }
+  ],
   "selected": [],
-  "queued_candidates": 81
+  "queued_candidates": 82
 }
