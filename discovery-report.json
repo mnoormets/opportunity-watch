@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-20T14:51:14+00:00",
+  "checked_at": "2026-09-20T17:43:41+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,7 +9,7 @@
     {
       "id": "arbeitnow",
       "items": 250,
-      "new_candidates": 25
+      "new_candidates": 10
     },
     {
       "id": "startup",
@@ -17,33 +17,38 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 20,
+      "new_candidates": 1
+    },
+    {
       "id": "news_fellowships",
-      "items": 8,
+      "items": 7,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 24,
+      "items": 29,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 9,
+      "items": 7,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 63,
+      "items": 62,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 68,
-      "new_candidates": 1
+      "items": 67,
+      "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 63,
+      "items": 61,
       "new_candidates": 0
     },
     {
@@ -59,11 +64,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
-      "items": 2,
+      "items": 1,
       "new_candidates": 0
     },
     {
@@ -77,28 +82,31 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 98,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 8,
       "new_candidates": 0
-    }
-  ],
-  "selected": [
+    },
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Manager I, Engineering - AI Platform - Evaluation & Annotation",
-      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/manager-i-engineering-ai-platform-evaluation-annotation-paris-423349",
-      "location": "Paris",
-      "company": "Datadog",
-      "published": 1789912513.0,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "score": 11,
-      "region": "Paris — kontrolli riigi/tööloa nõudeid",
-      "found_at": 1789915874.0345569
+      "id": "news_clients",
+      "items": 0,
+      "new_candidates": 0
     }
   ],
-  "queued_candidates": 66
+  "selected": [],
+  "queued_candidates": 77
 }
