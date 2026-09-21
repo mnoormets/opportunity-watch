@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-21T19:32:27+00:00",
+  "checked_at": "2026-09-21T22:46:54+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,7 +14,12 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 1
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 18,
+      "new_candidates": 0
     },
     {
       "id": "news_fellowships",
@@ -23,7 +28,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 36,
+      "items": 37,
       "new_candidates": 0
     },
     {
@@ -33,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 62,
+      "items": 61,
       "new_candidates": 0
     },
     {
@@ -43,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 66,
+      "items": 67,
       "new_candidates": 0
     },
     {
@@ -77,30 +82,31 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 95,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 6,
       "new_candidates": 0
-    }
-  ],
-  "selected": [
+    },
     {
-      "source": "Startup Jobs",
-      "source_id": "startup",
-      "kind": "rss_jobs",
-      "title": "Data Annotation Analyst at Appen",
-      "url": "https://startup.jobs/data-annotation-analyst-appen-6-10135690",
-      "location": "",
-      "company": "",
-      "published": 1789919790.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "geo_policy": "estonia-or-eligible-remote-v1",
-      "score": 11,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790019147.8385885,
-      "category": "job"
+      "id": "news_clients",
+      "items": 0,
+      "new_candidates": 0
     }
   ],
+  "selected": [],
   "queued_candidates": 0
 }
