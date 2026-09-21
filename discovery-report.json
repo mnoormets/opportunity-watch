@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-21T07:15:13+00:00",
+  "checked_at": "2026-09-21T14:17:03+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,7 +9,7 @@
     {
       "id": "arbeitnow",
       "items": 250,
-      "new_candidates": 8
+      "new_candidates": 2
     },
     {
       "id": "startup",
@@ -18,7 +18,7 @@
     },
     {
       "id": "remotive",
-      "items": 20,
+      "items": 18,
       "new_candidates": 0
     },
     {
@@ -28,8 +28,8 @@
     },
     {
       "id": "news_paid_training",
-      "items": 34,
-      "new_candidates": 0
+      "items": 38,
+      "new_candidates": 1
     },
     {
       "id": "news_ai_tasks",
@@ -39,16 +39,16 @@
     {
       "id": "news_hackathons",
       "items": 60,
-      "new_candidates": 2
+      "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 68,
+      "items": 69,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 65,
+      "items": 66,
       "new_candidates": 0
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "id": "social_youtube",
-      "items": 95,
+      "items": 94,
       "new_candidates": 0
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "id": "news_corps",
-      "items": 7,
+      "items": 6,
       "new_candidates": 0
     },
     {
@@ -109,89 +109,89 @@
   ],
   "selected": [
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Senior Commercial Leader / Entrepreneur in Residence (d/f/m)",
-      "url": "https://www.arbeitnow.com/jobs/companies/taxfix/senior-commercial-leader-entrepreneur-in-residence-berlin-371515",
-      "location": "Berlin",
-      "company": "Taxfix",
-      "published": 1789969207.0,
+      "source": "Google News: paid AI training",
+      "source_id": "news_paid_training",
+      "kind": "news",
+      "title": "Call For Applications: Citizen AI Arts & Technology Fellowship 2026-2027 | $3,000 Stipend - MSME Africa",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjVtUm14T1RhWjNVeEIybHN3bzJZVDNySzZ0MFlXT2JoWEtfUkxMM0paWU94ZVJybzNXcElael85TzllS3pSd2h3MDlYVTA3aGNVMS1LTGtKS0Q1TG9JT2FmNHBMOFlrbHlxSVhXQV93UmEtZ0daeVphNkI0N3ZFRllGNkZOSWIzSDN4QTZSMlRfNW5WUzlNcmlYNUI1Zlg0WVp5bzhhLUxBMEFtOXB0X0lB?oc=5",
+      "location": "",
+      "company": "",
+      "published": 1789978231.0,
       "salary": "",
       "remote": false,
       "discovery_only": false,
-      "score": 8,
-      "region": "Berlin — kontrolli riigi/tööloa nõudeid",
-      "found_at": 1789974913.9420712,
+      "score": 9,
+      "region": "Asukoht kinnitamata; kaugtöö ei tähenda automaatselt Eestist sobivust",
+      "found_at": 1790000223.0626447,
       "category": "programme"
     },
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Founders Associate - AI & Product",
-      "url": "https://www.arbeitnow.com/jobs/companies/melotech/founders-associate-ai-product-berlin-37879",
-      "location": "Berlin",
-      "company": "Melotech",
-      "published": 1789969208.0,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior AI Product Designer: AI Experiences (Contractor)",
+      "url": "https://jobicy.com/jobs/153776-senior-ai-product-designer-ai-experiences-contractor",
+      "location": "Germany",
+      "company": "Picsart",
+      "published": 1789983321.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
       "score": 8,
-      "region": "Berlin — kontrolli riigi/tööloa nõudeid",
-      "found_at": 1789974913.9420712,
+      "region": "Germany — kontrolli riigi/tööloa nõudeid",
+      "found_at": 1790000223.0626447,
       "category": "job"
     },
     {
       "source": "Arbeitnow",
       "source_id": "arbeitnow",
       "kind": "arbeitnow",
-      "title": "AI Automation Specialist - Marketing & GTM (d/f/m)",
-      "url": "https://www.arbeitnow.com/jobs/companies/taxfix/ai-automation-specialist-marketing-gtm-berlin-240946",
+      "title": "AI Associate - Voice-Agents (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/lane-one/ai-associate-voice-agents-berlin-194024",
       "location": "Berlin",
-      "company": "Taxfix",
-      "published": 1789969207.0,
+      "company": "Lane One",
+      "published": 1789981252.0,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "score": 8,
       "region": "Berlin — kontrolli riigi/tööloa nõudeid",
-      "found_at": 1789974913.9420712,
+      "found_at": 1790000223.0626447,
       "category": "job"
     },
     {
       "source": "Arbeitnow",
       "source_id": "arbeitnow",
       "kind": "arbeitnow",
-      "title": "AI First Builder (Product Management) (d/f/m)",
-      "url": "https://www.arbeitnow.com/jobs/companies/taxfix/ai-first-builder-product-management-berlin-126442",
-      "location": "Berlin",
-      "company": "Taxfix",
-      "published": 1789969207.0,
+      "title": "Senior Machine Learning Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/tools-for-humanity/senior-machine-learning-engineer-munich-149730",
+      "location": "Munich",
+      "company": "Tools for Humanity",
+      "published": 1789958412.0,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "score": 8,
-      "region": "Berlin — kontrolli riigi/tööloa nõudeid",
+      "region": "Munich — kontrolli riigi/tööloa nõudeid",
       "found_at": 1789974913.9420712,
       "category": "job"
     },
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Stage – Assistant(e) Communication & Événementiel (Hackathons Adopt AI)",
-      "url": "https://www.arbeitnow.fr/jobs/companies/artefact/stage-assistante-communication-evenementiel-hackathons-adopt-ai-9th-arrondissement-of-paris-75009-paris-273357",
-      "location": "9th arrondissement of Paris, 75009, Paris",
-      "company": "Artefact",
-      "published": 1789912506.0,
+      "source": "Google News: open grants",
+      "source_id": "news_grants",
+      "kind": "news",
+      "title": "Call For Applications: Tech4Youth Advanced ICT Skills Training Programme 2026 | Fully Funded Scholarship - MSME Africa",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSmhFeWpsWmZYbWFyQjZBaUhPbDZqVUdoUVBFVU80YmdlZlNZRE9yVFA5RnYzdmwwa21Kcmd6N2E2TEw4SWxtY0d6b2gxOTBLNUIwbk81SUk3NDVuX3d0akpZWnBYbVFFaEZuVGhEdm4xdk9hTlEtaER3UjB5MnFSSjlOUlhTV2c2SHF6eUtFcTdIcGVMdklkaGE3bzlFd194bjMyMVJncGNaY0hyVDdpN21tZkZWMmF6dWsyM0pWblhLTi1iMGlaVUIwZw?oc=5",
+      "location": "",
+      "company": "",
+      "published": 1789200206.0,
       "salary": "",
       "remote": false,
       "discovery_only": false,
-      "score": 8,
-      "region": "9th arrondissement of Paris, 75009, Paris — kontrolli riigi/tööloa nõudeid",
+      "score": 6,
+      "region": "Asukoht kinnitamata; kaugtöö ei tähenda automaatselt Eestist sobivust",
       "found_at": 1789915874.0345569
     }
   ],
-  "queued_candidates": 89
+  "queued_candidates": 88
 }
