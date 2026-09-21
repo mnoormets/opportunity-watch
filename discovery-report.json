@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-20T23:50:31+00:00",
+  "checked_at": "2026-09-21T01:44:39+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,17 +9,12 @@
     {
       "id": "arbeitnow",
       "items": 250,
-      "new_candidates": 2
+      "new_candidates": 1
     },
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 1
-    },
-    {
-      "id": "remotive",
-      "items": 20,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "news_fellowships",
@@ -28,7 +23,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 29,
+      "items": 31,
       "new_candidates": 0
     },
     {
@@ -48,7 +43,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 61,
+      "items": 63,
       "new_candidates": 0
     },
     {
@@ -82,31 +77,96 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 95,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
-      "items": 7,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
+      "items": 8,
       "new_candidates": 0
     }
   ],
-  "selected": [],
-  "queued_candidates": 85
+  "selected": [
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Business Development Manager (AI Data Solutions)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/business-development-manager-ai-data-solutions-paris-146044",
+      "location": "Paris, Île-de-France, France",
+      "company": "TransPerfect",
+      "published": 1789943403.0,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "score": 8,
+      "region": "Paris, Île-de-France, France — kontrolli riigi/tööloa nõudeid",
+      "found_at": 1789948231.3155384,
+      "category": "job"
+    },
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Business Development Manager - AI Data Solutions (Paris)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/business-development-manager-ai-data-solutions-paris-166108",
+      "location": "Paris, Île-de-France, France",
+      "company": "TransPerfect",
+      "published": 1789943403.0,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "score": 8,
+      "region": "Paris, Île-de-France, France — kontrolli riigi/tööloa nõudeid",
+      "found_at": 1789948231.3155384,
+      "category": "job"
+    },
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "AI scientist for Quantum Computing (Massy)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/quandela/ai-scientist-for-quantum-computing-massy-101398",
+      "location": "Massy, France",
+      "company": "Quandela",
+      "published": 1789932005.0,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "score": 8,
+      "region": "Massy, France — kontrolli riigi/tööloa nõudeid",
+      "found_at": 1789941258.36956,
+      "category": "job"
+    },
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "AI Engineer (m/w/d) Dealflow",
+      "url": "https://www.arbeitnow.com/jobs/companies/flex-capital-management-gmbh/ai-engineer-dealflow-berlin-144876",
+      "location": "Berlin",
+      "company": "Flex Capital Management Gmbh",
+      "published": 1789924197.0,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "score": 8,
+      "region": "Berlin — kontrolli riigi/tööloa nõudeid",
+      "found_at": 1789933570.598482,
+      "category": "job"
+    },
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Stage – Assistant(e) Communication & Événementiel (Hackathons Adopt AI)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/stage-assistante-communication-evenementiel-hackathons-adopt-ai-9th-arrondissement-of-paris-75009-paris-296405",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "company": "Artefactlinkedin",
+      "published": 1789912516.0,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "score": 8,
+      "region": "9th arrondissement of Paris, 75009, Paris — kontrolli riigi/tööloa nõudeid",
+      "found_at": 1789915874.0345569
+    }
+  ],
+  "queued_candidates": 83
 }
