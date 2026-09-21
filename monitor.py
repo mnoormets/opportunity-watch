@@ -348,6 +348,11 @@ def main():
                 raise ValueError("Unsupported state version; restore a valid state file")
         else:
             state = {"version": 1, "targets": {}, "outbox": [], "hosts": {}, "delivery_after": {}}
+        if config.get("enabled") is False:
+            state["outbox"] = []
+            state["last_run_utc"] = utc()
+            save(args.state, state)
+            return 0
         session.headers.update({"User-Agent": os.getenv("MONITOR_USER_AGENT", "OpportunityWatch/1.0"),
                                 "Accept": "text/html,application/xhtml+xml", "Accept-Language": "en"})
         if args.test_alert:

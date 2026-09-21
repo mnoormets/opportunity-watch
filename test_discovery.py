@@ -18,6 +18,36 @@ def sample(**fields):
 
 
 class DiscoveryTests(unittest.TestCase):
+    def test_estonia_only_geography(self):
+        for location, remote in [('Berlin, Germany', False), ('Berlin, Germany', True),
+                                 ('France', True), ('Remote', True), ('Europe', False)]:
+            with self.subTest(location=location, remote=remote):
+                self.assertIsNone(d.rank(sample(location=location, remote=remote), NOW))
+        for location, remote in [('Tallinn, Estonia', False), ('Estonia', True),
+                                 ('Worldwide', True), ('Europe', True), ('EU', True)]:
+            with self.subTest(location=location, remote=remote):
+                self.assertIsNotNone(d.rank(sample(location=location, remote=remote), NOW))
+
+    def test_mandatory_residence_overrides_feed(self):
+        for clause in ['Must be currently located in Ukraine.', 'Must reside in Germany.',
+                       'You must be authorized to work in the United States.', 'Remote US-only.']:
+            with self.subTest(clause=clause):
+                self.assertIsNone(d.rank(sample(description=clause), NOW))
+        self.assertIsNotNone(d.rank(sample(description='Must be located in Estonia.'), NOW))
+
+    def test_missing_location_needs_explicit_remote_scope(self):
+        self.assertIsNone(d.rank(sample(location='', description='We are a global international company. Remote job.'), NOW))
+        self.assertIsNotNone(d.rank(sample(location='', description='AI engineer | Remote | Europe'), NOW))
+
+    def test_old_queue_removed_before_flush_archive_preserved(self):
+        state={'candidates':{'old':sample(), 'new':sample(geo_policy=d.GEO_POLICY)},
+               'opportunities':{'old':sample(), 'new':sample(geo_policy=d.GEO_POLICY)},
+               'outbox':[{'opportunity_id':'old'},{'opportunity_id':'new'},{'message':'Source error'}]}
+        d.prune_geography(state)
+        self.assertEqual(list(state['candidates']), ['new'])
+        self.assertEqual(len(state['outbox']), 2)
+        self.assertEqual(len(state['opportunities']), 2)
+
     def test_primary_priority_and_secondary_cap(self):
         rows = {str(i): sample(title="AI engineer", score=4, published=NOW) for i in range(10)}
         rows["programme"] = sample(title="AI fellowship applications open", kind="news", score=1, published=NOW)
@@ -88,7 +118,7 @@ class DiscoveryTests(unittest.TestCase):
 
     def test_unknown_location_is_explicit(self):
         rating = d.rank(sample(location=""), NOW)
-        self.assertIn("kinnitamata", rating[1])
+        self.assertIsNone(rating)
 
     def test_tracking_deduplicates(self):
         self.assertEqual(d.canonical("https://EXAMPLE.org/job/?utm_source=a#top"), "https://example.org/job")

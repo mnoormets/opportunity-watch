@@ -6,11 +6,26 @@
       "name": "CodePath Claude Corps",
       "url": "https://www.codepath.org/claude-corps",
       "selector": "body",
-      "ignore_selectors": ["nav", "header", "footer"],
+      "ignore_selectors": [
+        "nav",
+        "header",
+        "footer"
+      ],
       "mode": "text",
       "alert_on_change": true,
-      "open_patterns": ["\\bapply now\\b", "\\bapplications (?:are )?open\\b", "\\bopen cohort\\b"],
-      "closed_patterns": ["\\bapplications (?:are )?closed\\b", "\\bsign up for updates\\b", "\\bjoin (?:the )?waitlist\\b", "\\bapplications (?:are )?not (?:yet )?open\\b"]
+      "open_patterns": [
+        "\\bapply now\\b",
+        "\\bapplications (?:are )?open\\b",
+        "\\bopen cohort\\b"
+      ],
+      "closed_patterns": [
+        "\\bapplications (?:are )?closed\\b",
+        "\\bsign up for updates\\b",
+        "\\bjoin (?:the )?waitlist\\b",
+        "\\bapplications (?:are )?not (?:yet )?open\\b"
+      ]
     }
-  ]
+  ],
+  "enabled": false,
+  "disabled_reason": "Current page target requires US work authorization; Estonia-only preference."
 }

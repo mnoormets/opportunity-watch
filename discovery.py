@@ -154,6 +154,53 @@ def choose(candidates, limit, secondary_limit):
     return chosen + secondary[:max(0, min(secondary_limit, limit - len(chosen)))]
 
 
+GEO_POLICY = "estonia-or-eligible-remote-v1"
+ESTONIA = re.compile(r"\b(estonia|eesti|tallinn|tartu|pärnu|narva)\b", re.I)
+REMOTE = re.compile(r"\b(remote|kaugtöö|work from anywhere)\b", re.I)
+REMOTE_AREA = re.compile(r"\b(worldwide|anywhere|all countries|europe|european union|eu|eea|emea)\b", re.I)
+
+
+def geography(row):
+    """Require affirmative Estonia eligibility; remote alone is insufficient."""
+    location = row.get("location", "")
+    text = row.get("title", "") + " " + row.get("description", "")
+    # Mandatory residence/work-authorisation clauses override broad feed labels.
+    restrictions = re.findall(
+        r"(?:must (?:be |currently |legally )*(?:located|based|reside|live)|"
+        r"(?:required|must have|need) .{0,25}work (?:authorization|authorisation|permit)|"
+        r"(?:authorized|authorised|eligible) to work|residents? of|remote (?:only )?within)"
+        r"[^.!?\n]{0,100}", text, re.I)
+    if any(not ESTONIA.search(clause) and not re.search(r"\b(EU|EEA|European Union)\b", clause, re.I)
+           for clause in restrictions):
+        return None
+    if re.search(r"\b(?:US|USA|UK|Germany|German|France|Canada|Australia)[- ]only\b", text, re.I):
+        return None
+    local = bool(ESTONIA.search(location))
+    if local:
+        return "Eesti — kohapeal või kaugtöö"
+    remote = bool(row.get("remote") or REMOTE.search(location + " " + text))
+    if not remote or re.search(r"\b(hybrid|on[- ]site|relocat\w*)\b", location + " " + row.get("title", ""), re.I):
+        return None
+    if REMOTE_AREA.search(location):
+        return "Kaugtöö: " + location + " — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi"
+    # A foreign city/country in structured location is a restriction, not proof
+    # that 'remote' permits work abroad. Empty locations need explicit wording.
+    if location.strip().lower() not in ("", "remote"):
+        return None
+    if re.search(r"remote\s*(?:[-:|,(]\s*)?(?:worldwide|anywhere|europe|eu\b|eea\b|emea\b|estonia)|"
+                 r"work from anywhere|(?:worldwide|europe|estonia)\s*[-:|,)]?\s*remote", text, re.I):
+        return "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond"
+    return None
+
+
+def prune_geography(state):
+    """Remove old queued alerts before delivery, retaining the historical archive."""
+    state["candidates"] = {k: r for k, r in state["candidates"].items()
+                           if r.get("geo_policy") == GEO_POLICY}
+    state["outbox"] = [e for e in state["outbox"] if not e.get("opportunity_id") or
+                       state.get("opportunities", {}).get(e["opportunity_id"], {}).get("geo_policy") == GEO_POLICY]
+
+
 def rank(row, now, max_age_days=14):
     """Conservative keyword filter. Returns None or (score, location-label)."""
     title, description = row["title"], row["description"]
@@ -186,6 +233,9 @@ def rank(row, now, max_age_days=14):
     elif row["kind"] != "hn" and not (AI.search(title) or OPPORTUNITY.search(title)):
         # Avoid every ordinary job mentioning the company's use of AI.
         return None
+    region = geography(row)
+    if region is None:
+        return None
     location = row["location"]
     explicit_us = re.search(r"\b(?:US|USA|U\.S\.)[- ]only\b|must (?:be |reside |live ).{0,35}(?:United States|USA)|authorized to work in (?:the )?(?:United States|USA)", text, re.I)
     # Geography is an applicability hint, not proof of work authorization.
@@ -195,21 +245,7 @@ def rank(row, now, max_age_days=14):
         return None
     if re.search(r"\bunpaid\b|\bvolunteer position\b", text, re.I):
         return None
-    if location and EU.search(location):
-        region = location + " — kontrolli riigi/tööloa nõudeid"
-        geo_score = 4
-    elif location and WORLD.search(location):
-        region = location + " — ülemaailmne märge allikas"
-        geo_score = 4
-    elif location:
-        # For European job feed allow unspecified European city, but label uncertainty.
-        if not row["remote"] and row["kind"] != "arbeitnow":
-            return None
-        region = location + " — Eestist sobivus kinnitamata"
-        geo_score = 0
-    else:
-        region = "Asukoht kinnitamata; kaugtöö ei tähenda automaatselt Eestist sobivust"
-        geo_score = 0
+    geo_score = 4
     score = 4 + geo_score + (3 if BEGINNER.search(title) else 0) + (2 if row["salary"] else 0)
     if news:
         score += 2 if re.search(r"applications open|apply now|call for|register|kandideeri", text, re.I) else 0
@@ -285,6 +321,7 @@ def run(config, path, report_path, dry_run=False):
         m.archive_offer(state, row)
     with requests.Session() as session:
         session.headers.update({"User-Agent": "OpportunityWatch/1.0", "Accept-Language": "en"})
+        prune_geography(state)
         if not dry_run:
             m.flush(session, state, destinations, path)
         for source in config["sources"]:
@@ -311,6 +348,7 @@ def run(config, path, report_path, dry_run=False):
                     rating = rank(row, now, config["max_age_days"])
                     state["seen"][key] = now
                     if rating:
+                        row["geo_policy"] = GEO_POLICY
                         row["score"], row["region"] = rating
                         row["found_at"] = now
                         # Do not persist full scraped descriptions in a public repository.
