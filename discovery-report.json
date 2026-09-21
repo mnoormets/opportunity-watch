@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-21T14:17:03+00:00",
+  "checked_at": "2026-09-21T15:18:55+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,16 +9,11 @@
     {
       "id": "arbeitnow",
       "items": 250,
-      "new_candidates": 2
+      "new_candidates": 0
     },
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
-    },
-    {
-      "id": "remotive",
-      "items": 18,
       "new_candidates": 0
     },
     {
@@ -28,17 +23,17 @@
     },
     {
       "id": "news_paid_training",
-      "items": 38,
-      "new_candidates": 1
+      "items": 37,
+      "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 8,
+      "items": 7,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 60,
+      "items": 61,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
@@ -82,116 +77,11 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 94,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 6,
       "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
-      "new_candidates": 0
     }
   ],
-  "selected": [
-    {
-      "source": "Google News: paid AI training",
-      "source_id": "news_paid_training",
-      "kind": "news",
-      "title": "Call For Applications: Citizen AI Arts & Technology Fellowship 2026-2027 | $3,000 Stipend - MSME Africa",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjVtUm14T1RhWjNVeEIybHN3bzJZVDNySzZ0MFlXT2JoWEtfUkxMM0paWU94ZVJybzNXcElael85TzllS3pSd2h3MDlYVTA3aGNVMS1LTGtKS0Q1TG9JT2FmNHBMOFlrbHlxSVhXQV93UmEtZ0daeVphNkI0N3ZFRllGNkZOSWIzSDN4QTZSMlRfNW5WUzlNcmlYNUI1Zlg0WVp5bzhhLUxBMEFtOXB0X0lB?oc=5",
-      "location": "",
-      "company": "",
-      "published": 1789978231.0,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "score": 9,
-      "region": "Asukoht kinnitamata; kaugtöö ei tähenda automaatselt Eestist sobivust",
-      "found_at": 1790000223.0626447,
-      "category": "programme"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior AI Product Designer: AI Experiences (Contractor)",
-      "url": "https://jobicy.com/jobs/153776-senior-ai-product-designer-ai-experiences-contractor",
-      "location": "Germany",
-      "company": "Picsart",
-      "published": 1789983321.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "score": 8,
-      "region": "Germany — kontrolli riigi/tööloa nõudeid",
-      "found_at": 1790000223.0626447,
-      "category": "job"
-    },
-    {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "AI Associate - Voice-Agents (m/w/d)",
-      "url": "https://www.arbeitnow.com/jobs/companies/lane-one/ai-associate-voice-agents-berlin-194024",
-      "location": "Berlin",
-      "company": "Lane One",
-      "published": 1789981252.0,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "score": 8,
-      "region": "Berlin — kontrolli riigi/tööloa nõudeid",
-      "found_at": 1790000223.0626447,
-      "category": "job"
-    },
-    {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Senior Machine Learning Engineer",
-      "url": "https://www.arbeitnow.com/jobs/companies/tools-for-humanity/senior-machine-learning-engineer-munich-149730",
-      "location": "Munich",
-      "company": "Tools for Humanity",
-      "published": 1789958412.0,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "score": 8,
-      "region": "Munich — kontrolli riigi/tööloa nõudeid",
-      "found_at": 1789974913.9420712,
-      "category": "job"
-    },
-    {
-      "source": "Google News: open grants",
-      "source_id": "news_grants",
-      "kind": "news",
-      "title": "Call For Applications: Tech4Youth Advanced ICT Skills Training Programme 2026 | Fully Funded Scholarship - MSME Africa",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSmhFeWpsWmZYbWFyQjZBaUhPbDZqVUdoUVBFVU80YmdlZlNZRE9yVFA5RnYzdmwwa21Kcmd6N2E2TEw4SWxtY0d6b2gxOTBLNUIwbk81SUk3NDVuX3d0akpZWnBYbVFFaEZuVGhEdm4xdk9hTlEtaER3UjB5MnFSSjlOUlhTV2c2SHF6eUtFcTdIcGVMdklkaGE3bzlFd194bjMyMVJncGNaY0hyVDdpN21tZkZWMmF6dWsyM0pWblhLTi1iMGlaVUIwZw?oc=5",
-      "location": "",
-      "company": "",
-      "published": 1789200206.0,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "score": 6,
-      "region": "Asukoht kinnitamata; kaugtöö ei tähenda automaatselt Eestist sobivust",
-      "found_at": 1789915874.0345569
-    }
-  ],
-  "queued_candidates": 88
+  "selected": [],
+  "queued_candidates": 0
 }
