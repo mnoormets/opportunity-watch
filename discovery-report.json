@@ -1,6 +1,265 @@
 {
-  "checked_at": "2026-09-22T11:49:13+00:00",
-  "sources": [],
-  "selected": [],
-  "queued_candidates": 0
+  "checked_at": "2026-09-22T15:45:16+00:00",
+  "sources": [
+    {
+      "id": "remoteok",
+      "items": 99,
+      "new_candidates": 0
+    },
+    {
+      "id": "arbeitnow",
+      "items": 250,
+      "new_candidates": 0
+    },
+    {
+      "id": "startup",
+      "items": 50,
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 18,
+      "new_candidates": 7
+    },
+    {
+      "id": "news_fellowships",
+      "items": 6,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_paid_training",
+      "items": 39,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_ai_tasks",
+      "items": 8,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_hackathons",
+      "items": 58,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_grants",
+      "items": 68,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_bounties",
+      "items": 64,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_paid_research",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_estonia",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
+      "id": "jobicy",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "hn_ai",
+      "items": 1,
+      "new_candidates": 0
+    },
+    {
+      "id": "hn_ml",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
+      "id": "hn_projects",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_youtube",
+      "items": 93,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_corps",
+      "items": 6,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
+      "id": "direct_seb",
+      "items": 121,
+      "new_candidates": 31
+    },
+    {
+      "id": "direct_welo",
+      "items": 530,
+      "new_candidates": 3
+    },
+    {
+      "id": "direct_pipedrive",
+      "items": 8,
+      "new_candidates": 1
+    },
+    {
+      "id": "direct_veriff",
+      "items": 8,
+      "new_candidates": 2
+    },
+    {
+      "id": "direct_anthropic",
+      "items": 618,
+      "new_candidates": 235
+    },
+    {
+      "id": "direct_openai",
+      "items": 810,
+      "new_candidates": 389
+    },
+    {
+      "id": "direct_stripe",
+      "items": 670,
+      "new_candidates": 180
+    },
+    {
+      "id": "direct_datadog",
+      "items": 449,
+      "new_candidates": 144
+    },
+    {
+      "id": "news_estonia_jobs",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_early_career",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_shopify",
+      "items": 0,
+      "new_candidates": 0
+    }
+  ],
+  "selected": [
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Investment Banking Internship 2027 – Debt Financing Solutions | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/3d68676e-82de-45cb-a427-b83a064bde0c",
+      "location": "Stockholm",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "programme"
+    },
+    {
+      "source": "Remotive",
+      "source_id": "remotive",
+      "kind": "remotive",
+      "title": "Senior Shopify Developer",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140",
+      "location": "Worldwide",
+      "company": "Sanctuary Computer Inc",
+      "published": 1789744228.0,
+      "salary": "$80k - $150k",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "Software Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130883",
+      "location": "Singapore",
+      "company": "Stripe",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Singapore — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "programme"
+    },
+    {
+      "source": "Remotive",
+      "source_id": "remotive",
+      "kind": "remotive",
+      "title": "Senior Independent AI Engineer / Architect",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
+      "location": "Americas, Europe, Israel",
+      "company": "A.Team",
+      "published": 1789553453.0,
+      "salary": "$120 - $170 /hour",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: Americas, Europe, Israel — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+      "location": "Toronto",
+      "company": "Stripe",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Toronto — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "programme"
+    }
+  ],
+  "queued_candidates": 987
 }
