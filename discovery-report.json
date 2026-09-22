@@ -1,226 +1,14 @@
 {
-  "checked_at": "2026-09-22T11:28:13+00:00",
-  "sources": [
-    {
-      "id": "remoteok",
-      "items": 99,
-      "new_candidates": 0
-    },
-    {
-      "id": "arbeitnow",
-      "items": 250,
-      "new_candidates": 0
-    },
-    {
-      "id": "startup",
-      "items": 50,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_fellowships",
-      "items": 7,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_paid_training",
-      "items": 36,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_ai_tasks",
-      "items": 8,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_hackathons",
-      "items": 59,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_grants",
-      "items": 68,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_bounties",
-      "items": 66,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_paid_research",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_estonia",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
-      "id": "jobicy",
-      "items": 100,
-      "new_candidates": 2
-    },
-    {
-      "id": "hn_ai",
-      "items": 1,
-      "new_candidates": 0
-    },
-    {
-      "id": "hn_ml",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
-      "id": "hn_projects",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_corps",
-      "items": 6,
-      "new_candidates": 0
-    },
-    {
-      "id": "direct_seb",
-      "items": 116,
-      "new_candidates": 1
-    },
-    {
-      "id": "direct_welo",
-      "items": 530,
-      "new_candidates": 3
-    },
-    {
-      "id": "direct_pipedrive",
-      "items": 8,
-      "new_candidates": 0
-    },
-    {
-      "id": "direct_veriff",
-      "items": 8,
-      "new_candidates": 1
-    },
-    {
-      "id": "direct_anthropic",
-      "items": 618,
-      "new_candidates": 1
-    },
-    {
-      "id": "direct_openai",
-      "items": 811,
-      "new_candidates": 2
-    },
-    {
-      "id": "direct_stripe",
-      "items": 670,
-      "new_candidates": 2
-    },
-    {
-      "id": "direct_datadog",
-      "items": 451,
-      "new_candidates": 3
-    },
-    {
-      "id": "news_estonia_jobs",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_early_career",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_shopify",
-      "items": 0,
-      "new_candidates": 0
-    }
-  ],
+  "checked_at": "2026-09-22T11:32:25+00:00",
+  "sources": [],
   "selected": [
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Junior Software Developer at Cards & Payments Solutions Tribe | SEB, Tallinn",
-      "url": "https://jobs.eu.lever.co/seb/b6cfac57-8182-48dd-b991-14fad9c9585a",
-      "location": "Tallinn",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-v2",
-      "score": 11,
-      "region": "Eesti — kohapeal või kaugtöö",
-      "found_at": 1790076493.7681124,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Marketing Events Manager, International",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424288008",
-      "location": "London, UK",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-v2",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: London, UK — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790076493.7681124,
-      "category": "job"
-    },
-    {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "Applied AI Engineer, Government, International",
-      "url": "https://jobs.ashbyhq.com/openai/6c01266f-6ddb-42d1-a529-84736ae8587a",
-      "location": "London, UK",
-      "company": "OpenAI",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-v2",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: London, UK — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790076493.7681124,
-      "category": "job"
-    },
-    {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "International Marketing Lead, SMB Ads",
-      "url": "https://jobs.ashbyhq.com/openai/2c992fb3-0501-46fc-af5b-76660b4acfeb",
-      "location": "Dublin, Ireland",
-      "company": "OpenAI",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-v2",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Dublin, Ireland — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790076493.7681124,
-      "category": "job"
-    },
     {
       "source": "Datadog careers (direct)",
       "source_id": "direct_datadog",
       "kind": "greenhouse",
-      "title": "IT Support Technician Intern",
-      "url": "https://careers.datadoghq.com/detail/8129799?gh_jid=8129799",
-      "location": "Paris, France",
+      "title": "Software Engineering Intern",
+      "url": "https://careers.datadoghq.com/detail/8114161?gh_jid=8114161",
+      "location": "Madrid, Spain",
       "company": "Datadog",
       "published": null,
       "salary": "",
@@ -229,10 +17,86 @@
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-v2",
       "score": 9,
-      "region": "Kolimine pärast pakkumist: Paris, France — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Madrid, Spain — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790076493.7681124,
+      "category": "job"
+    },
+    {
+      "source": "Datadog careers (direct)",
+      "source_id": "direct_datadog",
+      "kind": "greenhouse",
+      "title": "Software Engineering Intern (Summer)",
+      "url": "https://careers.datadoghq.com/detail/8052118?gh_jid=8052118",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA",
+      "company": "Datadog",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-v2",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Boston, Massachusetts, USA; New York, New York, USA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790076493.7681124,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "AI Creative Producer",
+      "url": "https://jobicy.com/jobs/144147-ai-creative-producer-2",
+      "location": "Europe",
+      "company": "Elevenlabs",
+      "published": 1790047815.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-v2",
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790076493.7681124,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Data Analytics Engineer",
+      "url": "https://jobicy.com/jobs/151318-data-analytics-engineer",
+      "location": "Europe",
+      "company": "Ruby Labs",
+      "published": 1790047814.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-v2",
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790076493.7681124,
+      "category": "job"
+    },
+    {
+      "source": "Welo Global careers (direct)",
+      "source_id": "direct_welo",
+      "kind": "lever",
+      "title": "AI Trainers Network - English",
+      "url": "https://jobs.lever.co/weloglobal/7fb8b7be-2f14-4587-b11f-3019be8f87a2",
+      "location": "Remote, Worldwide",
+      "company": "Welo Global",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-v2",
+      "score": 8,
+      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1790076493.7681124,
       "category": "job"
     }
   ],
-  "queued_candidates": 10
+  "queued_candidates": 5
 }

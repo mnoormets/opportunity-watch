@@ -3988,63 +3988,6 @@
     }
   },
   "candidates": {
-    "71a9273b7382afbb8d2a3196d5022a8a3ca5c8b5b386c7e96fb569744c127bc1": {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "AI Creative Producer",
-      "url": "https://jobicy.com/jobs/144147-ai-creative-producer-2",
-      "location": "Europe",
-      "company": "Elevenlabs",
-      "published": 1790047815.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-v2",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790076493.7681124,
-      "category": "job"
-    },
-    "198d6dcbcd88d49d16d90adcc4fad4f2e6fccfa758509a92c6030f3e2b0c3ddb": {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Data Analytics Engineer",
-      "url": "https://jobicy.com/jobs/151318-data-analytics-engineer",
-      "location": "Europe",
-      "company": "Ruby Labs",
-      "published": 1790047814.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-v2",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790076493.7681124,
-      "category": "job"
-    },
-    "a2cd8cb9a8d70c9ab1482c33932ee6116713468d76cfe43c7d511074acfe775e": {
-      "source": "Welo Global careers (direct)",
-      "source_id": "direct_welo",
-      "kind": "lever",
-      "title": "AI Trainers Network - English",
-      "url": "https://jobs.lever.co/weloglobal/7fb8b7be-2f14-4587-b11f-3019be8f87a2",
-      "location": "Remote, Worldwide",
-      "company": "Welo Global",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-v2",
-      "score": 8,
-      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790076493.7681124,
-      "category": "job"
-    },
     "1a9b231e182edb77ac9d759f537ed3ba51f550a51dc36977c53082042a970487": {
       "source": "Welo Global careers (direct)",
       "source_id": "direct_welo",
@@ -4139,55 +4082,17 @@
       "region": "Kolimine pärast pakkumist: San Francisco, Seattle, New York — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790076493.7681124,
       "category": "job"
-    },
-    "f3413bcb7548dd0d2a838b1bc494123e533ce1caa9fe44e2861e13318620a1e8": {
-      "source": "Datadog careers (direct)",
-      "source_id": "direct_datadog",
-      "kind": "greenhouse",
-      "title": "Software Engineering Intern",
-      "url": "https://careers.datadoghq.com/detail/8114161?gh_jid=8114161",
-      "location": "Madrid, Spain",
-      "company": "Datadog",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-v2",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Madrid, Spain — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790076493.7681124,
-      "category": "job"
-    },
-    "d87a7e02351f19053eeedc1cc00946e9422261e60fab10f479a7735ed9cb7c2e": {
-      "source": "Datadog careers (direct)",
-      "source_id": "direct_datadog",
-      "kind": "greenhouse",
-      "title": "Software Engineering Intern (Summer)",
-      "url": "https://careers.datadoghq.com/detail/8052118?gh_jid=8052118",
-      "location": "Boston, Massachusetts, USA; New York, New York, USA",
-      "company": "Datadog",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-v2",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Boston, Massachusetts, USA; New York, New York, USA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790076493.7681124,
-      "category": "job"
     }
   },
   "outbox": [],
   "delivery_after": {},
   "daily": {
     "day": "2026-09-22",
-    "sent": 5,
+    "sent": 10,
     "secondary": 0
   },
   "initialized": true,
-  "last_run_utc": "2026-09-22T11:28:58+00:00",
+  "last_run_utc": "2026-09-22T11:32:25+00:00",
   "opportunities": {
     "b80d1e466f51065435882b9898c9ef4dbb874a8d99404eb295d8194df93f7670": {
       "first_seen_at": "2026-09-20T19:46:10+00:00",
@@ -6140,7 +6045,11 @@
       "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1790076493.7681124,
       "category": "job",
-      "reference": "OW-1263CDCC27"
+      "reference": "OW-1263CDCC27",
+      "discord_pending": false,
+      "discord_sent_at": "2026-09-22T11:32:26+00:00",
+      "delivery_evidence": "api_success",
+      "discord_url": "https://discord.com/channels/787327675949121567/1550872949165260831/1551919096818307082"
     },
     "59b943859ea91ff266776d0d0680743d7e96a0f4cbb30960d528a5d9be7b8e3d": {
       "first_seen_at": "2026-09-22T11:28:29+00:00",
@@ -6161,7 +6070,11 @@
       "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1790076493.7681124,
       "category": "job",
-      "reference": "OW-59B943859E"
+      "reference": "OW-59B943859E",
+      "discord_pending": false,
+      "discord_sent_at": "2026-09-22T11:32:26+00:00",
+      "delivery_evidence": "api_success",
+      "discord_url": "https://discord.com/channels/787327675949121567/1550872949165260831/1551919097325817892"
     },
     "200f94eaf452ee291a111a2ecdb6ad28bf3ba011ed3443329bdb6f4a984662e9": {
       "first_seen_at": "2026-09-22T11:28:39+00:00",
@@ -6207,7 +6120,11 @@
       "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1790076493.7681124,
       "category": "job",
-      "reference": "OW-37A55BFD9A"
+      "reference": "OW-37A55BFD9A",
+      "discord_pending": false,
+      "discord_sent_at": "2026-09-22T11:32:26+00:00",
+      "delivery_evidence": "api_success",
+      "discord_url": "https://discord.com/channels/787327675949121567/1550872949165260831/1551919099263586364"
     },
     "eed0221db0e76f8a44fdacd511bc3611941538ce4a1c3ace4de75099d54b3cfd": {
       "first_seen_at": "2026-09-22T11:28:42+00:00",
@@ -6433,7 +6350,11 @@
       "region": "Kolimine pärast pakkumist: Madrid, Spain — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790076493.7681124,
       "category": "job",
-      "reference": "OW-B51124F89E"
+      "reference": "OW-B51124F89E",
+      "discord_pending": false,
+      "discord_sent_at": "2026-09-22T11:32:25+00:00",
+      "delivery_evidence": "api_success",
+      "discord_url": "https://discord.com/channels/787327675949121567/1550872949165260831/1551919094821818380"
     },
     "211d102dfa34f361f0864b6d7e94df523d9875967dbc436191b58504e05072d1": {
       "first_seen_at": "2026-09-22T11:28:53+00:00",
@@ -6454,7 +6375,11 @@
       "region": "Kolimine pärast pakkumist: Boston, Massachusetts, USA; New York, New York, USA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790076493.7681124,
       "category": "job",
-      "reference": "OW-211D102DFA"
+      "reference": "OW-211D102DFA",
+      "discord_pending": false,
+      "discord_sent_at": "2026-09-22T11:32:25+00:00",
+      "delivery_evidence": "api_success",
+      "discord_url": "https://discord.com/channels/787327675949121567/1550872949165260831/1551919095929245757"
     }
   },
   "filter_policy": "estonia-remote-selected-relocation-v2"
