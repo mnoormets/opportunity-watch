@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-22T06:19:22+00:00",
+  "checked_at": "2026-09-22T11:28:13+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,11 +14,6 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
-    },
-    {
-      "id": "remotive",
-      "items": 18,
       "new_candidates": 0
     },
     {
@@ -38,12 +33,12 @@
     },
     {
       "id": "news_hackathons",
-      "items": 61,
+      "items": 59,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 67,
+      "items": 68,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "hn_ai",
@@ -82,31 +77,162 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 95,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 6,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
+      "id": "direct_seb",
+      "items": 116,
+      "new_candidates": 1
+    },
+    {
+      "id": "direct_welo",
+      "items": 530,
+      "new_candidates": 3
+    },
+    {
+      "id": "direct_pipedrive",
+      "items": 8,
+      "new_candidates": 0
+    },
+    {
+      "id": "direct_veriff",
+      "items": 8,
+      "new_candidates": 1
+    },
+    {
+      "id": "direct_anthropic",
+      "items": 618,
+      "new_candidates": 1
+    },
+    {
+      "id": "direct_openai",
+      "items": 811,
+      "new_candidates": 2
+    },
+    {
+      "id": "direct_stripe",
+      "items": 670,
+      "new_candidates": 2
+    },
+    {
+      "id": "direct_datadog",
+      "items": 451,
+      "new_candidates": 3
+    },
+    {
+      "id": "news_estonia_jobs",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_early_career",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_shopify",
       "items": 0,
       "new_candidates": 0
     }
   ],
-  "selected": [],
-  "queued_candidates": 0
+  "selected": [
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Junior Software Developer at Cards & Payments Solutions Tribe | SEB, Tallinn",
+      "url": "https://jobs.eu.lever.co/seb/b6cfac57-8182-48dd-b991-14fad9c9585a",
+      "location": "Tallinn",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-v2",
+      "score": 11,
+      "region": "Eesti — kohapeal või kaugtöö",
+      "found_at": 1790076493.7681124,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Marketing Events Manager, International",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424288008",
+      "location": "London, UK",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-v2",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: London, UK — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790076493.7681124,
+      "category": "job"
+    },
+    {
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Applied AI Engineer, Government, International",
+      "url": "https://jobs.ashbyhq.com/openai/6c01266f-6ddb-42d1-a529-84736ae8587a",
+      "location": "London, UK",
+      "company": "OpenAI",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-v2",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: London, UK — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790076493.7681124,
+      "category": "job"
+    },
+    {
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "International Marketing Lead, SMB Ads",
+      "url": "https://jobs.ashbyhq.com/openai/2c992fb3-0501-46fc-af5b-76660b4acfeb",
+      "location": "Dublin, Ireland",
+      "company": "OpenAI",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-v2",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Dublin, Ireland — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790076493.7681124,
+      "category": "job"
+    },
+    {
+      "source": "Datadog careers (direct)",
+      "source_id": "direct_datadog",
+      "kind": "greenhouse",
+      "title": "IT Support Technician Intern",
+      "url": "https://careers.datadoghq.com/detail/8129799?gh_jid=8129799",
+      "location": "Paris, France",
+      "company": "Datadog",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-v2",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Paris, France — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790076493.7681124,
+      "category": "job"
+    }
+  ],
+  "queued_candidates": 10
 }
