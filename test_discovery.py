@@ -18,6 +18,33 @@ def sample(**fields):
 
 
 class DiscoveryTests(unittest.TestCase):
+    def test_ordinary_jobs_and_internships(self):
+        for title in ['Junior Software Developer', 'IT Support Specialist', 'Shopify Developer', 'Software Engineering Internship']:
+            self.assertIsNotNone(d.rank(sample(title=title, location='Estonia'), NOW))
+        self.assertEqual(d.category(sample(title='Software Engineering Internship')), 'programme')
+        self.assertIsNone(d.rank(sample(title='Senior Software Engineer'), NOW))
+        self.assertIsNone(d.rank(sample(title='Software Engineer', description='Requires 5 years of experience'), NOW))
+
+    def test_curated_relocation_is_conditional(self):
+        row=sample(title='Software Engineering Intern', location='San Francisco, USA', remote=False, relocation_employer=True)
+        self.assertIn('Kolimine pärast pakkumist', d.rank(row, NOW)[1])
+        self.assertIsNone(d.rank(dict(row, relocation_employer=False), NOW))
+        self.assertIsNone(d.rank(dict(row, description='We cannot sponsor visas.'), NOW))
+        self.assertIsNone(d.rank(dict(row, location='India'), NOW))
+        self.assertIsNone(d.rank(dict(row, title='Research Engineer'), NOW))
+        self.assertIsNone(d.rank(sample(title='AI Trainer - Swedish',location='Estonia'), NOW))
+        self.assertIsNone(d.rank(dict(row, description='US citizen required'), NOW))
+
+    def test_official_parsers(self):
+        lever=[{'text':'Junior Developer','hostedUrl':'https://jobs.lever.co/example/1','categories':{'location':'Tallinn'},'descriptionPlain':'Build apps','lists':[{'content':'<li>PostgreSQL</li>'}]}]
+        row=d.parse(dict(SOURCE,kind='lever',company='Example',relocation_employer=True),json.dumps(lever).encode())[0]
+        self.assertTrue(row['relocation_employer'])
+        self.assertIn('PostgreSQL',row['description'])
+        gh={'jobs':[{'title':'IT Support','absolute_url':'https://example.org/1','location':{'name':'Estonia'},'content':'&lt;p&gt;Help users&lt;/p&gt;'}]}
+        self.assertEqual(d.parse(dict(SOURCE,kind='greenhouse'),json.dumps(gh).encode())[0]['description'],'Help users')
+        ashby={'jobs':[{'title':'Developer','jobUrl':'https://example.org/1','location':'Europe','isRemote':True},{'isListed':False}]}
+        self.assertEqual(len(d.parse(dict(SOURCE,kind='ashby'),json.dumps(ashby).encode())),1)
+
     def test_estonia_only_geography(self):
         for location, remote in [('Berlin, Germany', False), ('Berlin, Germany', True),
                                  ('France', True), ('Remote', True), ('Europe', False)]:

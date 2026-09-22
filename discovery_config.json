@@ -1,7 +1,7 @@
 {
-  "region": "estonia_or_remote_from_estonia",
-  "experience": "all",
-  "max_age_days": 14,
+  "region": "estonia_remote_or_selected_employer_relocation",
+  "experience": "early_career",
+  "max_age_days": 30,
   "initial_alerts": 4,
   "alerts_per_run": 5,
   "alerts_per_day": 20,
@@ -87,7 +87,7 @@
       "id": "news_estonia",
       "name": "Google News: Eesti",
       "kind": "news",
-      "query": "(tehisintellekt OR AI OR hÃ¤katon OR stipendium OR toetus) (kandideerimine OR kandideeri OR taotlusvoor OR auhinnafond OR tasustatud) when:14d",
+      "query": "(tehisintellekt OR AI OR häkaton OR stipendium OR toetus) (kandideerimine OR kandideeri OR taotlusvoor OR auhinnafond OR tasustatud) when:30d",
       "interval_seconds": 3600
     },
     {
@@ -158,6 +158,99 @@
       "kind": "news",
       "query": "(\"paid project\" OR \"seeking freelancer\" OR \"otsin tegijat\") (automation OR website OR video OR AI OR koduleht) when:14d",
       "interval_seconds": 21600
+    },
+    {
+      "id": "direct_seb",
+      "name": "SEB careers (direct)",
+      "company": "SEB",
+      "kind": "lever",
+      "url": "https://api.eu.lever.co/v0/postings/seb?mode=json",
+      "relocation_employer": true,
+      "interval_seconds": 3600
+    },
+    {
+      "id": "direct_welo",
+      "name": "Welo Global careers (direct)",
+      "company": "Welo Global",
+      "kind": "lever",
+      "url": "https://api.lever.co/v0/postings/weloglobal?mode=json",
+      "relocation_employer": false,
+      "interval_seconds": 3600
+    },
+    {
+      "id": "direct_pipedrive",
+      "name": "Pipedrive careers (direct)",
+      "company": "Pipedrive",
+      "kind": "lever",
+      "url": "https://api.lever.co/v0/postings/pipedrive?mode=json",
+      "relocation_employer": true,
+      "interval_seconds": 3600
+    },
+    {
+      "id": "direct_veriff",
+      "name": "Veriff careers (direct)",
+      "company": "Veriff",
+      "kind": "greenhouse",
+      "url": "https://boards-api.greenhouse.io/v1/boards/veriff/jobs?content=true",
+      "relocation_employer": true,
+      "interval_seconds": 3600
+    },
+    {
+      "id": "direct_anthropic",
+      "name": "Anthropic careers (direct)",
+      "company": "Anthropic",
+      "kind": "greenhouse",
+      "url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs?content=true",
+      "relocation_employer": true,
+      "interval_seconds": 3600
+    },
+    {
+      "id": "direct_openai",
+      "name": "OpenAI careers (direct)",
+      "company": "OpenAI",
+      "kind": "ashby",
+      "url": "https://api.ashbyhq.com/posting-api/job-board/openai",
+      "relocation_employer": true,
+      "interval_seconds": 3600
+    },
+    {
+      "id": "direct_stripe",
+      "name": "Stripe careers (direct)",
+      "company": "Stripe",
+      "kind": "greenhouse",
+      "url": "https://boards-api.greenhouse.io/v1/boards/stripe/jobs?content=true",
+      "relocation_employer": true,
+      "interval_seconds": 3600
+    },
+    {
+      "id": "direct_datadog",
+      "name": "Datadog careers (direct)",
+      "company": "Datadog",
+      "kind": "greenhouse",
+      "url": "https://boards-api.greenhouse.io/v1/boards/datadog/jobs?content=true",
+      "relocation_employer": true,
+      "interval_seconds": 3600
+    },
+    {
+      "id": "news_estonia_jobs",
+      "name": "Eesti tööd ja praktikad",
+      "kind": "news",
+      "query": "(nooremarendaja OR tarkvaraarendaja OR kasutajatugi OR praktikant OR praktika OR Shopify) (töö OR kandideeri OR tasustatud OR palk) when:30d",
+      "interval_seconds": 3600
+    },
+    {
+      "id": "news_early_career",
+      "name": "Paid early-career programmes",
+      "kind": "news",
+      "query": "(\"paid internship\" OR \"graduate programme\" OR \"apprenticeship\") (Estonia OR \"remote Europe\" OR \"remote worldwide\") when:30d",
+      "interval_seconds": 3600
+    },
+    {
+      "id": "news_shopify",
+      "name": "Shopify and automation work",
+      "kind": "news",
+      "query": "(Shopify OR \"technical support\" OR \"junior developer\" OR automation) (hiring OR \"paid project\") (\"remote Europe\" OR \"remote worldwide\" OR Estonia) when:30d",
+      "interval_seconds": 3600
     }
   ],
   "secondary_per_run": 1,

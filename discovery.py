@@ -26,6 +26,11 @@ WORLD = re.compile(r"\b(worldwide|global|anywhere|international|all countries|wo
 OUTSIDE = re.compile(r"\b(united states|usa|us only|u\.s\.|canada|united kingdom|uk only|australia|new zealand|india|pakistan|philippines|singapore|brazil|latam|north america)\b", re.I)
 BEGINNER = re.compile(r"\b(junior|entry.level|no experience|intern\w*|trainee|annotat\w*|rater|evaluator|trainer|fellowship\w*)\b", re.I)
 PAY = re.compile(r"\b(paid|stipend\w*|funded|salary|prize\w*|bount\w*|grant\w*|scholarship\w*|stipendium\w*|auhinnafond\w*|tasustatud|toetus\w*)\b|[$€£]\s*\d", re.I)
+RELEVANT = re.compile(r"software|developer|engineer|IT support|technical support|helpdesk|service desk|quality assurance|\bQA\b|tester|Shopify|e.commerce|automation|web|data analyst|customer support|content|video|marketing|arendaja|kasutajatugi|praktik", re.I)
+SENIOR = re.compile(r"\b(senior|staff|principal|lead|head|director|manager|architect|VP)\b", re.I)
+RELOCATION_AREA = re.compile(r"\b(USA|United States|San Francisco|New York|Seattle|Boston|London|United Kingdom|UK|Zurich|Switzerland)\b", re.I)
+EARLY = re.compile(r"junior|entry.level|early.career|new.grad|graduate|intern|trainee|apprentice|fellowship|residen", re.I)
+OTHER_LANGUAGE = re.compile(r"\b(Swedish|Spanish|French|Danish|Norwegian|Finnish|Italian|Portuguese|Polish|Dutch|Arabic|Chinese|Japanese|Korean|Hindi|Russian|Turkish)\b", re.I)
 
 
 def plain(value):
@@ -61,7 +66,8 @@ def item(source, title, url, description="", location="", company="", date=None,
     return {"source": source["name"], "source_id": source["id"], "kind": source["kind"],
             "title": plain(title)[:220], "url": canonical(url), "description": plain(description)[:8000],
             "location": plain(location)[:180], "company": plain(company)[:120], "published": timestamp(date),
-            "salary": plain(salary)[:180], "remote": bool(remote), "discovery_only": bool(source.get("discovery_only"))}
+            "salary": plain(salary)[:180], "remote": bool(remote), "discovery_only": bool(source.get("discovery_only")),
+            "relocation_employer": bool(source.get("relocation_employer"))}
 
 
 def parse(source, body):
@@ -84,7 +90,20 @@ def parse(source, body):
         return rows
     data = json.loads(body)
     rows = []
-    if kind == "hn":
+    if kind == "lever":
+        for job in data:
+            cats = job.get("categories", {})
+            details = job.get("descriptionPlain", "") + " " + " ".join(plain(x.get("content")) for x in job.get("lists", [])) + " " + job.get("additionalPlain", "")
+            rows.append(item(source, job["text"], job["hostedUrl"], details, cats.get("location"), source.get("company"), remote=job.get("workplaceType") == "remote"))
+    elif kind == "greenhouse":
+        for job in data["jobs"]:
+            # updated_at is not a publication date: old but open vacancies remain eligible.
+            rows.append(item(source, job["title"], job["absolute_url"], html.unescape(job.get("content", "")), job.get("location", {}).get("name"), source.get("company")))
+    elif kind == "ashby":
+        for job in data["jobs"]:
+            if job.get("isListed", True):
+                rows.append(item(source, job["title"], job["jobUrl"], job.get("descriptionPlain"), job.get("location"), source.get("company"), remote=job.get("isRemote", False)))
+    elif kind == "hn":
         for hit in data["hits"]:
             text = plain(hit.get("comment_text"))
             if hit.get("parent_id") != hit.get("story_id") or hit.get("parent_id") is None:
@@ -132,7 +151,7 @@ def unrelated_bounty(row):
 
 def category(row):
     title = row["title"]
-    if re.search(r"fellowship|residenc|claude corps|paid (?:training|bootcamp)|tasustatud .*õpe", title, re.I):
+    if re.search(r"fellowship|residenc|internship|trainee|praktik|apprentice|claude corps|paid (?:training|bootcamp)|tasustatud .*õpe", title, re.I):
         return "programme"
     if re.search(r"hackathon|häkaton|bount|grant|scholarship|paid research|paid user testing|paid participants|paid project|seeking freelancer|otsin tegijat|stipendium|toetus", title, re.I):
         return "secondary"
@@ -154,7 +173,7 @@ def choose(candidates, limit, secondary_limit):
     return chosen + secondary[:max(0, min(secondary_limit, limit - len(chosen)))]
 
 
-GEO_POLICY = "estonia-or-eligible-remote-v1"
+GEO_POLICY = "estonia-remote-selected-relocation-v2"
 ESTONIA = re.compile(r"\b(estonia|eesti|tallinn|tartu|pärnu|narva)\b", re.I)
 REMOTE = re.compile(r"\b(remote|kaugtöö|work from anywhere)\b", re.I)
 REMOTE_AREA = re.compile(r"\b(worldwide|anywhere|all countries|europe|european union|eu|eea|emea)\b", re.I)
@@ -193,6 +212,21 @@ def geography(row):
     return None
 
 
+def relocation(row):
+    """Only curated employer feeds can open the relocation lane; never keyword brand mentions."""
+    if not row.get("relocation_employer"):
+        return None
+    if not EARLY.search(row.get("title", "")):
+        return None
+    location = row.get("location", "")
+    if not (EU.search(location) or RELOCATION_AREA.search(location)):
+        return None
+    text = row.get("description", "")
+    if re.search(r"(?:no|without|unable to|cannot|do not|not provide).{0,35}(?:visa|sponsor)|(?:US|U\.S\.|United States) citizen|security clearance", text, re.I):
+        return None
+    return "Kolimine pärast pakkumist: " + location + " — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist"
+
+
 def prune_geography(state):
     """Remove old queued alerts before delivery, retaining the historical archive."""
     state["candidates"] = {k: r for k, r in state["candidates"].items()
@@ -223,30 +257,42 @@ def rank(row, now, max_age_days=14):
             return None
     if news:
         client = bool(re.search(r"looking for someone|seeking freelancer|hiring.*paid project|otsin tegijat|vajan .*tegijat", text, re.I) and PAY.search(text))
-        task_job = AI.search(text) and re.search(r"trainer|evaluator|rater|annotation|labeling", text, re.I) and re.search(r"hiring|jobs|recruit", text, re.I)
+        task_job = (AI.search(text) or RELEVANT.search(title)) and re.search(r"hiring|jobs|recruit|kandideeri|töö|praktik", text, re.I)
         if not (task_job or client) and (not ACTION.search(text) or not OPPORTUNITY.search(text)):
             return None
         if not (task_job or client) and not (AI.search(text) or re.search(r"tech|startup|hackathon|häkaton|bount|paid research|paid user testing|paid participants|stipendium|taotlusvoor", text, re.I)):
             return None
         if not (task_job or client) and not PAY.search(text) and not re.search(r"fellowship|residenc", text, re.I):
             return None
-    elif row["kind"] != "hn" and not (AI.search(title) or OPPORTUNITY.search(title)):
+    elif row["kind"] != "hn" and not (AI.search(title) or OPPORTUNITY.search(title) or RELEVANT.search(title)):
         # Avoid every ordinary job mentioning the company's use of AI.
         return None
+    if SENIOR.search(title) and not BEGINNER.search(title):
+        return None
+    if OTHER_LANGUAGE.search(title) and not re.search(r"Estonian|English", title, re.I):
+        return None
+    if re.search(r"\bPh\.?D\.?\b|doctoral", title, re.I):
+        return None
+    if re.search(r"\b(?:[4-9]|1\d)\+?\s*(?:years|aastat).{0,35}(?:experience|kogemus)", text, re.I):
+        return None
     region = geography(row)
+    moving = False
+    if region is None:
+        region = relocation(row)
+        moving = region is not None
     if region is None:
         return None
     location = row["location"]
     explicit_us = re.search(r"\b(?:US|USA|U\.S\.)[- ]only\b|must (?:be |reside |live ).{0,35}(?:United States|USA)|authorized to work in (?:the )?(?:United States|USA)", text, re.I)
     # Geography is an applicability hint, not proof of work authorization.
-    if location and OUTSIDE.search(location) and not (EU.search(location) or WORLD.search(location)):
+    if not moving and location and OUTSIDE.search(location) and not (EU.search(location) or WORLD.search(location)):
         return None
-    if explicit_us and not (location and (EU.search(location) or WORLD.search(location))):
+    if not moving and explicit_us and not (location and (EU.search(location) or WORLD.search(location))):
         return None
     if re.search(r"\bunpaid\b|\bvolunteer position\b", text, re.I):
         return None
     geo_score = 4
-    score = 4 + geo_score + (3 if BEGINNER.search(title) else 0) + (2 if row["salary"] else 0)
+    score = 4 + geo_score + (3 if BEGINNER.search(title) else 0) + (2 if row["salary"] else 0) - (2 if moving else 0)
     if news:
         score += 2 if re.search(r"applications open|apply now|call for|register|kandideeri", text, re.I) else 0
     return score, region
@@ -302,7 +348,7 @@ def fetch(session, source):
         chunks, size, started = [], 0, time.monotonic()
         for chunk in response.iter_content(65536):
             size += len(chunk)
-            if size > 5_000_000 or time.monotonic() - started > 45:
+            if size > 20_000_000 or time.monotonic() - started > 45:
                 raise m.FetchError("Response exceeded limit")
             chunks.append(chunk)
     return parse(source, b"".join(chunks))
@@ -317,6 +363,11 @@ def run(config, path, report_path, dry_run=False):
     if state.get("version") != 1:
         raise ValueError("Unsupported discovery state")
     report = {"checked_at": m.utc(), "sources": [], "selected": []}
+    if state.get("filter_policy") != GEO_POLICY:
+        # Reconsider previously rejected ordinary jobs after a filter change,
+        # while preserving archive identities to avoid replaying old alerts.
+        state["seen"] = {fingerprint(r): now for r in state.get("opportunities", {}).values()}
+        state["filter_policy"] = GEO_POLICY
     for row in state["candidates"].values():
         m.archive_offer(state, row)
     with requests.Session() as session:
