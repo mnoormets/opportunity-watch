@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-22T01:14:40+00:00",
+  "checked_at": "2026-09-22T06:19:22+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,13 +17,18 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 18,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
       "items": 7,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 37,
+      "items": 36,
       "new_candidates": 0
     },
     {
@@ -38,7 +43,7 @@
     },
     {
       "id": "news_grants",
-      "items": 68,
+      "items": 67,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 95,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 6,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     }
   ],
