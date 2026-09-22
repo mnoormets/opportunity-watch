@@ -1,6 +1,6 @@
 {
   "region": "estonia_remote_or_selected_employer_relocation",
-  "experience": "early_career",
+  "experience": "all_levels_including_senior",
   "max_age_days": 30,
   "initial_alerts": 4,
   "alerts_per_run": 5,

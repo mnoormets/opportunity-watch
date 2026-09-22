@@ -151,7 +151,7 @@ def unrelated_bounty(row):
 
 def category(row):
     title = row["title"]
-    if re.search(r"fellowship|residenc|internship|trainee|praktik|apprentice|claude corps|paid (?:training|bootcamp)|tasustatud .*õpe", title, re.I):
+    if re.search(r"fellowship|residenc|\bintern(?:ship)?s?\b|trainee|praktik|apprentice|claude corps|paid (?:training|bootcamp)|tasustatud .*õpe", title, re.I):
         return "programme"
     if re.search(r"hackathon|häkaton|bount|grant|scholarship|paid research|paid user testing|paid participants|paid project|seeking freelancer|otsin tegijat|stipendium|toetus", title, re.I):
         return "secondary"
@@ -173,7 +173,7 @@ def choose(candidates, limit, secondary_limit):
     return chosen + secondary[:max(0, min(secondary_limit, limit - len(chosen)))]
 
 
-GEO_POLICY = "estonia-remote-selected-relocation-v2"
+GEO_POLICY = "estonia-remote-selected-relocation-all-levels-v3"
 ESTONIA = re.compile(r"\b(estonia|eesti|tallinn|tartu|pärnu|narva)\b", re.I)
 REMOTE = re.compile(r"\b(remote|kaugtöö|work from anywhere)\b", re.I)
 REMOTE_AREA = re.compile(r"\b(worldwide|anywhere|all countries|europe|european union|eu|eea|emea)\b", re.I)
@@ -216,10 +216,8 @@ def relocation(row):
     """Only curated employer feeds can open the relocation lane; never keyword brand mentions."""
     if not row.get("relocation_employer"):
         return None
-    if not EARLY.search(row.get("title", "")):
-        return None
     location = row.get("location", "")
-    if not (EU.search(location) or RELOCATION_AREA.search(location)):
+    if not location.strip():
         return None
     text = row.get("description", "")
     if re.search(r"(?:no|without|unable to|cannot|do not|not provide).{0,35}(?:visa|sponsor)|(?:US|U\.S\.|United States) citizen|security clearance", text, re.I):
@@ -230,8 +228,7 @@ def relocation(row):
 def prune_geography(state):
     """Remove old queued alerts before delivery, retaining the historical archive."""
     def eligible(r):
-        return (r.get("geo_policy") == GEO_POLICY
-                and (not r.get("region", "").startswith("Kolimine") or bool(EARLY.search(r.get("title", "")))))
+        return r.get("geo_policy") == GEO_POLICY
     state["candidates"] = {k: r for k, r in state["candidates"].items() if eligible(r)}
     state["outbox"] = [e for e in state["outbox"] if not e.get("opportunity_id") or
                        eligible(state.get("opportunities", {}).get(e["opportunity_id"], {}))]
@@ -269,14 +266,12 @@ def rank(row, now, max_age_days=14):
     elif row["kind"] != "hn" and not (AI.search(title) or OPPORTUNITY.search(title) or RELEVANT.search(title)):
         # Avoid every ordinary job mentioning the company's use of AI.
         return None
-    if SENIOR.search(title) and not BEGINNER.search(title):
-        return None
     if OTHER_LANGUAGE.search(title) and not re.search(r"Estonian|English", title, re.I):
         return None
     if re.search(r"\bPh\.?D\.?\b|doctoral", title, re.I):
         return None
-    if re.search(r"\b(?:[4-9]|1\d)\+?\s*(?:years|aastat).{0,35}(?:experience|kogemus)", text, re.I):
-        return None
+    if SENIOR.search(title) or re.search(r"\b(?:[4-9]|1\d)\+?\s*(?:years|aastat).{0,35}(?:experience|kogemus)", text, re.I):
+        row["experience_note"] = "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt."
     region = geography(row)
     moving = False
     if region is None:
@@ -316,6 +311,8 @@ def message(row):
     title = row["title"].replace("@", "＠")
     group = {"programme": "PÕHIFOOKUS · PROGRAMM", "job": "PÕHIFOOKUS · TÖÖ", "secondary": "LISAVÕIMALUS"}[category(row)]
     lines = [group, label, title]
+    if row.get("experience_note"):
+        lines.append(row["experience_note"])
     if row["company"]:
         lines.append("Ettevõte: " + row["company"])
     lines.extend(["Asukoht: " + row["region"], "Avaldatud: " + date, "Allikas: " + row["source"]])

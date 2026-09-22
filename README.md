@@ -16,7 +16,7 @@ Python 3.11+ jälgija avalike kandideerimislehtede, fellowship'ide ja tööpakku
 
 `discovery.py` kasutab 32 allikat/otsingut: tööportaalid, Hacker Newsi värbamispostitused, Google Newsi otsingud ning 8 ettevõtte ametlikud töövood (SEB, Welo, Pipedrive, Veriff, Anthropic, OpenAI, Stripe, Datadog). Põhifookus on töödel, tasustatud praktikal ja programmidel; kõrvalvõimalustena projektid, bounty, uuringud ja auhinnarahaga võistlused. Teadmata tasu vajab kinnitamist.
 
-Eelistatud on Eesti ja selgelt Eestit hõlmav kaugtöö. Valitud ettevõtete algtaseme rollid Euroopas/USAs võivad ilmuda tingimusliku kolimise märgisega: kolimine alles pakkumise järel, viisa ja õpingutega sobivus kontrollimata. Kogenud juhtide ning selgelt sobimatu keele-/kogemusnõudega leide piiravad tekstifiltrid; need ei taga individuaalset sobivust.
+Eelistatud on Eesti ja selgelt Eestit hõlmav kaugtöö. Valitud ettevõtete kõikide kogemustasemete rollid üle maailma võivad ilmuda tingimusliku kolimise märgisega: kolimine alles pakkumise järel, viisa ja õpingutega sobivus kontrollimata. Vanemarendajaid ja suurema kogemusnõudega rolle ei välistata: need märgitakse ambitsioonikamaks valikuks. Keele- ja tööloanõuete filtrid jäävad alles. AI-tööriistade kasutamise kestust ei võrdsustata erialase tööstaažiga.
 
 GitHubi cron on iga 10 minuti järel, allikate oma intervallid üldjuhul vähemalt tund (Remotive 6 tundi). Tegelikud GitHubi käivitused võivad hilineda tunde. Kuni 5 teadet käivituse ja 20 päeva kohta; kõrvalvõimalusi kuni 1 käivituse ja 4 päeva kohta. Ülejäänud sobivad leiud jäävad järjekorda. Arhiiv säilitab ka vanu leide ja saatmistõendid; sama leidu ei saadeta uuesti.
 

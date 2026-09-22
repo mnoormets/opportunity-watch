@@ -22,16 +22,18 @@ class DiscoveryTests(unittest.TestCase):
         for title in ['Junior Software Developer', 'IT Support Specialist', 'Shopify Developer', 'Software Engineering Internship']:
             self.assertIsNotNone(d.rank(sample(title=title, location='Estonia'), NOW))
         self.assertEqual(d.category(sample(title='Software Engineering Internship')), 'programme')
-        self.assertIsNone(d.rank(sample(title='Senior Software Engineer'), NOW))
-        self.assertIsNone(d.rank(sample(title='Software Engineer', description='Requires 5 years of experience'), NOW))
+        self.assertIsNotNone(d.rank(sample(title='Senior Software Engineer'), NOW))
+        row = sample(title='Software Engineer', description='Requires 5 years of experience')
+        self.assertIsNotNone(d.rank(row, NOW))
+        self.assertIn('Ambitsioonikam', row['experience_note'])
 
     def test_curated_relocation_is_conditional(self):
         row=sample(title='Software Engineering Intern', location='San Francisco, USA', remote=False, relocation_employer=True)
         self.assertIn('Kolimine pärast pakkumist', d.rank(row, NOW)[1])
         self.assertIsNone(d.rank(dict(row, relocation_employer=False), NOW))
         self.assertIsNone(d.rank(dict(row, description='We cannot sponsor visas.'), NOW))
-        self.assertIsNone(d.rank(dict(row, location='India'), NOW))
-        self.assertIsNone(d.rank(dict(row, title='Research Engineer'), NOW))
+        self.assertIsNotNone(d.rank(dict(row, location='India'), NOW))
+        self.assertIsNotNone(d.rank(dict(row, title='Research Engineer'), NOW))
         self.assertIsNone(d.rank(sample(title='AI Trainer - Swedish',location='Estonia'), NOW))
         self.assertIsNone(d.rank(dict(row, description='US citizen required'), NOW))
 
@@ -90,7 +92,8 @@ class DiscoveryTests(unittest.TestCase):
         for title in ('Marketing Events Manager, International', 'Applied AI Engineer, Government, International', 'International Marketing Lead, SMB Ads'):
             self.assertFalse(d.EARLY.search(title))
             self.assertFalse(d.BEGINNER.search(title))
-            self.assertIsNone(d.rank(sample(title=title, location='London, UK', relocation_employer=True), NOW))
+            self.assertIsNotNone(d.rank(sample(title=title, location='London, UK', relocation_employer=True), NOW))
+            self.assertNotEqual(d.category(sample(title=title)), 'programme')
         self.assertTrue(d.EARLY.search('IT Support Technician Intern'))
         self.assertTrue(d.BEGINNER.search('Software Engineering Internship'))
 
