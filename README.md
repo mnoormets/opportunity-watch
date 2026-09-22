@@ -2,7 +2,7 @@
 
 Python 3.11+ jälgija avalike kandideerimislehtede, fellowship'ide ja tööpakkumiste plokkide jaoks. Kasutab Requests'i ning BeautifulSoup'i. Vaikimisi kontroll iga 10 minuti järel; teade läheb kohe pärast muudatuse tuvastamist Discordi ja/või Telegrami.
 
-**Olemasolev GitHubi paigaldus on ühendatud Discordiga.** Lehejälgija kõrval töötab automaatne võimaluste avastaja. Uuesti paigaldada pole vaja. Allpool olev paigaldusjuhend on uue eraldi paigalduse jaoks. Kaasas on 29 automaattesti.
+**Olemasolev GitHubi paigaldus on ühendatud Discordiga.** Lehejälgija kõrval töötab automaatne võimaluste avastaja. Uuesti paigaldada pole vaja. Allpool olev paigaldusjuhend on uue eraldi paigalduse jaoks. Kaasas on 38 automaattesti.
 
 ## Mida see tuvastab?
 
@@ -14,11 +14,13 @@ Python 3.11+ jälgija avalike kandideerimislehtede, fellowship'ide ja tööpakku
 
 ## Automaatne avastamine
 
-`discovery.py` leiab ise uusi kuulutusi Remote OK, Arbeitnow, Startup Jobs ja Remotive voogudest ning kaheksast Google Newsi märksõnaotsingust. Otsingud hõlmavad AI-tööd, tasustatud andmemärgistamist, praktikat, fellowship'e, stipendiume, toetusi, bounty-projekte, tasustatud uuringuid ja auhinnarahaga häkatone. Otsingutulemuste veebilehti ei pea kasutaja ette teadma.
+`discovery.py` kasutab 32 allikat/otsingut: tööportaalid, Hacker Newsi värbamispostitused, Google Newsi otsingud ning 8 ettevõtte ametlikud töövood (SEB, Welo, Pipedrive, Veriff, Anthropic, OpenAI, Stripe, Datadog). Põhifookus on töödel, tasustatud praktikal ja programmidel; kõrvalvõimalustena projektid, bounty, uuringud ja auhinnarahaga võistlused. Teadmata tasu vajab kinnitamist.
 
-Töövoog käivitub iga 10 minuti järel. Avastaja küsib enamikku allikaid kuni kord tunnis; Remotive'i iga 6 tunni järel vastavalt allika soovitusele. Remotive'i avalikul vool on lisaks umbes 24-tunnine viivitus. Esimene otsing saadab kuni 4 leidu, järgnevad kuni 5 käivituse kohta ja 20 päevas; ülejäänud sobivad leiud jäävad tähtsuse järgi järjekorda kuni aegumiseni. Muutumata leide ei saadeta uuesti.
+Eelistatud on Eesti ja selgelt Eestit hõlmav kaugtöö. Valitud ettevõtete algtaseme rollid Euroopas/USAs võivad ilmuda tingimusliku kolimise märgisega: kolimine alles pakkumise järel, viisa ja õpingutega sobivus kontrollimata. Kogenud juhtide ning selgelt sobimatu keele-/kogemusnõudega leide piiravad tekstifiltrid; need ei taga individuaalset sobivust.
 
-Fookus on Eesti/EL-il ja ülemaailmsel kaugtööl; kogemustaset ei piirata. Selgelt ainult USA-le või muule väljaspool valikut asuvale piirkonnale mõeldud kuulutused filtreeritakse. Puuduv või ebaselge asukoht märgitakse kinnitamata sobivusena. Märksõnafiltrid ei asenda kandidaadi sobivuse, tööloa, tasu või kuulutuse usaldusväärsuse kontrolli.
+GitHubi cron on iga 10 minuti järel, allikate oma intervallid üldjuhul vähemalt tund (Remotive 6 tundi). Tegelikud GitHubi käivitused võivad hilineda tunde. Kuni 5 teadet käivituse ja 20 päeva kohta; kõrvalvõimalusi kuni 1 käivituse ja 4 päeva kohta. Ülejäänud sobivad leiud jäävad järjekorda. Arhiiv säilitab ka vanu leide ja saatmistõendid; sama leidu ei saadeta uuesti.
+
+Sotsiaalmeediaotsingud on piiratud Google Newsi indeksiga. Redditi, X-i, YouTube'i ja TikToki terviklikku otseotsingut pole ühendatud.
 
 Google Newsi leiud on uudise/otsinguleiu sildiga ja viivad selle uudise juurde, mitte tingimata otse taotlusvormile. Need ei ole kinnitus, et kandideerimine on avatud. Otsija ei kata kogu internetti, tasulisi ega sisselogimise taga kanaleid. Uudiste indekseerimise ja ajastuse viivitused tähendavad, et leidmise minutit ei saa garanteerida.
 

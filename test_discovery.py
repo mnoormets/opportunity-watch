@@ -86,6 +86,14 @@ class DiscoveryTests(unittest.TestCase):
         self.assertEqual(sum(d.category(r)=="secondary" for _,r in selected), 1)
         self.assertTrue(all(d.category(r)!="secondary" for _,r in d.choose(rows, 5, 0)))
 
+    def test_international_is_not_an_internship(self):
+        for title in ('Marketing Events Manager, International', 'Applied AI Engineer, Government, International', 'International Marketing Lead, SMB Ads'):
+            self.assertFalse(d.EARLY.search(title))
+            self.assertFalse(d.BEGINNER.search(title))
+            self.assertIsNone(d.rank(sample(title=title, location='London, UK', relocation_employer=True), NOW))
+        self.assertTrue(d.EARLY.search('IT Support Technician Intern'))
+        self.assertTrue(d.BEGINNER.search('Software Engineering Internship'))
+
     def test_social_discussion_is_not_a_vacancy(self):
         self.assertIsNone(d.rank(sample(kind="news", discovery_only=True, title="Which AI video model for your next paid project?"), NOW))
         self.assertIsNotNone(d.rank(sample(kind="news", discovery_only=True, title="Applications open for paid AI fellowship"), NOW))

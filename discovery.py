@@ -24,12 +24,12 @@ NEGATIVE = re.compile(r"\b(how to|guide to|tips for|residency applications|medic
 EU = re.compile(r"\b(europe|european|eu|eea|emea|estonia|eesti|tallinn|tartu|germany|deutschland|berlin|munich|france|paris|netherlands|amsterdam|ireland|dublin|spain|portugal|poland|italy|sweden|finland|denmark|belgium|austria|czech|latvia|lithuania|romania|bulgaria|croatia|slovenia|slovakia|hungary|greece|cyprus|malta|luxembourg)\b", re.I)
 WORLD = re.compile(r"\b(worldwide|global|anywhere|international|all countries|work from anywhere)\b", re.I)
 OUTSIDE = re.compile(r"\b(united states|usa|us only|u\.s\.|canada|united kingdom|uk only|australia|new zealand|india|pakistan|philippines|singapore|brazil|latam|north america)\b", re.I)
-BEGINNER = re.compile(r"\b(junior|entry.level|no experience|intern\w*|trainee|annotat\w*|rater|evaluator|trainer|fellowship\w*)\b", re.I)
+BEGINNER = re.compile(r"\b(junior|entry.level|no experience|intern(?:ship)?s?|trainee|annotat\w*|rater|evaluator|trainer|fellowship\w*)\b", re.I)
 PAY = re.compile(r"\b(paid|stipend\w*|funded|salary|prize\w*|bount\w*|grant\w*|scholarship\w*|stipendium\w*|auhinnafond\w*|tasustatud|toetus\w*)\b|[$€£]\s*\d", re.I)
 RELEVANT = re.compile(r"software|developer|engineer|IT support|technical support|helpdesk|service desk|quality assurance|\bQA\b|tester|Shopify|e.commerce|automation|web|data analyst|customer support|content|video|marketing|arendaja|kasutajatugi|praktik", re.I)
 SENIOR = re.compile(r"\b(senior|staff|principal|lead|head|director|manager|architect|VP)\b", re.I)
 RELOCATION_AREA = re.compile(r"\b(USA|United States|San Francisco|New York|Seattle|Boston|London|United Kingdom|UK|Zurich|Switzerland)\b", re.I)
-EARLY = re.compile(r"junior|entry.level|early.career|new.grad|graduate|intern|trainee|apprentice|fellowship|residen", re.I)
+EARLY = re.compile(r"\b(junior|entry.level|early.career|new.grad(?:uate)?|graduate|intern(?:ship)?s?|trainee|apprentice\w*|fellowship\w*|residenc\w*)\b", re.I)
 OTHER_LANGUAGE = re.compile(r"\b(Swedish|Spanish|French|Danish|Norwegian|Finnish|Italian|Portuguese|Polish|Dutch|Arabic|Chinese|Japanese|Korean|Hindi|Russian|Turkish)\b", re.I)
 
 
@@ -229,10 +229,12 @@ def relocation(row):
 
 def prune_geography(state):
     """Remove old queued alerts before delivery, retaining the historical archive."""
-    state["candidates"] = {k: r for k, r in state["candidates"].items()
-                           if r.get("geo_policy") == GEO_POLICY}
+    def eligible(r):
+        return (r.get("geo_policy") == GEO_POLICY
+                and (not r.get("region", "").startswith("Kolimine") or bool(EARLY.search(r.get("title", "")))))
+    state["candidates"] = {k: r for k, r in state["candidates"].items() if eligible(r)}
     state["outbox"] = [e for e in state["outbox"] if not e.get("opportunity_id") or
-                       state.get("opportunities", {}).get(e["opportunity_id"], {}).get("geo_policy") == GEO_POLICY]
+                       eligible(state.get("opportunities", {}).get(e["opportunity_id"], {}))]
 
 
 def rank(row, now, max_age_days=14):
