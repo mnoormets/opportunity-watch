@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-23T05:08:51+00:00",
+  "checked_at": "2026-09-23T09:55:51+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,33 +17,28 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 18,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
-      "items": 6,
+      "items": 7,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 37,
+      "items": 38,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 8,
+      "items": 7,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 58,
+      "items": 59,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 70,
+      "items": 67,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 44
     },
     {
       "id": "hn_ai",
@@ -82,33 +77,13 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 96,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
-      "items": 7,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
+      "items": 5,
       "new_candidates": 0
     },
     {
       "id": "direct_seb",
-      "items": 119,
+      "items": 121,
       "new_candidates": 0
     },
     {
@@ -128,22 +103,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 627,
-      "new_candidates": 0
+      "items": 629,
+      "new_candidates": 3
     },
     {
       "id": "direct_openai",
-      "items": 817,
-      "new_candidates": 0
+      "items": 821,
+      "new_candidates": 1
     },
     {
       "id": "direct_stripe",
       "items": 683,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 450,
+      "items": 451,
       "new_candidates": 0
     },
     {
@@ -164,34 +139,52 @@
   ],
   "selected": [
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Senior Software Engineer, Backend - Reliability",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-reliability-102158",
-      "location": "Remote",
-      "company": "Camunda",
-      "published": 1790109604.0,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Ubuntu Sales Engineer (Entry-Level)",
+      "url": "https://jobicy.com/jobs/149545-ubuntu-sales-engineer-entry-level",
+      "location": "Anywhere",
+      "company": "Canonical",
+      "published": 1790135407.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790115361.1487174,
+      "score": 11,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790157351.5090284,
       "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "International Audio/Video Remote Karen and Thai Interpreter",
-      "url": "https://jobicy.com/jobs/153919-international-audio-video-remote-karen-and-thai-interpreter",
+      "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+      "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
       "location": "Anywhere",
-      "company": "Language Services Associates",
-      "published": 1790095557.0,
+      "company": "Canonical",
+      "published": 1790135710.0,
+      "salary": "48000–70000 USD / yearly",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790157351.5090284,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Microservices Engineer",
+      "url": "https://jobicy.com/jobs/149558-microservices-engineer",
+      "location": "Anywhere",
+      "company": "Canonical",
+      "published": 1790136136.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -199,37 +192,38 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790115361.1487174,
+      "found_at": 1790157351.5090284,
       "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "International Audio/Video Remote Hakha Chin Interpreter",
-      "url": "https://jobicy.com/jobs/153916-international-audio-video-remote-hakha-chin-interpreter",
+      "title": "Senior Site Reliability Engineer",
+      "url": "https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5",
       "location": "Anywhere",
-      "company": "Language Services Associates",
-      "published": 1790095557.0,
+      "company": "Canonical",
+      "published": 1790136135.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790115361.1487174,
+      "found_at": 1790157351.5090284,
       "category": "job"
     },
     {
-      "source": "Remotive",
-      "source_id": "remotive",
-      "kind": "remotive",
-      "title": "Senior React Full-stack Developer",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091101",
-      "location": "LATAM, Europe, USA, Canada, APAC",
-      "company": "Lemon.io",
-      "published": 1787841369.0,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Engineering Manager - Solutions Engineering",
+      "url": "https://jobicy.com/jobs/149556-engineering-manager-solutions-engineering",
+      "location": "Anywhere",
+      "company": "Canonical",
+      "published": 1790136133.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -237,30 +231,10 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: LATAM, Europe, USA, Canada, APAC — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "Remotive",
-      "source_id": "remotive",
-      "kind": "remotive",
-      "title": "Senior QA Engineer",
-      "url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
-      "location": "Europe",
-      "company": "Lemon.io",
-      "published": 1787749858.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790091916.2319474,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790157351.5090284,
       "category": "job"
     }
   ],
-  "queued_candidates": 992
+  "queued_candidates": 1035
 }
