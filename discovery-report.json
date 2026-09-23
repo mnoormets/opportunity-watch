@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-22T22:16:01+00:00",
+  "checked_at": "2026-09-23T00:39:43+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,7 +9,7 @@
     {
       "id": "arbeitnow",
       "items": 250,
-      "new_candidates": 5
+      "new_candidates": 0
     },
     {
       "id": "startup",
@@ -17,18 +17,13 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 18,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
-      "items": 8,
+      "items": 7,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 38,
+      "items": 37,
       "new_candidates": 0
     },
     {
@@ -38,17 +33,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 58,
+      "items": 59,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 69,
+      "items": 68,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 65,
+      "items": 67,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 2
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
@@ -82,33 +77,13 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 95,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
-      "items": 6,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
+      "items": 7,
       "new_candidates": 0
     },
     {
       "id": "direct_seb",
-      "items": 121,
+      "items": 119,
       "new_candidates": 0
     },
     {
@@ -128,18 +103,18 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 623,
-      "new_candidates": 0
+      "items": 626,
+      "new_candidates": 1
     },
     {
       "id": "direct_openai",
-      "items": 816,
-      "new_candidates": 2
+      "items": 817,
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 676,
-      "new_candidates": 3
+      "items": 681,
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
@@ -162,6 +137,106 @@
       "new_candidates": 0
     }
   ],
-  "selected": [],
-  "queued_candidates": 1000
+  "selected": [
+    {
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "Integration Reliability Engineer Intern, Technical Operations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8186367",
+      "location": "Singapore",
+      "company": "Stripe",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Singapore — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790115361.1487174,
+      "category": "programme"
+    },
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Senior Software Engineer, Kubernetes",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-kubernetes-394862",
+      "location": "Remote",
+      "company": "Camunda",
+      "published": 1790109604.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1790115361.1487174,
+      "category": "job"
+    },
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Senior Site Reliability Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-site-reliability-engineer-465994",
+      "location": "Remote",
+      "company": "Camunda",
+      "published": 1790109604.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1790115361.1487174,
+      "category": "job"
+    },
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Senior Software Engineer, Engineering Operations",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-205598",
+      "location": "Remote",
+      "company": "Camunda",
+      "published": 1790109604.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1790115361.1487174,
+      "category": "job"
+    },
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Director, Solutions and Product Marketing",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-director-solutions-and-product-marketing-10195",
+      "location": "Remote",
+      "company": "Camunda",
+      "published": 1790109604.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1790115361.1487174,
+      "category": "job"
+    }
+  ],
+  "queued_candidates": 996
 }
