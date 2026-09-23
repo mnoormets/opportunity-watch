@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-23T09:55:51+00:00",
+  "checked_at": "2026-09-23T14:39:54+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,13 +17,18 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 19,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
       "items": 7,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 38,
+      "items": 45,
       "new_candidates": 0
     },
     {
@@ -33,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 59,
+      "items": 56,
       "new_candidates": 0
     },
     {
@@ -59,7 +64,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 44
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
@@ -77,18 +82,38 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 95,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 5,
       "new_candidates": 0
     },
     {
-      "id": "direct_seb",
-      "items": 121,
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
+      "id": "direct_seb",
+      "items": 128,
+      "new_candidates": 1
+    },
+    {
       "id": "direct_welo",
-      "items": 530,
+      "items": 531,
       "new_candidates": 0
     },
     {
@@ -103,23 +128,23 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 629,
-      "new_candidates": 3
-    },
-    {
-      "id": "direct_openai",
-      "items": 821,
+      "items": 630,
       "new_candidates": 1
     },
     {
+      "id": "direct_openai",
+      "items": 823,
+      "new_candidates": 2
+    },
+    {
       "id": "direct_stripe",
-      "items": 683,
-      "new_candidates": 0
+      "items": 686,
+      "new_candidates": 1
     },
     {
       "id": "direct_datadog",
-      "items": 451,
-      "new_candidates": 0
+      "items": 449,
+      "new_candidates": 1
     },
     {
       "id": "news_estonia_jobs",
@@ -142,49 +167,11 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Ubuntu Sales Engineer (Entry-Level)",
-      "url": "https://jobicy.com/jobs/149545-ubuntu-sales-engineer-entry-level",
+      "title": "Ubuntu Security Engineer",
+      "url": "https://jobicy.com/jobs/149565-ubuntu-security-engineer",
       "location": "Anywhere",
       "company": "Canonical",
-      "published": 1790135407.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 11,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
-      "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790135710.0,
-      "salary": "48000–70000 USD / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Microservices Engineer",
-      "url": "https://jobicy.com/jobs/149558-microservices-engineer",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790136136.0,
+      "published": 1790136038.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -199,11 +186,11 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Senior Site Reliability Engineer",
-      "url": "https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5",
+      "title": "Rust Engineering Lead - Linux and Open Source",
+      "url": "https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source",
       "location": "Anywhere",
       "company": "Canonical",
-      "published": 1790136135.0,
+      "published": 1790136037.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -219,11 +206,51 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Engineering Manager - Solutions Engineering",
-      "url": "https://jobicy.com/jobs/149556-engineering-manager-solutions-engineering",
+      "title": "Cloud Engineering Manager",
+      "url": "https://jobicy.com/jobs/149569-cloud-engineering-manager",
       "location": "Anywhere",
       "company": "Canonical",
-      "published": 1790136133.0,
+      "published": 1790136035.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790157351.5090284,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Linux Platform Integration - Ubuntu Systems Senior Engineer",
+      "url": "https://jobicy.com/jobs/149574-linux-platform-integration-ubuntu-systems-senior-engineer",
+      "location": "Anywhere",
+      "company": "Canonical",
+      "published": 1790136033.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790157351.5090284,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Engineering Manager - Ubuntu Security",
+      "url": "https://jobicy.com/jobs/149572-engineering-manager-ubuntu-security",
+      "location": "Anywhere",
+      "company": "Canonical",
+      "published": 1790136030.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -236,5 +263,5 @@
       "category": "job"
     }
   ],
-  "queued_candidates": 1035
+  "queued_candidates": 1036
 }
