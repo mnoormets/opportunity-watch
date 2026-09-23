@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-23T00:39:43+00:00",
+  "checked_at": "2026-09-23T05:08:51+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,8 +17,13 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 18,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
-      "items": 7,
+      "items": 6,
       "new_candidates": 0
     },
     {
@@ -33,12 +38,12 @@
     },
     {
       "id": "news_hackathons",
-      "items": 59,
+      "items": 58,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 68,
+      "items": 70,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 96,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 7,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -103,8 +128,8 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 626,
-      "new_candidates": 1
+      "items": 627,
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
@@ -113,12 +138,12 @@
     },
     {
       "id": "direct_stripe",
-      "items": 681,
-      "new_candidates": 0
+      "items": 683,
+      "new_candidates": 1
     },
     {
       "id": "direct_datadog",
-      "items": 448,
+      "items": 450,
       "new_candidates": 0
     },
     {
@@ -139,30 +164,11 @@
   ],
   "selected": [
     {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Integration Reliability Engineer Intern, Technical Operations",
-      "url": "https://stripe.com/jobs/search?gh_jid=8186367",
-      "location": "Singapore",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Singapore — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790115361.1487174,
-      "category": "programme"
-    },
-    {
       "source": "Arbeitnow",
       "source_id": "arbeitnow",
       "kind": "arbeitnow",
-      "title": "Senior Software Engineer, Kubernetes",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-kubernetes-394862",
+      "title": "Senior Software Engineer, Backend - Reliability",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-reliability-102158",
       "location": "Remote",
       "company": "Camunda",
       "published": 1790109604.0,
@@ -178,54 +184,52 @@
       "category": "job"
     },
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Senior Site Reliability Engineer",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-site-reliability-engineer-465994",
-      "location": "Remote",
-      "company": "Camunda",
-      "published": 1790109604.0,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "International Audio/Video Remote Karen and Thai Interpreter",
+      "url": "https://jobicy.com/jobs/153919-international-audio-video-remote-karen-and-thai-interpreter",
+      "location": "Anywhere",
+      "company": "Language Services Associates",
+      "published": 1790095557.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1790115361.1487174,
       "category": "job"
     },
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Senior Software Engineer, Engineering Operations",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-engineering-operations-205598",
-      "location": "Remote",
-      "company": "Camunda",
-      "published": 1790109604.0,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "International Audio/Video Remote Hakha Chin Interpreter",
+      "url": "https://jobicy.com/jobs/153916-international-audio-video-remote-hakha-chin-interpreter",
+      "location": "Anywhere",
+      "company": "Language Services Associates",
+      "published": 1790095557.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1790115361.1487174,
       "category": "job"
     },
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Director, Solutions and Product Marketing",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-director-solutions-and-product-marketing-10195",
-      "location": "Remote",
-      "company": "Camunda",
-      "published": 1790109604.0,
+      "source": "Remotive",
+      "source_id": "remotive",
+      "kind": "remotive",
+      "title": "Senior React Full-stack Developer",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091101",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "company": "Lemon.io",
+      "published": 1787841369.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -233,10 +237,30 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790115361.1487174,
+      "region": "Kaugtöö: LATAM, Europe, USA, Canada, APAC — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Remotive",
+      "source_id": "remotive",
+      "kind": "remotive",
+      "title": "Senior QA Engineer",
+      "url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
+      "location": "Europe",
+      "company": "Lemon.io",
+      "published": 1787749858.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790091916.2319474,
       "category": "job"
     }
   ],
-  "queued_candidates": 996
+  "queued_candidates": 992
 }
