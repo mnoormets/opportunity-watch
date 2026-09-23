@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-23T14:39:54+00:00",
+  "checked_at": "2026-09-23T18:36:38+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,16 +9,11 @@
     {
       "id": "arbeitnow",
       "items": 250,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
-    },
-    {
-      "id": "remotive",
-      "items": 19,
       "new_candidates": 0
     },
     {
@@ -28,7 +23,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 45,
+      "items": 47,
       "new_candidates": 0
     },
     {
@@ -38,17 +33,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 56,
+      "items": 57,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 67,
+      "items": 68,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 67,
+      "items": 66,
       "new_candidates": 0
     },
     {
@@ -82,38 +77,18 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 95,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
-      "items": 5,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
+      "items": 6,
       "new_candidates": 0
     },
     {
       "id": "direct_seb",
       "items": 128,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 531,
+      "items": 561,
       "new_candidates": 0
     },
     {
@@ -133,18 +108,18 @@
     },
     {
       "id": "direct_openai",
-      "items": 823,
+      "items": 826,
       "new_candidates": 2
     },
     {
       "id": "direct_stripe",
-      "items": 686,
+      "items": 694,
       "new_candidates": 1
     },
     {
       "id": "direct_datadog",
       "items": 449,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "news_estonia_jobs",
@@ -162,106 +137,6 @@
       "new_candidates": 0
     }
   ],
-  "selected": [
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Ubuntu Security Engineer",
-      "url": "https://jobicy.com/jobs/149565-ubuntu-security-engineer",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790136038.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Rust Engineering Lead - Linux and Open Source",
-      "url": "https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790136037.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Cloud Engineering Manager",
-      "url": "https://jobicy.com/jobs/149569-cloud-engineering-manager",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790136035.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Linux Platform Integration - Ubuntu Systems Senior Engineer",
-      "url": "https://jobicy.com/jobs/149574-linux-platform-integration-ubuntu-systems-senior-engineer",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790136033.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Engineering Manager - Ubuntu Security",
-      "url": "https://jobicy.com/jobs/149572-engineering-manager-ubuntu-security",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790136030.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
-      "category": "job"
-    }
-  ],
-  "queued_candidates": 1036
+  "selected": [],
+  "queued_candidates": 1042
 }
