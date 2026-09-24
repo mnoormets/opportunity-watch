@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-24T00:00:04+00:00",
+  "checked_at": "2026-09-24T03:48:01+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,11 +9,16 @@
     {
       "id": "arbeitnow",
       "items": 250,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
       "items": 50,
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 19,
       "new_candidates": 0
     },
     {
@@ -38,12 +43,12 @@
     },
     {
       "id": "news_grants",
-      "items": 67,
+      "items": 66,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 61,
+      "items": 63,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 96,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 6,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -103,13 +128,13 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 628,
+      "items": 629,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
       "items": 825,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_stripe",
@@ -118,7 +143,7 @@
     },
     {
       "id": "direct_datadog",
-      "items": 444,
+      "items": 446,
       "new_candidates": 0
     },
     {
@@ -142,30 +167,11 @@
       "source": "Arbeitnow",
       "source_id": "arbeitnow",
       "kind": "arbeitnow",
-      "title": "Machine Learning Engineer: Personalization",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-machine-learning-engineer-personalization-118356",
-      "location": "Remote - EMEA",
-      "company": "Constructor",
-      "published": 1790178010.0,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Remote - EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790188598.3885388,
-      "category": "job"
-    },
-    {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Customer Support Team Lead",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clipboard/customer-support-team-lead-london-245131",
-      "location": "Remote (Canada, UK, EU)",
-      "company": "Clipboard",
-      "published": 1790178002.0,
+      "title": "Senior/Staff Golang Engineer (EMEA)",
+      "url": "https://www.arbeitnow.com/jobs/companies/wundergraph/senior-staff-golang-engineer-emea-frankfurt-145092",
+      "location": "EMEA",
+      "company": "Wundergraph",
+      "published": 1790206803.0,
       "salary": "",
       "remote": false,
       "discovery_only": false,
@@ -173,19 +179,57 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Remote (Canada, UK, EU) — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790188598.3885388,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790221681.3588092,
       "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Software Engineering Director",
-      "url": "https://jobicy.com/jobs/149571-software-engineering-director",
+      "title": "Software Engineer - Solutions Engineering",
+      "url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering",
       "location": "Anywhere",
       "company": "Canonical",
-      "published": 1790136028.0,
+      "published": 1790136018.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790157351.5090284,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+      "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
+      "location": "Anywhere",
+      "company": "Canonical",
+      "published": 1790136014.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790157351.5090284,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Engineering Manager",
+      "url": "https://jobicy.com/jobs/149575-engineering-manager",
+      "location": "Anywhere",
+      "company": "Canonical",
+      "published": 1790136012.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -201,34 +245,16 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Embedded & Desktop Linux Systems Engineer - Optimisation",
-      "url": "https://jobicy.com/jobs/149567-embedded-desktop-linux-systems-engineer-optimisation",
+      "title": "Engineering Manager - Data Platform",
+      "url": "https://jobicy.com/jobs/149561-engineering-manager-data-platform",
       "location": "Anywhere",
       "company": "Canonical",
-      "published": 1790136025.0,
+      "published": 1790136010.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Containerization & Virtualisation Engineer",
-      "url": "https://jobicy.com/jobs/149576-containerization-virtualisation-engineer",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790136019.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
@@ -236,5 +262,5 @@
       "category": "job"
     }
   ],
-  "queued_candidates": 1040
+  "queued_candidates": 1037
 }
