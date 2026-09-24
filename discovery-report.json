@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-24T13:49:45+00:00",
+  "checked_at": "2026-09-24T17:59:56+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,16 +9,11 @@
     {
       "id": "arbeitnow",
       "items": 250,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
-    },
-    {
-      "id": "remotive",
-      "items": 19,
       "new_candidates": 0
     },
     {
@@ -28,12 +23,12 @@
     },
     {
       "id": "news_paid_training",
-      "items": 48,
+      "items": 46,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 7,
+      "items": 8,
       "new_candidates": 0
     },
     {
@@ -43,12 +38,12 @@
     },
     {
       "id": "news_grants",
-      "items": 65,
+      "items": 66,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 62,
+      "items": 57,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 4
+      "new_candidates": 1
     },
     {
       "id": "hn_ai",
@@ -82,34 +77,14 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 96,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 6,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
       "id": "direct_seb",
       "items": 155,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_welo",
@@ -128,23 +103,23 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 631,
+      "items": 628,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
       "items": 825,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "direct_stripe",
-      "items": 693,
-      "new_candidates": 0
+      "items": 694,
+      "new_candidates": 3
     },
     {
       "id": "direct_datadog",
-      "items": 444,
-      "new_candidates": 0
+      "items": 447,
+      "new_candidates": 2
     },
     {
       "id": "news_estonia_jobs",
@@ -162,103 +137,6 @@
       "new_candidates": 0
     }
   ],
-  "selected": [
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "SEB Corporate & Investment Banking Summer Internship 2027: Data analyst within Fixed Income | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/6cc4ad85-c300-444a-ad9d-c22394a0ff9c",
-      "location": "Stockholm",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790239609.4133794,
-      "category": "programme"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Junior Linux Kernel Engineer - Ubuntu",
-      "url": "https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790225708.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 11,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790257785.4613764,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "SEB Corporate & Investment Banking Summer Internship 2027: Data, Analytics & Reporting | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/8419eecc-02e6-4da0-bb19-e23f7d20043a",
-      "location": "Stockholm",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790239609.4133794,
-      "category": "programme"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Engineering Manager - MLOps & Analytics",
-      "url": "https://jobicy.com/jobs/149521-engineering-manager-mlops-analytics",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790225710.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790257785.4613764,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "SEB Corporate & Investment Banking Summer Internship 2027: Equity Capital Markets | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/c26f9e56-6efb-4e9e-b8d7-b0a083dfb66a",
-      "location": "Stockholm",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790239609.4133794,
-      "category": "programme"
-    }
-  ],
-  "queued_candidates": 1050
+  "selected": [],
+  "queued_candidates": 1059
 }
