@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-24T17:59:56+00:00",
+  "checked_at": "2026-09-24T21:16:41+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,7 +9,7 @@
     {
       "id": "arbeitnow",
       "items": 250,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "startup",
@@ -17,13 +17,18 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 19,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
-      "items": 8,
+      "items": 7,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 46,
+      "items": 47,
       "new_candidates": 0
     },
     {
@@ -33,17 +38,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 55,
+      "items": 57,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 66,
+      "items": 65,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 57,
+      "items": 58,
       "new_candidates": 0
     },
     {
@@ -59,7 +64,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
@@ -77,14 +82,34 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 97,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 6,
       "new_candidates": 0
     },
     {
+      "id": "news_clients",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_seb",
       "items": 155,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
@@ -104,22 +129,22 @@
     {
       "id": "direct_anthropic",
       "items": 628,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_openai",
-      "items": 825,
+      "items": 827,
       "new_candidates": 2
     },
     {
       "id": "direct_stripe",
-      "items": 694,
-      "new_candidates": 3
+      "items": 691,
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 447,
-      "new_candidates": 2
+      "items": 448,
+      "new_candidates": 0
     },
     {
       "id": "news_estonia_jobs",
@@ -138,5 +163,5 @@
     }
   ],
   "selected": [],
-  "queued_candidates": 1059
+  "queued_candidates": 1062
 }
