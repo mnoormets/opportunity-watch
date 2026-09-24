@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-24T08:46:49+00:00",
+  "checked_at": "2026-09-24T13:49:45+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,13 +17,18 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 19,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
       "items": 8,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 50,
+      "items": 48,
       "new_candidates": 0
     },
     {
@@ -33,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 54,
+      "items": 55,
       "new_candidates": 0
     },
     {
@@ -43,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 65,
+      "items": 62,
       "new_candidates": 0
     },
     {
@@ -59,7 +64,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 4
     },
     {
       "id": "hn_ai",
@@ -77,18 +82,38 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 96,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 6,
       "new_candidates": 0
     },
     {
+      "id": "news_clients",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_seb",
-      "items": 152,
-      "new_candidates": 17
+      "items": 155,
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 562,
+      "items": 568,
       "new_candidates": 0
     },
     {
@@ -103,12 +128,12 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 630,
-      "new_candidates": 2
+      "items": 631,
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 824,
+      "items": 825,
       "new_candidates": 0
     },
     {
@@ -118,7 +143,7 @@
     },
     {
       "id": "direct_datadog",
-      "items": 443,
+      "items": 444,
       "new_candidates": 0
     },
     {
@@ -142,8 +167,8 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "SEB Corporate & Investment Banking Summer Internship 2027: Business Driver Liquidity Products | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/1bbd973c-00ab-40c0-8f9e-3a7092e6fcc3",
+      "title": "SEB Corporate & Investment Banking Summer Internship 2027: Data analyst within Fixed Income | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/6cc4ad85-c300-444a-ad9d-c22394a0ff9c",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -161,28 +186,27 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Engineering Manager - Ubuntu Linux Kernel",
-      "url": "https://jobicy.com/jobs/149570-engineering-manager-ubuntu-linux-kernel",
+      "title": "Junior Linux Kernel Engineer - Ubuntu",
+      "url": "https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu",
       "location": "Anywhere",
       "company": "Canonical",
-      "published": 1790136009.0,
+      "published": 1790225708.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
+      "score": 11,
       "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
+      "found_at": 1790257785.4613764,
       "category": "job"
     },
     {
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "SEB Corporate & Investment Banking Summer Internship 2027: CIB Legal | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/fc606b98-a4e8-43c7-9106-39bfa06f8f1d",
+      "title": "SEB Corporate & Investment Banking Summer Internship 2027: Data, Analytics & Reporting | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/8419eecc-02e6-4da0-bb19-e23f7d20043a",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -200,11 +224,11 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Lead Linux Kernel Engineer - Ubuntu",
-      "url": "https://jobicy.com/jobs/149562-lead-linux-kernel-engineer-ubuntu",
+      "title": "Engineering Manager - MLOps & Analytics",
+      "url": "https://jobicy.com/jobs/149521-engineering-manager-mlops-analytics",
       "location": "Anywhere",
       "company": "Canonical",
-      "published": 1790136005.0,
+      "published": 1790225710.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -213,15 +237,15 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
+      "found_at": 1790257785.4613764,
       "category": "job"
     },
     {
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "SEB Corporate & Investment Banking Summer Internship 2027: Commodities Sales | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/741ab0fe-f3ca-416d-b05f-ef60097514cf",
+      "title": "SEB Corporate & Investment Banking Summer Internship 2027: Equity Capital Markets | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/c26f9e56-6efb-4e9e-b8d7-b0a083dfb66a",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -236,5 +260,5 @@
       "category": "programme"
     }
   ],
-  "queued_candidates": 1051
+  "queued_candidates": 1050
 }
