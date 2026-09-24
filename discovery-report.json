@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-23T21:45:25+00:00",
+  "checked_at": "2026-09-24T00:00:04+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,18 +17,13 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 19,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
       "items": 7,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 47,
+      "items": 48,
       "new_candidates": 0
     },
     {
@@ -38,12 +33,12 @@
     },
     {
       "id": "news_hackathons",
-      "items": 58,
+      "items": 55,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 68,
+      "items": 67,
       "new_candidates": 0
     },
     {
@@ -82,28 +77,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 96,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 6,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
       "new_candidates": 0
     },
     {
@@ -128,22 +103,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 629,
-      "new_candidates": 1
+      "items": 628,
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 826,
-      "new_candidates": 1
+      "items": 825,
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
       "items": 694,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 445,
+      "items": 444,
       "new_candidates": 0
     },
     {
@@ -162,6 +137,104 @@
       "new_candidates": 0
     }
   ],
-  "selected": [],
-  "queued_candidates": 1045
+  "selected": [
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Machine Learning Engineer: Personalization",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-machine-learning-engineer-personalization-118356",
+      "location": "Remote - EMEA",
+      "company": "Constructor",
+      "published": 1790178010.0,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Remote - EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790188598.3885388,
+      "category": "job"
+    },
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Customer Support Team Lead",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clipboard/customer-support-team-lead-london-245131",
+      "location": "Remote (Canada, UK, EU)",
+      "company": "Clipboard",
+      "published": 1790178002.0,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Remote (Canada, UK, EU) — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790188598.3885388,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Software Engineering Director",
+      "url": "https://jobicy.com/jobs/149571-software-engineering-director",
+      "location": "Anywhere",
+      "company": "Canonical",
+      "published": 1790136028.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790157351.5090284,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Embedded & Desktop Linux Systems Engineer - Optimisation",
+      "url": "https://jobicy.com/jobs/149567-embedded-desktop-linux-systems-engineer-optimisation",
+      "location": "Anywhere",
+      "company": "Canonical",
+      "published": 1790136025.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790157351.5090284,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Containerization & Virtualisation Engineer",
+      "url": "https://jobicy.com/jobs/149576-containerization-virtualisation-engineer",
+      "location": "Anywhere",
+      "company": "Canonical",
+      "published": 1790136019.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790157351.5090284,
+      "category": "job"
+    }
+  ],
+  "queued_candidates": 1040
 }
