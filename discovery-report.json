@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-25T18:48:36+00:00",
+  "checked_at": "2026-09-25T21:51:22+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,13 +17,18 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 19,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
       "items": 7,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 45,
+      "items": 46,
       "new_candidates": 0
     },
     {
@@ -33,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 54,
+      "items": 53,
       "new_candidates": 0
     },
     {
@@ -43,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 54,
+      "items": 58,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 98,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
-      "items": 5,
+      "items": 6,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -88,7 +113,7 @@
     },
     {
       "id": "direct_welo",
-      "items": 537,
+      "items": 536,
       "new_candidates": 0
     },
     {
@@ -103,23 +128,23 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 625,
-      "new_candidates": 0
+      "items": 623,
+      "new_candidates": 1
     },
     {
       "id": "direct_openai",
-      "items": 832,
-      "new_candidates": 5
+      "items": 830,
+      "new_candidates": 1
     },
     {
       "id": "direct_stripe",
-      "items": 698,
-      "new_candidates": 2
+      "items": 702,
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
       "items": 449,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "news_estonia_jobs",
@@ -137,103 +162,6 @@
       "new_candidates": 0
     }
   ],
-  "selected": [
-    {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Financial Data Analyst Intern, Technical Operations",
-      "url": "https://stripe.com/jobs/search?gh_jid=8186442",
-      "location": "Singapore",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Singapore — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790294025.9418507,
-      "category": "programme"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Support Engineering Manager",
-      "url": "https://jobicy.com/jobs/149554-support-engineering-manager",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790225707.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790257785.4613764,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Corporate & Investment Banking Summer Internship 2027: Business Driver Liquidity Products | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/1bbd973c-00ab-40c0-8f9e-3a7092e6fcc3",
-      "location": "Stockholm",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790326822.0691662,
-      "category": "programme"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Security Software Engineer",
-      "url": "https://jobicy.com/jobs/149550-security-software-engineer",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790225706.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790257785.4613764,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Corporate & Investment Banking Summer Internship 2027: CIB Legal | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/fc606b98-a4e8-43c7-9106-39bfa06f8f1d",
-      "location": "Stockholm",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790326822.0691662,
-      "category": "programme"
-    }
-  ],
-  "queued_candidates": 1078
+  "selected": [],
+  "queued_candidates": 1080
 }
