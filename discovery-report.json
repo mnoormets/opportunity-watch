@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-25T09:00:22+00:00",
+  "checked_at": "2026-09-25T14:29:43+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,11 +9,16 @@
     {
       "id": "arbeitnow",
       "items": 250,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
       "items": 50,
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 19,
       "new_candidates": 0
     },
     {
@@ -23,7 +28,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 44,
+      "items": 47,
       "new_candidates": 0
     },
     {
@@ -38,12 +43,12 @@
     },
     {
       "id": "news_grants",
-      "items": 65,
+      "items": 63,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 58,
+      "items": 57,
       "new_candidates": 0
     },
     {
@@ -59,7 +64,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 2
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
@@ -77,18 +82,38 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 98,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 6,
       "new_candidates": 0
     },
     {
+      "id": "news_clients",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_seb",
-      "items": 148,
-      "new_candidates": 14
+      "items": 151,
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 525,
+      "items": 536,
       "new_candidates": 0
     },
     {
@@ -98,8 +123,8 @@
     },
     {
       "id": "direct_veriff",
-      "items": 8,
-      "new_candidates": 0
+      "items": 9,
+      "new_candidates": 1
     },
     {
       "id": "direct_anthropic",
@@ -108,17 +133,17 @@
     },
     {
       "id": "direct_openai",
-      "items": 829,
+      "items": 827,
       "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 691,
-      "new_candidates": 0
+      "items": 692,
+      "new_candidates": 2
     },
     {
       "id": "direct_datadog",
-      "items": 448,
+      "items": 449,
       "new_candidates": 1
     },
     {
@@ -142,9 +167,9 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "SEB Corporate & Investment Banking Summer Internship 2027: FX Sales | SEB, Gothenburg",
-      "url": "https://jobs.eu.lever.co/seb/835a6fcf-fccf-4cf7-b9af-9e6875e92efb",
-      "location": "Göteborg",
+      "title": "SEB Corporate & Investment Banking Summer Internship 2027: Quantitative analyst within Fixed Income | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/5291817d-32fc-4dd9-a89f-95d79fcb882d",
+      "location": "Stockholm",
       "company": "SEB",
       "published": null,
       "salary": "",
@@ -153,36 +178,36 @@
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 9,
-      "region": "Kolimine pärast pakkumist: Göteborg — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790239609.4133794,
       "category": "programme"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Engineering Manager, RC Capital",
-      "url": "https://jobicy.com/jobs/151629-engineering-manager-rc-capital",
-      "location": "EMEA, LATAM, Canada, USA",
-      "company": "RevenueCat",
-      "published": 1790310307.0,
-      "salary": "230000–230000 USD / yearly",
-      "remote": true,
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Engineering Manager",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/eucalyptus/engineering-manager-344336",
+      "location": "",
+      "company": "eucalyptus",
+      "published": 1790330106.0,
+      "salary": "",
+      "remote": false,
       "discovery_only": false,
       "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790326822.0691662,
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1790346583.0968165,
       "category": "job"
     },
     {
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "SEB Corporate & Investment Banking Summer Internship 2027: FX Sales | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/11e81af2-bd15-455e-a7b4-3a7808fd0ec5",
+      "title": "SEB Corporate & Investment Banking Summer Internship 2027: Quantitative Analyst, Risk Advisory | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/e1711892-8875-466d-8dad-60cbcd535560",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -197,30 +222,31 @@
       "category": "programme"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Security Platform Engineer",
-      "url": "https://jobicy.com/jobs/151442-security-platform-engineer",
-      "location": "Europe",
-      "company": "Sporty Group",
-      "published": 1790309708.0,
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Engineering Manager, Channels & Platform",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/siena/remote-engineering-manager-channels-platform-272363",
+      "location": "Remote - Europe",
+      "company": "Siena",
+      "published": 1790264411.0,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
       "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790326822.0691662,
+      "region": "Kaugtöö: Remote - Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790272796.6830246,
       "category": "job"
     },
     {
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "SEB Corporate & Investment Banking Summer Internship 2027: Quantitative analyst within Commodities | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/e6dc325f-3dbf-4acb-a5df-6e33c65bfb53",
+      "title": "SEB Corporate & Investment Banking Summer Internship 2027: Data analyst | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/6cc4ad85-c300-444a-ad9d-c22394a0ff9c",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -231,7 +257,7 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 9,
       "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790239609.4133794,
+      "found_at": 1790272796.6830246,
       "category": "programme"
     }
   ],
