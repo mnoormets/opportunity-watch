@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-25T03:24:19+00:00",
+  "checked_at": "2026-09-25T09:00:22+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,18 +17,13 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 19,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
       "items": 7,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 40,
+      "items": 44,
       "new_candidates": 0
     },
     {
@@ -38,17 +33,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 55,
+      "items": 51,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 66,
+      "items": 65,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 57,
+      "items": 58,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "hn_ai",
@@ -82,38 +77,18 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 98,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 6,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
       "id": "direct_seb",
-      "items": 147,
-      "new_candidates": 0
+      "items": 148,
+      "new_candidates": 14
     },
     {
       "id": "direct_welo",
-      "items": 568,
+      "items": 525,
       "new_candidates": 0
     },
     {
@@ -134,17 +109,17 @@
     {
       "id": "direct_openai",
       "items": 829,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 690,
+      "items": 691,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 447,
-      "new_candidates": 0
+      "items": 448,
+      "new_candidates": 1
     },
     {
       "id": "news_estonia_jobs",
@@ -167,9 +142,9 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "SEB Corporate & Investment Banking Summer Internship 2027: FICC International Credit Sales | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/4f150a44-9e5d-4dfc-8ee8-087bc7ce8337",
-      "location": "Stockholm",
+      "title": "SEB Corporate & Investment Banking Summer Internship 2027: FX Sales | SEB, Gothenburg",
+      "url": "https://jobs.eu.lever.co/seb/835a6fcf-fccf-4cf7-b9af-9e6875e92efb",
+      "location": "Göteborg",
       "company": "SEB",
       "published": null,
       "salary": "",
@@ -178,7 +153,7 @@
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 9,
-      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Göteborg — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790239609.4133794,
       "category": "programme"
     },
@@ -186,66 +161,66 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Design Engineer - EU",
-      "url": "https://jobicy.com/jobs/154021-design-engineer-eu",
-      "location": "Croatia, Estonia, Germany, Ireland, Italy, Portugal, Romania, Spain, Sweden, Switzerland",
-      "company": "Ashby",
-      "published": 1790252821.0,
-      "salary": "119000–145000 EUR / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Eesti — kohapeal või kaugtöö",
-      "found_at": 1790272796.6830246,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "SEB Corporate & Investment Banking Summer Internship 2027: FICC Risk Management and XVA | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/579d17de-bbf7-438a-8c3d-b7d40509a41c",
-      "location": "Stockholm",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790239609.4133794,
-      "category": "programme"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Staff Software Engineer - Curated Data",
-      "url": "https://jobicy.com/jobs/154051-staff-software-engineer-curated-data",
-      "location": "Europe, USA",
-      "company": "Dune",
-      "published": 1790275606.0,
-      "salary": "",
+      "title": "Engineering Manager, RC Capital",
+      "url": "https://jobicy.com/jobs/151629-engineering-manager-rc-capital",
+      "location": "EMEA, LATAM, Canada, USA",
+      "company": "RevenueCat",
+      "published": 1790310307.0,
+      "salary": "230000–230000 USD / yearly",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790294025.9418507,
+      "score": 10,
+      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790326822.0691662,
       "category": "job"
     },
     {
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "SEB Corporate & Investment Banking Summer Internship 2027: FX Quant Trader | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/ddeb1c2d-4b5b-4272-b716-7432c069492c",
+      "title": "SEB Corporate & Investment Banking Summer Internship 2027: FX Sales | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/11e81af2-bd15-455e-a7b4-3a7808fd0ec5",
+      "location": "Stockholm",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790239609.4133794,
+      "category": "programme"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Security Platform Engineer",
+      "url": "https://jobicy.com/jobs/151442-security-platform-engineer",
+      "location": "Europe",
+      "company": "Sporty Group",
+      "published": 1790309708.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790326822.0691662,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "SEB Corporate & Investment Banking Summer Internship 2027: Quantitative analyst within Commodities | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/e6dc325f-3dbf-4acb-a5df-6e33c65bfb53",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -260,5 +235,5 @@
       "category": "programme"
     }
   ],
-  "queued_candidates": 1063
+  "queued_candidates": 1075
 }
