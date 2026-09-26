@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-26T09:41:39+00:00",
+  "checked_at": "2026-09-26T13:53:00+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,7 +14,12 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 1
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 18,
+      "new_candidates": 0
     },
     {
       "id": "news_fellowships",
@@ -23,7 +28,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 48,
+      "items": 51,
       "new_candidates": 0
     },
     {
@@ -38,12 +43,12 @@
     },
     {
       "id": "news_grants",
-      "items": 66,
+      "items": 65,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 59,
+      "items": 60,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 97,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 5,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -118,7 +143,7 @@
     },
     {
       "id": "direct_datadog",
-      "items": 449,
+      "items": 448,
       "new_candidates": 0
     },
     {
@@ -142,8 +167,46 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Corporate & Investment Banking Summer Internship 2027: FX Quant Trader | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/ddeb1c2d-4b5b-4272-b716-7432c069492c",
+      "title": "Corporate & Investment Banking Summer Internship 2027: Quantitative analyst - Commodities | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/e6dc325f-3dbf-4acb-a5df-6e33c65bfb53",
+      "location": "Stockholm",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790326822.0691662,
+      "category": "programme"
+    },
+    {
+      "source": "Startup Jobs",
+      "source_id": "startup",
+      "kind": "rss_jobs",
+      "title": "Technical Support Engineer at Twilio",
+      "url": "https://startup.jobs/technical-support-engineer-twilio-10191029",
+      "location": "",
+      "company": "",
+      "published": 1790326845.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1790415699.8525794,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Corporate & Investment Banking Summer Internship 2027: Quantitative analyst Fixed Income | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/5291817d-32fc-4dd9-a89f-95d79fcb882d",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -161,66 +224,27 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Database Support Engineer (EMEA)",
-      "url": "https://jobicy.com/jobs/154079-database-support-engineer-emea",
-      "location": "EMEA",
-      "company": "Supabase",
-      "published": 1790369633.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790381483.2882493,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Corporate & Investment Banking Summer Internship 2027: FX Sales | SEB, Gothenburg",
-      "url": "https://jobs.eu.lever.co/seb/835a6fcf-fccf-4cf7-b9af-9e6875e92efb",
-      "location": "Göteborg",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Göteborg — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790326822.0691662,
-      "category": "programme"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Software Engineer, Backend (Money Movement)",
-      "url": "https://jobicy.com/jobs/154082-senior-software-engineer-backend-money-movement",
+      "title": "Embedded Linux Field Engineer for Devices/IoT",
+      "url": "https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot",
       "location": "Anywhere",
-      "company": "Phantom",
-      "published": 1790369631.0,
+      "company": "Canonical",
+      "published": 1790135729.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790381483.2882493,
+      "found_at": 1790157351.5090284,
       "category": "job"
     },
     {
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Corporate & Investment Banking Summer Internship 2027: FX Sales | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/11e81af2-bd15-455e-a7b4-3a7808fd0ec5",
+      "title": "Corporate & Investment Banking Summer Internship 2027: Quantitative Analyst, Risk Advisory | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/e1711892-8875-466d-8dad-60cbcd535560",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -235,5 +259,5 @@
       "category": "programme"
     }
   ],
-  "queued_candidates": 1072
+  "queued_candidates": 1067
 }
