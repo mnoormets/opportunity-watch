@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-26T00:11:23+00:00",
+  "checked_at": "2026-09-26T04:53:35+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,11 +9,16 @@
     {
       "id": "arbeitnow",
       "items": 250,
-      "new_candidates": 2
+      "new_candidates": 0
     },
     {
       "id": "startup",
       "items": 50,
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 19,
       "new_candidates": 0
     },
     {
@@ -23,7 +28,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 46,
+      "items": 48,
       "new_candidates": 0
     },
     {
@@ -33,17 +38,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 51,
+      "items": 54,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 64,
+      "items": 65,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 60,
+      "items": 59,
       "new_candidates": 0
     },
     {
@@ -59,7 +64,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 4
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 98,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 6,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -103,12 +128,12 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 620,
+      "items": 619,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 829,
+      "items": 830,
       "new_candidates": 0
     },
     {
@@ -142,8 +167,8 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Corporate & Investment Banking Summer Internship 2027: Commodities Sales | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/741ab0fe-f3ca-416d-b05f-ef60097514cf",
+      "title": "Corporate & Investment Banking Summer Internship 2027: Equity Capital Markets | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/c26f9e56-6efb-4e9e-b8d7-b0a083dfb66a",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -158,22 +183,21 @@
       "category": "programme"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Staff Engineer, Full Stack (Trust, Safety & Risk)",
-      "url": "https://jobicy.com/jobs/154084-staff-engineer-full-stack-trust-safety-risk",
-      "location": "EMEA, LATAM, Canada, USA",
-      "company": "Phantom",
-      "published": 1790369634.0,
-      "salary": "200000–250000 USD / yearly",
-      "remote": true,
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Software Engineer, Infrastructure - Self Managed Experience (SMX)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-software-engineer-infrastructure-self-managed-experience-smx-123880",
+      "location": "Remote",
+      "company": "Camunda",
+      "published": 1790376006.0,
+      "salary": "",
+      "remote": false,
       "discovery_only": false,
       "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
       "found_at": 1790381483.2882493,
       "category": "job"
     },
@@ -181,8 +205,8 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Corporate & Investment Banking Summer Internship 2027: Data analyst | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/6cc4ad85-c300-444a-ad9d-c22394a0ff9c",
+      "title": "Corporate & Investment Banking Summer Internship 2027: FICC International Credit Sales | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/4f150a44-9e5d-4dfc-8ee8-087bc7ce8337",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -197,22 +221,22 @@
       "category": "programme"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Staff Platform Security Engineer (Security)",
-      "url": "https://jobicy.com/jobs/154078-staff-platform-security-engineer-security",
-      "location": "Canada, Europe, USA",
-      "company": "Phantom",
-      "published": 1790369631.0,
-      "salary": "200000–250000 USD / yearly",
-      "remote": true,
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Senior Software Engineer, Backend - Distributed Systems",
+      "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-305142",
+      "location": "Remote",
+      "company": "Camunda",
+      "published": 1790376006.0,
+      "salary": "",
+      "remote": false,
       "discovery_only": false,
       "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Canada, Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
       "found_at": 1790381483.2882493,
       "category": "job"
     },
@@ -220,8 +244,8 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Corporate & Investment Banking Summer Internship 2027: Data, Analytics & Reporting | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/8419eecc-02e6-4da0-bb19-e23f7d20043a",
+      "title": "Corporate & Investment Banking Summer Internship 2027: FICC Risk Management and XVA | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/579d17de-bbf7-438a-8c3d-b7d40509a41c",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -236,5 +260,5 @@
       "category": "programme"
     }
   ],
-  "queued_candidates": 1081
+  "queued_candidates": 1076
 }
