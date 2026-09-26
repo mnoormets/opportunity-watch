@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-25T21:51:22+00:00",
+  "checked_at": "2026-09-26T00:11:23+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,16 +9,11 @@
     {
       "id": "arbeitnow",
       "items": 250,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
-    },
-    {
-      "id": "remotive",
-      "items": 19,
       "new_candidates": 0
     },
     {
@@ -38,7 +33,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 53,
+      "items": 51,
       "new_candidates": 0
     },
     {
@@ -48,7 +43,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 58,
+      "items": 60,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 4
     },
     {
       "id": "hn_ai",
@@ -82,33 +77,13 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 98,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 6,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
       "id": "direct_seb",
-      "items": 151,
+      "items": 141,
       "new_candidates": 0
     },
     {
@@ -128,17 +103,17 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 623,
-      "new_candidates": 1
+      "items": 620,
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 830,
-      "new_candidates": 1
+      "items": 829,
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 702,
+      "items": 703,
       "new_candidates": 0
     },
     {
@@ -162,6 +137,104 @@
       "new_candidates": 0
     }
   ],
-  "selected": [],
-  "queued_candidates": 1080
+  "selected": [
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Corporate & Investment Banking Summer Internship 2027: Commodities Sales | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/741ab0fe-f3ca-416d-b05f-ef60097514cf",
+      "location": "Stockholm",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790326822.0691662,
+      "category": "programme"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Staff Engineer, Full Stack (Trust, Safety & Risk)",
+      "url": "https://jobicy.com/jobs/154084-staff-engineer-full-stack-trust-safety-risk",
+      "location": "EMEA, LATAM, Canada, USA",
+      "company": "Phantom",
+      "published": 1790369634.0,
+      "salary": "200000–250000 USD / yearly",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790381483.2882493,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Corporate & Investment Banking Summer Internship 2027: Data analyst | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/6cc4ad85-c300-444a-ad9d-c22394a0ff9c",
+      "location": "Stockholm",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790326822.0691662,
+      "category": "programme"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Staff Platform Security Engineer (Security)",
+      "url": "https://jobicy.com/jobs/154078-staff-platform-security-engineer-security",
+      "location": "Canada, Europe, USA",
+      "company": "Phantom",
+      "published": 1790369631.0,
+      "salary": "200000–250000 USD / yearly",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: Canada, Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790381483.2882493,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Corporate & Investment Banking Summer Internship 2027: Data, Analytics & Reporting | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/8419eecc-02e6-4da0-bb19-e23f7d20043a",
+      "location": "Stockholm",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790326822.0691662,
+      "category": "programme"
+    }
+  ],
+  "queued_candidates": 1081
 }
