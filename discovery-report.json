@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-26T04:53:35+00:00",
+  "checked_at": "2026-09-26T09:41:39+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,16 +14,11 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
-    },
-    {
-      "id": "remotive",
-      "items": 19,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "news_fellowships",
-      "items": 7,
+      "items": 8,
       "new_candidates": 0
     },
     {
@@ -43,7 +38,7 @@
     },
     {
       "id": "news_grants",
-      "items": 65,
+      "items": 66,
       "new_candidates": 0
     },
     {
@@ -82,28 +77,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 98,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
-      "items": 6,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
+      "items": 5,
       "new_candidates": 0
     },
     {
@@ -167,8 +142,8 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Corporate & Investment Banking Summer Internship 2027: Equity Capital Markets | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/c26f9e56-6efb-4e9e-b8d7-b0a083dfb66a",
+      "title": "Corporate & Investment Banking Summer Internship 2027: FX Quant Trader | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/ddeb1c2d-4b5b-4272-b716-7432c069492c",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -183,21 +158,21 @@
       "category": "programme"
     },
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Software Engineer, Infrastructure - Self Managed Experience (SMX)",
-      "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-software-engineer-infrastructure-self-managed-experience-smx-123880",
-      "location": "Remote",
-      "company": "Camunda",
-      "published": 1790376006.0,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Database Support Engineer (EMEA)",
+      "url": "https://jobicy.com/jobs/154079-database-support-engineer-emea",
+      "location": "EMEA",
+      "company": "Supabase",
+      "published": 1790369633.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1790381483.2882493,
       "category": "job"
     },
@@ -205,9 +180,9 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Corporate & Investment Banking Summer Internship 2027: FICC International Credit Sales | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/4f150a44-9e5d-4dfc-8ee8-087bc7ce8337",
-      "location": "Stockholm",
+      "title": "Corporate & Investment Banking Summer Internship 2027: FX Sales | SEB, Gothenburg",
+      "url": "https://jobs.eu.lever.co/seb/835a6fcf-fccf-4cf7-b9af-9e6875e92efb",
+      "location": "Göteborg",
       "company": "SEB",
       "published": null,
       "salary": "",
@@ -216,27 +191,27 @@
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 9,
-      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Göteborg — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790326822.0691662,
       "category": "programme"
     },
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Senior Software Engineer, Backend - Distributed Systems",
-      "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-305142",
-      "location": "Remote",
-      "company": "Camunda",
-      "published": 1790376006.0,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Software Engineer, Backend (Money Movement)",
+      "url": "https://jobicy.com/jobs/154082-senior-software-engineer-backend-money-movement",
+      "location": "Anywhere",
+      "company": "Phantom",
+      "published": 1790369631.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1790381483.2882493,
       "category": "job"
     },
@@ -244,8 +219,8 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Corporate & Investment Banking Summer Internship 2027: FICC Risk Management and XVA | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/579d17de-bbf7-438a-8c3d-b7d40509a41c",
+      "title": "Corporate & Investment Banking Summer Internship 2027: FX Sales | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/11e81af2-bd15-455e-a7b4-3a7808fd0ec5",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -260,5 +235,5 @@
       "category": "programme"
     }
   ],
-  "queued_candidates": 1076
+  "queued_candidates": 1072
 }
