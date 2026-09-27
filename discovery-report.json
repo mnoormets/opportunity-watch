@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-27T05:52:35+00:00",
+  "checked_at": "2026-09-27T10:51:21+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,16 +9,11 @@
     {
       "id": "arbeitnow",
       "items": 325,
-      "new_candidates": 12
+      "new_candidates": 1
     },
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
-    },
-    {
-      "id": "remotive",
-      "items": 18,
       "new_candidates": 0
     },
     {
@@ -33,12 +28,12 @@
     },
     {
       "id": "news_ai_tasks",
-      "items": 9,
+      "items": 10,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 55,
+      "items": 52,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 4
     },
     {
       "id": "hn_ai",
@@ -82,28 +77,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 97,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 5,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
       "new_candidates": 0
     },
     {
@@ -138,7 +113,7 @@
     },
     {
       "id": "direct_stripe",
-      "items": 702,
+      "items": 701,
       "new_candidates": 0
     },
     {
@@ -164,54 +139,94 @@
   ],
   "selected": [
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Senior Sales Engineer - North America",
-      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-north-america-233451",
-      "location": "Remote",
-      "company": "Camunda",
-      "published": 1790476811.0,
-      "salary": "",
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Staff Platform Engineer - EU",
+      "url": "https://jobicy.com/jobs/151861-staff-platform-engineer-eu",
+      "location": "Europe",
+      "company": "Ashby",
+      "published": 1790494528.0,
+      "salary": "154000–188000 EUR / yearly",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790488355.7987738,
+      "score": 10,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790506281.5529914,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Staff Software Engineer, Product Engineering - EU",
+      "url": "https://jobicy.com/jobs/151856-staff-software-engineer-product-engineering-eu-2",
+      "location": "Europe",
+      "company": "Ashby",
+      "published": 1790494511.0,
+      "salary": "154000–188000 EUR / yearly",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790506281.5529914,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Software Engineer, Product Engineering - EU",
+      "url": "https://jobicy.com/jobs/151853-senior-software-engineer-product-engineering-eu-2",
+      "location": "Europe",
+      "company": "Ashby",
+      "published": 1790494507.0,
+      "salary": "119000–145000 EUR / yearly",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790506281.5529914,
       "category": "job"
     },
     {
       "source": "Arbeitnow",
       "source_id": "arbeitnow",
       "kind": "arbeitnow",
-      "title": "Senior Sales Engineer - Life Science - North America",
-      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-life-science-north-america-164648",
-      "location": "Remote",
-      "company": "Camunda",
-      "published": 1790476811.0,
+      "title": "Staff Software Engineer",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cloudbedsthirdpartyboard/staff-software-engineer-135065",
+      "location": "",
+      "company": "Cloudbedsthirdpartyboard",
+      "published": 1790499304.0,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
       "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790488355.7987738,
+      "found_at": 1790506281.5529914,
       "category": "job"
     },
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Senior Sales Engineer - DACH",
-      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-dach-423357",
-      "location": "Remote",
-      "company": "Camunda",
-      "published": 1790476811.0,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Applied Research Engineer - Video",
+      "url": "https://jobicy.com/jobs/151649-senior-applied-research-engineer-video",
+      "location": "Europe, UK",
+      "company": "Synthesia",
+      "published": 1790493608.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -219,48 +234,8 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790488355.7987738,
-      "category": "job"
-    },
-    {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Senior Sales Engineer - BFSI - North America",
-      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-bfsi-north-america-263961",
-      "location": "Remote",
-      "company": "Camunda",
-      "published": 1790476811.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790488355.7987738,
-      "category": "job"
-    },
-    {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Senior GTM Systems AI and Automation Engineer",
-      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-98803",
-      "location": "Remote",
-      "company": "Camunda",
-      "published": 1790476811.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790488355.7987738,
+      "region": "Kaugtöö: Europe, UK — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790506281.5529914,
       "category": "job"
     }
   ],
