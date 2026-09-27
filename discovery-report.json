@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-27T00:51:12+00:00",
+  "checked_at": "2026-09-27T05:52:35+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,11 +9,16 @@
     {
       "id": "arbeitnow",
       "items": 325,
-      "new_candidates": 1
+      "new_candidates": 12
     },
     {
       "id": "startup",
       "items": 50,
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 18,
       "new_candidates": 0
     },
     {
@@ -23,22 +28,22 @@
     },
     {
       "id": "news_paid_training",
-      "items": 47,
+      "items": 42,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 10,
+      "items": 9,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 54,
+      "items": 55,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 68,
+      "items": 67,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 97,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 5,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -142,31 +167,11 @@
       "source": "Arbeitnow",
       "source_id": "arbeitnow",
       "kind": "arbeitnow",
-      "title": "Software Engineer | Propr.xyz",
-      "url": "https://www.arbeitnow.ch/jobs/companies/swissborg/remote-software-engineer-proprxyz-244322",
-      "location": "Remote - Europe Timezone",
-      "company": "SwissBorg",
-      "published": 1790465081.0,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Remote - Europe Timezone — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790470272.6957295,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Software Architect",
-      "url": "https://jobicy.com/jobs/150381-software-architect",
-      "location": "EMEA, UK",
-      "company": "Autodesk",
-      "published": 1790421322.0,
+      "title": "Senior Sales Engineer - North America",
+      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-north-america-233451",
+      "location": "Remote",
+      "company": "Camunda",
+      "published": 1790476811.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -174,19 +179,19 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: EMEA, UK — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790443527.7558465,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1790488355.7987738,
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Engineering Manager - Security Standards and Hardening",
-      "url": "https://jobicy.com/jobs/149536-engineering-manager-security-standards-and-hardening",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790135728.0,
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Senior Sales Engineer - Life Science - North America",
+      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-life-science-north-america-164648",
+      "location": "Remote",
+      "company": "Camunda",
+      "published": 1790476811.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -194,48 +199,70 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1790488355.7987738,
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Sustaining Operations Engineer",
-      "url": "https://jobicy.com/jobs/149532-sustaining-operations-engineer",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790135727.0,
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Senior Sales Engineer - DACH",
+      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-dach-423357",
+      "location": "Remote",
+      "company": "Camunda",
+      "published": 1790476811.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1790488355.7987738,
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Cloud Field Engineer",
-      "url": "https://jobicy.com/jobs/149523-cloud-field-engineer",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790135725.0,
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Senior Sales Engineer - BFSI - North America",
+      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-sales-engineer-bfsi-north-america-263961",
+      "location": "Remote",
+      "company": "Camunda",
+      "published": 1790476811.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1790488355.7987738,
+      "category": "job"
+    },
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Senior GTM Systems AI and Automation Engineer",
+      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-98803",
+      "location": "Remote",
+      "company": "Camunda",
+      "published": 1790476811.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1790488355.7987738,
       "category": "job"
     }
   ],
-  "queued_candidates": 1065
+  "queued_candidates": 1072
 }
