@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-27T15:22:09+00:00",
+  "checked_at": "2026-09-27T19:04:06+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,7 +9,7 @@
     {
       "id": "arbeitnow",
       "items": 325,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
@@ -17,54 +17,41 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 17,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
-      "items": 8,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_paid_training",
-      "items": 45,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_ai_tasks",
-      "items": 10,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_hackathons",
-      "items": 54,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_grants",
-      "items": 67,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_bounties",
-      "items": 57,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_paid_research",
-      "items": 0,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_estonia",
-      "items": 0,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
@@ -82,29 +69,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 98,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 99,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
-      "items": 5,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "direct_seb",
@@ -128,7 +94,7 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 618,
+      "items": 619,
       "new_candidates": 0
     },
     {
@@ -148,120 +114,17 @@
     },
     {
       "id": "news_estonia_jobs",
-      "items": 0,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_early_career",
-      "items": 0,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_shopify",
-      "items": 0,
-      "new_candidates": 0
+      "error": "FetchError"
     }
   ],
-  "selected": [
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Cloud Support Engineer",
-      "url": "https://jobicy.com/jobs/151889-cloud-support-engineer-2",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790494813.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790522529.043602,
-      "category": "job"
-    },
-    {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Software Engineer, Backend - Data Layer",
-      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-software-engineer-backend-data-layer-495182",
-      "location": "Remote",
-      "company": "Camunda",
-      "published": 1790476811.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790488355.7987738,
-      "category": "job"
-    },
-    {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Senior Manager, QA Engineering",
-      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-manager-qa-engineering-334552",
-      "location": "Remote",
-      "company": "Camunda",
-      "published": 1790476811.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790488355.7987738,
-      "category": "job"
-    },
-    {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Senior Software Engineer, Backend - Data Streaming",
-      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-195842",
-      "location": "Remote",
-      "company": "Camunda",
-      "published": 1790476811.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790488355.7987738,
-      "category": "job"
-    },
-    {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Senior Software Engineer, Backend - Data Layer",
-      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-216001",
-      "location": "Remote",
-      "company": "Camunda",
-      "published": 1790476811.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790488355.7987738,
-      "category": "job"
-    }
-  ],
-  "queued_candidates": 1068
+  "selected": [],
+  "queued_candidates": 1069
 }
