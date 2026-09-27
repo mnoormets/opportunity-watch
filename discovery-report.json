@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-27T19:04:06+00:00",
+  "checked_at": "2026-09-27T22:04:15+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,7 +9,7 @@
     {
       "id": "arbeitnow",
       "items": 325,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "startup",
@@ -17,36 +17,49 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 17,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
-      "error": "FetchError"
+      "items": 8,
+      "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "error": "FetchError"
+      "items": 43,
+      "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "error": "FetchError"
+      "items": 10,
+      "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "error": "FetchError"
+      "items": 53,
+      "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "error": "FetchError"
+      "items": 67,
+      "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "error": "FetchError"
+      "items": 59,
+      "new_candidates": 0
     },
     {
       "id": "news_paid_research",
-      "error": "FetchError"
+      "items": 0,
+      "new_candidates": 0
     },
     {
       "id": "news_estonia",
-      "error": "FetchError"
+      "items": 0,
+      "new_candidates": 0
     },
     {
       "id": "jobicy",
@@ -69,8 +82,29 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 98,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
-      "error": "FetchError"
+      "items": 5,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
+      "new_candidates": 0
     },
     {
       "id": "direct_seb",
@@ -99,7 +133,7 @@
     },
     {
       "id": "direct_openai",
-      "items": 830,
+      "items": 829,
       "new_candidates": 0
     },
     {
@@ -114,15 +148,18 @@
     },
     {
       "id": "news_estonia_jobs",
-      "error": "FetchError"
+      "items": 0,
+      "new_candidates": 0
     },
     {
       "id": "news_early_career",
-      "error": "FetchError"
+      "items": 0,
+      "new_candidates": 0
     },
     {
       "id": "news_shopify",
-      "error": "FetchError"
+      "items": 0,
+      "new_candidates": 0
     }
   ],
   "selected": [],
