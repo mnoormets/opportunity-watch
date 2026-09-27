@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-26T22:39:23+00:00",
+  "checked_at": "2026-09-27T00:51:12+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -8,8 +8,8 @@
     },
     {
       "id": "arbeitnow",
-      "items": 322,
-      "new_candidates": 0
+      "items": 325,
+      "new_candidates": 1
     },
     {
       "id": "startup",
@@ -23,7 +23,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 46,
+      "items": 47,
       "new_candidates": 0
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 55,
+      "items": 54,
       "new_candidates": 0
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 58,
+      "items": 56,
       "new_candidates": 0
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "id": "news_corps",
-      "items": 6,
+      "items": 5,
       "new_candidates": 0
     },
     {
@@ -137,6 +137,105 @@
       "new_candidates": 0
     }
   ],
-  "selected": [],
-  "queued_candidates": 1069
+  "selected": [
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Software Engineer | Propr.xyz",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swissborg/remote-software-engineer-proprxyz-244322",
+      "location": "Remote - Europe Timezone",
+      "company": "SwissBorg",
+      "published": 1790465081.0,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Remote - Europe Timezone — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790470272.6957295,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Software Architect",
+      "url": "https://jobicy.com/jobs/150381-software-architect",
+      "location": "EMEA, UK",
+      "company": "Autodesk",
+      "published": 1790421322.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA, UK — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790443527.7558465,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Engineering Manager - Security Standards and Hardening",
+      "url": "https://jobicy.com/jobs/149536-engineering-manager-security-standards-and-hardening",
+      "location": "Anywhere",
+      "company": "Canonical",
+      "published": 1790135728.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790157351.5090284,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Sustaining Operations Engineer",
+      "url": "https://jobicy.com/jobs/149532-sustaining-operations-engineer",
+      "location": "Anywhere",
+      "company": "Canonical",
+      "published": 1790135727.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790157351.5090284,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Cloud Field Engineer",
+      "url": "https://jobicy.com/jobs/149523-cloud-field-engineer",
+      "location": "Anywhere",
+      "company": "Canonical",
+      "published": 1790135725.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790157351.5090284,
+      "category": "job"
+    }
+  ],
+  "queued_candidates": 1065
 }
