@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-27T22:04:15+00:00",
+  "checked_at": "2026-09-28T00:38:17+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,18 +17,13 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 17,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
       "items": 8,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 43,
+      "items": 41,
       "new_candidates": 0
     },
     {
@@ -38,7 +33,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 53,
+      "items": 54,
       "new_candidates": 0
     },
     {
@@ -68,7 +63,7 @@
     },
     {
       "id": "hn_ai",
-      "items": 1,
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -82,33 +77,13 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 98,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 5,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
       "id": "direct_seb",
-      "items": 141,
+      "items": 134,
       "new_candidates": 0
     },
     {
@@ -162,6 +137,106 @@
       "new_candidates": 0
     }
   ],
-  "selected": [],
-  "queued_candidates": 1069
+  "selected": [
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Senior Backend Engineer: Machine Learning Infrastructure",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-senior-backend-engineer-machine-learning-infrastructure-467357",
+      "location": "Remote - EMEA",
+      "company": "Constructor",
+      "published": 1790523608.0,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Remote - EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790535846.0646472,
+      "category": "job"
+    },
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Software Engineer - Infrastructure",
+      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-software-engineer-infrastructure-102166",
+      "location": "Remote",
+      "company": "Camunda",
+      "published": 1790476811.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1790488355.7987738,
+      "category": "job"
+    },
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Engineering Manager - Infrastructure",
+      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-engineering-manager-infrastructure-433130",
+      "location": "Remote",
+      "company": "Camunda",
+      "published": 1790476811.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1790488355.7987738,
+      "category": "job"
+    },
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Senior Sales Engineer - MENA",
+      "url": "https://www.arbeitnow.ch/jobs/companies/sardine/remote-senior-sales-engineer-mena-177403",
+      "location": "Remote",
+      "company": "Sardine",
+      "published": 1790476810.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1790488355.7987738,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Engineering Manager, Managed Services",
+      "url": "https://jobicy.com/jobs/149528-engineering-manager-managed-services",
+      "location": "Anywhere",
+      "company": "Canonical",
+      "published": 1790135723.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790157351.5090284,
+      "category": "job"
+    }
+  ],
+  "queued_candidates": 1064
 }
