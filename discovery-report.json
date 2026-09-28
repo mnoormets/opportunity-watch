@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-28T19:34:46+00:00",
+  "checked_at": "2026-09-28T23:54:49+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,18 +17,13 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 16,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
-      "items": 8,
+      "items": 9,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 47,
+      "items": 45,
       "new_candidates": 0
     },
     {
@@ -38,7 +33,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 51,
+      "items": 50,
       "new_candidates": 0
     },
     {
@@ -48,7 +43,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 56,
+      "items": 54,
       "new_candidates": 0
     },
     {
@@ -58,17 +53,17 @@
     },
     {
       "id": "news_estonia",
-      "items": 1,
+      "items": 0,
       "new_candidates": 0
     },
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 3
+      "new_candidates": 1
     },
     {
       "id": "hn_ai",
-      "items": 1,
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -82,28 +77,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 99,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 82,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 6,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
       "new_candidates": 0
     },
     {
@@ -113,7 +88,7 @@
     },
     {
       "id": "direct_welo",
-      "items": 543,
+      "items": 544,
       "new_candidates": 0
     },
     {
@@ -124,31 +99,31 @@
     {
       "id": "direct_veriff",
       "items": 10,
-      "new_candidates": 2
+      "new_candidates": 0
     },
     {
       "id": "direct_anthropic",
-      "items": 628,
-      "new_candidates": 1
+      "items": 626,
+      "new_candidates": 2
     },
     {
       "id": "direct_openai",
-      "items": 831,
-      "new_candidates": 5
+      "items": 838,
+      "new_candidates": 4
     },
     {
       "id": "direct_stripe",
-      "items": 703,
+      "items": 702,
       "new_candidates": 1
     },
     {
       "id": "direct_datadog",
       "items": 438,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "news_estonia_jobs",
-      "items": 1,
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -162,105 +137,6 @@
       "new_candidates": 0
     }
   ],
-  "selected": [
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Head of GTM, Research Services | AI-Native Research (Remote US/EU)",
-      "url": "https://jobicy.com/jobs/154138-head-of-gtm-research-services-ai-native-research-remote-us-eu",
-      "location": "Europe, USA",
-      "company": "Maze",
-      "published": 1790585658.0,
-      "salary": "220000–260000 USD / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790624086.4216533,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Site Reliability Engineer | SRE (Remote, EU/CET)",
-      "url": "https://jobicy.com/jobs/154141-senior-site-reliability-engineer-sre-remote-eu-cet",
-      "location": "Europe",
-      "company": "Maze",
-      "published": 1790585657.0,
-      "salary": "109000–128000 EUR / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790624086.4216533,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Head of Market Research | AI-Native Research (Remote US/EU)",
-      "url": "https://jobicy.com/jobs/154132-head-of-market-research-ai-native-research-remote-us-eu",
-      "location": "Europe, USA",
-      "company": "Maze",
-      "published": 1790585656.0,
-      "salary": "220000–260000 USD / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790624086.4216533,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Python Engineer",
-      "url": "https://jobicy.com/jobs/149543-python-engineer",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790135428.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Community Engineer (multiple roles and seniority levels)",
-      "url": "https://jobicy.com/jobs/149577-community-engineer-multiple-roles-and-seniority-levels",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790135421.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
-      "category": "job"
-    }
-  ],
-  "queued_candidates": 1073
+  "selected": [],
+  "queued_candidates": 1081
 }
