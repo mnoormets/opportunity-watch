@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T10:39:56+00:00",
+  "checked_at": "2026-09-29T16:37:46+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,12 +14,7 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 1
-    },
-    {
-      "id": "remotive",
-      "items": 16,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "news_fellowships",
@@ -28,7 +23,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 45,
+      "items": 43,
       "new_candidates": 0
     },
     {
@@ -38,17 +33,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 52,
+      "items": 57,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 63,
+      "items": 66,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 54,
+      "items": 51,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 4
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
@@ -82,34 +77,14 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 99,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 78,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 6,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
       "id": "direct_seb",
-      "items": 138,
-      "new_candidates": 0
+      "items": 141,
+      "new_candidates": 2
     },
     {
       "id": "direct_welo",
@@ -128,22 +103,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 629,
-      "new_candidates": 1
+      "items": 631,
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 841,
+      "items": 831,
       "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 705,
-      "new_candidates": 0
+      "items": 711,
+      "new_candidates": 1
     },
     {
       "id": "direct_datadog",
-      "items": 436,
+      "items": 435,
       "new_candidates": 0
     },
     {
@@ -164,92 +139,33 @@
   ],
   "selected": [
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Principal Software Architect",
-      "url": "https://jobicy.com/jobs/147700-principal-software-architect",
-      "location": "EMEA",
-      "company": "Testlio",
-      "published": 1790652615.0,
-      "salary": "500000–500000 USD / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790678396.8551433,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Detection & CorpSec Engineer",
-      "url": "https://jobicy.com/jobs/151966-detection-corpsec-engineer",
-      "location": "Anywhere",
-      "company": "Quora",
-      "published": 1790652610.0,
-      "salary": "172279–249640 USD / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790678396.8551433,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Support Engineer (EMEA)",
-      "url": "https://jobicy.com/jobs/152053-support-engineer-emea",
-      "location": "EMEA",
-      "company": "Supabase",
-      "published": 1790652915.0,
+      "source": "Startup Jobs",
+      "source_id": "startup",
+      "kind": "rss_jobs",
+      "title": "Data Security Engineer - Junior+ at Plata Card",
+      "url": "https://startup.jobs/data-security-engineer-junior-plata-card-10213594",
+      "location": "",
+      "company": "",
+      "published": 1790605194.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790678396.8551433,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Multigres Engineer",
-      "url": "https://jobicy.com/jobs/152057-multigres-engineer",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1790652910.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790678396.8551433,
+      "score": 11,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1790699866.7783933,
       "category": "job"
     },
     {
       "source": "Startup Jobs",
       "source_id": "startup",
       "kind": "rss_jobs",
-      "title": "Salesforce Developer at Gradle Inc.",
-      "url": "https://startup.jobs/salesforce-developer-gradle-inc-10215652",
+      "title": "Data Analyst at Tripledot Studios",
+      "url": "https://startup.jobs/data-analyst-tripledot-studios-company-10222635",
       "location": "",
       "company": "",
-      "published": 1790581675.0,
+      "published": 1790603670.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -257,7 +173,65 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790678396.8551433,
+      "found_at": 1790699866.7783933,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Software Engineer - (Connect Platform)",
+      "url": "https://jobicy.com/jobs/149498-senior-software-engineer-connect-platform",
+      "location": "Europe, Norway",
+      "company": "Enode",
+      "published": 1790135414.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Europe, Norway — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790157351.5090284,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Golang Engineer",
+      "url": "https://jobicy.com/jobs/149538-golang-engineer-2",
+      "location": "Anywhere",
+      "company": "Canonical",
+      "published": 1790135413.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790157351.5090284,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Embedded Devices Software Solution Sales - All Roles",
+      "url": "https://jobicy.com/jobs/149539-embedded-devices-software-solution-sales-all-roles",
+      "location": "Anywhere",
+      "company": "Canonical",
+      "published": 1790135411.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790157351.5090284,
       "category": "job"
     }
   ],
