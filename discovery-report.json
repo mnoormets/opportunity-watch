@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T16:37:46+00:00",
+  "checked_at": "2026-09-29T21:00:48+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,16 +14,21 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 2
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 16,
+      "new_candidates": 0
     },
     {
       "id": "news_fellowships",
-      "items": 8,
+      "items": 9,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 43,
+      "items": 41,
       "new_candidates": 0
     },
     {
@@ -33,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 57,
+      "items": 56,
       "new_candidates": 0
     },
     {
@@ -43,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 51,
+      "items": 56,
       "new_candidates": 0
     },
     {
@@ -59,7 +64,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "hn_ai",
@@ -77,18 +82,38 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 99,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 78,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
-      "items": 6,
+      "items": 7,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
       "id": "direct_seb",
       "items": 141,
-      "new_candidates": 2
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 544,
+      "items": 543,
       "new_candidates": 0
     },
     {
@@ -103,22 +128,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 631,
-      "new_candidates": 0
+      "items": 636,
+      "new_candidates": 3
     },
     {
       "id": "direct_openai",
-      "items": 831,
-      "new_candidates": 0
+      "items": 832,
+      "new_candidates": 2
     },
     {
       "id": "direct_stripe",
-      "items": 711,
-      "new_candidates": 1
+      "items": 710,
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 435,
+      "items": 437,
       "new_candidates": 0
     },
     {
@@ -139,52 +164,14 @@
   ],
   "selected": [
     {
-      "source": "Startup Jobs",
-      "source_id": "startup",
-      "kind": "rss_jobs",
-      "title": "Data Security Engineer - Junior+ at Plata Card",
-      "url": "https://startup.jobs/data-security-engineer-junior-plata-card-10213594",
-      "location": "",
-      "company": "",
-      "published": 1790605194.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 11,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790699866.7783933,
-      "category": "job"
-    },
-    {
-      "source": "Startup Jobs",
-      "source_id": "startup",
-      "kind": "rss_jobs",
-      "title": "Data Analyst at Tripledot Studios",
-      "url": "https://startup.jobs/data-analyst-tripledot-studios-company-10222635",
-      "location": "",
-      "company": "",
-      "published": 1790603670.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790699866.7783933,
-      "category": "job"
-    },
-    {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Senior Software Engineer - (Connect Platform)",
-      "url": "https://jobicy.com/jobs/149498-senior-software-engineer-connect-platform",
-      "location": "Europe, Norway",
-      "company": "Enode",
-      "published": 1790135414.0,
+      "title": "Lead Creative Strategist (Performance Marketing)",
+      "url": "https://jobicy.com/jobs/154194-lead-creative-strategist-performance-marketing",
+      "location": "Anywhere",
+      "company": "Superside",
+      "published": 1790692368.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -192,7 +179,26 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Europe, Norway — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790715648.6640465,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Software Engineer - Data",
+      "url": "https://jobicy.com/jobs/149499-software-engineer-data",
+      "location": "Europe, USA",
+      "company": "Dune",
+      "published": 1790135410.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1790157351.5090284,
       "category": "job"
     },
@@ -200,15 +206,16 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Golang Engineer",
-      "url": "https://jobicy.com/jobs/149538-golang-engineer-2",
+      "title": "Senior Security Operations Engineer",
+      "url": "https://jobicy.com/jobs/149578-senior-security-operations-engineer",
       "location": "Anywhere",
       "company": "Canonical",
-      "published": 1790135413.0,
+      "published": 1790135409.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
@@ -219,11 +226,31 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Embedded Devices Software Solution Sales - All Roles",
-      "url": "https://jobicy.com/jobs/149539-embedded-devices-software-solution-sales-all-roles",
+      "title": "Senior Site Reliability / Gitops Engineer",
+      "url": "https://jobicy.com/jobs/149544-senior-site-reliability-gitops-engineer",
       "location": "Anywhere",
       "company": "Canonical",
-      "published": 1790135411.0,
+      "published": 1790135404.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790157351.5090284,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Site Reliability / Gitops Engineer",
+      "url": "https://jobicy.com/jobs/149553-site-reliability-gitops-engineer",
+      "location": "Anywhere",
+      "company": "Canonical",
+      "published": 1790135116.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -235,5 +262,5 @@
       "category": "job"
     }
   ],
-  "queued_candidates": 1082
+  "queued_candidates": 1083
 }
