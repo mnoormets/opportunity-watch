@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T04:12:25+00:00",
+  "checked_at": "2026-09-29T10:39:56+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,12 +9,12 @@
     {
       "id": "arbeitnow",
       "items": 326,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "remotive",
@@ -28,7 +28,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 44,
+      "items": 45,
       "new_candidates": 0
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "id": "news_hackathons",
-      "items": 51,
+      "items": 52,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 64,
+      "items": 63,
       "new_candidates": 0
     },
     {
@@ -64,7 +64,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 4
     },
     {
       "id": "hn_ai",
@@ -88,7 +88,7 @@
     },
     {
       "id": "social_x",
-      "items": 79,
+      "items": 78,
       "new_candidates": 0
     },
     {
@@ -108,7 +108,7 @@
     },
     {
       "id": "direct_seb",
-      "items": 137,
+      "items": 138,
       "new_candidates": 0
     },
     {
@@ -134,16 +134,16 @@
     {
       "id": "direct_openai",
       "items": 841,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 703,
-      "new_candidates": 2
+      "items": 705,
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 438,
+      "items": 436,
       "new_candidates": 0
     },
     {
@@ -167,102 +167,99 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Senior Security Engineer (Remote, EU/CET)",
-      "url": "https://jobicy.com/jobs/154158-senior-security-engineer-remote-eu-cet",
-      "location": "Europe",
-      "company": "Maze",
-      "published": 1790618947.0,
-      "salary": "110000–130000 EUR / yearly",
+      "title": "Principal Software Architect",
+      "url": "https://jobicy.com/jobs/147700-principal-software-architect",
+      "location": "EMEA",
+      "company": "Testlio",
+      "published": 1790652615.0,
+      "salary": "500000–500000 USD / yearly",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 10,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790639689.7670443,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790678396.8551433,
       "category": "job"
     },
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Senior Software Engineer, Quality",
-      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-quality-4113",
-      "location": "Remote",
-      "company": "Camunda",
-      "published": 1790638808.0,
-      "salary": "",
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Detection & CorpSec Engineer",
+      "url": "https://jobicy.com/jobs/151966-detection-corpsec-engineer",
+      "location": "Anywhere",
+      "company": "Quora",
+      "published": 1790652610.0,
+      "salary": "172279–249640 USD / yearly",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790678396.8551433,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Support Engineer (EMEA)",
+      "url": "https://jobicy.com/jobs/152053-support-engineer-emea",
+      "location": "EMEA",
+      "company": "Supabase",
+      "published": 1790652915.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790678396.8551433,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Multigres Engineer",
+      "url": "https://jobicy.com/jobs/152057-multigres-engineer",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1790652910.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790678396.8551433,
+      "category": "job"
+    },
+    {
+      "source": "Startup Jobs",
+      "source_id": "startup",
+      "kind": "rss_jobs",
+      "title": "Salesforce Developer at Gradle Inc.",
+      "url": "https://startup.jobs/salesforce-developer-gradle-inc-10215652",
+      "location": "",
+      "company": "",
+      "published": 1790581675.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790655145.3933432,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Staff Security Operations Engineer",
-      "url": "https://jobicy.com/jobs/149540-staff-security-operations-engineer",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790135419.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "OpenStack Engineering Manager",
-      "url": "https://jobicy.com/jobs/149573-openstack-engineering-manager",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790135418.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Ubuntu Engineering Lead",
-      "url": "https://jobicy.com/jobs/149537-ubuntu-engineering-lead",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790135415.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
+      "found_at": 1790678396.8551433,
       "category": "job"
     }
   ],
-  "queued_candidates": 1081
+  "queued_candidates": 1082
 }
