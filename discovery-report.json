@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30T05:29:36+00:00",
+  "checked_at": "2026-09-30T11:17:40+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,38 +17,33 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 16,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
-      "items": 9,
+      "items": 7,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 44,
+      "items": 42,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 9,
+      "items": 5,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 56,
+      "items": 58,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 67,
+      "items": 66,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 58,
+      "items": 59,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 4
     },
     {
       "id": "hn_ai",
@@ -82,38 +77,18 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 99,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 83,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 7,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
       "id": "direct_seb",
-      "items": 137,
+      "items": 141,
       "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 532,
+      "items": 530,
       "new_candidates": 0
     },
     {
@@ -123,27 +98,27 @@
     },
     {
       "id": "direct_veriff",
-      "items": 10,
-      "new_candidates": 0
+      "items": 11,
+      "new_candidates": 1
     },
     {
       "id": "direct_anthropic",
       "items": 637,
-      "new_candidates": 1
-    },
-    {
-      "id": "direct_openai",
-      "items": 839,
-      "new_candidates": 1
-    },
-    {
-      "id": "direct_stripe",
-      "items": 710,
       "new_candidates": 0
     },
     {
+      "id": "direct_openai",
+      "items": 838,
+      "new_candidates": 0
+    },
+    {
+      "id": "direct_stripe",
+      "items": 711,
+      "new_candidates": 2
+    },
+    {
       "id": "direct_datadog",
-      "items": 438,
+      "items": 436,
       "new_candidates": 0
     },
     {
@@ -167,11 +142,11 @@
       "source": "Arbeitnow",
       "source_id": "arbeitnow",
       "kind": "arbeitnow",
-      "title": "Senior Forward Deployed Engineer",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/synthesia/senior-forward-deployed-engineer-london-25215",
-      "location": "Europe",
-      "company": "Synthesia",
-      "published": 1790739609.0,
+      "title": "Senior Engineering Manager [gn] Data Intelligence Platform",
+      "url": "https://www.arbeitnow.fr/jobs/companies/actian/remote-senior-engineering-manager-gn-data-intelligence-platform-188032",
+      "location": "Europe - Remote",
+      "company": "Actian",
+      "published": 1790753065.0,
       "salary": "",
       "remote": false,
       "discovery_only": false,
@@ -179,19 +154,38 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790746176.1487787,
+      "region": "Kaugtöö: Europe - Remote — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790767060.3301678,
       "category": "job"
     },
     {
-      "source": "Welo Global careers (direct)",
-      "source_id": "direct_welo",
-      "kind": "lever",
-      "title": "English to Urdu Linguist, Marketing, Freelance (Pakistan)",
-      "url": "https://jobs.lever.co/weloglobal/6d689639-ca71-473e-9a34-8e852040daf8",
-      "location": "Remote, Worldwide",
-      "company": "Welo Global",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "International Video Remote Interpreters",
+      "url": "https://jobicy.com/jobs/152104-international-video-remote-interpreters",
+      "location": "Anywhere",
+      "company": "Language Services Associates",
+      "published": 1790740954.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790767060.3301678,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Game Developer",
+      "url": "https://jobicy.com/jobs/152046-senior-game-developer",
+      "location": "Europe, Ukraine",
+      "company": "Playson",
+      "published": 1790740833.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -199,70 +193,49 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790091916.2319474,
+      "region": "Kaugtöö: Europe, Ukraine — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790767060.3301678,
       "category": "job"
     },
     {
-      "source": "Pipedrive careers (direct)",
-      "source_id": "direct_pipedrive",
-      "kind": "lever",
-      "title": "Principal Security Engineer",
-      "url": "https://jobs.lever.co/pipedrive/04a0b763-5d9e-4ff4-9ee0-dc6fbc29a2d8",
-      "location": "Estonia, Tallinn",
-      "company": "Pipedrive",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Engineering Manager",
+      "url": "https://jobicy.com/jobs/152044-engineering-manager-5",
+      "location": "Europe",
+      "company": "Enode",
+      "published": 1790740831.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Eesti — kohapeal või kaugtöö",
-      "found_at": 1790091916.2319474,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790767060.3301678,
       "category": "job"
     },
     {
-      "source": "Veriff careers (direct)",
-      "source_id": "direct_veriff",
-      "kind": "greenhouse",
-      "title": "Senior Software Engineer (Trust)",
-      "url": "https://www.veriff.com/careers/position/8696103002?gh_jid=8696103002",
-      "location": "Tallinn, Spain (Remote)",
-      "company": "Veriff",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "AI Augmented Software Engineer [gn] Data Intelligence Platform",
+      "url": "https://jobicy.com/jobs/152038-ai-augmented-software-engineer-gn-data-intelligence-platform",
+      "location": "Europe",
+      "company": "Actian",
+      "published": 1790740814.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Eesti — kohapeal või kaugtöö",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "Veriff careers (direct)",
-      "source_id": "direct_veriff",
-      "kind": "greenhouse",
-      "title": "Senior Software Engineer - Verification Platform",
-      "url": "https://www.veriff.com/careers/position/8609896002?gh_jid=8609896002",
-      "location": "Tallinn, Spain (Remote)",
-      "company": "Veriff",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Eesti — kohapeal või kaugtöö",
-      "found_at": 1790091916.2319474,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790767060.3301678,
       "category": "job"
     }
   ],
-  "queued_candidates": 1078
+  "queued_candidates": 1081
 }
