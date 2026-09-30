@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30T16:50:51+00:00",
+  "checked_at": "2026-09-30T21:02:53+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,18 +17,13 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 16,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
       "items": 6,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 43,
+      "items": 42,
       "new_candidates": 0
     },
     {
@@ -48,7 +43,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 59,
+      "items": 57,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
@@ -82,28 +77,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 99,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 81,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
-      "items": 7,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
+      "items": 6,
       "new_candidates": 0
     },
     {
@@ -128,23 +103,23 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 636,
-      "new_candidates": 1
-    },
-    {
-      "id": "direct_openai",
-      "items": 833,
+      "items": 637,
       "new_candidates": 0
     },
     {
-      "id": "direct_stripe",
-      "items": 715,
+      "id": "direct_openai",
+      "items": 834,
       "new_candidates": 2
     },
     {
+      "id": "direct_stripe",
+      "items": 714,
+      "new_candidates": 1
+    },
+    {
       "id": "direct_datadog",
-      "items": 438,
-      "new_candidates": 2
+      "items": 433,
+      "new_candidates": 0
     },
     {
       "id": "news_estonia_jobs",
@@ -162,102 +137,6 @@
       "new_candidates": 0
     }
   ],
-  "selected": [
-    {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "High School Fellowship, Software Engineering",
-      "url": "https://stripe.com/jobs/search?gh_jid=8241260",
-      "location": "Seattle, San Francisco",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Seattle, San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790787051.5801039,
-      "category": "programme"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Growth Marketing Specialist",
-      "url": "https://jobicy.com/jobs/154292-growth-marketing-specialist-2",
-      "location": "Europe",
-      "company": "saas.group",
-      "published": 1790756328.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790787051.5801039,
-      "category": "job"
-    },
-    {
-      "source": "Veriff careers (direct)",
-      "source_id": "direct_veriff",
-      "kind": "greenhouse",
-      "title": "Solutions Engineer - EMEA",
-      "url": "https://www.veriff.com/careers/position/8827000002?gh_jid=8827000002",
-      "location": "Tallinn, Spain (Remote)",
-      "company": "Veriff",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Eesti — kohapeal või kaugtöö",
-      "found_at": 1790624086.4216533,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": ".Net/C# developer to the Portfolio Solutions and Derivatives Clearing Tech team",
-      "url": "https://jobs.eu.lever.co/seb/205c25b9-a4dc-41e2-8a23-7f3b2a887d21",
-      "location": "Solna",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "AI Engineer with a passion for AI services | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/d49a2206-daab-4598-b75f-c4778cd9abaf",
-      "location": "Stockholm",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    }
-  ],
-  "queued_candidates": 1082
+  "selected": [],
+  "queued_candidates": 1085
 }
