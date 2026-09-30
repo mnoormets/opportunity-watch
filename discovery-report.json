@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30T00:12:00+00:00",
+  "checked_at": "2026-09-30T05:29:36+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,11 +9,16 @@
     {
       "id": "arbeitnow",
       "items": 326,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
       "items": 50,
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 16,
       "new_candidates": 0
     },
     {
@@ -28,7 +33,7 @@
     },
     {
       "id": "news_ai_tasks",
-      "items": 8,
+      "items": 9,
       "new_candidates": 0
     },
     {
@@ -77,18 +82,38 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 99,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 83,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 7,
       "new_candidates": 0
     },
     {
+      "id": "news_clients",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_seb",
-      "items": 138,
+      "items": 137,
       "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 543,
+      "items": 532,
       "new_candidates": 0
     },
     {
@@ -103,13 +128,13 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 636,
-      "new_candidates": 0
+      "items": 637,
+      "new_candidates": 1
     },
     {
       "id": "direct_openai",
-      "items": 832,
-      "new_candidates": 2
+      "items": 839,
+      "new_candidates": 1
     },
     {
       "id": "direct_stripe",
@@ -118,7 +143,7 @@
     },
     {
       "id": "direct_datadog",
-      "items": 437,
+      "items": 438,
       "new_candidates": 0
     },
     {
@@ -139,68 +164,31 @@
   ],
   "selected": [
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Performance Engineer - Open Source",
-      "url": "https://jobicy.com/jobs/149551-performance-engineer-open-source",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790135115.0,
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Senior Forward Deployed Engineer",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/synthesia/senior-forward-deployed-engineer-london-25215",
+      "location": "Europe",
+      "company": "Synthesia",
+      "published": 1790739609.0,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
       "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Site Reliability Engineer",
-      "url": "https://jobicy.com/jobs/149547-site-reliability-engineer",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790135110.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Software Engineer - App Stores",
-      "url": "https://jobicy.com/jobs/149552-software-engineer-app-stores",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790135107.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790746176.1487787,
       "category": "job"
     },
     {
       "source": "Welo Global careers (direct)",
       "source_id": "direct_welo",
       "kind": "lever",
-      "title": "English to Malagasy Language Lead for Marketing, Freelance (Madagascar)",
-      "url": "https://jobs.lever.co/weloglobal/be0383f4-db44-458b-98c4-89129e175ff9",
+      "title": "English to Urdu Linguist, Marketing, Freelance (Pakistan)",
+      "url": "https://jobs.lever.co/weloglobal/6d689639-ca71-473e-9a34-8e852040daf8",
       "location": "Remote, Worldwide",
       "company": "Welo Global",
       "published": null,
@@ -216,25 +204,65 @@
       "category": "job"
     },
     {
-      "source": "Welo Global careers (direct)",
-      "source_id": "direct_welo",
+      "source": "Pipedrive careers (direct)",
+      "source_id": "direct_pipedrive",
       "kind": "lever",
-      "title": "English to Mongolian Language Lead for Marketing, Support and Online Help",
-      "url": "https://jobs.lever.co/weloglobal/9921dc85-6878-4b25-a672-095e33f4a230",
-      "location": "Remote, Worldwide",
-      "company": "Welo Global",
+      "title": "Principal Security Engineer",
+      "url": "https://jobs.lever.co/pipedrive/04a0b763-5d9e-4ff4-9ee0-dc6fbc29a2d8",
+      "location": "Estonia, Tallinn",
+      "company": "Pipedrive",
       "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
+      "relocation_employer": true,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "region": "Eesti — kohapeal või kaugtöö",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Veriff careers (direct)",
+      "source_id": "direct_veriff",
+      "kind": "greenhouse",
+      "title": "Senior Software Engineer (Trust)",
+      "url": "https://www.veriff.com/careers/position/8696103002?gh_jid=8696103002",
+      "location": "Tallinn, Spain (Remote)",
+      "company": "Veriff",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Eesti — kohapeal või kaugtöö",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Veriff careers (direct)",
+      "source_id": "direct_veriff",
+      "kind": "greenhouse",
+      "title": "Senior Software Engineer - Verification Platform",
+      "url": "https://www.veriff.com/careers/position/8609896002?gh_jid=8609896002",
+      "location": "Tallinn, Spain (Remote)",
+      "company": "Veriff",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Eesti — kohapeal või kaugtöö",
       "found_at": 1790091916.2319474,
       "category": "job"
     }
   ],
-  "queued_candidates": 1080
+  "queued_candidates": 1078
 }
