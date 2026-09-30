@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T21:00:48+00:00",
+  "checked_at": "2026-09-30T00:12:00+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,23 +17,18 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 16,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
       "items": 9,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 41,
+      "items": 44,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 9,
+      "items": 8,
       "new_candidates": 0
     },
     {
@@ -43,12 +38,12 @@
     },
     {
       "id": "news_grants",
-      "items": 66,
+      "items": 67,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 56,
+      "items": 58,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
@@ -82,33 +77,13 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 99,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 78,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 7,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
       "id": "direct_seb",
-      "items": 141,
+      "items": 138,
       "new_candidates": 0
     },
     {
@@ -129,7 +104,7 @@
     {
       "id": "direct_anthropic",
       "items": 636,
-      "new_candidates": 3
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
@@ -167,11 +142,68 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Lead Creative Strategist (Performance Marketing)",
-      "url": "https://jobicy.com/jobs/154194-lead-creative-strategist-performance-marketing",
+      "title": "Performance Engineer - Open Source",
+      "url": "https://jobicy.com/jobs/149551-performance-engineer-open-source",
       "location": "Anywhere",
-      "company": "Superside",
-      "published": 1790692368.0,
+      "company": "Canonical",
+      "published": 1790135115.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790157351.5090284,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Site Reliability Engineer",
+      "url": "https://jobicy.com/jobs/149547-site-reliability-engineer",
+      "location": "Anywhere",
+      "company": "Canonical",
+      "published": 1790135110.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790157351.5090284,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Software Engineer - App Stores",
+      "url": "https://jobicy.com/jobs/149552-software-engineer-app-stores",
+      "location": "Anywhere",
+      "company": "Canonical",
+      "published": 1790135107.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790157351.5090284,
+      "category": "job"
+    },
+    {
+      "source": "Welo Global careers (direct)",
+      "source_id": "direct_welo",
+      "kind": "lever",
+      "title": "English to Malagasy Language Lead for Marketing, Freelance (Madagascar)",
+      "url": "https://jobs.lever.co/weloglobal/be0383f4-db44-458b-98c4-89129e175ff9",
+      "location": "Remote, Worldwide",
+      "company": "Welo Global",
+      "published": null,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -179,38 +211,19 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790715648.6640465,
+      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790091916.2319474,
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Software Engineer - Data",
-      "url": "https://jobicy.com/jobs/149499-software-engineer-data",
-      "location": "Europe, USA",
-      "company": "Dune",
-      "published": 1790135410.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Security Operations Engineer",
-      "url": "https://jobicy.com/jobs/149578-senior-security-operations-engineer",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790135409.0,
+      "source": "Welo Global careers (direct)",
+      "source_id": "direct_welo",
+      "kind": "lever",
+      "title": "English to Mongolian Language Lead for Marketing, Support and Online Help",
+      "url": "https://jobs.lever.co/weloglobal/9921dc85-6878-4b25-a672-095e33f4a230",
+      "location": "Remote, Worldwide",
+      "company": "Welo Global",
+      "published": null,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -218,49 +231,10 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Site Reliability / Gitops Engineer",
-      "url": "https://jobicy.com/jobs/149544-senior-site-reliability-gitops-engineer",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790135404.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Site Reliability / Gitops Engineer",
-      "url": "https://jobicy.com/jobs/149553-site-reliability-gitops-engineer",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1790135116.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790157351.5090284,
+      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790091916.2319474,
       "category": "job"
     }
   ],
-  "queued_candidates": 1083
+  "queued_candidates": 1080
 }
