@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T06:21:44+00:00",
+  "checked_at": "2026-10-01T13:32:13+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,7 +9,7 @@
     {
       "id": "arbeitnow",
       "items": 326,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "startup",
@@ -17,8 +17,13 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 16,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
-      "items": 4,
+      "items": 6,
       "new_candidates": 0
     },
     {
@@ -38,12 +43,12 @@
     },
     {
       "id": "news_grants",
-      "items": 68,
+      "items": 66,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 56,
+      "items": 53,
       "new_candidates": 0
     },
     {
@@ -59,7 +64,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "hn_ai",
@@ -77,14 +82,34 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 86,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
-      "items": 6,
+      "items": 8,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
       "id": "direct_seb",
-      "items": 124,
-      "new_candidates": 0
+      "items": 129,
+      "new_candidates": 1
     },
     {
       "id": "direct_welo",
@@ -98,18 +123,18 @@
     },
     {
       "id": "direct_veriff",
-      "items": 11,
+      "items": 12,
       "new_candidates": 0
     },
     {
       "id": "direct_anthropic",
-      "items": 636,
+      "items": 635,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
       "items": 835,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_stripe",
@@ -118,8 +143,8 @@
     },
     {
       "id": "direct_datadog",
-      "items": 436,
-      "new_candidates": 1
+      "items": 438,
+      "new_candidates": 0
     },
     {
       "id": "news_estonia_jobs",
@@ -142,87 +167,88 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Developer .Net within Payments & Reporting | SEB, Solna",
-      "url": "https://jobs.eu.lever.co/seb/979137fe-b94c-4ad1-b7de-256fb2675a24",
-      "location": "Solna",
+      "title": "Internship - Junior Client Service Partner (2-month position) | SEB, Luxembourg",
+      "url": "https://jobs.eu.lever.co/seb/4fe6c566-96b7-4506-ac99-7a9a4d982d23",
+      "location": "Luxembourg",
       "company": "SEB",
       "published": null,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Luxembourg — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790861533.099348,
+      "category": "programme"
+    },
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Staff/Lead Platform/DevOps Engineer",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mimica/staff-lead-platform-devops-engineer-europe-41906",
+      "location": "Europe",
+      "company": "Mimica",
+      "published": 1790847609.0,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790861533.099348,
       "category": "job"
     },
     {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "DevOps Engineer – Data & Analytics | SEB, Solna",
-      "url": "https://jobs.eu.lever.co/seb/5f293973-e675-49a0-960e-c005bb5456b3",
-      "location": "Solna",
-      "company": "SEB",
-      "published": null,
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Staff/Lead Python Engineer (FastAPI, Orchestration)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mimica/staff-lead-python-engineer-fastapi-orchestration-london-486588",
+      "location": "Remote Anywhere",
+      "company": "Mimica",
+      "published": 1790847609.0,
       "salary": "",
       "remote": false,
       "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "DevOps Engineer for Real-Time data processing Platforms | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/da1f4223-ee92-4702-bc52-9f28ea290d9b",
-      "location": "Stockholm",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Dynamics 365 and Power Platform Solution Developer | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/09a7c201-a28d-4be6-9814-3897dd38355c",
-      "location": "Solna",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
+      "score": 8,
+      "region": "Kaugtöö: Remote Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790861533.099348,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Azure DevOps Engineer | KD Pharma",
+      "url": "https://jobicy.com/jobs/152146-azure-devops-engineer-kd-pharma",
+      "location": "Europe",
+      "company": "GT",
+      "published": 1790826922.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790861533.099348,
       "category": "job"
     },
     {
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Integration Developer with BI skills | SEB, Solna",
-      "url": "https://jobs.eu.lever.co/seb/8fb6df98-3b38-4b56-8887-8d89ab947b5f",
-      "location": "Solna",
+      "title": "Java / Cloud Solution Developer / Mākoņa risinājumu izstādātājs/-a | SEB, Riga",
+      "url": "https://jobs.eu.lever.co/seb/030678fa-871a-40d4-9c13-2a49b8d8f3d3",
+      "location": "Rīga",
       "company": "SEB",
       "published": null,
       "salary": "",
@@ -231,7 +257,7 @@
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Rīga — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     }
