@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30T21:02:53+00:00",
+  "checked_at": "2026-10-01T00:28:53+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,11 +9,16 @@
     {
       "id": "arbeitnow",
       "items": 326,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
       "items": 50,
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 16,
       "new_candidates": 0
     },
     {
@@ -23,7 +28,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 42,
+      "items": 41,
       "new_candidates": 0
     },
     {
@@ -33,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 59,
+      "items": 61,
       "new_candidates": 0
     },
     {
@@ -43,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 57,
+      "items": 54,
       "new_candidates": 0
     },
     {
@@ -77,13 +82,33 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 99,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 83,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 6,
       "new_candidates": 0
     },
     {
+      "id": "news_clients",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_seb",
-      "items": 144,
+      "items": 124,
       "new_candidates": 0
     },
     {
@@ -108,13 +133,13 @@
     },
     {
       "id": "direct_openai",
-      "items": 834,
-      "new_candidates": 2
+      "items": 835,
+      "new_candidates": 1
     },
     {
       "id": "direct_stripe",
-      "items": 714,
-      "new_candidates": 1
+      "items": 716,
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
@@ -137,6 +162,103 @@
       "new_candidates": 0
     }
   ],
-  "selected": [],
-  "queued_candidates": 1085
+  "selected": [
+    {
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "High School Internship, Software Engineering (Summer 2027)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8241260",
+      "location": "Seattle, San Francisco",
+      "company": "Stripe",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Seattle, San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790802173.955286,
+      "category": "programme"
+    },
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Senior Product Marketing Manager - EMEA",
+      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-product-marketing-manager-emea-237709",
+      "location": "Remote",
+      "company": "Camunda",
+      "published": 1790811607.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1790814533.8174427,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "AWS Cloud Engineer to the Cloud Tribe | SEB, Solna",
+      "url": "https://jobs.eu.lever.co/seb/7541ba82-833c-4dd8-8e0b-4906fb5458de",
+      "location": "Solna",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Build the Future of Payments Reporting at SEB | .NET Developer, Örebro",
+      "url": "https://jobs.eu.lever.co/seb/d1d31baf-a795-4259-8932-19b7ec42ba25",
+      "location": "Örebro",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Örebro — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Cloud Engineer with a passion for Data Engineering and AI-Data enablers | SEB, Solna",
+      "url": "https://jobs.eu.lever.co/seb/7eb71ed1-deab-46d7-882d-289ae7900435",
+      "location": "Solna",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    }
+  ],
+  "queued_candidates": 1082
 }
