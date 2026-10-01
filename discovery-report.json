@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T19:00:03+00:00",
+  "checked_at": "2026-10-01T23:01:30+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,13 +17,18 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 16,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
       "items": 6,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 42,
+      "items": 43,
       "new_candidates": 0
     },
     {
@@ -33,17 +38,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 60,
+      "items": 61,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 62,
+      "items": 63,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 58,
+      "items": 56,
       "new_candidates": 0
     },
     {
@@ -64,7 +69,7 @@
     {
       "id": "hn_ai",
       "items": 21,
-      "new_candidates": 3
+      "new_candidates": 0
     },
     {
       "id": "hn_ml",
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 90,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 8,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -88,7 +113,7 @@
     },
     {
       "id": "direct_welo",
-      "items": 530,
+      "items": 531,
       "new_candidates": 0
     },
     {
@@ -103,22 +128,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 637,
+      "items": 638,
       "new_candidates": 1
     },
     {
       "id": "direct_openai",
-      "items": 835,
-      "new_candidates": 4
+      "items": 836,
+      "new_candidates": 2
     },
     {
       "id": "direct_stripe",
-      "items": 714,
-      "new_candidates": 1
+      "items": 712,
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 439,
+      "items": 442,
       "new_candidates": 1
     },
     {
@@ -137,104 +162,6 @@
       "new_candidates": 0
     }
   ],
-  "selected": [
-    {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Data Analyst, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8194287",
-      "location": "Toronto",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Toronto — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790881203.330368,
-      "category": "programme"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Jira Engineer in AITSM | SEB, Vilnius",
-      "url": "https://jobs.eu.lever.co/seb/7de4400a-c431-4bc3-aae5-968824301f45",
-      "location": "Vilnius",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Vilnius — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Lead Developer in risk control systems/ Vecākais/-ā programmētājs/-a | SEB, Riga",
-      "url": "https://jobs.eu.lever.co/seb/320ea755-da16-4d71-9508-7251be313a1f",
-      "location": "Rīga",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Rīga — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Machine Learning Engineer seeking new digital challenges | SEB, Vilnius",
-      "url": "https://jobs.eu.lever.co/seb/250e0c5c-3b2e-45d2-93ef-177379fab5e4",
-      "location": "Vilnius",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Vilnius — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "Hacker News: ai",
-      "source_id": "hn_ai",
-      "kind": "hn",
-      "title": "NeverBlink | Community & Ecosystem Lead | Remote (EU) We are building a HuggingFace / npm for ontologies. Ontologies are what gives data meaning. We are looking for people to get this tech into the hands of as many devs",
-      "url": "https://news.ycombinator.com/item?id=49924869",
-      "location": "",
-      "company": "",
-      "published": 1790877177.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790881203.330368,
-      "category": "secondary"
-    }
-  ],
-  "queued_candidates": 1083
+  "selected": [],
+  "queued_candidates": 1087
 }
