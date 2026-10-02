@@ -232,6 +232,69 @@
       "interval_seconds": 3600
     },
     {
+      "id": "direct_hpiq",
+      "name": "HP IQ careers (direct)",
+      "company": "HP IQ",
+      "kind": "greenhouse",
+      "url": "https://boards-api.greenhouse.io/v1/boards/hpiq/jobs?content=true",
+      "relocation_employer": true,
+      "interval_seconds": 3600
+    },
+    {
+      "id": "direct_roblox",
+      "name": "Roblox careers (direct)",
+      "company": "Roblox",
+      "kind": "greenhouse",
+      "url": "https://boards-api.greenhouse.io/v1/boards/roblox/jobs?content=true",
+      "relocation_employer": true,
+      "interval_seconds": 3600
+    },
+    {
+      "id": "direct_gitlab",
+      "name": "GitLab careers (direct)",
+      "company": "GitLab",
+      "kind": "greenhouse",
+      "url": "https://boards-api.greenhouse.io/v1/boards/gitlab/jobs?content=true",
+      "relocation_employer": false,
+      "interval_seconds": 3600
+    },
+    {
+      "id": "direct_cohere",
+      "name": "Cohere careers (direct)",
+      "company": "Cohere",
+      "kind": "ashby",
+      "url": "https://api.ashbyhq.com/posting-api/job-board/cohere",
+      "relocation_employer": true,
+      "interval_seconds": 3600
+    },
+    {
+      "id": "direct_n8n",
+      "name": "n8n careers (direct)",
+      "company": "n8n",
+      "kind": "ashby",
+      "url": "https://api.ashbyhq.com/posting-api/job-board/n8n",
+      "relocation_employer": false,
+      "interval_seconds": 3600
+    },
+    {
+      "id": "direct_sentry",
+      "name": "Sentry careers (direct)",
+      "company": "Sentry",
+      "kind": "ashby",
+      "url": "https://api.ashbyhq.com/posting-api/job-board/sentry",
+      "relocation_employer": true,
+      "interval_seconds": 3600
+    },
+    {
+      "id": "direct_uplane",
+      "name": "Uplane careers (direct)",
+      "company": "Uplane",
+      "kind": "ashby",
+      "url": "https://api.ashbyhq.com/posting-api/job-board/uplane",
+      "relocation_employer": false,
+      "interval_seconds": 3600
+    },
+    {
       "id": "news_estonia_jobs",
       "name": "Eesti tööd ja praktikad",
       "kind": "news",

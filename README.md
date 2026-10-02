@@ -14,7 +14,7 @@ Python 3.11+ jälgija avalike kandideerimislehtede, fellowship'ide ja tööpakku
 
 ## Automaatne avastamine
 
-`discovery.py` kasutab 32 allikat/otsingut: tööportaalid, Hacker Newsi värbamispostitused, Google Newsi otsingud ning 8 ettevõtte ametlikud töövood (SEB, Welo, Pipedrive, Veriff, Anthropic, OpenAI, Stripe, Datadog). Põhifookus on töödel, tasustatud praktikal ja programmidel; kõrvalvõimalustena projektid, bounty, uuringud ja auhinnarahaga võistlused. Teadmata tasu vajab kinnitamist.
+`discovery.py` kasutab 39 allikat/otsingut: tööportaalid, Hacker Newsi värbamispostitused, Google Newsi otsingud ning 15 ettevõtte ametlikud töövood (SEB, Welo, Pipedrive, Veriff, Anthropic, OpenAI, Stripe, Datadog, HP IQ, Roblox, GitLab, Cohere, n8n, Sentry, Uplane). Põhifookus on töödel, tasustatud praktikal ja programmidel; kõrvalvõimalustena projektid, bounty, uuringud ja auhinnarahaga võistlused. Teadmata tasu vajab kinnitamist. Greenhouse'i ja Ashby ametlike API-de jälgimine täiendab otsingumootori `site:` päringuid; otsingumootori „viimase 24 tunni” filter ei kinnita kuulutuse tegelikku avaldamisaega ega avatust.
 
 Eelistatud on Eesti ja selgelt Eestit hõlmav kaugtöö. Valitud ettevõtete kõikide kogemustasemete rollid üle maailma võivad ilmuda tingimusliku kolimise märgisega: kolimine alles pakkumise järel, viisa ja õpingutega sobivus kontrollimata. Vanemarendajaid ja suurema kogemusnõudega rolle ei välistata: need märgitakse ambitsioonikamaks valikuks. Keele- ja tööloanõuete filtrid jäävad alles. AI-tööriistade kasutamise kestust ei võrdsustata erialase tööstaažiga.
 
