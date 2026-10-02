@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-02T14:53:00+00:00",
+  "checked_at": "2026-10-02T19:34:47+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,12 +14,7 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 2
-    },
-    {
-      "id": "remotive",
-      "items": 17,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "news_fellowships",
@@ -28,7 +23,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 44,
+      "items": 46,
       "new_candidates": 0
     },
     {
@@ -38,7 +33,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 62,
+      "items": 64,
       "new_candidates": 0
     },
     {
@@ -48,7 +43,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 37,
+      "items": 38,
       "new_candidates": 0
     },
     {
@@ -69,11 +64,11 @@
     {
       "id": "hn_ai",
       "items": 21,
-      "new_candidates": 2
+      "new_candidates": 1
     },
     {
       "id": "hn_ml",
-      "items": 8,
+      "items": 9,
       "new_candidates": 0
     },
     {
@@ -82,28 +77,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 99,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 91,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
-      "items": 8,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
+      "items": 9,
       "new_candidates": 0
     },
     {
@@ -113,7 +88,7 @@
     },
     {
       "id": "direct_welo",
-      "items": 534,
+      "items": 535,
       "new_candidates": 0
     },
     {
@@ -128,43 +103,43 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 640,
+      "items": 638,
       "new_candidates": 1
     },
     {
       "id": "direct_openai",
-      "items": 832,
+      "items": 828,
       "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 709,
-      "new_candidates": 0
+      "items": 712,
+      "new_candidates": 2
     },
     {
       "id": "direct_datadog",
-      "items": 444,
-      "new_candidates": 3
+      "items": 442,
+      "new_candidates": 0
     },
     {
       "id": "direct_hpiq",
-      "items": 33,
-      "new_candidates": 28
+      "items": 34,
+      "new_candidates": 1
     },
     {
       "id": "direct_roblox",
       "items": 255,
-      "new_candidates": 184
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 200,
+      "items": 212,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
       "items": 136,
-      "new_candidates": 53
+      "new_candidates": 0
     },
     {
       "id": "direct_n8n",
@@ -174,7 +149,7 @@
     {
       "id": "direct_sentry",
       "items": 41,
-      "new_candidates": 26
+      "new_candidates": 0
     },
     {
       "id": "direct_uplane",
@@ -202,8 +177,8 @@
       "source": "HP IQ careers (direct)",
       "source_id": "direct_hpiq",
       "kind": "greenhouse",
-      "title": "Software Engineering Intern, AML Platform (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114781004",
+      "title": "Software Engineering Intern, Device Experiences (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114912004",
       "location": "San Francisco, CA",
       "company": "HP IQ",
       "published": null,
@@ -221,8 +196,8 @@
       "source": "Cohere careers (direct)",
       "source_id": "direct_cohere",
       "kind": "ashby",
-      "title": "Data Annotation Specialist, Engineering (civil, mechanical, electrical, chemical)",
-      "url": "https://jobs.ashbyhq.com/cohere/0ef0a9f8-33ac-4360-a833-f8ce8e108a31",
+      "title": "Data Annotation Specialist, Generalist",
+      "url": "https://jobs.ashbyhq.com/cohere/a7321948-288c-4e9f-9fbe-2f9ccda07ffa",
       "location": "Canada",
       "company": "Cohere",
       "published": null,
@@ -240,8 +215,8 @@
       "source": "HP IQ careers (direct)",
       "source_id": "direct_hpiq",
       "kind": "greenhouse",
-      "title": "Software Engineering Intern, Connectivity (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004",
+      "title": "Software Engineering Intern, Product & Developer Productivity (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114890004",
       "location": "San Francisco, CA",
       "company": "HP IQ",
       "published": null,
@@ -256,33 +231,33 @@
       "category": "programme"
     },
     {
-      "source": "Cohere careers (direct)",
-      "source_id": "direct_cohere",
-      "kind": "ashby",
-      "title": "Data Annotation Specialist, Data Science",
-      "url": "https://jobs.ashbyhq.com/cohere/9845c80d-95ba-4769-94a7-62408d73d603",
-      "location": "Canada",
-      "company": "Cohere",
-      "published": null,
+      "source": "Hacker News: ai",
+      "source_id": "hn_ai",
+      "kind": "hn",
+      "title": "At Tether ( https://tether.io/ ) we're hiring! We envision a world where technology enables financial freedom, educational empowerment, energy sustainability, and data sovereignty. All of our roles are fully remote, worl",
+      "url": "https://news.ycombinator.com/item?id=49934993",
+      "location": "",
+      "company": "",
+      "published": 1790956671.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Canada — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790952780.8003218,
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1790969687.0040154,
       "category": "job"
     },
     {
       "source": "Hacker News: ai",
       "source_id": "hn_ai",
       "kind": "hn",
-      "title": "EggAI | IT Operations Lead, Software and Platform engineers | REMOTE (EU) | Full-time preferred. Contract possible. We are a small boutique consultancy and are quite experienced. A lot of us have extensive consultant exp",
-      "url": "https://news.ycombinator.com/item?id=49931362",
+      "title": "Checkly | https://www.checklyhq.com | Senior Product Engineer, Product Manager, Senior Sales Engineer, Solutions Engineer | REMOTE (Europe / US Eastern) | Full-time The best developers don't wait for a customer to tell t",
+      "url": "https://news.ycombinator.com/item?id=49922769",
       "location": "",
       "company": "",
-      "published": 1790931641.0,
+      "published": 1790867629.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -291,7 +266,7 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790952780.8003218,
+      "found_at": 1790881203.330368,
       "category": "secondary"
     }
   ],
