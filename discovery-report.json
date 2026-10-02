@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-02T19:34:47+00:00",
+  "checked_at": "2026-10-02T23:13:52+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -8,12 +8,17 @@
     },
     {
       "id": "arbeitnow",
-      "items": 326,
+      "items": 325,
       "new_candidates": 0
     },
     {
       "id": "startup",
       "items": 50,
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 17,
       "new_candidates": 0
     },
     {
@@ -23,27 +28,27 @@
     },
     {
       "id": "news_paid_training",
-      "items": 46,
+      "items": 47,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 4,
+      "items": 5,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 64,
+      "items": 62,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 65,
+      "items": 64,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 38,
+      "items": 40,
       "new_candidates": 0
     },
     {
@@ -63,12 +68,12 @@
     },
     {
       "id": "hn_ai",
-      "items": 21,
-      "new_candidates": 1
+      "items": 20,
+      "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 9,
+      "items": 11,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 99,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
-      "items": 9,
+      "items": 8,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -103,18 +128,18 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 638,
+      "items": 640,
       "new_candidates": 1
     },
     {
       "id": "direct_openai",
-      "items": 828,
-      "new_candidates": 0
+      "items": 825,
+      "new_candidates": 3
     },
     {
       "id": "direct_stripe",
-      "items": 712,
-      "new_candidates": 2
+      "items": 714,
+      "new_candidates": 3
     },
     {
       "id": "direct_datadog",
@@ -124,16 +149,16 @@
     {
       "id": "direct_hpiq",
       "items": 34,
-      "new_candidates": 1
-    },
-    {
-      "id": "direct_roblox",
-      "items": 255,
       "new_candidates": 0
     },
     {
+      "id": "direct_roblox",
+      "items": 254,
+      "new_candidates": 1
+    },
+    {
       "id": "direct_gitlab",
-      "items": 212,
+      "items": 210,
       "new_candidates": 0
     },
     {
@@ -143,7 +168,7 @@
     },
     {
       "id": "direct_n8n",
-      "items": 36,
+      "items": 35,
       "new_candidates": 0
     },
     {
@@ -172,103 +197,6 @@
       "new_candidates": 0
     }
   ],
-  "selected": [
-    {
-      "source": "HP IQ careers (direct)",
-      "source_id": "direct_hpiq",
-      "kind": "greenhouse",
-      "title": "Software Engineering Intern, Device Experiences (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114912004",
-      "location": "San Francisco, CA",
-      "company": "HP IQ",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790952780.8003218,
-      "category": "programme"
-    },
-    {
-      "source": "Cohere careers (direct)",
-      "source_id": "direct_cohere",
-      "kind": "ashby",
-      "title": "Data Annotation Specialist, Generalist",
-      "url": "https://jobs.ashbyhq.com/cohere/a7321948-288c-4e9f-9fbe-2f9ccda07ffa",
-      "location": "Canada",
-      "company": "Cohere",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Canada — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790952780.8003218,
-      "category": "job"
-    },
-    {
-      "source": "HP IQ careers (direct)",
-      "source_id": "direct_hpiq",
-      "kind": "greenhouse",
-      "title": "Software Engineering Intern, Product & Developer Productivity (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114890004",
-      "location": "San Francisco, CA",
-      "company": "HP IQ",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790952780.8003218,
-      "category": "programme"
-    },
-    {
-      "source": "Hacker News: ai",
-      "source_id": "hn_ai",
-      "kind": "hn",
-      "title": "At Tether ( https://tether.io/ ) we're hiring! We envision a world where technology enables financial freedom, educational empowerment, energy sustainability, and data sovereignty. All of our roles are fully remote, worl",
-      "url": "https://news.ycombinator.com/item?id=49934993",
-      "location": "",
-      "company": "",
-      "published": 1790956671.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790969687.0040154,
-      "category": "job"
-    },
-    {
-      "source": "Hacker News: ai",
-      "source_id": "hn_ai",
-      "kind": "hn",
-      "title": "Checkly | https://www.checklyhq.com | Senior Product Engineer, Product Manager, Senior Sales Engineer, Solutions Engineer | REMOTE (Europe / US Eastern) | Full-time The best developers don't wait for a customer to tell t",
-      "url": "https://news.ycombinator.com/item?id=49922769",
-      "location": "",
-      "company": "",
-      "published": 1790867629.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790881203.330368,
-      "category": "secondary"
-    }
-  ],
-  "queued_candidates": 1379
+  "selected": [],
+  "queued_candidates": 1387
 }
