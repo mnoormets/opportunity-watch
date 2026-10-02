@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T23:01:30+00:00",
+  "checked_at": "2026-10-02T02:05:54+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,18 +17,13 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 16,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
       "items": 6,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 43,
+      "items": 44,
       "new_candidates": 0
     },
     {
@@ -43,7 +38,7 @@
     },
     {
       "id": "news_grants",
-      "items": 63,
+      "items": 64,
       "new_candidates": 0
     },
     {
@@ -68,8 +63,8 @@
     },
     {
       "id": "hn_ai",
-      "items": 21,
-      "new_candidates": 0
+      "items": 20,
+      "new_candidates": 1
     },
     {
       "id": "hn_ml",
@@ -82,33 +77,13 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 90,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 8,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
       "id": "direct_seb",
-      "items": 129,
+      "items": 127,
       "new_candidates": 0
     },
     {
@@ -128,23 +103,23 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 638,
-      "new_candidates": 1
+      "items": 637,
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 836,
-      "new_candidates": 2
+      "items": 833,
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 712,
+      "items": 714,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 442,
-      "new_candidates": 1
+      "items": 441,
+      "new_candidates": 0
     },
     {
       "id": "news_estonia_jobs",
@@ -162,6 +137,105 @@
       "new_candidates": 0
     }
   ],
-  "selected": [],
-  "queued_candidates": 1087
+  "selected": [
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Power Platform Developer | SEB, Solna",
+      "url": "https://jobs.eu.lever.co/seb/3f9835be-1563-4084-a6a3-6f6df334ec5c",
+      "location": "Solna",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Python Developer with a passion for Technology and Trading | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/d78d5ff6-c54f-413f-8c7c-e703fa1af3c8",
+      "location": "Solna",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Search Experience Manager, SEO & AI | SEB Kort Group, Solna",
+      "url": "https://jobs.eu.lever.co/seb/168964b7-568c-4a33-94ab-74a38a6281a9",
+      "location": "Solna",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Senior C# Developer for Interest Rate Service (IRS) solution | SEB, Vilnius",
+      "url": "https://jobs.eu.lever.co/seb/aad38443-cf1d-4e2b-9a1d-83a4ed4a7c1b",
+      "location": "Vilnius",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Vilnius — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Hacker News: ai",
+      "source_id": "hn_ai",
+      "kind": "hn",
+      "title": "All Gravy | Senior Software Engineer (Full-stack TypeScript) | Copenhagen or London | REMOTE (European time zones) or ONSITE | Full-time All Gravy is one app for running frontline teams in hospitality and retail: schedul",
+      "url": "https://news.ycombinator.com/item?id=49928066",
+      "location": "",
+      "company": "",
+      "published": 1790895684.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1790906754.2802594,
+      "category": "secondary"
+    }
+  ],
+  "queued_candidates": 1083
 }
