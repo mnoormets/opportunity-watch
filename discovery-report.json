@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-02T08:25:30+00:00",
+  "checked_at": "2026-10-02T14:53:00+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,12 +14,12 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "remotive",
-      "items": 16,
-      "new_candidates": 0
+      "items": 17,
+      "new_candidates": 1
     },
     {
       "id": "news_fellowships",
@@ -28,7 +28,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 45,
+      "items": 44,
       "new_candidates": 0
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 60,
+      "items": 62,
       "new_candidates": 0
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 42,
+      "items": 37,
       "new_candidates": 0
     },
     {
@@ -64,21 +64,21 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 4
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
-      "items": 22,
-      "new_candidates": 1
+      "items": 21,
+      "new_candidates": 2
     },
     {
       "id": "hn_ml",
-      "items": 6,
+      "items": 8,
       "new_candidates": 0
     },
     {
       "id": "hn_projects",
-      "items": 0,
+      "items": 1,
       "new_candidates": 0
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "id": "news_corps",
-      "items": 9,
+      "items": 8,
       "new_candidates": 0
     },
     {
@@ -108,12 +108,12 @@
     },
     {
       "id": "direct_seb",
-      "items": 127,
+      "items": 134,
       "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 533,
+      "items": 534,
       "new_candidates": 0
     },
     {
@@ -123,27 +123,62 @@
     },
     {
       "id": "direct_veriff",
-      "items": 12,
+      "items": 10,
       "new_candidates": 0
     },
     {
       "id": "direct_anthropic",
-      "items": 637,
-      "new_candidates": 0
-    },
-    {
-      "id": "direct_openai",
-      "items": 833,
+      "items": 640,
       "new_candidates": 1
     },
     {
+      "id": "direct_openai",
+      "items": 832,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_stripe",
-      "items": 713,
+      "items": 709,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 440,
+      "items": 444,
+      "new_candidates": 3
+    },
+    {
+      "id": "direct_hpiq",
+      "items": 33,
+      "new_candidates": 28
+    },
+    {
+      "id": "direct_roblox",
+      "items": 255,
+      "new_candidates": 184
+    },
+    {
+      "id": "direct_gitlab",
+      "items": 200,
+      "new_candidates": 0
+    },
+    {
+      "id": "direct_cohere",
+      "items": 136,
+      "new_candidates": 53
+    },
+    {
+      "id": "direct_n8n",
+      "items": 36,
+      "new_candidates": 0
+    },
+    {
+      "id": "direct_sentry",
+      "items": 41,
+      "new_candidates": 26
+    },
+    {
+      "id": "direct_uplane",
+      "items": 16,
       "new_candidates": 0
     },
     {
@@ -164,54 +199,90 @@
   ],
   "selected": [
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Engineering Project Manager",
-      "url": "https://jobicy.com/jobs/152275-engineering-project-manager",
-      "location": "LATAM, Canada, Europe, USA",
-      "company": "CodePath",
-      "published": 1790912106.0,
-      "salary": "140000–178000 USD / yearly",
+      "source": "HP IQ careers (direct)",
+      "source_id": "direct_hpiq",
+      "kind": "greenhouse",
+      "title": "Software Engineering Intern, AML Platform (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114781004",
+      "location": "San Francisco, CA",
+      "company": "HP IQ",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790952780.8003218,
+      "category": "programme"
+    },
+    {
+      "source": "Cohere careers (direct)",
+      "source_id": "direct_cohere",
+      "kind": "ashby",
+      "title": "Data Annotation Specialist, Engineering (civil, mechanical, electrical, chemical)",
+      "url": "https://jobs.ashbyhq.com/cohere/0ef0a9f8-33ac-4360-a833-f8ce8e108a31",
+      "location": "Canada",
+      "company": "Cohere",
+      "published": null,
+      "salary": "",
       "remote": true,
       "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: LATAM, Canada, Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790929530.9392931,
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Canada — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790952780.8003218,
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Staff Software Engineer",
-      "url": "https://jobicy.com/jobs/152299-staff-software-engineer-5",
-      "location": "LATAM, Canada, Europe, USA",
-      "company": "CodePath",
-      "published": 1790911819.0,
-      "salary": "170000–190000 USD / yearly",
+      "source": "HP IQ careers (direct)",
+      "source_id": "direct_hpiq",
+      "kind": "greenhouse",
+      "title": "Software Engineering Intern, Connectivity (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004",
+      "location": "San Francisco, CA",
+      "company": "HP IQ",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790952780.8003218,
+      "category": "programme"
+    },
+    {
+      "source": "Cohere careers (direct)",
+      "source_id": "direct_cohere",
+      "kind": "ashby",
+      "title": "Data Annotation Specialist, Data Science",
+      "url": "https://jobs.ashbyhq.com/cohere/9845c80d-95ba-4769-94a7-62408d73d603",
+      "location": "Canada",
+      "company": "Cohere",
+      "published": null,
+      "salary": "",
       "remote": true,
       "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: LATAM, Canada, Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790929530.9392931,
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Canada — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790952780.8003218,
       "category": "job"
     },
     {
       "source": "Hacker News: ai",
       "source_id": "hn_ai",
       "kind": "hn",
-      "title": "Hospitable | Senior Product Engineer (Laravel); Technical Support Engineer | REMOTE (EU / US up to East Coast) | Full-time | https://hospitable.com/careers tldr; Software for Airbnbs to rent themselves. Remote-only (~122",
-      "url": "https://news.ycombinator.com/item?id=49930868",
+      "title": "EggAI | IT Operations Lead, Software and Platform engineers | REMOTE (EU) | Full-time preferred. Contract possible. We are a small boutique consultancy and are quite experienced. A lot of us have extensive consultant exp",
+      "url": "https://news.ycombinator.com/item?id=49931362",
       "location": "",
       "company": "",
-      "published": 1790926782.0,
+      "published": 1790931641.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -220,47 +291,9 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790929530.9392931,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "QA Analyst (Future Roles)",
-      "url": "https://jobicy.com/jobs/152333-qa-analyst-future-roles",
-      "location": "Argentina, Brazil, Canada, Czechia, Estonia, Ireland, Mexico, Poland, Portugal, Romania, Spain, UK, Ukraine, USA",
-      "company": "Testlio",
-      "published": 1790912417.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Eesti — kohapeal või kaugtöö",
-      "found_at": 1790929530.9392931,
-      "category": "job"
-    },
-    {
-      "source": "Hacker News: ai",
-      "source_id": "hn_ai",
-      "kind": "hn",
-      "title": "Tether | AI Harness Engineer | REMOTE (Worldwide) | Full-time We're looking for an AI Harness Engineer to build local AI systems combining agentic AI with P2P technology. Looking for strong JavaScript/TypeScript experien",
-      "url": "https://news.ycombinator.com/item?id=49924581",
-      "location": "",
-      "company": "",
-      "published": 1790875819.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790881203.330368,
+      "found_at": 1790952780.8003218,
       "category": "secondary"
     }
   ],
-  "queued_candidates": 1084
+  "queued_candidates": 1379
 }
