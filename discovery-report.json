@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-03T19:58:07+00:00",
+  "checked_at": "2026-10-03T22:39:47+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -43,7 +43,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 35,
+      "items": 39,
       "new_candidates": 0
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "id": "hn_ai",
-      "items": 16,
+      "items": 14,
       "new_candidates": 0
     },
     {
@@ -103,7 +103,7 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 640,
+      "items": 639,
       "new_candidates": 0
     },
     {
