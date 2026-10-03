@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-03T13:12:43+00:00",
+  "checked_at": "2026-10-03T17:15:45+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,6 +14,11 @@
     {
       "id": "startup",
       "items": 50,
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 16,
       "new_candidates": 0
     },
     {
@@ -33,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 63,
+      "items": 62,
       "new_candidates": 0
     },
     {
@@ -59,16 +64,16 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "hn_ai",
-      "items": 17,
+      "items": 19,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 10,
+      "items": 11,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 98,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 9,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -108,12 +133,12 @@
     },
     {
       "id": "direct_openai",
-      "items": 829,
+      "items": 828,
       "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 715,
+      "items": 716,
       "new_candidates": 0
     },
     {
@@ -138,8 +163,8 @@
     },
     {
       "id": "direct_cohere",
-      "items": 136,
-      "new_candidates": 0
+      "items": 137,
+      "new_candidates": 1
     },
     {
       "id": "direct_n8n",
@@ -174,52 +199,14 @@
   ],
   "selected": [
     {
-      "source": "Sentry careers (direct)",
-      "source_id": "direct_sentry",
-      "kind": "ashby",
-      "title": "Software Engineer, Intern (Summer 2027)",
-      "url": "https://jobs.ashbyhq.com/sentry/fa522ac5-fc9f-4ce1-a191-842496a235a2",
-      "location": "Vienna, Austria",
-      "company": "Sentry",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Vienna, Austria — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790952780.8003218,
-      "category": "programme"
-    },
-    {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "1775 RPG/AS400 & JD Edwards EnterpriseOne Developer",
-      "url": "https://jobicy.com/jobs/150052-1775-rpg-as400-jd-edwards-enterpriseone-developer",
-      "location": "Anywhere",
-      "company": "Softgic",
-      "published": 1790998226.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791014470.5235422,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Engineering Manager - Public Cloud, Python, Golang",
-      "url": "https://jobicy.com/jobs/149985-engineering-manager-public-cloud-python-golang",
-      "location": "EMEA, LATAM, Canada, USA",
-      "company": "Canonical",
-      "published": 1790995419.0,
+      "title": "Engineering Manager, EMEA (Platform)",
+      "url": "https://jobicy.com/jobs/154448-engineering-manager-emea-platform",
+      "location": "EMEA",
+      "company": "Testlio",
+      "published": 1791035539.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -227,23 +214,24 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791014470.5235422,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791047745.103315,
       "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Software Engineer - Data Infrastructure - Kafka",
-      "url": "https://jobicy.com/jobs/149988-software-engineer-data-infrastructure-kafka",
+      "title": "Golang Engineering Manager, Commercial Systems",
+      "url": "https://jobicy.com/jobs/149984-golang-engineering-manager-commercial-systems",
       "location": "EMEA",
       "company": "Canonical",
-      "published": 1790995417.0,
+      "published": 1790995412.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
@@ -254,21 +242,61 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch",
-      "url": "https://jobicy.com/jobs/149994-software-engineer-data-infrastructure-opensearch-elasticsearch",
+      "title": "Python Engineering Manager, Commercial Systems",
+      "url": "https://jobicy.com/jobs/149989-python-engineering-manager-commercial-systems",
       "location": "EMEA",
       "company": "Canonical",
-      "published": 1790995416.0,
+      "published": 1790995411.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791014470.5235422,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Site Reliability Engineering Manager",
+      "url": "https://jobicy.com/jobs/149986-site-reliability-engineering-manager",
+      "location": "APAC, EMEA",
+      "company": "Canonical",
+      "published": 1790995406.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: APAC, EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791014470.5235422,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Developer Relations Engineer",
+      "url": "https://jobicy.com/jobs/149993-developer-relations-engineer",
+      "location": "APAC, EMEA",
+      "company": "Canonical",
+      "published": 1790995405.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "region": "Kaugtöö: APAC, EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1791014470.5235422,
       "category": "job"
     }
   ],
-  "queued_candidates": 1403
+  "queued_candidates": 1400
 }
