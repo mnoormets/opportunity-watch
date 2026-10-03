@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-03T08:01:10+00:00",
+  "checked_at": "2026-10-03T13:12:43+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,50 +17,53 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 17,
+      "id": "news_fellowships",
+      "items": 5,
       "new_candidates": 0
     },
     {
-      "id": "news_fellowships",
-      "error": "FetchError"
-    },
-    {
       "id": "news_paid_training",
-      "error": "FetchError"
+      "items": 52,
+      "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "error": "FetchError"
+      "items": 5,
+      "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "error": "FetchError"
+      "items": 63,
+      "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "error": "FetchError"
+      "items": 62,
+      "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "error": "FetchError"
+      "items": 35,
+      "new_candidates": 0
     },
     {
       "id": "news_paid_research",
-      "error": "FetchError"
+      "items": 0,
+      "new_candidates": 0
     },
     {
       "id": "news_estonia",
-      "error": "FetchError"
+      "items": 0,
+      "new_candidates": 0
     },
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 26
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
-      "items": 18,
+      "items": 17,
       "new_candidates": 0
     },
     {
@@ -74,24 +77,9 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "error": "FetchError"
-    },
-    {
-      "id": "social_x",
-      "error": "FetchError"
-    },
-    {
-      "id": "social_tiktok",
-      "error": "FetchError"
-    },
-    {
       "id": "news_corps",
-      "error": "FetchError"
-    },
-    {
-      "id": "news_clients",
-      "error": "FetchError"
+      "items": 9,
+      "new_candidates": 0
     },
     {
       "id": "direct_seb",
@@ -115,13 +103,13 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 641,
+      "items": 640,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 830,
-      "new_candidates": 3
+      "items": 829,
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
@@ -170,26 +158,29 @@
     },
     {
       "id": "news_estonia_jobs",
-      "error": "FetchError"
+      "items": 0,
+      "new_candidates": 0
     },
     {
       "id": "news_early_career",
-      "error": "FetchError"
+      "items": 0,
+      "new_candidates": 0
     },
     {
       "id": "news_shopify",
-      "error": "FetchError"
+      "items": 0,
+      "new_candidates": 0
     }
   ],
   "selected": [
     {
-      "source": "Cohere careers (direct)",
-      "source_id": "direct_cohere",
+      "source": "Sentry careers (direct)",
+      "source_id": "direct_sentry",
       "kind": "ashby",
-      "title": "Software Engineer Intern (Winter 2027)",
-      "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254",
-      "location": "Canada",
-      "company": "Cohere",
+      "title": "Software Engineer, Intern (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/sentry/fa522ac5-fc9f-4ce1-a191-842496a235a2",
+      "location": "Vienna, Austria",
+      "company": "Sentry",
       "published": null,
       "salary": "",
       "remote": true,
@@ -197,7 +188,7 @@
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 9,
-      "region": "Kolimine pärast pakkumist: Canada — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Vienna, Austria — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790952780.8003218,
       "category": "programme"
     },
@@ -205,80 +196,79 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Product Marketing Lead - Trade",
-      "url": "https://jobicy.com/jobs/149957-product-marketing-lead-trade",
-      "location": "EMEA, LATAM, USA",
-      "company": "Consensys",
-      "published": 1790995397.0,
-      "salary": "146000–220000 USD / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: EMEA, LATAM, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791014470.5235422,
-      "category": "job"
-    },
-    {
-      "source": "Cohere careers (direct)",
-      "source_id": "direct_cohere",
-      "kind": "ashby",
-      "title": "Research Internship (Winter 2027)",
-      "url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785",
-      "location": "Canada",
-      "company": "Cohere",
-      "published": null,
+      "title": "1775 RPG/AS400 & JD Edwards EnterpriseOne Developer",
+      "url": "https://jobicy.com/jobs/150052-1775-rpg-as400-jd-edwards-enterpriseone-developer",
+      "location": "Anywhere",
+      "company": "Softgic",
+      "published": 1790998226.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Canada — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790952780.8003218,
-      "category": "programme"
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791014470.5235422,
+      "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Senior Product Marketing Manager",
-      "url": "https://jobicy.com/jobs/149965-senior-product-marketing-manager-2",
-      "location": "APAC, EMEA, LATAM, Canada, USA",
-      "company": "RevenueCat",
-      "published": 1790995204.0,
-      "salary": "214000–214000 USD / yearly",
+      "title": "Engineering Manager - Public Cloud, Python, Golang",
+      "url": "https://jobicy.com/jobs/149985-engineering-manager-public-cloud-python-golang",
+      "location": "EMEA, LATAM, Canada, USA",
+      "company": "Canonical",
+      "published": 1790995419.0,
+      "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: APAC, EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "score": 8,
+      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1791014470.5235422,
       "category": "job"
     },
     {
-      "source": "Cohere careers (direct)",
-      "source_id": "direct_cohere",
-      "kind": "ashby",
-      "title": "Machine Learning Intern/Co-op (Winter 2027)",
-      "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b",
-      "location": "Canada",
-      "company": "Cohere",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Software Engineer - Data Infrastructure - Kafka",
+      "url": "https://jobicy.com/jobs/149988-software-engineer-data-infrastructure-kafka",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1790995417.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Canada — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790952780.8003218,
-      "category": "programme"
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791014470.5235422,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch",
+      "url": "https://jobicy.com/jobs/149994-software-engineer-data-infrastructure-opensearch-elasticsearch",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1790995416.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791014470.5235422,
+      "category": "job"
     }
   ],
-  "queued_candidates": 1408
+  "queued_candidates": 1403
 }
