@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-03T02:03:44+00:00",
+  "checked_at": "2026-10-03T08:01:10+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,58 +17,55 @@
       "new_candidates": 0
     },
     {
-      "id": "news_fellowships",
-      "items": 5,
+      "id": "remotive",
+      "items": 17,
       "new_candidates": 0
+    },
+    {
+      "id": "news_fellowships",
+      "error": "FetchError"
     },
     {
       "id": "news_paid_training",
-      "items": 48,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_ai_tasks",
-      "items": 5,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_hackathons",
-      "items": 63,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_grants",
-      "items": 63,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_bounties",
-      "items": 40,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_paid_research",
-      "items": 0,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_estonia",
-      "items": 0,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 26
     },
     {
       "id": "hn_ai",
-      "items": 20,
+      "items": 18,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 9,
+      "items": 10,
       "new_candidates": 0
     },
     {
@@ -77,9 +74,24 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "error": "FetchError"
+    },
+    {
+      "id": "social_x",
+      "error": "FetchError"
+    },
+    {
+      "id": "social_tiktok",
+      "error": "FetchError"
+    },
+    {
       "id": "news_corps",
-      "items": 8,
-      "new_candidates": 0
+      "error": "FetchError"
+    },
+    {
+      "id": "news_clients",
+      "error": "FetchError"
     },
     {
       "id": "direct_seb",
@@ -103,23 +115,23 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 642,
+      "items": 641,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 829,
-      "new_candidates": 1
+      "items": 830,
+      "new_candidates": 3
     },
     {
       "id": "direct_stripe",
-      "items": 714,
+      "items": 715,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
       "items": 445,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_hpiq",
@@ -158,76 +170,34 @@
     },
     {
       "id": "news_estonia_jobs",
-      "items": 0,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_early_career",
-      "items": 0,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_shopify",
-      "items": 0,
-      "new_candidates": 0
+      "error": "FetchError"
     }
   ],
   "selected": [
     {
-      "source": "HP IQ careers (direct)",
-      "source_id": "direct_hpiq",
-      "kind": "greenhouse",
-      "title": "Software Engineering Intern, Product Security (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6116398004",
-      "location": "San Francisco, CA",
-      "company": "HP IQ",
+      "source": "Cohere careers (direct)",
+      "source_id": "direct_cohere",
+      "kind": "ashby",
+      "title": "Software Engineer Intern (Winter 2027)",
+      "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254",
+      "location": "Canada",
+      "company": "Cohere",
       "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790952780.8003218,
-      "category": "programme"
-    },
-    {
-      "source": "Hacker News: ai",
-      "source_id": "hn_ai",
-      "kind": "hn",
-      "title": "Search Atlas | Product Engineer (Product Manager role, not a Full-stack role) | REMOTE (anywhere, EST hours) | Full-time contractor | $23-$34 USD/hour | https://careers.searchatlas.com/jobs/599248-product-engineer... We'",
-      "url": "https://news.ycombinator.com/item?id=49931746",
-      "location": "",
-      "company": "",
-      "published": 1790935232.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790952780.8003218,
-      "category": "job"
-    },
-    {
-      "source": "HP IQ careers (direct)",
-      "source_id": "direct_hpiq",
-      "kind": "greenhouse",
-      "title": "Software Engineer Intern, Cloud Services (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6111955004",
-      "location": "San Francisco, CA",
-      "company": "HP IQ",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 9,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Canada — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790952780.8003218,
       "category": "programme"
     },
@@ -235,41 +205,80 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Frontend Engineering Team Lead - MarTech",
-      "url": "https://jobicy.com/jobs/149869-frontend-engineering-team-lead-martech",
-      "location": "Europe",
-      "company": "Sporty Group",
-      "published": 1790911513.0,
-      "salary": "",
+      "title": "Product Marketing Lead - Trade",
+      "url": "https://jobicy.com/jobs/149957-product-marketing-lead-trade",
+      "location": "EMEA, LATAM, USA",
+      "company": "Consensys",
+      "published": 1790995397.0,
+      "salary": "146000–220000 USD / yearly",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790929530.9392931,
+      "score": 10,
+      "region": "Kaugtöö: EMEA, LATAM, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791014470.5235422,
       "category": "job"
     },
     {
-      "source": "Roblox careers (direct)",
-      "source_id": "direct_roblox",
-      "kind": "greenhouse",
-      "title": "[Summer 2027] Software Engineer Intern",
-      "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
-      "location": "San Mateo, CA, United States",
-      "company": "Roblox",
+      "source": "Cohere careers (direct)",
+      "source_id": "direct_cohere",
+      "kind": "ashby",
+      "title": "Research Internship (Winter 2027)",
+      "url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785",
+      "location": "Canada",
+      "company": "Cohere",
       "published": null,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 9,
-      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Canada — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790952780.8003218,
+      "category": "programme"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Product Marketing Manager",
+      "url": "https://jobicy.com/jobs/149965-senior-product-marketing-manager-2",
+      "location": "APAC, EMEA, LATAM, Canada, USA",
+      "company": "RevenueCat",
+      "published": 1790995204.0,
+      "salary": "214000–214000 USD / yearly",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: APAC, EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791014470.5235422,
+      "category": "job"
+    },
+    {
+      "source": "Cohere careers (direct)",
+      "source_id": "direct_cohere",
+      "kind": "ashby",
+      "title": "Machine Learning Intern/Co-op (Winter 2027)",
+      "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b",
+      "location": "Canada",
+      "company": "Cohere",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Canada — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790952780.8003218,
       "category": "programme"
     }
   ],
-  "queued_candidates": 1384
+  "queued_candidates": 1408
 }
