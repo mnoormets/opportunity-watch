@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-04T13:29:36+00:00",
+  "checked_at": "2026-10-04T17:46:13+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,18 +17,13 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 18,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
       "items": 4,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 44,
+      "items": 40,
       "new_candidates": 0
     },
     {
@@ -38,12 +33,12 @@
     },
     {
       "id": "news_hackathons",
-      "items": 61,
+      "items": 62,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 67,
+      "items": 68,
       "new_candidates": 0
     },
     {
@@ -64,11 +59,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 3
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
-      "items": 13,
+      "items": 12,
       "new_candidates": 0
     },
     {
@@ -82,28 +77,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 98,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 9,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
       "new_candidates": 0
     },
     {
@@ -128,7 +103,7 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 639,
+      "items": 638,
       "new_candidates": 0
     },
     {
@@ -202,75 +177,15 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "3D & LiDAR Data Annotation Analyst",
-      "url": "https://jobicy.com/jobs/154499-3d-lidar-data-annotation-analyst",
-      "location": "Anywhere",
-      "company": "Appen",
-      "published": 1791092156.0,
-      "salary": "30–32 USD / hourly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 13,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791120576.7027204,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Platform Engineer",
-      "url": "https://jobicy.com/jobs/154501-platform-engineer-2",
-      "location": "Anywhere",
-      "company": "Catawiki",
-      "published": 1791092157.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791120576.7027204,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior ML Operations (MLOps) Engineer",
-      "url": "https://jobicy.com/jobs/154500-senior-ml-operations-mlops-engineer",
-      "location": "Anywhere",
-      "company": "Eight Sleep",
-      "published": 1791092156.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791120576.7027204,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Software Architect - Containers / Virtualisation",
-      "url": "https://jobicy.com/jobs/149981-software-architect-containers-virtualisation",
+      "title": "Software Engineer - Cloud Images",
+      "url": "https://jobicy.com/jobs/149978-software-engineer-cloud-images",
       "location": "EMEA, LATAM, Canada, USA",
       "company": "Canonical",
-      "published": 1790994919.0,
+      "published": 1790994915.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
@@ -281,11 +196,71 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Engineering Manager for IAM (Identity and Access Management)",
-      "url": "https://jobicy.com/jobs/149980-engineering-manager-for-iam-identity-and-access-management",
+      "title": "Engineering Manager - Web",
+      "url": "https://jobicy.com/jobs/149976-engineering-manager-web",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1790994912.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791014470.5235422,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Ubuntu Embedded IoT System Engineer",
+      "url": "https://jobicy.com/jobs/149975-senior-ubuntu-embedded-iot-system-engineer",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1790994911.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791014470.5235422,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Software Engineer - Python/MongoDB",
+      "url": "https://jobicy.com/jobs/149974-senior-software-engineer-python-mongodb",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1790994910.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791014470.5235422,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Software Engineering Manager - Container and Virtualisation Infrastructure",
+      "url": "https://jobicy.com/jobs/149973-software-engineering-manager-container-and-virtualisation-infrastructure",
       "location": "EMEA, LATAM, Canada, USA",
       "company": "Canonical",
-      "published": 1790994918.0,
+      "published": 1790994908.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -298,5 +273,5 @@
       "category": "job"
     }
   ],
-  "queued_candidates": 1394
+  "queued_candidates": 1389
 }
