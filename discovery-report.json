@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-04T17:46:13+00:00",
+  "checked_at": "2026-10-04T20:29:15+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,6 +17,11 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 18,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
       "items": 4,
       "new_candidates": 0
@@ -28,22 +33,22 @@
     },
     {
       "id": "news_ai_tasks",
-      "items": 4,
+      "items": 3,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 62,
+      "items": 63,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 68,
+      "items": 67,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 36,
+      "items": 39,
       "new_candidates": 0
     },
     {
@@ -63,7 +68,7 @@
     },
     {
       "id": "hn_ai",
-      "items": 12,
+      "items": 11,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 97,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 9,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -172,106 +197,6 @@
       "new_candidates": 0
     }
   ],
-  "selected": [
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Software Engineer - Cloud Images",
-      "url": "https://jobicy.com/jobs/149978-software-engineer-cloud-images",
-      "location": "EMEA, LATAM, Canada, USA",
-      "company": "Canonical",
-      "published": 1790994915.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791014470.5235422,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Engineering Manager - Web",
-      "url": "https://jobicy.com/jobs/149976-engineering-manager-web",
-      "location": "EMEA",
-      "company": "Canonical",
-      "published": 1790994912.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791014470.5235422,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Ubuntu Embedded IoT System Engineer",
-      "url": "https://jobicy.com/jobs/149975-senior-ubuntu-embedded-iot-system-engineer",
-      "location": "EMEA",
-      "company": "Canonical",
-      "published": 1790994911.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791014470.5235422,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Software Engineer - Python/MongoDB",
-      "url": "https://jobicy.com/jobs/149974-senior-software-engineer-python-mongodb",
-      "location": "EMEA",
-      "company": "Canonical",
-      "published": 1790994910.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791014470.5235422,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Software Engineering Manager - Container and Virtualisation Infrastructure",
-      "url": "https://jobicy.com/jobs/149973-software-engineering-manager-container-and-virtualisation-infrastructure",
-      "location": "EMEA, LATAM, Canada, USA",
-      "company": "Canonical",
-      "published": 1790994908.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791014470.5235422,
-      "category": "job"
-    }
-  ],
+  "selected": [],
   "queued_candidates": 1389
 }
