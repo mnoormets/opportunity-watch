@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-04T07:47:39+00:00",
+  "checked_at": "2026-10-04T13:29:36+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,13 +17,18 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 18,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
-      "items": 5,
+      "items": 4,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 46,
+      "items": 44,
       "new_candidates": 0
     },
     {
@@ -33,17 +38,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 62,
+      "items": 61,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 65,
+      "items": 67,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 35,
+      "items": 36,
       "new_candidates": 0
     },
     {
@@ -59,11 +64,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 2
+      "new_candidates": 3
     },
     {
       "id": "hn_ai",
-      "items": 14,
+      "items": 13,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 98,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 9,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -128,7 +153,7 @@
     },
     {
       "id": "direct_roblox",
-      "items": 254,
+      "items": 253,
       "new_candidates": 0
     },
     {
@@ -149,7 +174,7 @@
     {
       "id": "direct_sentry",
       "items": 43,
-      "new_candidates": 3
+      "new_candidates": 0
     },
     {
       "id": "direct_uplane",
@@ -177,49 +202,30 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "QA Tester (Future Roles)",
-      "url": "https://jobicy.com/jobs/152401-qa-tester-future-roles",
+      "title": "3D & LiDAR Data Annotation Analyst",
+      "url": "https://jobicy.com/jobs/154499-3d-lidar-data-annotation-analyst",
       "location": "Anywhere",
-      "company": "Testlio",
-      "published": 1791088521.0,
-      "salary": "",
+      "company": "Appen",
+      "published": 1791092156.0,
+      "salary": "30–32 USD / hourly",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
+      "score": 13,
       "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791100059.2668433,
+      "found_at": 1791120576.7027204,
       "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Software Engineer",
-      "url": "https://jobicy.com/jobs/152431-software-engineer-9",
-      "location": "Europe, USA",
-      "company": "Dune",
-      "published": 1791088225.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791100059.2668433,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Content marketing lead",
-      "url": "https://jobicy.com/jobs/149995-content-marketing-lead",
-      "location": "EMEA",
-      "company": "Canonical",
-      "published": 1790995209.0,
+      "title": "Platform Engineer",
+      "url": "https://jobicy.com/jobs/154501-platform-engineer-2",
+      "location": "Anywhere",
+      "company": "Catawiki",
+      "published": 1791092157.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -227,26 +233,47 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791014470.5235422,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791120576.7027204,
       "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Ubuntu Core Software Engineer",
-      "url": "https://jobicy.com/jobs/149996-ubuntu-core-software-engineer",
-      "location": "EMEA",
-      "company": "Canonical",
-      "published": 1790995207.0,
+      "title": "Senior ML Operations (MLOps) Engineer",
+      "url": "https://jobicy.com/jobs/154500-senior-ml-operations-mlops-engineer",
+      "location": "Anywhere",
+      "company": "Eight Sleep",
+      "published": 1791092156.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791120576.7027204,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Software Architect - Containers / Virtualisation",
+      "url": "https://jobicy.com/jobs/149981-software-architect-containers-virtualisation",
+      "location": "EMEA, LATAM, Canada, USA",
+      "company": "Canonical",
+      "published": 1790994919.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1791014470.5235422,
       "category": "job"
     },
@@ -254,15 +281,16 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Linux devices software engineer - snapd",
-      "url": "https://jobicy.com/jobs/149969-linux-devices-software-engineer-snapd",
+      "title": "Engineering Manager for IAM (Identity and Access Management)",
+      "url": "https://jobicy.com/jobs/149980-engineering-manager-for-iam-identity-and-access-management",
       "location": "EMEA, LATAM, Canada, USA",
       "company": "Canonical",
-      "published": 1790995205.0,
+      "published": 1790994918.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
@@ -270,5 +298,5 @@
       "category": "job"
     }
   ],
-  "queued_candidates": 1396
+  "queued_candidates": 1394
 }
