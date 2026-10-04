@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-04T20:29:15+00:00",
+  "checked_at": "2026-10-04T23:29:20+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,18 +17,13 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 18,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
       "items": 4,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 40,
+      "items": 42,
       "new_candidates": 0
     },
     {
@@ -38,7 +33,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 63,
+      "items": 60,
       "new_candidates": 0
     },
     {
@@ -48,7 +43,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 39,
+      "items": 47,
       "new_candidates": 0
     },
     {
@@ -68,7 +63,7 @@
     },
     {
       "id": "hn_ai",
-      "items": 11,
+      "items": 10,
       "new_candidates": 0
     },
     {
@@ -82,28 +77,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 97,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 9,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
       "new_candidates": 0
     },
     {
@@ -128,7 +103,7 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 638,
+      "items": 639,
       "new_candidates": 0
     },
     {
@@ -143,7 +118,7 @@
     },
     {
       "id": "direct_datadog",
-      "items": 444,
+      "items": 443,
       "new_candidates": 0
     },
     {
