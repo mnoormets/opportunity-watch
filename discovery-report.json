@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-05T02:15:58+00:00",
+  "checked_at": "2026-10-05T09:11:40+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,6 +14,11 @@
     {
       "id": "startup",
       "items": 50,
+      "new_candidates": 1
+    },
+    {
+      "id": "remotive",
+      "items": 18,
       "new_candidates": 0
     },
     {
@@ -23,7 +28,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 44,
+      "items": 38,
       "new_candidates": 0
     },
     {
@@ -38,12 +43,12 @@
     },
     {
       "id": "news_grants",
-      "items": 68,
+      "items": 66,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 56,
+      "items": 59,
       "new_candidates": 0
     },
     {
@@ -59,11 +64,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 7
     },
     {
       "id": "hn_ai",
-      "items": 10,
+      "items": 11,
       "new_candidates": 0
     },
     {
@@ -77,18 +82,38 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 98,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
-      "items": 9,
+      "items": 10,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
       "id": "direct_seb",
-      "items": 114,
+      "items": 121,
       "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 535,
+      "items": 520,
       "new_candidates": 0
     },
     {
@@ -98,27 +123,27 @@
     },
     {
       "id": "direct_veriff",
-      "items": 10,
-      "new_candidates": 0
+      "items": 11,
+      "new_candidates": 1
     },
     {
       "id": "direct_anthropic",
-      "items": 640,
+      "items": 638,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 827,
+      "items": 828,
       "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 716,
+      "items": 718,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 443,
+      "items": 442,
       "new_candidates": 0
     },
     {
@@ -138,7 +163,7 @@
     },
     {
       "id": "direct_cohere",
-      "items": 137,
+      "items": 136,
       "new_candidates": 0
     },
     {
@@ -177,30 +202,70 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Marketing Associate",
-      "url": "https://jobicy.com/jobs/149941-marketing-associate",
-      "location": "APAC, EMEA, LATAM, Canada, USA",
-      "company": "Canonical",
-      "published": 1790994906.0,
-      "salary": "",
+      "title": "Senior Software Engineer, Frontend",
+      "url": "https://jobicy.com/jobs/152539-senior-software-engineer-frontend",
+      "location": "LATAM, Canada, Europe, USA",
+      "company": "Phantom",
+      "published": 1791175734.0,
+      "salary": "180000–220000 USD / yearly",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: APAC, EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791014470.5235422,
+      "score": 10,
+      "region": "Kaugtöö: LATAM, Canada, Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791191500.2499142,
       "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "GitOps Engineering Manager",
-      "url": "https://jobicy.com/jobs/149939-gitops-engineering-manager",
+      "title": "C, Golang Software Engineer working on dqlite, a Raft extension for SQLite",
+      "url": "https://jobicy.com/jobs/150128-c-golang-software-engineer-working-on-dqlite-a-raft-extension-for-sqlite",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1791175756.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791191500.2499142,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Software Engineer - MAAS",
+      "url": "https://jobicy.com/jobs/150127-senior-software-engineer-maas",
+      "location": "EMEA, LATAM, Canada, USA",
+      "company": "Canonical",
+      "published": 1791175755.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791191500.2499142,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Engineering Manager - Python and K8s",
+      "url": "https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s",
       "location": "APAC, EMEA",
       "company": "Canonical",
-      "published": 1790994905.0,
+      "published": 1791175753.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -209,56 +274,18 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö: APAC, EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791014470.5235422,
+      "found_at": 1791191500.2499142,
       "category": "job"
     },
     {
-      "source": "Startup Jobs",
-      "source_id": "startup",
-      "kind": "rss_jobs",
-      "title": "Machine Learning Engineer (Governance ML Platform) at EDB",
-      "url": "https://startup.jobs/machine-learning-engineer-governance-ml-platform-edb-10264202",
-      "location": "",
-      "company": "",
-      "published": 1790866100.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790952780.8003218,
-      "category": "job"
-    },
-    {
-      "source": "Startup Jobs",
-      "source_id": "startup",
-      "kind": "rss_jobs",
-      "title": "Software Engineer/C Developer-PGD at EDB",
-      "url": "https://startup.jobs/software-engineer-c-developer-pgd-edb-10264203",
-      "location": "",
-      "company": "",
-      "published": 1790864397.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1790952780.8003218,
-      "category": "job"
-    },
-    {
-      "source": "Remotive",
-      "source_id": "remotive",
-      "kind": "remotive",
-      "title": "Senior back-end Engineer",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
-      "location": "Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",
-      "company": "Lemon.io",
-      "published": 1790774126.0,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Software Engineer (Backend)",
+      "url": "https://jobicy.com/jobs/150125-senior-software-engineer-backend",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1791175751.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -266,10 +293,10 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790952780.8003218,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791191500.2499142,
       "category": "job"
     }
   ],
-  "queued_candidates": 1384
+  "queued_candidates": 1388
 }
