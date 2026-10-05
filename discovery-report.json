@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-04T23:29:20+00:00",
+  "checked_at": "2026-10-05T02:15:58+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -23,7 +23,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 42,
+      "items": 44,
       "new_candidates": 0
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "id": "news_grants",
-      "items": 67,
+      "items": 68,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 47,
+      "items": 56,
       "new_candidates": 0
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "id": "direct_seb",
-      "items": 121,
+      "items": 114,
       "new_candidates": 0
     },
     {
@@ -103,12 +103,12 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 639,
+      "items": 640,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 828,
+      "items": 827,
       "new_candidates": 0
     },
     {
@@ -172,6 +172,104 @@
       "new_candidates": 0
     }
   ],
-  "selected": [],
-  "queued_candidates": 1389
+  "selected": [
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Marketing Associate",
+      "url": "https://jobicy.com/jobs/149941-marketing-associate",
+      "location": "APAC, EMEA, LATAM, Canada, USA",
+      "company": "Canonical",
+      "published": 1790994906.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: APAC, EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791014470.5235422,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "GitOps Engineering Manager",
+      "url": "https://jobicy.com/jobs/149939-gitops-engineering-manager",
+      "location": "APAC, EMEA",
+      "company": "Canonical",
+      "published": 1790994905.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: APAC, EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791014470.5235422,
+      "category": "job"
+    },
+    {
+      "source": "Startup Jobs",
+      "source_id": "startup",
+      "kind": "rss_jobs",
+      "title": "Machine Learning Engineer (Governance ML Platform) at EDB",
+      "url": "https://startup.jobs/machine-learning-engineer-governance-ml-platform-edb-10264202",
+      "location": "",
+      "company": "",
+      "published": 1790866100.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1790952780.8003218,
+      "category": "job"
+    },
+    {
+      "source": "Startup Jobs",
+      "source_id": "startup",
+      "kind": "rss_jobs",
+      "title": "Software Engineer/C Developer-PGD at EDB",
+      "url": "https://startup.jobs/software-engineer-c-developer-pgd-edb-10264203",
+      "location": "",
+      "company": "",
+      "published": 1790864397.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1790952780.8003218,
+      "category": "job"
+    },
+    {
+      "source": "Remotive",
+      "source_id": "remotive",
+      "kind": "remotive",
+      "title": "Senior back-end Engineer",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
+      "location": "Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",
+      "company": "Lemon.io",
+      "published": 1790774126.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790952780.8003218,
+      "category": "job"
+    }
+  ],
+  "queued_candidates": 1384
 }
