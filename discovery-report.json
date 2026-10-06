@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-06T00:13:50+00:00",
+  "checked_at": "2026-10-06T06:29:17+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,11 +9,16 @@
     {
       "id": "arbeitnow",
       "items": 325,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "startup",
       "items": 50,
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 17,
       "new_candidates": 0
     },
     {
@@ -23,27 +28,27 @@
     },
     {
       "id": "news_paid_training",
-      "items": 52,
+      "items": 50,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 10,
+      "items": 11,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 61,
+      "items": 62,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 64,
+      "items": 63,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 48,
+      "items": 47,
       "new_candidates": 0
     },
     {
@@ -59,16 +64,16 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
-      "items": 11,
+      "items": 13,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 13,
+      "items": 12,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 98,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 10,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -88,7 +113,7 @@
     },
     {
       "id": "direct_welo",
-      "items": 519,
+      "items": 516,
       "new_candidates": 0
     },
     {
@@ -103,22 +128,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 645,
-      "new_candidates": 5
+      "items": 644,
+      "new_candidates": 1
     },
     {
       "id": "direct_openai",
-      "items": 821,
+      "items": 823,
       "new_candidates": 1
     },
     {
       "id": "direct_stripe",
-      "items": 718,
-      "new_candidates": 3
+      "items": 719,
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 442,
+      "items": 435,
       "new_candidates": 0
     },
     {
@@ -129,7 +154,7 @@
     {
       "id": "direct_roblox",
       "items": 255,
-      "new_candidates": 3
+      "new_candidates": 1
     },
     {
       "id": "direct_gitlab",
@@ -174,102 +199,103 @@
   ],
   "selected": [
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Partner Engineer",
-      "url": "https://jobicy.com/jobs/154638-partner-engineer",
-      "location": "EMEA",
-      "company": "Contentstack",
-      "published": 1791226359.0,
-      "salary": "80000–100000 EUR / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791245630.288484,
-      "category": "job"
-    },
-    {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Senior Forward Deployed Engineer - NA",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-forward-deployed-engineer-na-100694",
-      "location": "Remote",
-      "company": "Camunda",
-      "published": 1791222004.0,
+      "source": "Cohere careers (direct)",
+      "source_id": "direct_cohere",
+      "kind": "ashby",
+      "title": "Software Engineer, Integrations",
+      "url": "https://jobs.ashbyhq.com/cohere/96c74af4-b3d7-4960-a666-212ce4debac8",
+      "location": "Europe",
+      "company": "Cohere",
+      "published": null,
       "salary": "",
       "remote": true,
       "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1791245630.288484,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790952780.8003218,
       "category": "job"
     },
     {
-      "source": "Startup Jobs",
-      "source_id": "startup",
-      "kind": "rss_jobs",
-      "title": "Enterprise Solutions Engineer - Greece at ElevenLabs",
-      "url": "https://startup.jobs/enterprise-solutions-engineer-greece-elevenlabs-10290254",
-      "location": "",
-      "company": "",
-      "published": 1791072000.0,
+      "source": "Veriff careers (direct)",
+      "source_id": "direct_veriff",
+      "kind": "greenhouse",
+      "title": "People Partner (Product & Engineering)",
+      "url": "https://www.veriff.com/careers/position/8719539002?gh_jid=8719539002",
+      "location": "Spain (Remote), Tallinn",
+      "company": "Veriff",
+      "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
+      "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "region": "Eesti — kohapeal või kaugtöö",
       "found_at": 1791191500.2499142,
       "category": "job"
     },
     {
-      "source": "Cohere careers (direct)",
-      "source_id": "direct_cohere",
-      "kind": "ashby",
-      "title": "Forward Deployed Engineer, Agentic Platform (Europe)",
-      "url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0",
-      "location": "Europe",
-      "company": "Cohere",
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Senior C#./NET Developer for Interest Rate Service (IRS) solution | SEB, Solna",
+      "url": "https://jobs.eu.lever.co/seb/19b955ee-3480-4f1f-ad29-d10e69d5f215",
+      "location": "Solna",
+      "company": "SEB",
       "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790952780.8003218,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
       "category": "job"
     },
     {
-      "source": "Cohere careers (direct)",
-      "source_id": "direct_cohere",
-      "kind": "ashby",
-      "title": "Software Engineer, North for Finance",
-      "url": "https://jobs.ashbyhq.com/cohere/f722247c-291b-44ee-af67-5159b8d5d9b9",
-      "location": "Europe",
-      "company": "Cohere",
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Senior Data Engineer / Data Modeller – Finance & Risk Data Platform | SEB | Sweden | Hybrid",
+      "url": "https://jobs.eu.lever.co/seb/05c156a6-6a3d-4a04-bc81-eaf17d2a3df1",
+      "location": "Solna",
+      "company": "SEB",
       "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790952780.8003218,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Senior Database Developer – Powering SEB's Critical Payment Platform | SEB, Örebro",
+      "url": "https://jobs.eu.lever.co/seb/752ac393-9588-4a32-8d37-fe0d8d1c51d1",
+      "location": "Örebro",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Örebro — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
       "category": "job"
     }
   ],
-  "queued_candidates": 1410
+  "queued_candidates": 1408
 }
