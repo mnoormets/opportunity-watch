@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-05T18:24:13+00:00",
+  "checked_at": "2026-10-06T00:13:50+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,7 +9,7 @@
     {
       "id": "arbeitnow",
       "items": 325,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
@@ -17,13 +17,8 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 17,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
-      "items": 5,
+      "items": 4,
       "new_candidates": 0
     },
     {
@@ -33,12 +28,12 @@
     },
     {
       "id": "news_ai_tasks",
-      "items": 6,
+      "items": 10,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 62,
+      "items": 61,
       "new_candidates": 0
     },
     {
@@ -48,7 +43,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 45,
+      "items": 48,
       "new_candidates": 0
     },
     {
@@ -64,16 +59,16 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 3
+      "new_candidates": 1
     },
     {
       "id": "hn_ai",
-      "items": 13,
+      "items": 11,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 12,
+      "items": 13,
       "new_candidates": 0
     },
     {
@@ -82,34 +77,14 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 98,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 10,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
       "id": "direct_seb",
-      "items": 127,
-      "new_candidates": 1
+      "items": 116,
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
@@ -128,42 +103,42 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 641,
-      "new_candidates": 2
-    },
-    {
-      "id": "direct_openai",
-      "items": 832,
-      "new_candidates": 6
-    },
-    {
-      "id": "direct_stripe",
-      "items": 717,
-      "new_candidates": 1
-    },
-    {
-      "id": "direct_datadog",
-      "items": 441,
+      "items": 645,
       "new_candidates": 5
     },
     {
+      "id": "direct_openai",
+      "items": 821,
+      "new_candidates": 1
+    },
+    {
+      "id": "direct_stripe",
+      "items": 718,
+      "new_candidates": 3
+    },
+    {
+      "id": "direct_datadog",
+      "items": 442,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_hpiq",
-      "items": 34,
+      "items": 33,
       "new_candidates": 0
     },
     {
       "id": "direct_roblox",
-      "items": 253,
-      "new_candidates": 0
+      "items": 255,
+      "new_candidates": 3
     },
     {
       "id": "direct_gitlab",
-      "items": 211,
+      "items": 210,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 133,
+      "items": 135,
       "new_candidates": 0
     },
     {
@@ -202,71 +177,31 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Senior Software Engineer, Internal Tooling",
-      "url": "https://jobicy.com/jobs/154567-senior-software-engineer-internal-tooling",
-      "location": "APAC, EMEA, USA",
-      "company": "RevenueCat",
-      "published": 1791188612.0,
-      "salary": "230000–230000 USD / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: APAC, EMEA, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791224653.5801928,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior SDK Engineer",
-      "url": "https://jobicy.com/jobs/154563-senior-sdk-engineer",
-      "location": "EMEA, LATAM, Canada, USA",
-      "company": "RevenueCat",
-      "published": 1791188611.0,
-      "salary": "230000–230000 USD / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791224653.5801928,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Engineering Manager",
-      "url": "https://jobicy.com/jobs/154552-engineering-manager-9",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1791187378.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791224653.5801928,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Web Engineer",
-      "url": "https://jobicy.com/jobs/150123-senior-web-engineer",
+      "title": "Partner Engineer",
+      "url": "https://jobicy.com/jobs/154638-partner-engineer",
       "location": "EMEA",
-      "company": "Canonical",
-      "published": 1791175744.0,
+      "company": "Contentstack",
+      "published": 1791226359.0,
+      "salary": "80000–100000 EUR / yearly",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791245630.288484,
+      "category": "job"
+    },
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Senior Forward Deployed Engineer - NA",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-forward-deployed-engineer-na-100694",
+      "location": "Remote",
+      "company": "Camunda",
+      "published": 1791222004.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -274,30 +209,67 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1791245630.288484,
+      "category": "job"
+    },
+    {
+      "source": "Startup Jobs",
+      "source_id": "startup",
+      "kind": "rss_jobs",
+      "title": "Enterprise Solutions Engineer - Greece at ElevenLabs",
+      "url": "https://startup.jobs/enterprise-solutions-engineer-greece-elevenlabs-10290254",
+      "location": "",
+      "company": "",
+      "published": 1791072000.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
       "found_at": 1791191500.2499142,
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Full Stack Engineer",
-      "url": "https://jobicy.com/jobs/152547-senior-full-stack-engineer",
-      "location": "Anywhere",
-      "company": "Fueled",
-      "published": 1791175739.0,
+      "source": "Cohere careers (direct)",
+      "source_id": "direct_cohere",
+      "kind": "ashby",
+      "title": "Forward Deployed Engineer, Agentic Platform (Europe)",
+      "url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0",
+      "location": "Europe",
+      "company": "Cohere",
+      "published": null,
       "salary": "",
       "remote": true,
       "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791191500.2499142,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790952780.8003218,
+      "category": "job"
+    },
+    {
+      "source": "Cohere careers (direct)",
+      "source_id": "direct_cohere",
+      "kind": "ashby",
+      "title": "Software Engineer, North for Finance",
+      "url": "https://jobs.ashbyhq.com/cohere/f722247c-291b-44ee-af67-5159b8d5d9b9",
+      "location": "Europe",
+      "company": "Cohere",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1790952780.8003218,
       "category": "job"
     }
   ],
-  "queued_candidates": 1401
+  "queued_candidates": 1410
 }
