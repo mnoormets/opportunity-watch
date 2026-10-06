@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-06T06:29:17+00:00",
+  "checked_at": "2026-10-06T13:30:51+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -18,27 +18,27 @@
     },
     {
       "id": "remotive",
-      "items": 17,
+      "items": 18,
       "new_candidates": 0
     },
     {
       "id": "news_fellowships",
-      "items": 4,
+      "items": 5,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 50,
+      "items": 48,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 11,
+      "items": 9,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 62,
+      "items": 63,
       "new_candidates": 0
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 47,
+      "items": 48,
       "new_candidates": 0
     },
     {
@@ -64,16 +64,16 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "hn_ai",
-      "items": 13,
+      "items": 9,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 12,
+      "items": 13,
       "new_candidates": 0
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "id": "social_youtube",
-      "items": 98,
+      "items": 99,
       "new_candidates": 0
     },
     {
@@ -108,8 +108,8 @@
     },
     {
       "id": "direct_seb",
-      "items": 116,
-      "new_candidates": 0
+      "items": 121,
+      "new_candidates": 2
     },
     {
       "id": "direct_welo",
@@ -128,22 +128,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 644,
-      "new_candidates": 1
-    },
-    {
-      "id": "direct_openai",
-      "items": 823,
-      "new_candidates": 1
-    },
-    {
-      "id": "direct_stripe",
-      "items": 719,
+      "items": 642,
       "new_candidates": 0
     },
     {
+      "id": "direct_openai",
+      "items": 822,
+      "new_candidates": 0
+    },
+    {
+      "id": "direct_stripe",
+      "items": 720,
+      "new_candidates": 1
+    },
+    {
       "id": "direct_datadog",
-      "items": 435,
+      "items": 433,
       "new_candidates": 0
     },
     {
@@ -154,7 +154,7 @@
     {
       "id": "direct_roblox",
       "items": 255,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
@@ -163,12 +163,12 @@
     },
     {
       "id": "direct_cohere",
-      "items": 135,
+      "items": 131,
       "new_candidates": 0
     },
     {
       "id": "direct_n8n",
-      "items": 35,
+      "items": 36,
       "new_candidates": 0
     },
     {
@@ -199,49 +199,70 @@
   ],
   "selected": [
     {
-      "source": "Cohere careers (direct)",
-      "source_id": "direct_cohere",
-      "kind": "ashby",
-      "title": "Software Engineer, Integrations",
-      "url": "https://jobs.ashbyhq.com/cohere/96c74af4-b3d7-4960-a666-212ce4debac8",
-      "location": "Europe",
-      "company": "Cohere",
-      "published": null,
-      "salary": "",
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Application Security Engineer",
+      "url": "https://jobicy.com/jobs/154682-senior-application-security-engineer-3",
+      "location": "Anywhere",
+      "company": "Beyond Finance",
+      "published": 1791266935.0,
+      "salary": "140000–165000 USD / yearly",
       "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1790952780.8003218,
+      "score": 10,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791293451.3482244,
       "category": "job"
     },
     {
-      "source": "Veriff careers (direct)",
-      "source_id": "direct_veriff",
-      "kind": "greenhouse",
-      "title": "People Partner (Product & Engineering)",
-      "url": "https://www.veriff.com/careers/position/8719539002?gh_jid=8719539002",
-      "location": "Spain (Remote), Tallinn",
-      "company": "Veriff",
-      "published": null,
-      "salary": "",
-      "remote": false,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Solution Engineer",
+      "url": "https://jobicy.com/jobs/152574-solution-engineer-3",
+      "location": "Anywhere",
+      "company": "RelationalAI",
+      "published": 1791262212.0,
+      "salary": "170000–200000 USD / yearly",
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Eesti — kohapeal või kaugtöö",
-      "found_at": 1791191500.2499142,
+      "score": 10,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791293451.3482244,
       "category": "job"
     },
     {
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Senior C#./NET Developer for Interest Rate Service (IRS) solution | SEB, Solna",
-      "url": "https://jobs.eu.lever.co/seb/19b955ee-3480-4f1f-ad29-d10e69d5f215",
+      "title": "Senior Dynamics 365 Customer Service and Power Platform Solution Developer | SEB, Vilnius",
+      "url": "https://jobs.eu.lever.co/seb/f40f3118-83c6-4cea-b647-c3a6adb3d46f",
+      "location": "Vilnius",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Vilnius — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Senior Security Engineer | SEB, Solna or Vilnius",
+      "url": "https://jobs.eu.lever.co/seb/1a8cc050-4f08-4bdb-acea-b77733aa6876",
       "location": "Solna",
       "company": "SEB",
       "published": null,
@@ -260,8 +281,8 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Senior Data Engineer / Data Modeller – Finance & Risk Data Platform | SEB | Sweden | Hybrid",
-      "url": "https://jobs.eu.lever.co/seb/05c156a6-6a3d-4a04-bc81-eaf17d2a3df1",
+      "title": "Site Reliability Engineer – Data & Analytics at SEB in Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/28322ff2-f6e7-48d9-b161-7fd3e10cd827",
       "location": "Solna",
       "company": "SEB",
       "published": null,
@@ -269,30 +290,9 @@
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
       "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Senior Database Developer – Powering SEB's Critical Payment Platform | SEB, Örebro",
-      "url": "https://jobs.eu.lever.co/seb/752ac393-9588-4a32-8d37-fe0d8d1c51d1",
-      "location": "Örebro",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Örebro — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     }
