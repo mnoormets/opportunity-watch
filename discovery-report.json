@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-06T13:30:51+00:00",
+  "checked_at": "2026-10-06T19:00:10+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,18 +17,13 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 18,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
       "items": 5,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 48,
+      "items": 47,
       "new_candidates": 0
     },
     {
@@ -38,17 +33,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 63,
+      "items": 62,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 63,
+      "items": 64,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 48,
+      "items": 51,
       "new_candidates": 0
     },
     {
@@ -64,16 +59,16 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 2
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
-      "items": 9,
+      "items": 13,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 13,
+      "items": 14,
       "new_candidates": 0
     },
     {
@@ -82,43 +77,23 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 99,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 10,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 0,
+      "id": "direct_seb",
+      "items": 123,
       "new_candidates": 0
     },
     {
-      "id": "direct_seb",
-      "items": 121,
-      "new_candidates": 2
-    },
-    {
       "id": "direct_welo",
-      "items": 516,
+      "items": 513,
       "new_candidates": 0
     },
     {
       "id": "direct_pipedrive",
-      "items": 8,
+      "items": 4,
       "new_candidates": 0
     },
     {
@@ -128,22 +103,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 642,
-      "new_candidates": 0
+      "items": 641,
+      "new_candidates": 2
     },
     {
       "id": "direct_openai",
-      "items": 822,
-      "new_candidates": 0
+      "items": 819,
+      "new_candidates": 2
     },
     {
       "id": "direct_stripe",
-      "items": 720,
+      "items": 725,
       "new_candidates": 1
     },
     {
       "id": "direct_datadog",
-      "items": 433,
+      "items": 432,
       "new_candidates": 0
     },
     {
@@ -153,17 +128,17 @@
     },
     {
       "id": "direct_roblox",
-      "items": 255,
-      "new_candidates": 0
+      "items": 259,
+      "new_candidates": 2
     },
     {
       "id": "direct_gitlab",
-      "items": 210,
+      "items": 211,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 131,
+      "items": 129,
       "new_candidates": 0
     },
     {
@@ -199,50 +174,30 @@
   ],
   "selected": [
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Application Security Engineer",
-      "url": "https://jobicy.com/jobs/154682-senior-application-security-engineer-3",
-      "location": "Anywhere",
-      "company": "Beyond Finance",
-      "published": 1791266935.0,
-      "salary": "140000–165000 USD / yearly",
-      "remote": true,
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Solution Developer – Cloud Foundations | SEB, Solna",
+      "url": "https://jobs.eu.lever.co/seb/ded58586-67f3-487e-818e-b5eb6c9d4419",
+      "location": "Solna",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791293451.3482244,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Solution Engineer",
-      "url": "https://jobicy.com/jobs/152574-solution-engineer-3",
-      "location": "Anywhere",
-      "company": "RelationalAI",
-      "published": 1791262212.0,
-      "salary": "170000–200000 USD / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791293451.3482244,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
       "category": "job"
     },
     {
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Senior Dynamics 365 Customer Service and Power Platform Solution Developer | SEB, Vilnius",
-      "url": "https://jobs.eu.lever.co/seb/f40f3118-83c6-4cea-b647-c3a6adb3d46f",
+      "title": "Solution Developer (Java) in ART Communication | SEB, Vilnius",
+      "url": "https://jobs.eu.lever.co/seb/6c2c9a25-0b25-4a25-83d6-9ff882d6b51e",
       "location": "Vilnius",
       "company": "SEB",
       "published": null,
@@ -250,7 +205,6 @@
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
       "region": "Kolimine pärast pakkumist: Vilnius — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
@@ -261,8 +215,8 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Senior Security Engineer | SEB, Solna or Vilnius",
-      "url": "https://jobs.eu.lever.co/seb/1a8cc050-4f08-4bdb-acea-b77733aa6876",
+      "title": "Solution Developer and Tech Lead, Google Cloud – Cloud Foundations | SEB, Solna",
+      "url": "https://jobs.eu.lever.co/seb/db4fbfb6-2978-43ae-9891-ced14a973e02",
       "location": "Solna",
       "company": "SEB",
       "published": null,
@@ -281,9 +235,9 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Site Reliability Engineer – Data & Analytics at SEB in Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/28322ff2-f6e7-48d9-b161-7fd3e10cd827",
-      "location": "Solna",
+      "title": "Solution Developer in Credit & Capital tribe | SEB, Vilnius",
+      "url": "https://jobs.eu.lever.co/seb/4816796f-22e9-4c33-a2f6-482023c9d0a8",
+      "location": "Vilnius",
       "company": "SEB",
       "published": null,
       "salary": "",
@@ -292,10 +246,29 @@
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Vilnius — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "SQL / C# Developer within Trading Technology / Programmētājs-/a | SEB, Riga",
+      "url": "https://jobs.eu.lever.co/seb/4d6d85d3-5c83-4524-8e98-1913cab87930",
+      "location": "Rīga",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Rīga — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     }
   ],
-  "queued_candidates": 1408
+  "queued_candidates": 1410
 }
