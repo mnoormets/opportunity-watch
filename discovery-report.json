@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-07T08:35:00+00:00",
+  "checked_at": "2026-10-07T15:45:14+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,31 +14,31 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "remotive",
-      "items": 18,
+      "items": 17,
       "new_candidates": 0
     },
     {
       "id": "news_fellowships",
-      "items": 4,
+      "items": 5,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 43,
+      "items": 44,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 10,
+      "items": 11,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 66,
+      "items": 63,
       "new_candidates": 0
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "id": "hn_ai",
-      "items": 15,
+      "items": 9,
       "new_candidates": 0
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "id": "social_youtube",
-      "items": 99,
+      "items": 98,
       "new_candidates": 0
     },
     {
@@ -108,8 +108,8 @@
     },
     {
       "id": "direct_seb",
-      "items": 124,
-      "new_candidates": 0
+      "items": 126,
+      "new_candidates": 1
     },
     {
       "id": "direct_welo",
@@ -128,23 +128,23 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 639,
-      "new_candidates": 0
+      "items": 643,
+      "new_candidates": 2
     },
     {
       "id": "direct_openai",
-      "items": 823,
-      "new_candidates": 0
+      "items": 822,
+      "new_candidates": 1
     },
     {
       "id": "direct_stripe",
-      "items": 732,
-      "new_candidates": 0
+      "items": 717,
+      "new_candidates": 2
     },
     {
       "id": "direct_datadog",
-      "items": 433,
-      "new_candidates": 0
+      "items": 435,
+      "new_candidates": 3
     },
     {
       "id": "direct_hpiq",
@@ -158,7 +158,7 @@
     },
     {
       "id": "direct_gitlab",
-      "items": 210,
+      "items": 211,
       "new_candidates": 0
     },
     {
@@ -168,7 +168,7 @@
     },
     {
       "id": "direct_n8n",
-      "items": 36,
+      "items": 37,
       "new_candidates": 0
     },
     {
@@ -202,11 +202,31 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Senior Sales Engineer, Enterprise - German Speaking",
-      "url": "https://jobicy.com/jobs/148110-senior-sales-engineer-enterprise-german-speaking",
-      "location": "EMEA, UK",
-      "company": "Fivetran",
-      "published": 1791346805.0,
+      "title": "Senior Software Development Engineer in Test (SDET)",
+      "url": "https://jobicy.com/jobs/154770-senior-software-development-engineer-in-test-sdet",
+      "location": "Anywhere",
+      "company": "Flex",
+      "published": 1791363012.0,
+      "salary": "115600–170000 USD / yearly",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791387914.9517412,
+      "category": "job"
+    },
+    {
+      "source": "Startup Jobs",
+      "source_id": "startup",
+      "kind": "rss_jobs",
+      "title": "Senior Product Manager, Mapping & Content at Nuitée",
+      "url": "https://startup.jobs/senior-product-manager-mapping-content-nuitee-10325285",
+      "location": "",
+      "company": "",
+      "published": 1791299281.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -214,17 +234,17 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: EMEA, UK — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791362100.1288502,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1791387914.9517412,
       "category": "job"
     },
     {
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Applied AI Architect",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390735008",
-      "location": "Seoul, South Korea",
+      "title": "Applied AI Architect, Enterprise Tech",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383335008",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
       "company": "Anthropic",
       "published": null,
       "salary": "",
@@ -234,7 +254,7 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: Seoul, South Korea — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     },
@@ -242,9 +262,9 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Applied AI Architect, Commercial",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5192805008",
-      "location": "San Francisco, CA | New York City, NY",
+      "title": "Applied AI Architect, Industries",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390765008",
+      "location": "London, UK",
       "company": "Anthropic",
       "published": null,
       "salary": "",
@@ -254,7 +274,7 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: London, UK — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     },
@@ -262,9 +282,9 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Applied AI Architect, Cyber",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387733008",
-      "location": "San Francisco, CA | New York City, NY",
+      "title": "Applied AI Architect, Partnerships",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390902008",
+      "location": "Sydney, Australia",
       "company": "Anthropic",
       "published": null,
       "salary": "",
@@ -274,30 +294,10 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Applied AI Architect, Digital Natives Business",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5226862008",
-      "location": "Munich, Germany",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Munich, Germany — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Sydney, Australia — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     }
   ],
-  "queued_candidates": 1411
+  "queued_candidates": 1417
 }
