@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-07T02:04:31+00:00",
+  "checked_at": "2026-10-07T08:35:00+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,13 +17,18 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 18,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
       "items": 4,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 47,
+      "items": 43,
       "new_candidates": 0
     },
     {
@@ -33,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 64,
+      "items": 66,
       "new_candidates": 0
     },
     {
@@ -59,11 +64,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "hn_ai",
-      "items": 14,
+      "items": 15,
       "new_candidates": 0
     },
     {
@@ -77,13 +82,33 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 99,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 10,
       "new_candidates": 0
     },
     {
+      "id": "news_clients",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_seb",
-      "items": 121,
+      "items": 124,
       "new_candidates": 0
     },
     {
@@ -93,7 +118,7 @@
     },
     {
       "id": "direct_pipedrive",
-      "items": 4,
+      "items": 6,
       "new_candidates": 0
     },
     {
@@ -103,17 +128,17 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 642,
-      "new_candidates": 1
+      "items": 639,
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 824,
-      "new_candidates": 1
+      "items": 823,
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 731,
+      "items": 732,
       "new_candidates": 0
     },
     {
@@ -174,14 +199,14 @@
   ],
   "selected": [
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Manager, Engineering - Identity",
-      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-manager-engineering-identity-140827",
-      "location": "Remote",
-      "company": "Camunda",
-      "published": 1791319211.0,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Sales Engineer, Enterprise - German Speaking",
+      "url": "https://jobicy.com/jobs/148110-senior-sales-engineer-enterprise-german-speaking",
+      "location": "EMEA, UK",
+      "company": "Fivetran",
+      "published": 1791346805.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -189,17 +214,17 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1791327375.8632965,
+      "region": "Kaugtöö: EMEA, UK — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791362100.1288502,
       "category": "job"
     },
     {
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Account Executive, AI Native",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
-      "location": "New York City, NY; San Francisco, CA | New York City, NY",
+      "title": "Applied AI Architect",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390735008",
+      "location": "Seoul, South Korea",
       "company": "Anthropic",
       "published": null,
       "salary": "",
@@ -209,7 +234,7 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: New York City, NY; San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Seoul, South Korea — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     },
@@ -217,8 +242,8 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "AI Deployment Specialist, Beneficial Deployments",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398438008",
+      "title": "Applied AI Architect, Commercial",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5192805008",
       "location": "San Francisco, CA | New York City, NY",
       "company": "Anthropic",
       "published": null,
@@ -226,6 +251,7 @@
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
       "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
@@ -236,8 +262,8 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "AI Infrastructure Operations, Demand Planning",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382750008",
+      "title": "Applied AI Architect, Cyber",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387733008",
       "location": "San Francisco, CA | New York City, NY",
       "company": "Anthropic",
       "published": null,
@@ -245,6 +271,7 @@
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
       "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
@@ -255,21 +282,22 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "AI Operations Engineer, Partnerships",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391151008",
-      "location": "San Francisco, CA",
+      "title": "Applied AI Architect, Digital Natives Business",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5226862008",
+      "location": "Munich, Germany",
       "company": "Anthropic",
       "published": null,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Munich, Germany — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     }
   ],
-  "queued_candidates": 1415
+  "queued_candidates": 1411
 }
