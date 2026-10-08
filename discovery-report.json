@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-08T06:27:07+00:00",
+  "checked_at": "2026-10-08T13:50:44+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,6 +14,11 @@
     {
       "id": "startup",
       "items": 50,
+      "new_candidates": 1
+    },
+    {
+      "id": "remotive",
+      "items": 19,
       "new_candidates": 0
     },
     {
@@ -23,27 +28,27 @@
     },
     {
       "id": "news_paid_training",
-      "items": 47,
+      "items": 49,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 11,
+      "items": 10,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 64,
+      "items": 65,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 62,
+      "items": 61,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 51,
+      "items": 53,
       "new_candidates": 0
     },
     {
@@ -59,11 +64,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 4
     },
     {
       "id": "hn_ai",
-      "items": 16,
+      "items": 11,
       "new_candidates": 0
     },
     {
@@ -77,23 +82,43 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 99,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 96,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 10,
       "new_candidates": 0
     },
     {
+      "id": "news_clients",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_seb",
-      "items": 117,
+      "items": 126,
       "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 515,
-      "new_candidates": 0
+      "items": 517,
+      "new_candidates": 1
     },
     {
       "id": "direct_pipedrive",
-      "items": 6,
+      "items": 8,
       "new_candidates": 0
     },
     {
@@ -103,23 +128,23 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 648,
+      "items": 646,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 815,
+      "items": 816,
       "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 724,
-      "new_candidates": 1
+      "items": 726,
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 439,
-      "new_candidates": 1
+      "items": 437,
+      "new_candidates": 0
     },
     {
       "id": "direct_hpiq",
@@ -128,7 +153,7 @@
     },
     {
       "id": "direct_roblox",
-      "items": 260,
+      "items": 259,
       "new_candidates": 0
     },
     {
@@ -138,12 +163,12 @@
     },
     {
       "id": "direct_cohere",
-      "items": 126,
+      "items": 123,
       "new_candidates": 0
     },
     {
       "id": "direct_n8n",
-      "items": 37,
+      "items": 38,
       "new_candidates": 0
     },
     {
@@ -174,105 +199,104 @@
   ],
   "selected": [
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Customer Marketing Manager, Industries",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390155008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Product Engineer (Full Stack)",
+      "url": "https://jobicy.com/jobs/151461-product-engineer-full-stack",
+      "location": "Europe",
+      "company": "Maze",
+      "published": 1791430526.0,
+      "salary": "100000–155000 EUR / yearly",
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
+      "score": 10,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791467444.3377836,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Customer Programs Manager, Co-Marketing & Measurement",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388726008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Backend Engineer (Core Team)",
+      "url": "https://jobicy.com/jobs/152752-senior-backend-engineer-core-team",
+      "location": "Europe, Ukraine",
+      "company": "Playson",
+      "published": 1791434704.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
+      "score": 8,
+      "region": "Kaugtöö: Europe, Ukraine — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791467444.3377836,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Data Center Electrical Engineer",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5375371008",
-      "location": "Remote-Friendly, United States",
-      "company": "Anthropic",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Engineering Manager - Linux Hardware Enablement",
+      "url": "https://jobicy.com/jobs/148702-engineering-manager-linux-hardware-enablement",
+      "location": "APAC, EMEA, LATAM, Canada, USA",
+      "company": "Canonical",
+      "published": 1791430517.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Remote-Friendly, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
+      "score": 8,
+      "region": "Kaugtöö: APAC, EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791467444.3377836,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Data Center Mechanical Engineer",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5375376008",
-      "location": "Remote-Friendly, United States",
-      "company": "Anthropic",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Devices & IOT Field Engineering Manager",
+      "url": "https://jobicy.com/jobs/150274-devices-iot-field-engineering-manager-americas",
+      "location": "Anywhere",
+      "company": "Canonical",
+      "published": 1791430214.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Remote-Friendly, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791467444.3377836,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Data Engineer",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4956672008",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "company": "Anthropic",
-      "published": null,
+      "source": "Startup Jobs",
+      "source_id": "startup",
+      "kind": "rss_jobs",
+      "title": "Product Marketing Manager at Toloka",
+      "url": "https://startup.jobs/product-marketing-manager-toloka-10327944",
+      "location": "",
+      "company": "",
+      "published": 1791372361.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1791467444.3377836,
       "category": "job"
     }
   ],
-  "queued_candidates": 1418
+  "queued_candidates": 1419
 }
