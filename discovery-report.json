@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-08T13:50:44+00:00",
+  "checked_at": "2026-10-08T19:31:10+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,21 +14,16 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 1
-    },
-    {
-      "id": "remotive",
-      "items": 19,
       "new_candidates": 0
     },
     {
       "id": "news_fellowships",
-      "items": 4,
+      "items": 5,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 49,
+      "items": 50,
       "new_candidates": 0
     },
     {
@@ -38,12 +33,12 @@
     },
     {
       "id": "news_hackathons",
-      "items": 65,
+      "items": 64,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 61,
+      "items": 59,
       "new_candidates": 0
     },
     {
@@ -64,11 +59,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 4
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
-      "items": 11,
+      "items": 8,
       "new_candidates": 0
     },
     {
@@ -82,28 +77,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 99,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 96,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 10,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
       "new_candidates": 0
     },
     {
@@ -113,8 +88,8 @@
     },
     {
       "id": "direct_welo",
-      "items": 517,
-      "new_candidates": 1
+      "items": 529,
+      "new_candidates": 14
     },
     {
       "id": "direct_pipedrive",
@@ -123,28 +98,28 @@
     },
     {
       "id": "direct_veriff",
-      "items": 12,
+      "items": 11,
       "new_candidates": 0
     },
     {
       "id": "direct_anthropic",
-      "items": 646,
+      "items": 645,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 816,
-      "new_candidates": 0
+      "items": 812,
+      "new_candidates": 1
     },
     {
       "id": "direct_stripe",
-      "items": 726,
-      "new_candidates": 0
+      "items": 728,
+      "new_candidates": 1
     },
     {
       "id": "direct_datadog",
-      "items": 437,
-      "new_candidates": 0
+      "items": 435,
+      "new_candidates": 1
     },
     {
       "id": "direct_hpiq",
@@ -153,17 +128,17 @@
     },
     {
       "id": "direct_roblox",
-      "items": 259,
-      "new_candidates": 0
+      "items": 261,
+      "new_candidates": 1
     },
     {
       "id": "direct_gitlab",
-      "items": 216,
+      "items": 221,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 123,
+      "items": 120,
       "new_candidates": 0
     },
     {
@@ -199,33 +174,14 @@
   ],
   "selected": [
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Product Engineer (Full Stack)",
-      "url": "https://jobicy.com/jobs/151461-product-engineer-full-stack",
-      "location": "Europe",
-      "company": "Maze",
-      "published": 1791430526.0,
-      "salary": "100000–155000 EUR / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791467444.3377836,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Backend Engineer (Core Team)",
-      "url": "https://jobicy.com/jobs/152752-senior-backend-engineer-core-team",
-      "location": "Europe, Ukraine",
-      "company": "Playson",
-      "published": 1791434704.0,
+      "source": "Welo Global careers (direct)",
+      "source_id": "direct_welo",
+      "kind": "lever",
+      "title": "Hebrew Freelance Translator & Copy Editor (Product, Marketing & UI Content)",
+      "url": "https://jobs.lever.co/weloglobal/04a4e887-6f2b-444e-9014-bb8ffb86de45",
+      "location": "Remote, Worldwide",
+      "company": "Welo Global",
+      "published": null,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -233,19 +189,19 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Europe, Ukraine — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1791467444.3377836,
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Engineering Manager - Linux Hardware Enablement",
-      "url": "https://jobicy.com/jobs/148702-engineering-manager-linux-hardware-enablement",
-      "location": "APAC, EMEA, LATAM, Canada, USA",
-      "company": "Canonical",
-      "published": 1791430517.0,
+      "source": "Welo Global careers (direct)",
+      "source_id": "direct_welo",
+      "kind": "lever",
+      "title": "English to Armenian Review Lead for UI, Marketing & Product Content",
+      "url": "https://jobs.lever.co/weloglobal/16eff280-4586-4767-aedc-235217abf2d8",
+      "location": "Remote, Worldwide",
+      "company": "Welo Global",
+      "published": null,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -253,19 +209,19 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: APAC, EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791467444.3377836,
+      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791487870.3659253,
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Devices & IOT Field Engineering Manager",
-      "url": "https://jobicy.com/jobs/150274-devices-iot-field-engineering-manager-americas",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1791430214.0,
+      "source": "Welo Global careers (direct)",
+      "source_id": "direct_welo",
+      "kind": "lever",
+      "title": "English to Estonian Review Lead for UI, Marketing & Product Content",
+      "url": "https://jobs.lever.co/weloglobal/8cd5c6e3-d1de-4975-a8a4-e07d6c2d180d",
+      "location": "Remote, Worldwide",
+      "company": "Welo Global",
+      "published": null,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -273,19 +229,19 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791467444.3377836,
+      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791487870.3659253,
       "category": "job"
     },
     {
-      "source": "Startup Jobs",
-      "source_id": "startup",
-      "kind": "rss_jobs",
-      "title": "Product Marketing Manager at Toloka",
-      "url": "https://startup.jobs/product-marketing-manager-toloka-10327944",
-      "location": "",
-      "company": "",
-      "published": 1791372361.0,
+      "source": "Welo Global careers (direct)",
+      "source_id": "direct_welo",
+      "kind": "lever",
+      "title": "English to Georgian Review Lead for UI, Marketing & Product Content",
+      "url": "https://jobs.lever.co/weloglobal/0d66f514-1fe7-42e1-8382-483781058aef",
+      "location": "Remote, Worldwide",
+      "company": "Welo Global",
+      "published": null,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -293,10 +249,30 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1791467444.3377836,
+      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791487870.3659253,
+      "category": "job"
+    },
+    {
+      "source": "Welo Global careers (direct)",
+      "source_id": "direct_welo",
+      "kind": "lever",
+      "title": "English to German (Switzerland) Review Lead for UI, Marketing & Product Content",
+      "url": "https://jobs.lever.co/weloglobal/afe9e037-0c32-4a0e-88e6-befe5f51ee55",
+      "location": "Remote, Worldwide",
+      "company": "Welo Global",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791487870.3659253,
       "category": "job"
     }
   ],
-  "queued_candidates": 1419
+  "queued_candidates": 1432
 }
