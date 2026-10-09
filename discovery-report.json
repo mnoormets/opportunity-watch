@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-08T23:52:01+00:00",
+  "checked_at": "2026-10-09T03:09:24+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,18 +17,13 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 19,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
-      "items": 5,
+      "items": 4,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 51,
+      "items": 50,
       "new_candidates": 0
     },
     {
@@ -38,12 +33,12 @@
     },
     {
       "id": "news_hackathons",
-      "items": 64,
+      "items": 62,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 60,
+      "items": 61,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
@@ -73,7 +68,7 @@
     },
     {
       "id": "hn_ml",
-      "items": 13,
+      "items": 12,
       "new_candidates": 0
     },
     {
@@ -82,33 +77,13 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 99,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 92,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 99,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 10,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
       "id": "direct_seb",
-      "items": 126,
+      "items": 122,
       "new_candidates": 0
     },
     {
@@ -128,18 +103,18 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 644,
-      "new_candidates": 1
+      "items": 646,
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 816,
-      "new_candidates": 3
+      "items": 817,
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 727,
-      "new_candidates": 1
+      "items": 728,
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
@@ -149,7 +124,7 @@
     {
       "id": "direct_hpiq",
       "items": 35,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_roblox",
@@ -197,6 +172,105 @@
       "new_candidates": 0
     }
   ],
-  "selected": [],
-  "queued_candidates": 1439
+  "selected": [
+    {
+      "source": "HP IQ careers (direct)",
+      "source_id": "direct_hpiq",
+      "kind": "greenhouse",
+      "title": "Software Engineering Intern, Security Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6116398004",
+      "location": "San Francisco, CA",
+      "company": "HP IQ",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791515364.7042546,
+      "category": "programme"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "QA Engineer (Anywhere in Europe)",
+      "url": "https://jobicy.com/jobs/154874-qa-engineer-anywhere-in-europe",
+      "location": "Europe",
+      "company": "PadSplit",
+      "published": 1791486481.0,
+      "salary": "20000–30000 USD / yearly",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791503521.0424886,
+      "category": "job"
+    },
+    {
+      "source": "Welo Global careers (direct)",
+      "source_id": "direct_welo",
+      "kind": "lever",
+      "title": "English to Kazakh Review Lead for UI, Marketing & Product Content",
+      "url": "https://jobs.lever.co/weloglobal/09e904a5-b2a4-4ae3-b5e7-c46151895ad2",
+      "location": "Remote, Worldwide",
+      "company": "Welo Global",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791487870.3659253,
+      "category": "job"
+    },
+    {
+      "source": "Welo Global careers (direct)",
+      "source_id": "direct_welo",
+      "kind": "lever",
+      "title": "English to Kyrgyz Review Lead for UI, Marketing & Product Content",
+      "url": "https://jobs.lever.co/weloglobal/088ad3b5-4e2e-406d-b115-c4a6db6cbdf5",
+      "location": "Remote, Worldwide",
+      "company": "Welo Global",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791487870.3659253,
+      "category": "job"
+    },
+    {
+      "source": "Welo Global careers (direct)",
+      "source_id": "direct_welo",
+      "kind": "lever",
+      "title": "English to Lao Review Lead for UI, Marketing & Product Content",
+      "url": "https://jobs.lever.co/weloglobal/adbe2454-db65-48b3-8e25-82a7d735a39a",
+      "location": "Remote, Worldwide",
+      "company": "Welo Global",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791487870.3659253,
+      "category": "job"
+    }
+  ],
+  "queued_candidates": 1436
 }
