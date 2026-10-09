@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-09T10:26:52+00:00",
+  "checked_at": "2026-10-09T17:07:30+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,7 +9,7 @@
     {
       "id": "arbeitnow",
       "items": 325,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
@@ -18,7 +18,7 @@
     },
     {
       "id": "remotive",
-      "items": 19,
+      "items": 17,
       "new_candidates": 0
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "id": "news_paid_training",
-      "items": 44,
+      "items": 43,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 10,
+      "items": 12,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 66,
+      "items": 54,
       "new_candidates": 0
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 52,
+      "items": 51,
       "new_candidates": 0
     },
     {
@@ -64,11 +64,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 6
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
-      "items": 9,
+      "items": 11,
       "new_candidates": 0
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "id": "social_youtube",
-      "items": 100,
+      "items": 99,
       "new_candidates": 0
     },
     {
       "id": "social_x",
-      "items": 82,
+      "items": 71,
       "new_candidates": 0
     },
     {
@@ -108,12 +108,12 @@
     },
     {
       "id": "direct_seb",
-      "items": 136,
-      "new_candidates": 15
+      "items": 144,
+      "new_candidates": 2
     },
     {
       "id": "direct_welo",
-      "items": 530,
+      "items": 528,
       "new_candidates": 0
     },
     {
@@ -128,23 +128,23 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 644,
-      "new_candidates": 0
+      "items": 647,
+      "new_candidates": 3
     },
     {
       "id": "direct_openai",
-      "items": 816,
-      "new_candidates": 0
+      "items": 818,
+      "new_candidates": 1
     },
     {
       "id": "direct_stripe",
-      "items": 732,
-      "new_candidates": 4
+      "items": 730,
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 430,
-      "new_candidates": 0
+      "items": 438,
+      "new_candidates": 2
     },
     {
       "id": "direct_hpiq",
@@ -153,22 +153,22 @@
     },
     {
       "id": "direct_roblox",
-      "items": 261,
+      "items": 262,
       "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 219,
+      "items": 220,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 121,
-      "new_candidates": 1
+      "items": 120,
+      "new_candidates": 0
     },
     {
       "id": "direct_n8n",
-      "items": 38,
+      "items": 40,
       "new_candidates": 0
     },
     {
@@ -202,46 +202,8 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Wealth & Asset Management Internship 2027: Client Lifecycle Management | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/aa3cc285-579d-4e10-aff1-92ed6f1c1d2d",
-      "location": "Stockholm",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791541612.8884356,
-      "category": "programme"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Product Support Engineer - EMEA",
-      "url": "https://jobicy.com/jobs/154903-product-support-engineer-emea",
-      "location": "EMEA",
-      "company": "Ashby",
-      "published": 1791526961.0,
-      "salary": "85000–104000 GBP / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791541612.8884356,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Wealth & Asset Management Internship 2027: Data Analyst | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/f6ccbeab-e33a-48dd-8f76-820ce7bf9c6d",
+      "title": "Wealth & Asset Management Internship 2027: Digital Channels & Customer Insights | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/d14bdb94-462b-414d-98d6-605f2b9b89e0",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -259,8 +221,8 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Junior Platform Operations Engineer – Automation & Infrastructure as Code | SEB Life & Pension, Solna",
-      "url": "https://jobs.eu.lever.co/seb/f7d84fe2-a6ad-4d7e-803d-343ef35efd50",
+      "title": "Junior Software Platform Engineer – AI & Automation | SEB Life & Pension, Solna",
+      "url": "https://jobs.eu.lever.co/seb/3ae41077-3709-4376-b54f-b47ab3af01b8",
       "location": "Solna",
       "company": "SEB",
       "published": null,
@@ -278,8 +240,8 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Wealth & Asset Management Internship 2027: Data management intern | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/e9f7e691-8b74-4338-ae5e-763c1ebc58b7",
+      "title": "Wealth & Asset Management Internship 2027: Growth & Market Insight Intern | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/ee56aed5-dee4-49c5-ba56-30eee8f7ece9",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -292,7 +254,45 @@
       "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1791541612.8884356,
       "category": "programme"
+    },
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Forward Deployed AI Engineer",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/techtorch/forward-deployed-ai-engineer-eu-uk-193609",
+      "location": "EU + UK",
+      "company": "Techtorch",
+      "published": 1791549608.0,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EU + UK — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791565650.3351963,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Wealth & Asset Management Internship 2027: Growth and Market Intelligence | SEB, Gothenburg",
+      "url": "https://jobs.eu.lever.co/seb/05935454-ba1c-45e0-828f-5b82d9d305b3",
+      "location": "Göteborg",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Göteborg — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791541612.8884356,
+      "category": "programme"
     }
   ],
-  "queued_candidates": 1457
+  "queued_candidates": 1461
 }
