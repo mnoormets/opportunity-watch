@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-09T03:09:24+00:00",
+  "checked_at": "2026-10-09T10:26:52+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,13 +17,18 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 19,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
       "items": 4,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 50,
+      "items": 44,
       "new_candidates": 0
     },
     {
@@ -33,17 +38,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 62,
+      "items": 66,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 61,
+      "items": 60,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 53,
+      "items": 52,
       "new_candidates": 0
     },
     {
@@ -59,7 +64,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 6
     },
     {
       "id": "hn_ai",
@@ -68,7 +73,7 @@
     },
     {
       "id": "hn_ml",
-      "items": 12,
+      "items": 10,
       "new_candidates": 0
     },
     {
@@ -77,18 +82,38 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 82,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 99,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
-      "items": 10,
+      "items": 11,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
       "id": "direct_seb",
-      "items": 122,
-      "new_candidates": 0
+      "items": 136,
+      "new_candidates": 15
     },
     {
       "id": "direct_welo",
-      "items": 529,
+      "items": 530,
       "new_candidates": 0
     },
     {
@@ -103,43 +128,43 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 646,
+      "items": 644,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 817,
+      "items": 816,
       "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 728,
-      "new_candidates": 0
+      "items": 732,
+      "new_candidates": 4
     },
     {
       "id": "direct_datadog",
-      "items": 432,
+      "items": 430,
       "new_candidates": 0
     },
     {
       "id": "direct_hpiq",
       "items": 35,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_roblox",
       "items": 261,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 220,
+      "items": 219,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 120,
-      "new_candidates": 0
+      "items": 121,
+      "new_candidates": 1
     },
     {
       "id": "direct_n8n",
@@ -174,13 +199,13 @@
   ],
   "selected": [
     {
-      "source": "HP IQ careers (direct)",
-      "source_id": "direct_hpiq",
-      "kind": "greenhouse",
-      "title": "Software Engineering Intern, Security Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6116398004",
-      "location": "San Francisco, CA",
-      "company": "HP IQ",
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Wealth & Asset Management Internship 2027: Client Lifecycle Management | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/aa3cc285-579d-4e10-aff1-92ed6f1c1d2d",
+      "location": "Stockholm",
+      "company": "SEB",
       "published": null,
       "salary": "",
       "remote": false,
@@ -188,89 +213,86 @@
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 9,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791515364.7042546,
+      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791541612.8884356,
       "category": "programme"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "QA Engineer (Anywhere in Europe)",
-      "url": "https://jobicy.com/jobs/154874-qa-engineer-anywhere-in-europe",
-      "location": "Europe",
-      "company": "PadSplit",
-      "published": 1791486481.0,
-      "salary": "20000–30000 USD / yearly",
+      "title": "Product Support Engineer - EMEA",
+      "url": "https://jobicy.com/jobs/154903-product-support-engineer-emea",
+      "location": "EMEA",
+      "company": "Ashby",
+      "published": 1791526961.0,
+      "salary": "85000–104000 GBP / yearly",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 10,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791503521.0424886,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791541612.8884356,
       "category": "job"
     },
     {
-      "source": "Welo Global careers (direct)",
-      "source_id": "direct_welo",
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
       "kind": "lever",
-      "title": "English to Kazakh Review Lead for UI, Marketing & Product Content",
-      "url": "https://jobs.lever.co/weloglobal/09e904a5-b2a4-4ae3-b5e7-c46151895ad2",
-      "location": "Remote, Worldwide",
-      "company": "Welo Global",
+      "title": "Wealth & Asset Management Internship 2027: Data Analyst | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/f6ccbeab-e33a-48dd-8f76-820ce7bf9c6d",
+      "location": "Stockholm",
+      "company": "SEB",
       "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791487870.3659253,
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791541612.8884356,
+      "category": "programme"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Junior Platform Operations Engineer – Automation & Infrastructure as Code | SEB Life & Pension, Solna",
+      "url": "https://jobs.eu.lever.co/seb/f7d84fe2-a6ad-4d7e-803d-343ef35efd50",
+      "location": "Solna",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791541612.8884356,
       "category": "job"
     },
     {
-      "source": "Welo Global careers (direct)",
-      "source_id": "direct_welo",
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
       "kind": "lever",
-      "title": "English to Kyrgyz Review Lead for UI, Marketing & Product Content",
-      "url": "https://jobs.lever.co/weloglobal/088ad3b5-4e2e-406d-b115-c4a6db6cbdf5",
-      "location": "Remote, Worldwide",
-      "company": "Welo Global",
+      "title": "Wealth & Asset Management Internship 2027: Data management intern | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/e9f7e691-8b74-4338-ae5e-763c1ebc58b7",
+      "location": "Stockholm",
+      "company": "SEB",
       "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791487870.3659253,
-      "category": "job"
-    },
-    {
-      "source": "Welo Global careers (direct)",
-      "source_id": "direct_welo",
-      "kind": "lever",
-      "title": "English to Lao Review Lead for UI, Marketing & Product Content",
-      "url": "https://jobs.lever.co/weloglobal/adbe2454-db65-48b3-8e25-82a7d735a39a",
-      "location": "Remote, Worldwide",
-      "company": "Welo Global",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791487870.3659253,
-      "category": "job"
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791541612.8884356,
+      "category": "programme"
     }
   ],
-  "queued_candidates": 1436
+  "queued_candidates": 1457
 }
