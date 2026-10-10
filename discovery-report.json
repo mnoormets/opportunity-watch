@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-10T17:59:28+00:00",
+  "checked_at": "2026-10-10T21:16:15+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,23 +17,28 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 18,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
       "items": 5,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 45,
+      "items": 43,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 13,
+      "items": 12,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 56,
+      "items": 58,
       "new_candidates": 0
     },
     {
@@ -43,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 46,
+      "items": 53,
       "new_candidates": 0
     },
     {
@@ -59,16 +64,16 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "hn_ai",
-      "items": 12,
+      "items": 11,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 9,
+      "items": 8,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 66,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 99,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
-      "items": 11,
+      "items": 12,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -172,107 +197,6 @@
       "new_candidates": 0
     }
   ],
-  "selected": [
-    {
-      "source": "Welo Global careers (direct)",
-      "source_id": "direct_welo",
-      "kind": "lever",
-      "title": "English to Maltese Review Lead for UI, Marketing & Product Content",
-      "url": "https://jobs.lever.co/weloglobal/a6fa29ef-6062-4ade-9674-c061cc230104",
-      "location": "Remote, Worldwide",
-      "company": "Welo Global",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791487870.3659253,
-      "category": "job"
-    },
-    {
-      "source": "Welo Global careers (direct)",
-      "source_id": "direct_welo",
-      "kind": "lever",
-      "title": "English to Serbian (Cyrillic) Review Lead for UI, Marketing & Product Content",
-      "url": "https://jobs.lever.co/weloglobal/88806f02-9476-45f3-afab-ff77491b6b82",
-      "location": "Remote, Worldwide",
-      "company": "Welo Global",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791487870.3659253,
-      "category": "job"
-    },
-    {
-      "source": "Welo Global careers (direct)",
-      "source_id": "direct_welo",
-      "kind": "lever",
-      "title": "English to Slovak Review Lead for UI, Marketing & Product Content",
-      "url": "https://jobs.lever.co/weloglobal/8cb7d843-fecc-4614-b925-c5373651ddd0",
-      "location": "Remote, Worldwide",
-      "company": "Welo Global",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791487870.3659253,
-      "category": "job"
-    },
-    {
-      "source": "Welo Global careers (direct)",
-      "source_id": "direct_welo",
-      "kind": "lever",
-      "title": "English to Slovenian Review Lead for UI, Marketing & Product Content",
-      "url": "https://jobs.lever.co/weloglobal/7a101ea3-2ee4-4096-a9bd-4cf3fa404ed3",
-      "location": "Remote, Worldwide",
-      "company": "Welo Global",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791487870.3659253,
-      "category": "job"
-    },
-    {
-      "source": "Welo Global careers (direct)",
-      "source_id": "direct_welo",
-      "kind": "lever",
-      "title": "English to Ukrainian Review Lead for UI, Marketing & Product Content",
-      "url": "https://jobs.lever.co/weloglobal/00ac6822-8a23-4cad-8bd9-f92f77db51a0",
-      "location": "Remote, Worldwide",
-      "company": "Welo Global",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791487870.3659253,
-      "category": "job"
-    }
-  ],
-  "queued_candidates": 1456
+  "selected": [],
+  "queued_candidates": 1457
 }
