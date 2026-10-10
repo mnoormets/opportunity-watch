@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-10T01:13:02+00:00",
+  "checked_at": "2026-10-10T07:05:55+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,26 +9,21 @@
     {
       "id": "arbeitnow",
       "items": 325,
-      "new_candidates": 2
+      "new_candidates": 0
     },
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 1
-    },
-    {
-      "id": "remotive",
-      "items": 17,
       "new_candidates": 0
     },
     {
       "id": "news_fellowships",
-      "items": 5,
+      "items": 6,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 47,
+      "items": 45,
       "new_candidates": 0
     },
     {
@@ -38,17 +33,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 56,
+      "items": 55,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 61,
+      "items": 60,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 50,
+      "items": 49,
       "new_candidates": 0
     },
     {
@@ -64,16 +59,16 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 4
     },
     {
       "id": "hn_ai",
-      "items": 11,
+      "items": 12,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 5,
+      "items": 13,
       "new_candidates": 0
     },
     {
@@ -82,28 +77,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 71,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 99,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 11,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
       "new_candidates": 0
     },
     {
@@ -154,7 +129,7 @@
     {
       "id": "direct_roblox",
       "items": 265,
-      "new_candidates": 2
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
@@ -199,100 +174,104 @@
   ],
   "selected": [
     {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Wealth & Asset Management Internship 2027: Product Specialist - Cash & Securities Services | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/dbe0189c-a21b-4fcf-a8cc-4d2e1792d720",
-      "location": "Stockholm",
-      "company": "SEB",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Staff Backend Engineer (.NET) (f/m/d)",
+      "url": "https://jobicy.com/jobs/152932-staff-backend-engineer-net-f-m-d",
+      "location": "Europe",
+      "company": "Apaleo",
+      "published": 1791603021.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791541612.8884356,
-      "category": "programme"
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791615955.0601528,
+      "category": "job"
     },
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Full Stack Engineer: Retail Media",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-240947",
-      "location": "Remote - EMEA",
-      "company": "Constructor",
-      "published": 1791582007.0,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Staff Software Engineer - Data",
+      "url": "https://jobicy.com/jobs/152919-staff-software-engineer-data",
+      "location": "Europe, USA",
+      "company": "Dune",
+      "published": 1791602608.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791615955.0601528,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Manager, Solutions & Partnerships, Marketing Services",
+      "url": "https://jobicy.com/jobs/152842-senior-manager-solutions-partnerships-marketing-services",
+      "location": "LATAM, Canada, Europe",
+      "company": "Toptal",
+      "published": 1791602420.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: LATAM, Canada, Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791615955.0601528,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Content Marketing Manager",
+      "url": "https://jobicy.com/jobs/148920-content-marketing-manager-3",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1791602416.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791615955.0601528,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "International Audio/Video Remote Georgian Interpreter",
+      "url": "https://jobicy.com/jobs/152792-international-audio-video-remote-georgian-interpreter",
+      "location": "Anywhere",
+      "company": "Language Services Associates",
+      "published": 1791514222.0,
+      "salary": "",
+      "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Remote - EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791594782.275826,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Wealth & Asset Management Internship 2027: Risk Analyst Intern | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/e2eb471d-8184-4e88-b150-90984cc76fd9",
-      "location": "Stockholm",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1791541612.8884356,
-      "category": "programme"
-    },
-    {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Machine Learning Engineer: Ranking & Personalization",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-machine-learning-engineer-ranking-personalization-312759",
-      "location": "Remote - EMEA",
-      "company": "Constructor",
-      "published": 1791582007.0,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Remote - EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791594782.275826,
       "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Wealth & Asset Management Internship 2027: Sustainability Specialist | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/6d949679-3893-4a0f-8d95-5bf300d63326",
-      "location": "Stockholm",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791541612.8884356,
-      "category": "programme"
     }
   ],
-  "queued_candidates": 1466
+  "queued_candidates": 1465
 }
