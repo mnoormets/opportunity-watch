@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-09T21:38:15+00:00",
+  "checked_at": "2026-10-10T01:13:02+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,21 +9,26 @@
     {
       "id": "arbeitnow",
       "items": 325,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "startup",
       "items": 50,
+      "new_candidates": 1
+    },
+    {
+      "id": "remotive",
+      "items": 17,
       "new_candidates": 0
     },
     {
       "id": "news_fellowships",
-      "items": 6,
+      "items": 5,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 43,
+      "items": 47,
       "new_candidates": 0
     },
     {
@@ -33,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 54,
+      "items": 56,
       "new_candidates": 0
     },
     {
@@ -68,7 +73,7 @@
     },
     {
       "id": "hn_ml",
-      "items": 7,
+      "items": 5,
       "new_candidates": 0
     },
     {
@@ -77,13 +82,33 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 71,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 99,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 11,
       "new_candidates": 0
     },
     {
+      "id": "news_clients",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_seb",
-      "items": 144,
+      "items": 142,
       "new_candidates": 0
     },
     {
@@ -103,18 +128,18 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 647,
+      "items": 645,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 816,
-      "new_candidates": 1
+      "items": 815,
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 735,
-      "new_candidates": 3
+      "items": 729,
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
@@ -128,12 +153,12 @@
     },
     {
       "id": "direct_roblox",
-      "items": 264,
-      "new_candidates": 4
+      "items": 265,
+      "new_candidates": 2
     },
     {
       "id": "direct_gitlab",
-      "items": 219,
+      "items": 221,
       "new_candidates": 0
     },
     {
@@ -143,13 +168,13 @@
     },
     {
       "id": "direct_n8n",
-      "items": 40,
+      "items": 38,
       "new_candidates": 0
     },
     {
       "id": "direct_sentry",
       "items": 46,
-      "new_candidates": 2
+      "new_candidates": 0
     },
     {
       "id": "direct_uplane",
@@ -177,8 +202,8 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Wealth & Asset Management Internship 2027: Junior Investment analyst | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/929872c0-9820-418d-927b-b079f0ca4622",
+      "title": "Wealth & Asset Management Internship 2027: Product Specialist - Cash & Securities Services | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/dbe0189c-a21b-4fcf-a8cc-4d2e1792d720",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -193,30 +218,30 @@
       "category": "programme"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Accounting Automation Engineer",
-      "url": "https://jobicy.com/jobs/154905-accounting-automation-engineer",
-      "location": "Europe",
-      "company": "Ruby Labs",
-      "published": 1791526962.0,
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Full Stack Engineer: Retail Media",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-240947",
+      "location": "Remote - EMEA",
+      "company": "Constructor",
+      "published": 1791582007.0,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
       "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791541612.8884356,
+      "region": "Kaugtöö: Remote - EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791594782.275826,
       "category": "job"
     },
     {
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Wealth & Asset Management Internship 2027: Junior specialist support | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/be367e85-c030-455d-9c19-0a0f1be2149f",
+      "title": "Wealth & Asset Management Internship 2027: Risk Analyst Intern | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/e2eb471d-8184-4e88-b150-90984cc76fd9",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -231,30 +256,30 @@
       "category": "programme"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Support Engineer (EMEA - Weekends)",
-      "url": "https://jobicy.com/jobs/152811-support-engineer-emea-weekends",
-      "location": "EMEA",
-      "company": "Supabase",
-      "published": 1791514509.0,
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Machine Learning Engineer: Ranking & Personalization",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-machine-learning-engineer-ranking-personalization-312759",
+      "location": "Remote - EMEA",
+      "company": "Constructor",
+      "published": 1791582007.0,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
       "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791541612.8884356,
+      "region": "Kaugtöö: Remote - EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791594782.275826,
       "category": "job"
     },
     {
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Wealth & Asset Management Internship 2027: Private Equity | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/2d6e7df8-e692-4da5-a3d6-d4b96f1ea315",
+      "title": "Wealth & Asset Management Internship 2027: Sustainability Specialist | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/6d949679-3893-4a0f-8d95-5bf300d63326",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
