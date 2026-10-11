@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-11T17:39:58+00:00",
+  "checked_at": "2026-10-11T21:03:38+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,13 +17,18 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 18,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
       "items": 4,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 39,
+      "items": 37,
       "new_candidates": 0
     },
     {
@@ -33,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 57,
+      "items": 60,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 60,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 11,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -108,7 +133,7 @@
     },
     {
       "id": "direct_openai",
-      "items": 815,
+      "items": 814,
       "new_candidates": 0
     },
     {
@@ -129,7 +154,7 @@
     {
       "id": "direct_roblox",
       "items": 265,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
@@ -172,107 +197,6 @@
       "new_candidates": 0
     }
   ],
-  "selected": [
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Engineering Manager, Connectivity - London",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5309805008",
-      "location": "London, UK",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: London, UK — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Engineering Manager, Cybersecurity Products",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5236531008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Engineering Manager, Enterprise",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5255912008",
-      "location": "San Francisco, CA",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Engineering Manager, GPU (ML Accelerator)",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4741104008",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Engineering Manager, GRC Platform",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980335008",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    }
-  ],
+  "selected": [],
   "queued_candidates": 1444
 }
