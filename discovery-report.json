@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-11T00:15:39+00:00",
+  "checked_at": "2026-10-11T05:56:42+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,18 +17,23 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 18,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
       "items": 5,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 41,
+      "items": 40,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 11,
+      "items": 10,
       "new_candidates": 0
     },
     {
@@ -38,12 +43,12 @@
     },
     {
       "id": "news_grants",
-      "items": 61,
+      "items": 64,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 48,
+      "items": 49,
       "new_candidates": 0
     },
     {
@@ -63,12 +68,12 @@
     },
     {
       "id": "hn_ai",
-      "items": 11,
+      "items": 10,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 7,
+      "items": 6,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 64,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 99,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 12,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -113,8 +138,8 @@
     },
     {
       "id": "direct_stripe",
-      "items": 728,
-      "new_candidates": 0
+      "items": 729,
+      "new_candidates": 1
     },
     {
       "id": "direct_datadog",
@@ -174,50 +199,51 @@
   ],
   "selected": [
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "International Audio/Video Remote German Interpreter",
-      "url": "https://jobicy.com/jobs/154973-international-audio-video-remote-german-interpreter",
-      "location": "Anywhere",
-      "company": "Language Services Associates",
-      "published": 1791647435.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791666975.957326,
-      "category": "job"
-    },
-    {
-      "source": "Welo Global careers (direct)",
-      "source_id": "direct_welo",
-      "kind": "lever",
-      "title": "English to Uzbek (Cyrillic) Review Lead for UI, Marketing & Product Content",
-      "url": "https://jobs.lever.co/weloglobal/82e197c4-7341-4cb6-a81f-183d77f0427a",
-      "location": "Remote, Worldwide",
-      "company": "Welo Global",
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Data Scientist, Marketing",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5161402008",
+      "location": "New York City, NY | Seattle, WA; San Francisco, CA",
+      "company": "Anthropic",
       "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
+      "relocation_employer": true,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791487870.3659253,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: New York City, NY | Seattle, WA; San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
       "category": "job"
     },
     {
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Data Engineer, GTM",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418610008",
+      "title": "Developer Education Lead, Claude Platform",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5311465008",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Developer Relations",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383596008",
       "location": "San Francisco, CA | New York City, NY",
       "company": "Anthropic",
       "published": null,
@@ -236,19 +262,18 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Data Engineer, Safeguards",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
-      "location": "San Francisco, CA | New York City, NY",
+      "title": "DevOps / AgentOps Engineer, GTM Systems",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392856008",
+      "location": "San Francisco, CA",
       "company": "Anthropic",
       "published": null,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     },
@@ -256,9 +281,9 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Data Scientist, Developer Productivity",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5197529008",
-      "location": "San Francisco, CA | New York City, NY",
+      "title": "Director, Finance Systems - Revenue Systems Engineering",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409055008",
+      "location": "San Francisco, CA | Seattle, WA",
       "company": "Anthropic",
       "published": null,
       "salary": "",
@@ -268,10 +293,10 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     }
   ],
-  "queued_candidates": 1452
+  "queued_candidates": 1448
 }
