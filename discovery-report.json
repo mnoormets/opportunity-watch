@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-11T05:56:42+00:00",
+  "checked_at": "2026-10-11T12:05:39+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -23,32 +23,32 @@
     },
     {
       "id": "news_fellowships",
-      "items": 5,
+      "items": 4,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 40,
+      "items": 36,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 10,
+      "items": 9,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 59,
+      "items": 58,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 64,
+      "items": 62,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 49,
+      "items": 50,
       "new_candidates": 0
     },
     {
@@ -64,7 +64,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 5
     },
     {
       "id": "hn_ai",
@@ -73,7 +73,7 @@
     },
     {
       "id": "hn_ml",
-      "items": 6,
+      "items": 5,
       "new_candidates": 0
     },
     {
@@ -88,17 +88,17 @@
     },
     {
       "id": "social_x",
-      "items": 64,
+      "items": 61,
       "new_candidates": 0
     },
     {
       "id": "social_tiktok",
-      "items": 99,
+      "items": 100,
       "new_candidates": 0
     },
     {
       "id": "news_corps",
-      "items": 12,
+      "items": 11,
       "new_candidates": 0
     },
     {
@@ -139,7 +139,7 @@
     {
       "id": "direct_stripe",
       "items": 729,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
@@ -199,102 +199,100 @@
   ],
   "selected": [
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Data Scientist, Marketing",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5161402008",
-      "location": "New York City, NY | Seattle, WA; San Francisco, CA",
-      "company": "Anthropic",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Product Engineering",
+      "url": "https://jobicy.com/jobs/155050-product-engineering",
+      "location": "Europe, USA",
+      "company": "Polar",
+      "published": 1791707988.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: New York City, NY | Seattle, WA; San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
+      "score": 8,
+      "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791720339.6398704,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Developer Education Lead, Claude Platform",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5311465008",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "company": "Anthropic",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Platform Engineering",
+      "url": "https://jobicy.com/jobs/155048-platform-engineering",
+      "location": "Europe, USA",
+      "company": "Polar",
+      "published": 1791707988.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
+      "score": 8,
+      "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791720339.6398704,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Developer Relations",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383596008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "AI Lead / Engineering Manager",
+      "url": "https://jobicy.com/jobs/155019-ai-lead-engineering-manager",
+      "location": "Europe",
+      "company": "saas.group",
+      "published": 1791698780.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791720339.6398704,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "DevOps / AgentOps Engineer, GTM Systems",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392856008",
-      "location": "San Francisco, CA",
-      "company": "Anthropic",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Staff Research Engineer - Interactive Avatars",
+      "url": "https://jobicy.com/jobs/152977-staff-research-engineer-interactive-avatars",
+      "location": "Europe",
+      "company": "Synthesia",
+      "published": 1791690910.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791720339.6398704,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Director, Finance Systems - Revenue Systems Engineering",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409055008",
-      "location": "San Francisco, CA | Seattle, WA",
-      "company": "Anthropic",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Research Engineer in Data",
+      "url": "https://jobicy.com/jobs/152972-research-engineer-in-data",
+      "location": "Europe",
+      "company": "Synthesia",
+      "published": 1791690907.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791720339.6398704,
       "category": "job"
     }
   ],
