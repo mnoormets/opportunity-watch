@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-11T12:05:39+00:00",
+  "checked_at": "2026-10-11T17:39:58+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,33 +17,28 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 18,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
       "items": 4,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 36,
+      "items": 39,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 9,
+      "items": 10,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 58,
+      "items": 57,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 62,
+      "items": 64,
       "new_candidates": 0
     },
     {
@@ -64,16 +59,16 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 5
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
-      "items": 10,
+      "items": 7,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 5,
+      "items": 4,
       "new_candidates": 0
     },
     {
@@ -82,28 +77,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 61,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 11,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
       "new_candidates": 0
     },
     {
@@ -138,7 +113,7 @@
     },
     {
       "id": "direct_stripe",
-      "items": 729,
+      "items": 728,
       "new_candidates": 0
     },
     {
@@ -154,7 +129,7 @@
     {
       "id": "direct_roblox",
       "items": 265,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_gitlab",
@@ -199,102 +174,105 @@
   ],
   "selected": [
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Product Engineering",
-      "url": "https://jobicy.com/jobs/155050-product-engineering",
-      "location": "Europe, USA",
-      "company": "Polar",
-      "published": 1791707988.0,
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Engineering Manager, Connectivity - London",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5309805008",
+      "location": "London, UK",
+      "company": "Anthropic",
+      "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791720339.6398704,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Platform Engineering",
-      "url": "https://jobicy.com/jobs/155048-platform-engineering",
-      "location": "Europe, USA",
-      "company": "Polar",
-      "published": 1791707988.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791720339.6398704,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "AI Lead / Engineering Manager",
-      "url": "https://jobicy.com/jobs/155019-ai-lead-engineering-manager",
-      "location": "Europe",
-      "company": "saas.group",
-      "published": 1791698780.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
+      "relocation_employer": true,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791720339.6398704,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: London, UK — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Staff Research Engineer - Interactive Avatars",
-      "url": "https://jobicy.com/jobs/152977-staff-research-engineer-interactive-avatars",
-      "location": "Europe",
-      "company": "Synthesia",
-      "published": 1791690910.0,
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Engineering Manager, Cybersecurity Products",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5236531008",
+      "location": "San Francisco, CA | New York City, NY",
+      "company": "Anthropic",
+      "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
+      "relocation_employer": true,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791720339.6398704,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Research Engineer in Data",
-      "url": "https://jobicy.com/jobs/152972-research-engineer-in-data",
-      "location": "Europe",
-      "company": "Synthesia",
-      "published": 1791690907.0,
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Engineering Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5255912008",
+      "location": "San Francisco, CA",
+      "company": "Anthropic",
+      "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791720339.6398704,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Engineering Manager, GPU (ML Accelerator)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4741104008",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Engineering Manager, GRC Platform",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980335008",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
       "category": "job"
     }
   ],
-  "queued_candidates": 1448
+  "queued_candidates": 1444
 }
