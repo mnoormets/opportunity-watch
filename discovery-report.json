@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-12T00:29:23+00:00",
+  "checked_at": "2026-10-12T06:19:35+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,13 +17,18 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 18,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
       "items": 4,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 37,
+      "items": 40,
       "new_candidates": 0
     },
     {
@@ -33,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 61,
+      "items": 60,
       "new_candidates": 0
     },
     {
@@ -43,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 49,
+      "items": 53,
       "new_candidates": 0
     },
     {
@@ -63,12 +68,12 @@
     },
     {
       "id": "hn_ai",
-      "items": 7,
+      "items": 10,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 4,
+      "items": 8,
       "new_candidates": 0
     },
     {
@@ -77,13 +82,33 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 59,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 11,
       "new_candidates": 0
     },
     {
+      "id": "news_clients",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_seb",
-      "items": 127,
+      "items": 128,
       "new_candidates": 0
     },
     {
@@ -108,7 +133,7 @@
     },
     {
       "id": "direct_openai",
-      "items": 812,
+      "items": 811,
       "new_candidates": 0
     },
     {
@@ -177,9 +202,9 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Engineering Manager, Growth",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5361472008",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "title": "Engineering Manager, Safeguards",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5410610008",
+      "location": "London, UK",
       "company": "Anthropic",
       "published": null,
       "salary": "",
@@ -189,7 +214,7 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: London, UK — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     },
@@ -197,9 +222,9 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Engineering Manager, Hardware Platform Security",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5405548008",
-      "location": "San Francisco, CA | Seattle, WA",
+      "title": "Engineering Manager, Safeguards Review Tooling",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5013366008",
+      "location": "San Francisco, CA",
       "company": "Anthropic",
       "published": null,
       "salary": "",
@@ -209,7 +234,7 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     },
@@ -217,28 +242,8 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Engineering Manager, Inference Infrastructure",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5411560008",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Engineering Manager, Research Data Platform",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5297059008",
+      "title": "Engineering Manager, Scheduler and Fleet Efficiency",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5411267008",
       "location": "San Francisco, CA | New York City, NY",
       "company": "Anthropic",
       "published": null,
@@ -257,8 +262,8 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Engineering Manager, Research Productivity",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5223093008",
+      "title": "Engineering Manager, Search",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5371065008",
       "location": "San Francisco, CA | New York City, NY",
       "company": "Anthropic",
       "published": null,
@@ -270,9 +275,28 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
       "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "[Expression of Interest] Research Engineer / Scientist, Alignment - London",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4610158008",
+      "location": "London, UK",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: London, UK — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     }
   ],
-  "queued_candidates": 1439
+  "queued_candidates": 1434
 }
