@@ -23916,27 +23916,55 @@
     "39eb1e184b8002a5516d8687912b80248dbedea33424349d9d1c2ed3bde82f1e": 1791752618.4243648,
     "ed4a8fdab490681f4ed1ef89502f010465d6bf7ca0207a062b399b79fb0f01a1": 1791752618.4243648,
     "461fe83a0a1605200c2775e1f18d3ac64fe271b5bd8463c787e7a361dadbbe3c": 1791752618.4243648,
-    "e42eb5b28993f047860184884b80ff02264f79c134289ecdcb780168245cee89": 1791752618.4243648
+    "e42eb5b28993f047860184884b80ff02264f79c134289ecdcb780168245cee89": 1791752618.4243648,
+    "a7b464602cb59d03750a50a2c480a54ed601ad4e80c09f7cb51cd0097ee49eed": 1791764963.179731,
+    "a40568b1b56f086021b9755ca30a73b96449a87a2fc87c04190ee53e8393d85b": 1791764963.179731,
+    "14d22561b90728ebf9c06ae2a76d4b1f446876f27ba47f2aada19325960365a4": 1791764963.179731,
+    "cec04ab58e40259b87ec9a9652d42fe0e23de4afa7b3bb695b055256665c62cd": 1791764963.179731,
+    "723bea304fc16a4c8f64a602f85d84282cd346e712dc531ef8dc1ce7ffe8f8c1": 1791764963.179731,
+    "2647d6bb493e8fe5033c38a4003cd954cf773881baa9c80d7eebedf9f2210128": 1791764963.179731,
+    "3897feaad75a4fd43532230fdf15e944487fdf0a2269e409d9aafa80d06d90ec": 1791764963.179731,
+    "4e4bf9bad8d45fa8e737dacb68a30ad5fe15d38dc3fd56dfc96b81d11644b08c": 1791764963.179731,
+    "16dffeb7af67b9ed1bacab782aae159c7093056ca766ede19f57cfc5bed0cb3e": 1791764963.179731,
+    "33dfa717094c9d15592ceee8bfac7d33bbb63a42658d3dfa4219cdbeba953b67": 1791764963.179731,
+    "b837942b2d529099baa3b213751be51e996223c3ae11cf28d4aa40d1e1857166": 1791764963.179731,
+    "0789b67baef84e12a47895bfb327dda843a1ea9d072d8efc0b51b77d160ad325": 1791764963.179731,
+    "ca59eeadd6bab773d53b5497da35432dd6197a18d5a695c9afaae3aa34923bcb": 1791764963.179731,
+    "f217babbdf8e4c8acc49d0b1c1344cb6658b8eceda19731e3556794c398b4f3f": 1791764963.179731,
+    "e1c6e6f802909b705905a9ff2a32dbe6bb18ac06d457b91f4cab3e3331dbf9d5": 1791764963.179731,
+    "b77d14a85e957787df126083f26cf15ac2a971776dbdb116dc1a7bc8d075b977": 1791764963.179731,
+    "f003022029c8c0057484f96df05a7f917ca17d426b64b4837df39611ebc1ff80": 1791764963.179731,
+    "9dacd0d992f7c32990a52902591662996d0af9f137c282b625caab677cd63d2f": 1791764963.179731,
+    "df0ef1da5e74c85b1df0673261ad5c992a12518507161a09102a5c214321a0bc": 1791764963.179731,
+    "f520af586b20dc3aeb26bd92f12557dd7322e6d83967701f4d4ab5756dc5be26": 1791764963.179731,
+    "95adaa36946317683924e073aa041c7f71a16a0a361fa721870276f10779d9c9": 1791764963.179731,
+    "198e5b5f671a23573a71576c29030710e56dfcf4a32d4d2eb119bb8a947c018e": 1791764963.179731,
+    "4edfb9d5fd8233bb405b0ec51cbdf86da35a7cbffc485a726d6dd215997564b1": 1791764963.179731,
+    "0acb23d1162737f51922adb793f0e2cab3cae57adfc07deffc016013215f3e7a": 1791764963.179731,
+    "9c439cbcadf562bc09de5faa9067831eae1cba06631e800052190420b562014e": 1791764963.179731,
+    "153cf4b841eeb55e5e87f59886f6677b100ae6f834234d1611f33a5630245c1d": 1791764963.179731,
+    "a0eb0115a2fea045d074717b8fd967d4d7bcad9b52525ddf73479abf808aa226": 1791764963.179731,
+    "dccd12ce27ad7dab5ce81c7b8d43b5f72d04b7174f3e9963424d210bab7e9d85": 1791764963.179731
   },
   "sources": {
     "remoteok": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:03:39+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:29:24+00:00",
       "items": 99,
       "accepted": 0
     },
     "arbeitnow": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:03:41+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:29:26+00:00",
       "items": 325,
       "accepted": 0
     },
     "startup": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:03:42+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:29:27+00:00",
       "items": 50,
       "accepted": 0
     },
@@ -23949,85 +23977,85 @@
     },
     "news_fellowships": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:03:45+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:29:28+00:00",
       "items": 4,
       "accepted": 0
     },
     "news_paid_training": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:03:46+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:29:30+00:00",
       "items": 37,
       "accepted": 0
     },
     "news_ai_tasks": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:03:48+00:00",
-      "items": 10,
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:29:31+00:00",
+      "items": 9,
       "accepted": 0
     },
     "news_hackathons": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:03:49+00:00",
-      "items": 60,
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:29:33+00:00",
+      "items": 61,
       "accepted": 0
     },
     "news_grants": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:03:51+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:29:34+00:00",
       "items": 64,
       "accepted": 0
     },
     "news_bounties": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:03:52+00:00",
-      "items": 50,
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:29:36+00:00",
+      "items": 49,
       "accepted": 0
     },
     "news_paid_research": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:03:54+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:29:37+00:00",
       "items": 0,
       "accepted": 0
     },
     "news_estonia": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:03:55+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:29:39+00:00",
       "items": 0,
       "accepted": 0
     },
     "jobicy": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:03:57+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:29:40+00:00",
       "items": 100,
       "accepted": 0
     },
     "hn_ai": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:03:58+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:29:42+00:00",
       "items": 7,
       "accepted": 0
     },
     "hn_ml": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:04:00+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:29:43+00:00",
       "items": 4,
       "accepted": 0
     },
     "hn_projects": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:04:01+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:29:44+00:00",
       "items": 0,
       "accepted": 0
     },
@@ -24054,8 +24082,8 @@
     },
     "news_corps": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:04:07+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:29:46+00:00",
       "items": 11,
       "accepted": 0
     },
@@ -24068,232 +24096,132 @@
     },
     "direct_seb": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:04:11+00:00",
-      "items": 137,
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:29:48+00:00",
+      "items": 127,
       "accepted": 0
     },
     "direct_welo": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:04:18+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:29:52+00:00",
       "items": 528,
       "accepted": 0
     },
     "direct_pipedrive": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:04:20+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:29:53+00:00",
       "items": 8,
       "accepted": 0
     },
     "direct_veriff": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:04:21+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:29:54+00:00",
       "items": 11,
       "accepted": 0
     },
     "direct_anthropic": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:04:24+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:29:58+00:00",
       "items": 645,
       "accepted": 0
     },
     "direct_openai": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:04:26+00:00",
-      "items": 814,
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:30:00+00:00",
+      "items": 812,
       "accepted": 0
     },
     "direct_stripe": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:04:29+00:00",
-      "items": 728,
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:30:03+00:00",
+      "items": 727,
       "accepted": 0
     },
     "direct_datadog": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:04:31+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:30:06+00:00",
       "items": 435,
       "accepted": 0
     },
     "news_estonia_jobs": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:04:42+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:30:17+00:00",
       "items": 0,
       "accepted": 0
     },
     "news_early_career": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:04:44+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:30:18+00:00",
       "items": 0,
       "accepted": 0
     },
     "news_shopify": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:04:45+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:30:19+00:00",
       "items": 0,
       "accepted": 0
     },
     "direct_hpiq": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:04:33+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:30:07+00:00",
       "items": 35,
       "accepted": 0
     },
     "direct_roblox": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:04:34+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:30:09+00:00",
       "items": 265,
       "accepted": 0
     },
     "direct_gitlab": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:04:36+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:30:11+00:00",
       "items": 221,
       "accepted": 0
     },
     "direct_cohere": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:04:38+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:30:12+00:00",
       "items": 119,
       "accepted": 0
     },
     "direct_n8n": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:04:39+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:30:13+00:00",
       "items": 38,
       "accepted": 0
     },
     "direct_sentry": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:04:40+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:30:14+00:00",
       "items": 46,
       "accepted": 0
     },
     "direct_uplane": {
       "failures": 0,
-      "next_check": 1791756218.4243648,
-      "last_success": "2026-10-11T21:04:41+00:00",
+      "next_check": 1791768563.179731,
+      "last_success": "2026-10-12T00:30:15+00:00",
       "items": 16,
       "accepted": 0
     }
   },
   "candidates": {
-    "c7096783aaf55ea321092530c9efabca2f6bf30c38aaf716f32c9ac461b59be4": {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Engineering Manager, Growth",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5361472008",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    "b3403ab22eca62774ca663af4d493bbf7801052d060230ab7f4f4755fe35ede9": {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Engineering Manager, Hardware Platform Security",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5405548008",
-      "location": "San Francisco, CA | Seattle, WA",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    "51a2371dfbedefd02ef6d6c0eb6d49f9653e67946fcb81673fab598cfffeff83": {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Engineering Manager, Inference Infrastructure",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5411560008",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    "16822723937afca75637a079250a0da0a42c1bffe8ff89ddd934fd90d80271fb": {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Engineering Manager, Research Data Platform",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5297059008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    "a8e58b1dc1dc16afcb9499c285faa3e4a960fb7d4f861687bf7192c720b20610": {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Engineering Manager, Research Productivity",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5223093008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
     "ce152b42bec0354a47c99980ed0f05d0ea1dde77425a3a3da73500372a4a26f2": {
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
@@ -52631,12 +52559,12 @@
   "outbox": [],
   "delivery_after": {},
   "daily": {
-    "day": "2026-10-11",
-    "sent": 20,
+    "day": "2026-10-12",
+    "sent": 5,
     "secondary": 0
   },
   "initialized": true,
-  "last_run_utc": "2026-10-11T21:04:46+00:00",
+  "last_run_utc": "2026-10-12T00:30:21+00:00",
   "opportunities": {
     "b80d1e466f51065435882b9898c9ef4dbb874a8d99404eb295d8194df93f7670": {
       "first_seen_at": "2026-09-20T19:46:10+00:00",
@@ -57076,7 +57004,11 @@
       "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job",
-      "reference": "OW-DB812E6BB8"
+      "reference": "OW-DB812E6BB8",
+      "discord_pending": false,
+      "discord_sent_at": "2026-10-12T00:30:21+00:00",
+      "delivery_evidence": "api_success",
+      "discord_url": "https://discord.com/channels/787327675949121567/1550872949165260831/1559000236985290884"
     },
     "4c720bbc411a9c2deceef7c8beae3b454e1c66d695016b8e8e85ba98721f6710": {
       "first_seen_at": "2026-09-22T15:45:58+00:00",
@@ -57098,7 +57030,11 @@
       "region": "Kolimine pärast pakkumist: San Francisco, CA | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job",
-      "reference": "OW-4C720BBC41"
+      "reference": "OW-4C720BBC41",
+      "discord_pending": false,
+      "discord_sent_at": "2026-10-12T00:30:22+00:00",
+      "delivery_evidence": "api_success",
+      "discord_url": "https://discord.com/channels/787327675949121567/1550872949165260831/1559000239275249725"
     },
     "3a16a1d4aec9c05ca13377f8ce2f14659f761263fc44c823c28eb732f98b3234": {
       "first_seen_at": "2026-09-22T15:45:58+00:00",
@@ -57120,7 +57056,11 @@
       "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job",
-      "reference": "OW-3A16A1D4AE"
+      "reference": "OW-3A16A1D4AE",
+      "discord_pending": false,
+      "discord_sent_at": "2026-10-12T00:30:22+00:00",
+      "delivery_evidence": "api_success",
+      "discord_url": "https://discord.com/channels/787327675949121567/1550872949165260831/1559000241234120715"
     },
     "1948a4c56f1ef37041756d73955165631bfc8ddadde5995dda6a0710224c3e53": {
       "first_seen_at": "2026-09-22T15:45:58+00:00",
@@ -57142,7 +57082,11 @@
       "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job",
-      "reference": "OW-1948A4C56F"
+      "reference": "OW-1948A4C56F",
+      "discord_pending": false,
+      "discord_sent_at": "2026-10-12T00:30:22+00:00",
+      "delivery_evidence": "api_success",
+      "discord_url": "https://discord.com/channels/787327675949121567/1550872949165260831/1559000242714706001"
     },
     "527a68a55fe5bfe04e8d2b60baf5d5f6accb4138a0876c3e732dc2d64597815a": {
       "first_seen_at": "2026-09-22T15:45:58+00:00",
@@ -57164,7 +57108,11 @@
       "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job",
-      "reference": "OW-527A68A55F"
+      "reference": "OW-527A68A55F",
+      "discord_pending": false,
+      "discord_sent_at": "2026-10-12T00:30:23+00:00",
+      "delivery_evidence": "api_success",
+      "discord_url": "https://discord.com/channels/787327675949121567/1550872949165260831/1559000244115607712"
     },
     "e0474ca8a0492c2a2e198c63abe99f36b823085adc2920746ddcdbb1b192c0c5": {
       "first_seen_at": "2026-09-22T15:45:58+00:00",
