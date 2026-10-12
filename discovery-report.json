@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-12T15:42:37+00:00",
+  "checked_at": "2026-10-12T22:35:46+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,7 +9,7 @@
     {
       "id": "arbeitnow",
       "items": 325,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
@@ -23,7 +23,7 @@
     },
     {
       "id": "news_fellowships",
-      "items": 2,
+      "items": 3,
       "new_candidates": 0
     },
     {
@@ -33,22 +33,22 @@
     },
     {
       "id": "news_ai_tasks",
-      "items": 9,
+      "items": 8,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 59,
+      "items": 57,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 64,
+      "items": 62,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 52,
+      "items": 53,
       "new_candidates": 0
     },
     {
@@ -64,16 +64,16 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 3
+      "new_candidates": 2
     },
     {
       "id": "hn_ai",
-      "items": 7,
+      "items": 9,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 4,
+      "items": 3,
       "new_candidates": 0
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "id": "social_x",
-      "items": 58,
+      "items": 60,
       "new_candidates": 0
     },
     {
@@ -109,11 +109,11 @@
     {
       "id": "direct_seb",
       "items": 140,
-      "new_candidates": 6
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 528,
+      "items": 529,
       "new_candidates": 0
     },
     {
@@ -129,21 +129,21 @@
     {
       "id": "direct_anthropic",
       "items": 646,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_openai",
-      "items": 811,
+      "items": 809,
       "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 724,
-      "new_candidates": 0
+      "items": 722,
+      "new_candidates": 3
     },
     {
       "id": "direct_datadog",
-      "items": 434,
+      "items": 433,
       "new_candidates": 0
     },
     {
@@ -153,8 +153,8 @@
     },
     {
       "id": "direct_roblox",
-      "items": 267,
-      "new_candidates": 1
+      "items": 263,
+      "new_candidates": 4
     },
     {
       "id": "direct_gitlab",
@@ -163,7 +163,7 @@
     },
     {
       "id": "direct_cohere",
-      "items": 119,
+      "items": 118,
       "new_candidates": 0
     },
     {
@@ -199,33 +199,33 @@
   ],
   "selected": [
     {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Wealth & Asset Management Internship 2027: Junior Structured Lending Specialist – Financing Solutions | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/f89a2b69-e96b-4f2f-ae7f-8b18b7259f1e",
-      "location": "Stockholm",
-      "company": "SEB",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Compliance Engineer",
+      "url": "https://jobicy.com/jobs/155157-compliance-engineer-2",
+      "location": "Europe",
+      "company": "Playson",
+      "published": 1791821899.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791819757.3532934,
-      "category": "programme"
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791844546.3535428,
+      "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "German-speaking Performance Marketing Lead",
-      "url": "https://jobicy.com/jobs/155108-german-speaking-performance-marketing-lead",
+      "title": "Content Manager",
+      "url": "https://jobicy.com/jobs/155156-content-manager",
       "location": "Europe",
-      "company": "saas.group",
-      "published": 1791805892.0,
+      "company": "Playson",
+      "published": 1791821897.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -234,57 +234,36 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791819757.3532934,
+      "found_at": 1791844546.3535428,
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Content Lead",
-      "url": "https://jobicy.com/jobs/155104-content-lead",
-      "location": "Anywhere",
-      "company": "saas.group",
-      "published": 1791805892.0,
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Web Designer at AIOS — Remote, $75k-$150k/yr (including equity)",
+      "url": "https://www.arbeitnow.com/jobs/companies/aios-yc-w20s21/web-designer-at-aios-remote-75k-150k-yr-including-equity-berlin-37512",
+      "location": "Remote (EU)",
+      "company": "AIOS (YC W20/S21)",
+      "published": 1791816007.0,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
       "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791819757.3532934,
+      "region": "Kaugtöö: Remote (EU) — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791844546.3535428,
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Pre-Sales Solutions Engineer - Europe",
-      "url": "https://jobicy.com/jobs/155068-senior-pre-sales-solutions-engineer-europe",
-      "location": "Europe",
-      "company": "Deepgram",
-      "published": 1791775565.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791819757.3532934,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Java Software Developer (Mid/Senior) – Investment Advisory | SEB, Tallinn",
-      "url": "https://jobs.eu.lever.co/seb/c648fe8b-8283-438b-a87c-d568ccf3e351",
-      "location": "Tallinn",
-      "company": "SEB",
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Field Marketing Lead, Public Sector",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5344577008",
+      "location": "San Francisco, CA | Washington, DC",
+      "company": "Anthropic",
       "published": null,
       "salary": "",
       "remote": false,
@@ -292,11 +271,31 @@
       "relocation_employer": true,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Eesti — kohapeal või kaugtöö",
-      "found_at": 1791819757.3532934,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | Washington, DC — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Field Marketing Manager, APAC",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5393720008",
+      "location": "Singapore",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Singapore — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
       "category": "job"
     }
   ],
-  "queued_candidates": 1439
+  "queued_candidates": 1445
 }
