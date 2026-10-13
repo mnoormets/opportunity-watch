@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13T03:09:54+00:00",
+  "checked_at": "2026-10-13T10:28:04+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,28 +17,33 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 15,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
-      "items": 2,
+      "items": 3,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 44,
+      "items": 42,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 9,
+      "items": 10,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 57,
+      "items": 54,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 63,
+      "items": 61,
       "new_candidates": 0
     },
     {
@@ -59,16 +64,16 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 8
     },
     {
       "id": "hn_ai",
-      "items": 8,
-      "new_candidates": 0
+      "items": 7,
+      "new_candidates": 1
     },
     {
       "id": "hn_ml",
-      "items": 3,
+      "items": 2,
       "new_candidates": 0
     },
     {
@@ -77,18 +82,38 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 65,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 10,
       "new_candidates": 0
     },
     {
-      "id": "direct_seb",
-      "items": 120,
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
+      "id": "direct_seb",
+      "items": 122,
+      "new_candidates": 1
+    },
+    {
       "id": "direct_welo",
-      "items": 527,
+      "items": 526,
       "new_candidates": 0
     },
     {
@@ -103,8 +128,8 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 647,
-      "new_candidates": 0
+      "items": 644,
+      "new_candidates": 1
     },
     {
       "id": "direct_openai",
@@ -128,8 +153,8 @@
     },
     {
       "id": "direct_roblox",
-      "items": 263,
-      "new_candidates": 1
+      "items": 262,
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
@@ -143,7 +168,7 @@
     },
     {
       "id": "direct_n8n",
-      "items": 40,
+      "items": 41,
       "new_candidates": 0
     },
     {
@@ -174,102 +199,103 @@
   ],
   "selected": [
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Finance Systems Engineer, Finance and Strategy",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390728008",
-      "location": "San Francisco, CA",
-      "company": "Anthropic",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Compliance Engineer Intern",
+      "url": "https://jobicy.com/jobs/153136-compliance-engineer-intern",
+      "location": "APAC, Europe",
+      "company": "CertiK",
+      "published": 1791859713.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 11,
+      "region": "Kaugtöö: APAC, Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791887284.316014,
+      "category": "programme"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Staff Software Engineer (SRE)",
+      "url": "https://jobicy.com/jobs/153134-staff-software-engineer-sre",
+      "location": "Anywhere",
+      "company": "Phantom",
+      "published": 1791857556.0,
+      "salary": "200000–250000 USD / yearly",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
+      "score": 10,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791887284.316014,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Finance Systems Engineer, Tax",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357947008",
-      "location": "San Francisco, CA | Seattle, WA",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Snr. Marketing Manager, Enterprise ABM EMEA",
+      "url": "https://jobicy.com/jobs/152037-snr-marketing-manager-enterprise-abm-emea",
+      "location": "Europe, France, Germany, Sweden, UK",
+      "company": "Ashby",
+      "published": 1791857552.0,
+      "salary": "95000–115000 GBP / yearly",
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Forward Deployed Engineer",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391021008",
-      "location": "Paris, France",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Paris, France — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
+      "score": 10,
+      "region": "Kaugtöö: Europe, France, Germany, Sweden, UK — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791887284.316014,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Front End Engineer, Marketing",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5386971008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Compliance Engineer",
+      "url": "https://jobicy.com/jobs/153132-compliance-engineer",
+      "location": "APAC, Europe",
+      "company": "CertiK",
+      "published": 1791859711.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
+      "score": 8,
+      "region": "Kaugtöö: APAC, Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791887284.316014,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Full Stack Engineer, Education Labs",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5097186008",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "company": "Anthropic",
-      "published": null,
+      "source": "Hacker News: ai",
+      "source_id": "hn_ai",
+      "kind": "hn",
+      "title": "Irash Tech | Business Development Manager (Freelance, Commission-only) | REMOTE (Worldwide) | Contract Irash Tech is a small AI-focused development agency based in Hyderabad, India. We build web apps (Next.js, React, Nod",
+      "url": "https://news.ycombinator.com/item?id=50068986",
+      "location": "",
+      "company": "",
+      "published": 1791883879.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1791887284.316014,
+      "category": "secondary"
     }
   ],
-  "queued_candidates": 1441
+  "queued_candidates": 1447
 }
