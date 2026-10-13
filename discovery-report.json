@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13T10:28:04+00:00",
+  "checked_at": "2026-10-13T17:42:24+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -8,17 +8,17 @@
     },
     {
       "id": "arbeitnow",
-      "items": 325,
+      "items": 300,
       "new_candidates": 0
     },
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "remotive",
-      "items": 15,
+      "items": 16,
       "new_candidates": 0
     },
     {
@@ -28,27 +28,27 @@
     },
     {
       "id": "news_paid_training",
-      "items": 42,
+      "items": 43,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 10,
+      "items": 11,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 54,
+      "items": 56,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 61,
+      "items": 62,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 52,
+      "items": 54,
       "new_candidates": 0
     },
     {
@@ -64,16 +64,16 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 8
+      "new_candidates": 3
     },
     {
       "id": "hn_ai",
-      "items": 7,
-      "new_candidates": 1
+      "items": 6,
+      "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 2,
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "id": "social_x",
-      "items": 65,
+      "items": 72,
       "new_candidates": 0
     },
     {
@@ -108,12 +108,12 @@
     },
     {
       "id": "direct_seb",
-      "items": 122,
+      "items": 123,
       "new_candidates": 1
     },
     {
       "id": "direct_welo",
-      "items": 526,
+      "items": 524,
       "new_candidates": 0
     },
     {
@@ -128,23 +128,23 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 644,
-      "new_candidates": 1
+      "items": 646,
+      "new_candidates": 3
     },
     {
       "id": "direct_openai",
-      "items": 808,
-      "new_candidates": 0
+      "items": 802,
+      "new_candidates": 4
     },
     {
       "id": "direct_stripe",
-      "items": 721,
+      "items": 722,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 435,
-      "new_candidates": 0
+      "items": 439,
+      "new_candidates": 3
     },
     {
       "id": "direct_hpiq",
@@ -153,22 +153,22 @@
     },
     {
       "id": "direct_roblox",
-      "items": 262,
-      "new_candidates": 0
+      "items": 260,
+      "new_candidates": 1
     },
     {
       "id": "direct_gitlab",
-      "items": 221,
+      "items": 220,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
       "items": 118,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_n8n",
-      "items": 41,
+      "items": 43,
       "new_candidates": 0
     },
     {
@@ -202,38 +202,76 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Compliance Engineer Intern",
-      "url": "https://jobicy.com/jobs/153136-compliance-engineer-intern",
-      "location": "APAC, Europe",
-      "company": "CertiK",
-      "published": 1791859713.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 11,
-      "region": "Kaugtöö: APAC, Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791887284.316014,
-      "category": "programme"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Staff Software Engineer (SRE)",
-      "url": "https://jobicy.com/jobs/153134-staff-software-engineer-sre",
+      "title": "Video Editor",
+      "url": "https://jobicy.com/jobs/155198-video-editor",
       "location": "Anywhere",
-      "company": "Phantom",
-      "published": 1791857556.0,
-      "salary": "200000–250000 USD / yearly",
+      "company": "Kalshi",
+      "published": 1791884901.0,
+      "salary": "70000–150000 USD / yearly",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 10,
       "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791913344.4645998,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Research Scientist - Generative Audio",
+      "url": "https://jobicy.com/jobs/155214-research-scientist-generative-audio",
+      "location": "EMEA",
+      "company": "Spotify",
+      "published": 1791892502.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791913344.4645998,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Full Stack Engineer",
+      "url": "https://jobicy.com/jobs/155189-full-stack-engineer-3",
+      "location": "Brazil, Canada, Europe, USA",
+      "company": "infisical",
+      "published": 1791884753.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Brazil, Canada, Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791913344.4645998,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "QA Automation Lead [gn] Data Intelligence",
+      "url": "https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence",
+      "location": "Europe",
+      "company": "Actian",
+      "published": 1791859707.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1791887284.316014,
       "category": "job"
     },
@@ -241,50 +279,11 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Snr. Marketing Manager, Enterprise ABM EMEA",
-      "url": "https://jobicy.com/jobs/152037-snr-marketing-manager-enterprise-abm-emea",
-      "location": "Europe, France, Germany, Sweden, UK",
-      "company": "Ashby",
-      "published": 1791857552.0,
-      "salary": "95000–115000 GBP / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Europe, France, Germany, Sweden, UK — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791887284.316014,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Compliance Engineer",
-      "url": "https://jobicy.com/jobs/153132-compliance-engineer",
-      "location": "APAC, Europe",
-      "company": "CertiK",
-      "published": 1791859711.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: APAC, Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1791887284.316014,
-      "category": "job"
-    },
-    {
-      "source": "Hacker News: ai",
-      "source_id": "hn_ai",
-      "kind": "hn",
-      "title": "Irash Tech | Business Development Manager (Freelance, Commission-only) | REMOTE (Worldwide) | Contract Irash Tech is a small AI-focused development agency based in Hyderabad, India. We build web apps (Next.js, React, Nod",
-      "url": "https://news.ycombinator.com/item?id=50068986",
-      "location": "",
-      "company": "",
-      "published": 1791883879.0,
+      "title": "Staff DevOps Engineer (Platform)",
+      "url": "https://jobicy.com/jobs/153130-staff-devops-engineer-platform",
+      "location": "Europe, USA",
+      "company": "Phantom",
+      "published": 1791857568.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -292,10 +291,10 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1791887284.316014,
-      "category": "secondary"
+      "category": "job"
     }
   ],
-  "queued_candidates": 1447
+  "queued_candidates": 1459
 }
