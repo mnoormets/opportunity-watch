@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-14T15:21:50+00:00",
+  "checked_at": "2026-10-14T19:29:53+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,33 +17,38 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 15,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
-      "items": 3,
+      "items": 4,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 40,
+      "items": 42,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 13,
+      "items": 14,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 57,
+      "items": 59,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 61,
+      "items": 59,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 54,
+      "items": 53,
       "new_candidates": 0
     },
     {
@@ -59,16 +64,16 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "hn_ai",
-      "items": 6,
+      "items": 7,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 2,
+      "items": 1,
       "new_candidates": 0
     },
     {
@@ -77,18 +82,38 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 94,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 10,
       "new_candidates": 0
     },
     {
+      "id": "news_clients",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_seb",
       "items": 130,
-      "new_candidates": 6
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 536,
+      "items": 537,
       "new_candidates": 0
     },
     {
@@ -103,22 +128,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 649,
-      "new_candidates": 0
+      "items": 652,
+      "new_candidates": 1
     },
     {
       "id": "direct_openai",
       "items": 805,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "direct_stripe",
-      "items": 725,
+      "items": 724,
       "new_candidates": 1
     },
     {
       "id": "direct_datadog",
-      "items": 438,
+      "items": 437,
       "new_candidates": 1
     },
     {
@@ -128,8 +153,8 @@
     },
     {
       "id": "direct_roblox",
-      "items": 258,
-      "new_candidates": 0
+      "items": 260,
+      "new_candidates": 1
     },
     {
       "id": "direct_gitlab",
@@ -172,103 +197,6 @@
       "new_candidates": 0
     }
   ],
-  "selected": [
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Junior Software Developer – Customer Screening Solutions | SEB, Tallinn",
-      "url": "https://jobs.eu.lever.co/seb/c08b56ca-be10-47f8-98c9-822118f1cdcd",
-      "location": "Tallinn",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 11,
-      "region": "Eesti — kohapeal või kaugtöö",
-      "found_at": 1791991310.967932,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Junior Software Developer / Jaunākais programmatūras izstrādātājs (-a) | SEB, Riga",
-      "url": "https://jobs.eu.lever.co/seb/7713a87d-a74d-422d-9df4-b736c1bb6d36",
-      "location": "Rīga",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Rīga — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791991310.967932,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Junior Software Developer − Customer Screening Solutions | SEB, Vilnius",
-      "url": "https://jobs.eu.lever.co/seb/c6f3428a-e99d-45d4-8b1e-81027f6dde78",
-      "location": "Vilnius",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Vilnius — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791991310.967932,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Data Analyst (temporary contract ~2 years) | SEB Life and Pension Baltic SE, Tallinn",
-      "url": "https://jobs.eu.lever.co/seb/8a6236f5-e7dd-4e95-807d-48bc24723dd0",
-      "location": "Tallinn",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Eesti — kohapeal või kaugtöö",
-      "found_at": 1791991310.967932,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Manager Applied AI Architecture, Healthcare & Life Sciences",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390890008",
-      "location": "New York City, NY; San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: New York City, NY; San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    }
-  ],
-  "queued_candidates": 1459
+  "selected": [],
+  "queued_candidates": 1466
 }
