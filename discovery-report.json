@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-14T05:30:40+00:00",
+  "checked_at": "2026-10-14T10:29:28+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,13 +17,18 @@
       "new_candidates": 1
     },
     {
+      "id": "remotive",
+      "items": 16,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
       "items": 3,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 38,
+      "items": 37,
       "new_candidates": 0
     },
     {
@@ -33,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 53,
+      "items": 56,
       "new_candidates": 0
     },
     {
@@ -43,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 54,
+      "items": 53,
       "new_candidates": 0
     },
     {
@@ -59,11 +64,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "hn_ai",
-      "items": 9,
+      "items": 7,
       "new_candidates": 0
     },
     {
@@ -77,18 +82,38 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 90,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 10,
       "new_candidates": 0
     },
     {
+      "id": "news_clients",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_seb",
-      "items": 120,
-      "new_candidates": 1
+      "items": 122,
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 524,
+      "items": 536,
       "new_candidates": 0
     },
     {
@@ -98,17 +123,17 @@
     },
     {
       "id": "direct_veriff",
-      "items": 11,
+      "items": 10,
       "new_candidates": 0
     },
     {
       "id": "direct_anthropic",
-      "items": 647,
-      "new_candidates": 4
+      "items": 648,
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 808,
+      "items": 806,
       "new_candidates": 0
     },
     {
@@ -118,7 +143,7 @@
     },
     {
       "id": "direct_datadog",
-      "items": 438,
+      "items": 439,
       "new_candidates": 0
     },
     {
@@ -128,27 +153,27 @@
     },
     {
       "id": "direct_roblox",
-      "items": 259,
+      "items": 258,
       "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 216,
+      "items": 215,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 117,
+      "items": 119,
       "new_candidates": 0
     },
     {
       "id": "direct_n8n",
-      "items": 43,
+      "items": 42,
       "new_candidates": 0
     },
     {
       "id": "direct_sentry",
-      "items": 46,
+      "items": 45,
       "new_candidates": 0
     },
     {
@@ -174,30 +199,71 @@
   ],
   "selected": [
     {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Sales Engineer",
+      "url": "https://jobicy.com/jobs/153225-senior-sales-engineer-2",
+      "location": "Canada, Europe, USA",
+      "company": "RevenueCat",
+      "published": 1791948594.0,
+      "salary": "214000–214000 USD / yearly",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: Canada, Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1791973768.7972944,
+      "category": "job"
+    },
+    {
       "source": "Startup Jobs",
       "source_id": "startup",
       "kind": "rss_jobs",
-      "title": "AI Filmmaker (100% Remote Worldwide) at Job Tether Operations Limited",
-      "url": "https://startup.jobs/ai-filmmaker-100-remote-worldwide-job-tether-operations-limited-10426092",
+      "title": "Lead QA Engineer [ATM] at Plata Card",
+      "url": "https://startup.jobs/lead-qa-engineer-atm-plata-card-10437089",
       "location": "",
       "company": "",
-      "published": 1791862472.0,
+      "published": 1791877139.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1791955840.2228417,
+      "found_at": 1791973768.7972944,
       "category": "job"
     },
     {
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "IT Support Engineer, Application Administrator",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390019008",
+      "title": "Manager, Applied AI Architect",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430869008",
+      "location": "Seoul, South Korea",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Seoul, South Korea — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Manager, Applied AI Architect, Enterprise Tech",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387754008",
       "location": "San Francisco, CA | New York City, NY",
       "company": "Anthropic",
       "published": null,
@@ -216,9 +282,9 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "IT Support Engineer, Executive Support",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5370555008",
-      "location": "San Francisco, CA",
+      "title": "Manager Applied AI Architecture, Financial Services",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390894008",
+      "location": "New York City, NY; San Francisco, CA | New York City, NY",
       "company": "Anthropic",
       "published": null,
       "salary": "",
@@ -228,48 +294,10 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "IT Systems Engineer, Mobile Client Platform Engineer",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5396384008",
-      "location": "Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Machine Learning Infrastructure Engineer, Safeguards Research",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5364804008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: New York City, NY; San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     }
   ],
-  "queued_candidates": 1459
+  "queued_candidates": 1456
 }
