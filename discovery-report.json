@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-15T21:46:41+00:00",
+  "checked_at": "2026-10-15T23:54:24+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,18 +17,13 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 14,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
       "items": 3,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 43,
+      "items": 42,
       "new_candidates": 0
     },
     {
@@ -38,7 +33,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 54,
+      "items": 53,
       "new_candidates": 0
     },
     {
@@ -82,28 +77,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 10,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
       "new_candidates": 0
     },
     {
@@ -128,23 +103,23 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 652,
-      "new_candidates": 2
+      "items": 655,
+      "new_candidates": 4
     },
     {
       "id": "direct_openai",
-      "items": 806,
+      "items": 803,
       "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 728,
+      "items": 726,
       "new_candidates": 1
     },
     {
       "id": "direct_datadog",
-      "items": 440,
-      "new_candidates": 1
+      "items": 439,
+      "new_candidates": 0
     },
     {
       "id": "direct_hpiq",
@@ -158,7 +133,7 @@
     },
     {
       "id": "direct_gitlab",
-      "items": 217,
+      "items": 218,
       "new_candidates": 0
     },
     {
@@ -198,5 +173,5 @@
     }
   ],
   "selected": [],
-  "queued_candidates": 1478
+  "queued_candidates": 1484
 }
