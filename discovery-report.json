@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-15T14:48:07+00:00",
+  "checked_at": "2026-10-15T18:41:49+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,38 +17,33 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 14,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
-      "items": 4,
+      "items": 3,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 42,
+      "items": 41,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 12,
+      "items": 14,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 56,
+      "items": 54,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 61,
+      "items": 62,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 54,
+      "items": 55,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 3
     },
     {
       "id": "hn_ai",
@@ -82,28 +77,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 99,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 10,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
       "new_candidates": 0
     },
     {
@@ -113,7 +88,7 @@
     },
     {
       "id": "direct_welo",
-      "items": 538,
+      "items": 539,
       "new_candidates": 0
     },
     {
@@ -128,22 +103,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 646,
+      "items": 649,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 802,
+      "items": 803,
       "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 726,
-      "new_candidates": 0
+      "items": 727,
+      "new_candidates": 1
     },
     {
       "id": "direct_datadog",
-      "items": 438,
+      "items": 439,
       "new_candidates": 0
     },
     {
@@ -154,7 +129,7 @@
     {
       "id": "direct_roblox",
       "items": 260,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_gitlab",
@@ -164,7 +139,7 @@
     {
       "id": "direct_cohere",
       "items": 117,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_n8n",
@@ -197,105 +172,6 @@
       "new_candidates": 0
     }
   ],
-  "selected": [
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Head of Engineering",
-      "url": "https://jobicy.com/jobs/150588-head-of-engineering",
-      "location": "Europe",
-      "company": "saas.group",
-      "published": 1792032606.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792058492.392552,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Software Engineer (Game Engine)",
-      "url": "https://jobicy.com/jobs/146058-senior-software-engineer-game-engine",
-      "location": "Europe",
-      "company": "Playson",
-      "published": 1792032311.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792058492.392552,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Data Engineer (Marketing Systems)",
-      "url": "https://jobicy.com/jobs/150584-data-engineer-marketing-systems",
-      "location": "Europe",
-      "company": "Ruby Labs",
-      "published": 1792032020.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792058492.392552,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Marketing Automation Manager",
-      "url": "https://jobicy.com/jobs/146167-senior-marketing-automation-manager",
-      "location": "EMEA",
-      "company": "Canonical",
-      "published": 1792032008.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792058492.392552,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Manufacturing Quality Engineer, Data Center Power & Cooling",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397596008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    }
-  ],
-  "queued_candidates": 1468
+  "selected": [],
+  "queued_candidates": 1473
 }
