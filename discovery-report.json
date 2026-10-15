@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-14T22:30:53+00:00",
+  "checked_at": "2026-10-15T00:45:29+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -33,7 +33,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 58,
+      "items": 59,
       "new_candidates": 0
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 54,
+      "items": 52,
       "new_candidates": 0
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "id": "hn_ml",
-      "items": 1,
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "id": "direct_seb",
-      "items": 130,
+      "items": 128,
       "new_candidates": 0
     },
     {
@@ -103,17 +103,17 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 650,
-      "new_candidates": 2
+      "items": 648,
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 799,
-      "new_candidates": 4
+      "items": 805,
+      "new_candidates": 2
     },
     {
       "id": "direct_stripe",
-      "items": 726,
+      "items": 727,
       "new_candidates": 0
     },
     {
@@ -139,7 +139,7 @@
     {
       "id": "direct_cohere",
       "items": 116,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_n8n",
@@ -148,8 +148,8 @@
     },
     {
       "id": "direct_sentry",
-      "items": 45,
-      "new_candidates": 0
+      "items": 46,
+      "new_candidates": 1
     },
     {
       "id": "direct_uplane",
@@ -172,6 +172,107 @@
       "new_candidates": 0
     }
   ],
-  "selected": [],
-  "queued_candidates": 1472
+  "selected": [
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Staff Software Engineer, Partner Integrations",
+      "url": "https://jobicy.com/jobs/155313-senior-staff-software-engineer-partner-integrations",
+      "location": "Anywhere",
+      "company": "Flex",
+      "published": 1791989441.0,
+      "salary": "204000–300000 USD / yearly",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792006193.6561944,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Manager, Applied AI Engineering, Beneficial Deployments (Life Sciences)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5277834008",
+      "location": "San Francisco, CA | New York City, NY",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Manager, Corporate Network Engineering",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391782008",
+      "location": "San Francisco, CA",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Manager, Forward Deployed Engineering",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385634008",
+      "location": "London, UK",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: London, UK — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Manager– Growth Sales (AI-Native)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4976328008",
+      "location": "San Francisco, CA",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    }
+  ],
+  "queued_candidates": 1471
 }
