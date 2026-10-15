@@ -1,24 +1,19 @@
 {
-  "checked_at": "2026-10-15T05:18:18+00:00",
+  "checked_at": "2026-10-15T10:01:32+00:00",
   "sources": [
     {
       "id": "remoteok",
       "items": 99,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
-    },
-    {
-      "id": "remotive",
-      "items": 15,
       "new_candidates": 0
     },
     {
@@ -28,27 +23,27 @@
     },
     {
       "id": "news_paid_training",
-      "items": 42,
+      "items": 44,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 13,
+      "items": 12,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 58,
+      "items": 56,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 58,
+      "items": 60,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 54,
+      "items": 53,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 9
     },
     {
       "id": "hn_ai",
@@ -82,38 +77,18 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
-      "items": 10,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
+      "items": 9,
       "new_candidates": 0
     },
     {
       "id": "direct_seb",
-      "items": 128,
+      "items": 130,
       "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 541,
+      "items": 539,
       "new_candidates": 0
     },
     {
@@ -138,12 +113,12 @@
     },
     {
       "id": "direct_stripe",
-      "items": 728,
+      "items": 727,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 439,
+      "items": 435,
       "new_candidates": 0
     },
     {
@@ -158,7 +133,7 @@
     },
     {
       "id": "direct_gitlab",
-      "items": 215,
+      "items": 216,
       "new_candidates": 0
     },
     {
@@ -199,103 +174,105 @@
   ],
   "selected": [
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Fullstack Engineer, Investigator Tools",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sardine/fullstack-engineer-investigator-tools-united-kingdom-europe-138221",
-      "location": "United Kingdom / Europe",
-      "company": "Sardine",
-      "published": 1792032017.0,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: United Kingdom / Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792041498.501156,
-      "category": "job"
-    },
-    {
-      "source": "Remote OK",
-      "source_id": "remoteok",
-      "kind": "remoteok",
-      "title": "Customer Support Specialist",
-      "url": "https://remoteok.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512",
-      "location": "",
-      "company": "Ultimate Marketing",
-      "published": 1791941509.0,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Backend Engineer (Boosters)",
+      "url": "https://jobicy.com/jobs/153227-senior-backend-engineer-boosters",
+      "location": "Europe",
+      "company": "Playson",
+      "published": 1792035609.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1792041498.501156,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792058492.392552,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Manager of Applied AI Architecture, Commercial",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390865008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Marketing Event Manager - EMEA",
+      "url": "https://jobicy.com/jobs/153247-marketing-event-manager-emea",
+      "location": "Europe",
+      "company": "Dandy",
+      "published": 1792032623.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792058492.392552,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Manager, Web Engineering",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5287926008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Principal ML Platform Engineer",
+      "url": "https://jobicy.com/jobs/153242-principal-ml-platform-engineer",
+      "location": "Europe",
+      "company": "Synthesia",
+      "published": 1792032620.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792058492.392552,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Manufacturing Engineer - Data Center Hardware",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5399158008",
-      "location": "Remote-Friendly, United States",
-      "company": "Anthropic",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Integration Engineer",
+      "url": "https://jobicy.com/jobs/153232-senior-integration-engineer",
+      "location": "Europe",
+      "company": "Playson",
+      "published": 1792032615.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Remote-Friendly, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792058492.392552,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Marketing Designer",
+      "url": "https://jobicy.com/jobs/153230-marketing-designer",
+      "location": "Europe",
+      "company": "Playson",
+      "published": 1792032613.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792058492.392552,
       "category": "job"
     }
   ],
-  "queued_candidates": 1468
+  "queued_candidates": 1472
 }
