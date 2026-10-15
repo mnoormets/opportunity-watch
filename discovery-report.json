@@ -1,19 +1,24 @@
 {
-  "checked_at": "2026-10-15T00:45:29+00:00",
+  "checked_at": "2026-10-15T05:18:18+00:00",
   "sources": [
     {
       "id": "remoteok",
       "items": 99,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
       "items": 50,
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 15,
       "new_candidates": 0
     },
     {
@@ -33,17 +38,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 59,
+      "items": 58,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 59,
+      "items": 58,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 52,
+      "items": 54,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 10,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -88,7 +113,7 @@
     },
     {
       "id": "direct_welo",
-      "items": 537,
+      "items": 541,
       "new_candidates": 0
     },
     {
@@ -103,22 +128,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 648,
+      "items": 647,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 805,
-      "new_candidates": 2
+      "items": 804,
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 727,
+      "items": 728,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 437,
+      "items": 439,
       "new_candidates": 0
     },
     {
@@ -139,7 +164,7 @@
     {
       "id": "direct_cohere",
       "items": 116,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_n8n",
@@ -149,7 +174,7 @@
     {
       "id": "direct_sentry",
       "items": 46,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_uplane",
@@ -174,31 +199,49 @@
   ],
   "selected": [
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Staff Software Engineer, Partner Integrations",
-      "url": "https://jobicy.com/jobs/155313-senior-staff-software-engineer-partner-integrations",
-      "location": "Anywhere",
-      "company": "Flex",
-      "published": 1791989441.0,
-      "salary": "204000–300000 USD / yearly",
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Fullstack Engineer, Investigator Tools",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sardine/fullstack-engineer-investigator-tools-united-kingdom-europe-138221",
+      "location": "United Kingdom / Europe",
+      "company": "Sardine",
+      "published": 1792032017.0,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: United Kingdom / Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792041498.501156,
+      "category": "job"
+    },
+    {
+      "source": "Remote OK",
+      "source_id": "remoteok",
+      "kind": "remoteok",
+      "title": "Customer Support Specialist",
+      "url": "https://remoteok.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512",
+      "location": "",
+      "company": "Ultimate Marketing",
+      "published": 1791941509.0,
+      "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792006193.6561944,
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1792041498.501156,
       "category": "job"
     },
     {
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Manager, Applied AI Engineering, Beneficial Deployments (Life Sciences)",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5277834008",
+      "title": "Manager of Applied AI Architecture, Commercial",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390865008",
       "location": "San Francisco, CA | New York City, NY",
       "company": "Anthropic",
       "published": null,
@@ -217,9 +260,9 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Manager, Corporate Network Engineering",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391782008",
-      "location": "San Francisco, CA",
+      "title": "Manager, Web Engineering",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5287926008",
+      "location": "San Francisco, CA | New York City, NY",
       "company": "Anthropic",
       "published": null,
       "salary": "",
@@ -229,7 +272,7 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     },
@@ -237,9 +280,9 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Manager, Forward Deployed Engineering",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385634008",
-      "location": "London, UK",
+      "title": "Manufacturing Engineer - Data Center Hardware",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5399158008",
+      "location": "Remote-Friendly, United States",
       "company": "Anthropic",
       "published": null,
       "salary": "",
@@ -249,30 +292,10 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: London, UK — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Manager– Growth Sales (AI-Native)",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4976328008",
-      "location": "San Francisco, CA",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Remote-Friendly, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     }
   ],
-  "queued_candidates": 1471
+  "queued_candidates": 1468
 }
