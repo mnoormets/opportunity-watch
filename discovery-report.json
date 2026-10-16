@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-15T23:54:24+00:00",
+  "checked_at": "2026-10-16T03:06:12+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -23,7 +23,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 42,
+      "items": 38,
       "new_candidates": 0
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 53,
+      "items": 54,
       "new_candidates": 0
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "id": "direct_seb",
-      "items": 131,
+      "items": 126,
       "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 536,
+      "items": 535,
       "new_candidates": 0
     },
     {
@@ -103,18 +103,18 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 655,
-      "new_candidates": 4
-    },
-    {
-      "id": "direct_openai",
-      "items": 803,
+      "items": 653,
       "new_candidates": 0
     },
     {
-      "id": "direct_stripe",
-      "items": 726,
+      "id": "direct_openai",
+      "items": 802,
       "new_candidates": 1
+    },
+    {
+      "id": "direct_stripe",
+      "items": 725,
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
@@ -129,11 +129,11 @@
     {
       "id": "direct_roblox",
       "items": 259,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 218,
+      "items": 219,
       "new_candidates": 0
     },
     {
@@ -172,6 +172,105 @@
       "new_candidates": 0
     }
   ],
-  "selected": [],
-  "queued_candidates": 1484
+  "selected": [
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Site Reliability Engineer",
+      "url": "https://jobicy.com/jobs/155391-site-reliability-engineer-4",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1792071235.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792089709.475232,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Platform Engineer, Managed Postgres",
+      "url": "https://jobicy.com/jobs/155389-platform-engineer-managed-postgres",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1792071232.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792089709.475232,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "AI Platform Engineer",
+      "url": "https://jobicy.com/jobs/155385-ai-platform-engineer",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1792071231.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792089709.475232,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "ML/Research Engineer, Safeguards",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4949336008",
+      "location": "San Francisco, CA | New York City, NY",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Model Performance Software Engineer, Claude Code",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5098025008",
+      "location": "San Francisco, CA | New York City, NY",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    }
+  ],
+  "queued_candidates": 1480
 }
