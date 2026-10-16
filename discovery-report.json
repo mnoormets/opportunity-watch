@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-16T03:06:12+00:00",
+  "checked_at": "2026-10-16T08:05:02+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,23 +17,28 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 14,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
-      "items": 3,
+      "items": 4,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 38,
+      "items": 42,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 15,
+      "items": 14,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 54,
+      "items": 53,
       "new_candidates": 0
     },
     {
@@ -59,11 +64,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 3
     },
     {
       "id": "hn_ai",
-      "items": 6,
+      "items": 7,
       "new_candidates": 0
     },
     {
@@ -77,18 +82,38 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 10,
       "new_candidates": 0
     },
     {
-      "id": "direct_seb",
-      "items": 126,
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
+      "id": "direct_seb",
+      "items": 130,
+      "new_candidates": 3
+    },
+    {
       "id": "direct_welo",
-      "items": 535,
+      "items": 532,
       "new_candidates": 0
     },
     {
@@ -103,8 +128,8 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 653,
-      "new_candidates": 0
+      "items": 654,
+      "new_candidates": 2
     },
     {
       "id": "direct_openai",
@@ -113,12 +138,12 @@
     },
     {
       "id": "direct_stripe",
-      "items": 725,
+      "items": 726,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 439,
+      "items": 437,
       "new_candidates": 0
     },
     {
@@ -128,12 +153,12 @@
     },
     {
       "id": "direct_roblox",
-      "items": 259,
+      "items": 260,
       "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 219,
+      "items": 221,
       "new_candidates": 0
     },
     {
@@ -177,31 +202,31 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Site Reliability Engineer",
-      "url": "https://jobicy.com/jobs/155391-site-reliability-engineer-4",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1792071235.0,
-      "salary": "",
+      "title": "Engineering Manager - EU",
+      "url": "https://jobicy.com/jobs/150687-engineering-manager-eu",
+      "location": "Europe",
+      "company": "Ashby",
+      "published": 1792118719.0,
+      "salary": "110000–185000 EUR / yearly",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792089709.475232,
+      "score": 10,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792137902.4245071,
       "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Platform Engineer, Managed Postgres",
-      "url": "https://jobicy.com/jobs/155389-platform-engineer-managed-postgres",
+      "title": "Postgres Engineer",
+      "url": "https://jobicy.com/jobs/153321-postgres-engineer",
       "location": "Anywhere",
       "company": "Supabase",
-      "published": 1792071232.0,
+      "published": 1792120805.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -209,18 +234,18 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792089709.475232,
+      "found_at": 1792137902.4245071,
       "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "AI Platform Engineer",
-      "url": "https://jobicy.com/jobs/155385-ai-platform-engineer",
+      "title": "Multigres Deployment Engineer",
+      "url": "https://jobicy.com/jobs/153326-multigres-deployment-engineer",
       "location": "Anywhere",
       "company": "Supabase",
-      "published": 1792071231.0,
+      "published": 1792119017.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -228,16 +253,36 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792089709.475232,
+      "found_at": 1792137902.4245071,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Reporting Solutions Developer (Mid/Senior) | SEB, Tallinn",
+      "url": "https://jobs.eu.lever.co/seb/47810e5a-2b8d-4c37-8905-1daa2732c979",
+      "location": "Tallinn",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Eesti — kohapeal või kaugtöö",
+      "found_at": 1792137902.4245071,
       "category": "job"
     },
     {
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "ML/Research Engineer, Safeguards",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4949336008",
-      "location": "San Francisco, CA | New York City, NY",
+      "title": "Offensive Hardware Security Engineer, Platform Security",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5316565008",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
       "company": "Anthropic",
       "published": null,
       "salary": "",
@@ -247,30 +292,10 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Model Performance Software Engineer, Claude Code",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5098025008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     }
   ],
-  "queued_candidates": 1480
+  "queued_candidates": 1484
 }
