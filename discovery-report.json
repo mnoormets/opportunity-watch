@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-17T05:03:37+00:00",
+  "checked_at": "2026-10-17T09:10:42+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,13 +17,18 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 13,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
-      "items": 4,
+      "items": 3,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 39,
+      "items": 38,
       "new_candidates": 0
     },
     {
@@ -33,17 +38,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 54,
+      "items": 52,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 65,
+      "items": 64,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 59,
+      "items": 58,
       "new_candidates": 0
     },
     {
@@ -59,7 +64,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 4
     },
     {
       "id": "hn_ai",
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 10,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -129,7 +154,7 @@
     {
       "id": "direct_roblox",
       "items": 262,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
@@ -174,89 +199,89 @@
   ],
   "selected": [
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Pre-Sales Program Lead, Forward Deployed Engineering",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391012008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Software engineer",
+      "url": "https://jobicy.com/jobs/150846-software-engineer-3",
+      "location": "Anywhere",
+      "company": "Sticker Mule",
+      "published": 1792205632.0,
+      "salary": "150000–250000 USD / yearly",
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792228242.660744,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Edge Functions Engineer",
+      "url": "https://jobicy.com/jobs/153452-edge-functions-engineer",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1792210508.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792228242.660744,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Pre-training Data Infrastructure Engineer",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4973067008",
-      "location": "San Francisco, CA",
-      "company": "Anthropic",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Software Engineer - Auth",
+      "url": "https://jobicy.com/jobs/153449-software-engineer-auth",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1792210506.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Product Engineer - Manufacturing Operations",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5399162008",
-      "location": "Remote-Friendly, United States",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Remote-Friendly, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Product Marketing Lead, GTM Strategy - Claude for Knowledge Work",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385602008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792228242.660744,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Postgres Deployment Engineer (Nix)",
+      "url": "https://jobicy.com/jobs/153446-postgres-deployment-engineer-nix",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1792210504.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792228242.660744,
       "category": "job"
     },
     {
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Product Marketing Manager, Knowledge Work - Core Products",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385651008",
+      "title": "Product Marketing Manager, Platform",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424078008",
       "location": "San Francisco, CA | New York City, NY",
       "company": "Anthropic",
       "published": null,
@@ -272,5 +297,5 @@
       "category": "job"
     }
   ],
-  "queued_candidates": 1490
+  "queued_candidates": 1489
 }
