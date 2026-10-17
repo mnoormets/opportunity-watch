@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-17T09:10:42+00:00",
+  "checked_at": "2026-10-17T12:56:37+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,18 +17,13 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 13,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
       "items": 3,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 38,
+      "items": 39,
       "new_candidates": 0
     },
     {
@@ -38,7 +33,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 52,
+      "items": 53,
       "new_candidates": 0
     },
     {
@@ -48,7 +43,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 58,
+      "items": 59,
       "new_candidates": 0
     },
     {
@@ -68,7 +63,7 @@
     },
     {
       "id": "hn_ai",
-      "items": 7,
+      "items": 6,
       "new_candidates": 0
     },
     {
@@ -82,28 +77,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 10,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
       "new_candidates": 0
     },
     {
@@ -128,7 +103,7 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 656,
+      "items": 655,
       "new_candidates": 0
     },
     {
@@ -202,70 +177,31 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Software engineer",
-      "url": "https://jobicy.com/jobs/150846-software-engineer-3",
+      "title": "Lead Developer / Architect Web3",
+      "url": "https://jobicy.com/jobs/155565-1140-lead-developer-architect-web3",
       "location": "Anywhere",
-      "company": "Sticker Mule",
-      "published": 1792205632.0,
-      "salary": "150000–250000 USD / yearly",
+      "company": "GoFasti",
+      "published": 1792220152.0,
+      "salary": "2000–3000 USD / monthly",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 10,
       "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792228242.660744,
+      "found_at": 1792241797.747812,
       "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Edge Functions Engineer",
-      "url": "https://jobicy.com/jobs/153452-edge-functions-engineer",
+      "title": "International Audio/Video Remote Lao/Loatian Interpreter",
+      "url": "https://jobicy.com/jobs/155560-international-audio-video-remote-lao-loatian-interpreter",
       "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1792210508.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792228242.660744,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Software Engineer - Auth",
-      "url": "https://jobicy.com/jobs/153449-software-engineer-auth",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1792210506.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792228242.660744,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Postgres Deployment Engineer (Nix)",
-      "url": "https://jobicy.com/jobs/153446-postgres-deployment-engineer-nix",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1792210504.0,
+      "company": "Language Services Associates",
+      "published": 1792220151.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -273,15 +209,53 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792228242.660744,
+      "found_at": 1792241797.747812,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "International Audio/Video Remote Soninke Interpreter",
+      "url": "https://jobicy.com/jobs/155566-international-audio-video-remote-soninke-interpreter",
+      "location": "Anywhere",
+      "company": "Language Services Associates",
+      "published": 1792220150.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792241797.747812,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "International Audio/Video Remote Malay Interpreter",
+      "url": "https://jobicy.com/jobs/155563-international-audio-video-remote-malay-interpreter",
+      "location": "Anywhere",
+      "company": "Language Services Associates",
+      "published": 1792220150.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792241797.747812,
       "category": "job"
     },
     {
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Product Marketing Manager, Platform",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424078008",
+      "title": "Product Marketing Manager, Special Projects",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424080008",
       "location": "San Francisco, CA | New York City, NY",
       "company": "Anthropic",
       "published": null,
@@ -297,5 +271,5 @@
       "category": "job"
     }
   ],
-  "queued_candidates": 1489
+  "queued_candidates": 1488
 }
