@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-17T18:25:57+00:00",
+  "checked_at": "2026-10-17T20:48:10+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -23,22 +23,22 @@
     },
     {
       "id": "news_paid_training",
-      "items": 39,
+      "items": 38,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 16,
+      "items": 17,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 53,
+      "items": 52,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 65,
+      "items": 67,
       "new_candidates": 0
     },
     {
