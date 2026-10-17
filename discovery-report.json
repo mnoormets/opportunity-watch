@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-17T00:45:37+00:00",
+  "checked_at": "2026-10-17T05:03:37+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,11 +17,6 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 15,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
       "items": 4,
       "new_candidates": 0
@@ -33,22 +28,22 @@
     },
     {
       "id": "news_ai_tasks",
-      "items": 15,
+      "items": 16,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 55,
+      "items": 54,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 64,
+      "items": 65,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 58,
+      "items": 59,
       "new_candidates": 0
     },
     {
@@ -82,28 +77,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 10,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
       "new_candidates": 0
     },
     {
@@ -128,13 +103,13 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 655,
+      "items": 656,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
       "items": 815,
-      "new_candidates": 3
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
@@ -153,12 +128,12 @@
     },
     {
       "id": "direct_roblox",
-      "items": 261,
-      "new_candidates": 0
+      "items": 262,
+      "new_candidates": 1
     },
     {
       "id": "direct_gitlab",
-      "items": 231,
+      "items": 232,
       "new_candidates": 0
     },
     {
@@ -199,71 +174,12 @@
   ],
   "selected": [
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Integration Engineer (EMEA)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-integration-engineer-emea-88268",
-      "location": "Remote - EMEA",
-      "company": "Constructor",
-      "published": 1792183219.0,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Remote - EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792190247.7858996,
-      "category": "job"
-    },
-    {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Senior Engineering Operations Manager",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-engineering-operations-manager-128137",
-      "location": "Remote",
-      "company": "Camunda",
-      "published": 1792172417.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1792180775.6098263,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior DevOps Engineer",
-      "url": "https://jobicy.com/jobs/155494-senior-devops-engineer-9",
-      "location": "Anywhere",
-      "company": "Documo Inc.",
-      "published": 1792169190.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792190247.7858996,
-      "category": "job"
-    },
-    {
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Platform Security Engineering, Operating Systems",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5290426008",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "title": "Pre-Sales Program Lead, Forward Deployed Engineering",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391012008",
+      "location": "San Francisco, CA | New York City, NY",
       "company": "Anthropic",
       "published": null,
       "salary": "",
@@ -273,7 +189,7 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     },
@@ -281,9 +197,47 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Platform Security Engineer, OpenBMC",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271346008",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "title": "Pre-training Data Infrastructure Engineer",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4973067008",
+      "location": "San Francisco, CA",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Product Engineer - Manufacturing Operations",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5399162008",
+      "location": "Remote-Friendly, United States",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Remote-Friendly, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Product Marketing Lead, GTM Strategy - Claude for Knowledge Work",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385602008",
+      "location": "San Francisco, CA | New York City, NY",
       "company": "Anthropic",
       "published": null,
       "salary": "",
@@ -293,10 +247,30 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Product Marketing Manager, Knowledge Work - Core Products",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385651008",
+      "location": "San Francisco, CA | New York City, NY",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     }
   ],
-  "queued_candidates": 1494
+  "queued_candidates": 1490
 }
