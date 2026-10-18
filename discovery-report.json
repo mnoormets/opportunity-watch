@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-18T00:18:22+00:00",
+  "checked_at": "2026-10-18T04:42:55+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,13 +17,18 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 13,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
       "items": 3,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 39,
+      "items": 36,
       "new_candidates": 0
     },
     {
@@ -33,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 52,
+      "items": 53,
       "new_candidates": 0
     },
     {
@@ -43,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 57,
+      "items": 59,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 10,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -108,7 +133,7 @@
     },
     {
       "id": "direct_openai",
-      "items": 814,
+      "items": 813,
       "new_candidates": 0
     },
     {
@@ -177,19 +202,18 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Recruiter, AI Research",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4935314008",
-      "location": "San Francisco, CA | Seattle, WA",
+      "title": "Research Engineer, Code RL (Reinforcement Learning)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5254364008",
+      "location": "San Francisco, CA | New York City, NY",
       "company": "Anthropic",
       "published": null,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     },
@@ -197,8 +221,8 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Recruiting Analytics Data Engineer",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424111008",
+      "title": "Research Engineer, Computer Use",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5285246008",
       "location": "San Francisco, CA | New York City, NY | Seattle, WA",
       "company": "Anthropic",
       "published": null,
@@ -216,9 +240,9 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Red Team Engineer, Safeguards",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5320469008",
-      "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+      "title": "Research Engineer, Cybersecurity RL (Reinforcement Learning)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412334008",
+      "location": "Zürich, CH",
       "company": "Anthropic",
       "published": null,
       "salary": "",
@@ -227,7 +251,7 @@
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: Remote-Friendly (Travel Required) | San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Zürich, CH — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     },
@@ -235,9 +259,9 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Regulatory Counsel, AI Regulation, US",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409299008",
-      "location": "San Francisco, CA | New York City, NY",
+      "title": "Research Engineer, Discovery",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4669581008",
+      "location": "San Francisco, CA",
       "company": "Anthropic",
       "published": null,
       "salary": "",
@@ -247,7 +271,7 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     },
@@ -255,9 +279,9 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Research Engineer, Chip Design RL (Reinforcement Learning)",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5231612008",
-      "location": "San Francisco, CA | New York City, NY",
+      "title": "Research Engineer, Domain Scaling",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271380008",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
       "company": "Anthropic",
       "published": null,
       "salary": "",
@@ -266,10 +290,10 @@
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     }
   ],
-  "queued_candidates": 1483
+  "queued_candidates": 1478
 }
