@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T19:07:42+00:00",
+  "checked_at": "2026-10-19T22:53:11+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,18 +17,13 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 12,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
       "items": 4,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 38,
+      "items": 34,
       "new_candidates": 0
     },
     {
@@ -38,7 +33,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 60,
+      "items": 59,
       "new_candidates": 0
     },
     {
@@ -64,11 +59,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 3
     },
     {
       "id": "hn_ai",
-      "items": 2,
+      "items": 1,
       "new_candidates": 0
     },
     {
@@ -82,38 +77,18 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 99,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 10,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
       "id": "direct_seb",
-      "items": 127,
+      "items": 129,
       "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 505,
+      "items": 504,
       "new_candidates": 0
     },
     {
@@ -128,22 +103,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 664,
-      "new_candidates": 3
+      "items": 667,
+      "new_candidates": 2
     },
     {
       "id": "direct_openai",
-      "items": 804,
-      "new_candidates": 5
+      "items": 806,
+      "new_candidates": 3
     },
     {
       "id": "direct_stripe",
-      "items": 723,
-      "new_candidates": 0
+      "items": 727,
+      "new_candidates": 2
     },
     {
       "id": "direct_datadog",
-      "items": 429,
+      "items": 430,
       "new_candidates": 0
     },
     {
@@ -153,7 +128,7 @@
     },
     {
       "id": "direct_roblox",
-      "items": 261,
+      "items": 262,
       "new_candidates": 1
     },
     {
@@ -173,7 +148,7 @@
     },
     {
       "id": "direct_sentry",
-      "items": 46,
+      "items": 45,
       "new_candidates": 0
     },
     {
@@ -197,103 +172,6 @@
       "new_candidates": 0
     }
   ],
-  "selected": [
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Research Engineer, Universes",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5061517008",
-      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Research Engineer, Visual Knowledge Work",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5074217008",
-      "location": "New York City, NY; San Francisco, CA; Seattle, WA",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: New York City, NY; San Francisco, CA; Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Research Scientist/Engineer, Biological Safety",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5066977008",
-      "location": "San Francisco, CA",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Salesforce Developer",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5413374008",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Salesforce Developer, Partnerships",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5420994008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    }
-  ],
-  "queued_candidates": 1471
+  "selected": [],
+  "queued_candidates": 1482
 }
