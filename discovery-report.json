@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T06:07:35+00:00",
+  "checked_at": "2026-10-19T13:00:07+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,7 +14,7 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "remotive",
@@ -28,27 +28,27 @@
     },
     {
       "id": "news_paid_training",
-      "items": 37,
+      "items": 40,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 18,
+      "items": 16,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 54,
+      "items": 59,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 70,
+      "items": 71,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 53,
+      "items": 65,
       "new_candidates": 0
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "id": "hn_ai",
-      "items": 4,
+      "items": 3,
       "new_candidates": 0
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "id": "social_youtube",
-      "items": 100,
+      "items": 99,
       "new_candidates": 0
     },
     {
@@ -108,12 +108,12 @@
     },
     {
       "id": "direct_seb",
-      "items": 122,
-      "new_candidates": 0
+      "items": 129,
+      "new_candidates": 1
     },
     {
       "id": "direct_welo",
-      "items": 519,
+      "items": 506,
       "new_candidates": 0
     },
     {
@@ -128,22 +128,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 657,
-      "new_candidates": 1
+      "items": 659,
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
       "items": 814,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 729,
+      "items": 725,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 433,
+      "items": 434,
       "new_candidates": 1
     },
     {
@@ -158,7 +158,7 @@
     },
     {
       "id": "direct_gitlab",
-      "items": 231,
+      "items": 229,
       "new_candidates": 0
     },
     {
@@ -199,21 +199,41 @@
   ],
   "selected": [
     {
+      "source": "Startup Jobs",
+      "source_id": "startup",
+      "kind": "rss_jobs",
+      "title": "Product Engineer (EU/UK Based - Remote) at Duvo Inc",
+      "url": "https://startup.jobs/product-engineer-eu-uk-based-remote-duvo-inc-10508299",
+      "location": "",
+      "company": "",
+      "published": 1792281600.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1792414807.939863,
+      "category": "job"
+    },
+    {
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Research Engineer, Pretraining Scaling",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4938432008",
-      "location": "San Francisco, CA",
+      "title": "Research Engineer, RL Engineering",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
       "company": "Anthropic",
       "published": null,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     },
@@ -221,8 +241,8 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Research Engineer, Pretraining Scaling - London",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4938436008",
+      "title": "Research Engineer, RL Scaling Science",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5264619008",
       "location": "London, UK",
       "company": "Anthropic",
       "published": null,
@@ -240,9 +260,9 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Research Engineer, Production Model Post-Training",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4613592008",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "title": "Research Engineer / Scientist, Alignment",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4631822008",
+      "location": "San Francisco, CA",
       "company": "Anthropic",
       "published": null,
       "salary": "",
@@ -251,7 +271,7 @@
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     },
@@ -259,9 +279,9 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Research Engineer/Research Scientist, Pre-training",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4616971008",
-      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+      "title": "Research Engineer, Takeoff Intel",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416882008",
+      "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
       "company": "Anthropic",
       "published": null,
       "salary": "",
@@ -270,29 +290,10 @@
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Research Engineer / Research Scientist, Tokens",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4951814008",
-      "location": "New York City, NY; New York City, NY | Seattle, WA; San Francisco, CA",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: New York City, NY; New York City, NY | Seattle, WA; San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Remote-Friendly (Travel Required) | San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     }
   ],
-  "queued_candidates": 1469
+  "queued_candidates": 1467
 }
