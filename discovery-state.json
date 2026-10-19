@@ -31162,27 +31162,94 @@
     "8c04f4a6716006205827eb3d3e71585e981a66b8c691f88bf44c288c1d448e9f": 1792364698.4002607,
     "b96c74746b4fe6792e4a2bb23845ce347f322bd12e09211a599a0972039db57c": 1792364698.4002607,
     "9d792c873ab66e770bf0268fa92cd0a371e1badf123ba74ce06101a57de6de68": 1792364698.4002607,
-    "76ed827b67354e99349359aa60a0e2930e19de0305d4add056e71f5708a94f87": 1792364698.4002607
+    "76ed827b67354e99349359aa60a0e2930e19de0305d4add056e71f5708a94f87": 1792364698.4002607,
+    "ddf5d326359779f599885108cfdcb2d462f98cc2d71b4c32e4421f43dc17113d": 1792372144.649656,
+    "fef73924cfed6e09662b1c714b51bd210e552e421335797ecae11fbb38b1f1c8": 1792372144.649656,
+    "a59313f08d7061e632fd3b9eb5d69a78c8d806b301d79ae4796864daa3dfc1eb": 1792372144.649656,
+    "fc64c0feb4c2af12c92233ebf3d0c7f47d3311de7b82eee86eb87bd5b7bd700f": 1792372144.649656,
+    "b675f1692d8ddcdcd8e1758011d56acfd502a729aeb18bb90d816666d2b7b503": 1792372144.649656,
+    "b23afad3c5f48720f494a0b1e3ac55297aeec2ba89c93b565628605d89ea7b12": 1792372144.649656,
+    "d40d31aa2a34baae38dad45d242fd11215315e22a58bfa6d5207ce4ddd6ba744": 1792372144.649656,
+    "09178c1412103496692d62c1c9579428924c8f3e8bb9b8984244372fbfe3ccd8": 1792372144.649656,
+    "a31556d79c6d2731a8c1eef23cb9abc200705415bde51b3caecc84f9496d7806": 1792372144.649656,
+    "01f0e80cbde418458426ccb6ea782799ba2c12de99f3e50e62243cc7e910690c": 1792372144.649656,
+    "81b58377480cd2451fb9665faf644fd626d130366b31a9fd1418e57fbac79ce8": 1792372144.649656,
+    "a5f53923a67044cca5d4f1a09047197d2449f01114ac06b0f168a90fbc7b9b5a": 1792372144.649656,
+    "94eda21f0e7b4265cbbf20c808a36b6926fac00f76591f16bb288d9172bdc38e": 1792372144.649656,
+    "0b68b764e316f07467fc42aa2a8986804edab3d6b5b69168af40fde7f260200d": 1792372144.649656,
+    "ed72e58fbaa24d0b6ff3e8a5f66a8b06787e697da806df170b3d689c6a0c22ad": 1792372144.649656,
+    "55e149fa3be554c8b12663298ef0b78d274ea90ee6d329c4ad12de4f74a84995": 1792372144.649656,
+    "bd6336b87ab3badfac2c8108db9771141905bdeb822e3de30b8b5705b7d882f4": 1792372144.649656,
+    "a432bb96bfa0bc2ecb76d181aa4a9494c196d3ccc5a79109d7f2a813c06a99a7": 1792372144.649656,
+    "5a3b5200da6964c9adca214e9a445df2371cf6edd39521e8046c8df28c84f87b": 1792372144.649656,
+    "deef0ed9bc13e265edb71a2452a81dbf21d94dd3dba4a94edb08f17667f72ac2": 1792372144.649656,
+    "3931212a230936937bc5ba500721d4e3be2e079732f552eea4d61bd75ef3469b": 1792372144.649656,
+    "3c40ab83b17d32a1ba98793a04ce2794cefa0002708d09133dac0df4b559f179": 1792372144.649656,
+    "8d9c43109aaa840a1adc3dd2a0d39789be7b474cd784359e85ad7fe66f0b8fc2": 1792372144.649656,
+    "ae5cc5793d7fadcc7f2101aede62680115a679711c00f3f16bca8f4cba9e15cc": 1792372144.649656,
+    "574690772a0c3a1a8f918c7100aa684b0085d285cb0082f48d43b6b813a70961": 1792372144.649656,
+    "842cc0d46422a093bf0acd6f9b97d79beacd520f662726c5e93b90a355b3dd30": 1792372144.649656,
+    "ac896f83b0409689bf46fb9d95f5766b50305d4048f716c38ba6e7311a00cab6": 1792372144.649656,
+    "a700bc3d9633a52109da0345e02b8e5cdb3ca6c29ddb8ef1d12338e4ea8d684c": 1792372144.649656,
+    "c19678218b3e709974231fcc9174796775659bee7e6636d6cdd719e1381d00ce": 1792372144.649656,
+    "bcdbbe2c03d4888e48dadb09d98057aa108bb418748c44e5ecb1932a158afd3b": 1792372144.649656,
+    "99b8ba977ed1453dd45db69d4be50f40263cd7f3bb27faf090143a137363a7c0": 1792372144.649656,
+    "c92011cab3ba76a909cf793e182ba7f8b443a534a243f494e1502157eb46870b": 1792372144.649656,
+    "2e0a3b6b0a3f0adac9547521db4c83c70c699e1512520c1c1cb60a5bab49de03": 1792372144.649656,
+    "e8973ddaf88f33dac03180032c0ba69d4910878cfdd382a9cade68ce344b9067": 1792372144.649656,
+    "9f3fdae29bf227b6ea3874a02a355ebc0d9a28da70da7a8ffc44e04df1611751": 1792372144.649656,
+    "250f5500065ecbe7baa2464792e085aca8456604a5acf6b8a53484dba236c849": 1792372144.649656,
+    "6286db2593d18d11d692edbc82aaf524dea7d46474117fce25646332c9a53036": 1792372144.649656,
+    "885533336416daa00eb1a5aeb799b42998dac4d17b1838b91f39b9d10b942431": 1792372144.649656,
+    "7cd195bdd95f20711735fe6cf0e461cad76852893a07411a2119488fc5410a7e": 1792372144.649656,
+    "f27591c4dc50f74ab9d7558495e48a554717c04f74433033580316cc6fdca486": 1792372144.649656,
+    "5e0bc642061cbf599eb682041acf71672ba88b9c519be28993d4ffcf40cbf290": 1792372144.649656,
+    "9cd8160b95cba29e386d986d780431ee9f959e49baeee7473aa45db1294e4041": 1792372144.649656,
+    "ac67b906f88696965549a0fbe706f9f282a9877740a8cd77eb21b53dc3ab817c": 1792372144.649656,
+    "3e005dc1d44419d36c8a5aa735ac02d75791845de86c2da662e9b27f83323f3d": 1792372144.649656,
+    "fcf9c59fb0b78c727f2eebc891b2c8ce28b49349ea78fb8a817b6f6dac2332ac": 1792372144.649656,
+    "28551e6e272d0a5d21f29583d4c47db34dacddcc22317e23ef9257e1ac5076b5": 1792372144.649656,
+    "29a1851c5e6aad2ee99dce360ae1ae14713aedbb8f23723d76b7919303df03f8": 1792372144.649656,
+    "e1dcd03f66c97657a97fc3ffdc50085790f1f986c423cbed4aab2c6e335b5189": 1792372144.649656,
+    "13d1713e38f97fdd5c540c14ad3aa6821b89c1f388638006e730dbabba401cb5": 1792372144.649656,
+    "17222ae6cd8dd89e1c3694ef15c834150c7582ca00dced43948dc8d5ae703b1d": 1792372144.649656,
+    "ef5937de6596c48ea757065561958e705452827ec2feb772e8fefcbc58155acb": 1792372144.649656,
+    "534b0b1bb6690fdb6744dafd16c09ea82d510aa5592675fa28d0cc306b496f89": 1792372144.649656,
+    "dc3b471e1f6970e7308e0f3f41f9b1f8c2bd9bd07298e3edb0f2a924ce90f410": 1792372144.649656,
+    "8bd758402189d123363740c97700ed3ceade03ee44cc5a21e5cb7efa71b64a30": 1792372144.649656,
+    "cc084cd4b56bab23d18f68889e14bb482a1ca76acc0036afee00ad67cfceb820": 1792372144.649656,
+    "3475166084964a2903e71e6ec13543d4bfee93758faeabba479e4b3e8fe1e4f6": 1792372144.649656,
+    "8c73e7d0bfe2c5b43d0556b606871fd40f8e308207d20937f6be089f45dae8f5": 1792372144.649656,
+    "4f4c2000e8beb2abec4629cc50430eb9db838a5235051560616318532ec86c9f": 1792372144.649656,
+    "c34d21a3f1b5ff472b03610d5e96915eeac03eb87fe70b03700abe61fdc8d593": 1792372144.649656,
+    "576bc47321934acbd376b907613f55b0ff1c89f4b29027bcff4267465a97b325": 1792372144.649656,
+    "7d713f5345f9daea695f8d2234e2160c24d88fcbfa2af05fccc9ba10c464bfb5": 1792372144.649656,
+    "ab5da6805effca43110b3dc566c280f7962cb2dcfe1b2741f5cdafe96bb7116f": 1792372144.649656,
+    "cd02417d6b682b90879ae83bc6bae09d1bba162b32bf8f15be02a5336ebdd759": 1792372144.649656,
+    "3868793b3d786c14077ee8a0c7df8fa1896493b255852c7c1553a3ffe8bb3ea4": 1792372144.649656,
+    "4f0bb2dc19c803c764f8d86ce4d40af306a4ff0bc5c4d9c11b4dea15e91d0662": 1792372144.649656,
+    "cf8d8a20530bcb82b3f8f97480588004f5e779f8b1700e4af87d243412e68ee8": 1792372144.649656,
+    "acb33a482b94e76015027c854e83f9cc6a39cb0c23ac951ee9d437546dfbe9ab": 1792372144.649656
   },
   "sources": {
     "remoteok": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:04:59+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:05+00:00",
       "items": 99,
       "accepted": 0
     },
     "arbeitnow": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:01+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:07+00:00",
       "items": 300,
       "accepted": 0
     },
     "startup": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:02+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:08+00:00",
       "items": 50,
       "accepted": 0
     },
@@ -31195,85 +31262,85 @@
     },
     "news_fellowships": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:03+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:10+00:00",
       "items": 4,
       "accepted": 0
     },
     "news_paid_training": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:05+00:00",
-      "items": 37,
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:11+00:00",
+      "items": 38,
       "accepted": 0
     },
     "news_ai_tasks": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:06+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:12+00:00",
       "items": 17,
       "accepted": 0
     },
     "news_hackathons": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:08+00:00",
-      "items": 54,
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:14+00:00",
+      "items": 56,
       "accepted": 0
     },
     "news_grants": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:10+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:15+00:00",
       "items": 71,
       "accepted": 0
     },
     "news_bounties": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:11+00:00",
-      "items": 54,
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:17+00:00",
+      "items": 55,
       "accepted": 0
     },
     "news_paid_research": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:13+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:18+00:00",
       "items": 0,
       "accepted": 0
     },
     "news_estonia": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:14+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:20+00:00",
       "items": 0,
       "accepted": 0
     },
     "jobicy": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:16+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:21+00:00",
       "items": 100,
       "accepted": 0
     },
     "hn_ai": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:17+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:22+00:00",
       "items": 6,
       "accepted": 0
     },
     "hn_ml": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:19+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:24+00:00",
       "items": 0,
       "accepted": 0
     },
     "hn_projects": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:20+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:25+00:00",
       "items": 0,
       "accepted": 0
     },
@@ -31300,8 +31367,8 @@
     },
     "news_corps": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:22+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:26+00:00",
       "items": 10,
       "accepted": 0
     },
@@ -31314,127 +31381,127 @@
     },
     "direct_seb": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:25+00:00",
-      "items": 126,
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:29+00:00",
+      "items": 120,
       "accepted": 0
     },
     "direct_welo": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:27+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:32+00:00",
       "items": 523,
       "accepted": 0
     },
     "direct_pipedrive": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:29+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:33+00:00",
       "items": 8,
       "accepted": 0
     },
     "direct_veriff": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:30+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:35+00:00",
       "items": 10,
       "accepted": 0
     },
     "direct_anthropic": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:33+00:00",
-      "items": 656,
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:37+00:00",
+      "items": 658,
       "accepted": 0
     },
     "direct_openai": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:35+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:39+00:00",
       "items": 813,
       "accepted": 0
     },
     "direct_stripe": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:37+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:41+00:00",
       "items": 731,
       "accepted": 0
     },
     "direct_datadog": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:40+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:43+00:00",
       "items": 433,
       "accepted": 0
     },
     "news_estonia_jobs": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:51+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:53+00:00",
       "items": 0,
       "accepted": 0
     },
     "news_early_career": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:52+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:55+00:00",
       "items": 0,
       "accepted": 0
     },
     "news_shopify": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:53+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:56+00:00",
       "items": 0,
       "accepted": 0
     },
     "direct_hpiq": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:41+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:44+00:00",
       "items": 35,
       "accepted": 0
     },
     "direct_roblox": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:43+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:46+00:00",
       "items": 263,
       "accepted": 0
     },
     "direct_gitlab": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:44+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:48+00:00",
       "items": 232,
       "accepted": 0
     },
     "direct_cohere": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:46+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:49+00:00",
       "items": 118,
       "accepted": 0
     },
     "direct_n8n": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:47+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:50+00:00",
       "items": 42,
       "accepted": 0
     },
     "direct_sentry": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:48+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:51+00:00",
       "items": 46,
       "accepted": 0
     },
     "direct_uplane": {
       "failures": 0,
-      "next_check": 1792368298.4002607,
-      "last_success": "2026-10-18T23:05:49+00:00",
+      "next_check": 1792375744.649656,
+      "last_success": "2026-10-19T01:09:52+00:00",
       "items": 16,
       "accepted": 0
     }
@@ -60398,66 +60465,6 @@
       "found_at": 1792213417.5713265,
       "category": "job"
     },
-    "3be0adbe9ebb56dbffd2bf4dbcc948e7146be2fd229ad3a14049e0f12987ee9f": {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Software Engineer, Data Pipeline",
-      "url": "https://jobicy.com/jobs/155730-senior-software-engineer-data-pipeline",
-      "location": "Europe",
-      "company": "Bloomreach",
-      "published": 1792327968.0,
-      "salary": "1296000–1620000 CZK / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792341110.314462,
-      "category": "job"
-    },
-    "db664f9102062f62b1e74519eab0d5ca3ea56002538a8e29426a7a8c46495fb1": {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Staff Software Engineer - Python, Java / Spring or Go",
-      "url": "https://jobicy.com/jobs/155731-staff-software-engineer-python-java-spring-or-go",
-      "location": "Europe",
-      "company": "Bloomreach",
-      "published": 1792327967.0,
-      "salary": "49100–61430 EUR / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792341110.314462,
-      "category": "job"
-    },
-    "94215987e6c081a30ce4fc7aab1a107f7a669e15d73bd4752aeede04e0cee494": {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Full-Stack Software Engineer (Remote in Europe)",
-      "url": "https://jobicy.com/jobs/155727-senior-full-stack-software-engineer-remote-in-europe-2",
-      "location": "Europe",
-      "company": "Skedda",
-      "published": 1792327964.0,
-      "salary": "75000–85000 USD / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792341110.314462,
-      "category": "job"
-    },
     "d3d07103e6a673dff15c93e2c5500edbd4880bc8d9d201dfbb7b37b0e3cf4f50": {
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
@@ -60477,55 +60484,17 @@
       "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1792341110.314462,
       "category": "job"
-    },
-    "1e125b668a601e64058333cb50d6fc2ece1a39c14acd1ac3079895307e4bd3f1": {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Machine Learning Engineer (Governance ML Platform)",
-      "url": "https://jobicy.com/jobs/155746-machine-learning-engineer-governance-ml-platform",
-      "location": "EMEA",
-      "company": "EDB",
-      "published": 1792331322.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792349407.8673844,
-      "category": "job"
-    },
-    "717228a23d5bc6ec3854ebd85277547e8ca0b8d478d9deb0021a88d1aa9f60cb": {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "International Audio/Video Remote Toisan and Mandarin or Cantonese Interpreter",
-      "url": "https://jobicy.com/jobs/155762-international-audio-video-remote-toisan-and-mandarin-or-cantonese-interpreter",
-      "location": "Anywhere",
-      "company": "Language Services Associates",
-      "published": 1792339839.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792357518.4545848,
-      "category": "job"
     }
   },
   "outbox": [],
   "delivery_after": {},
   "daily": {
-    "day": "2026-10-18",
-    "sent": 20,
+    "day": "2026-10-19",
+    "sent": 5,
     "secondary": 0
   },
   "initialized": true,
-  "last_run_utc": "2026-10-18T23:05:55+00:00",
+  "last_run_utc": "2026-10-19T01:09:57+00:00",
   "opportunities": {
     "b80d1e466f51065435882b9898c9ef4dbb874a8d99404eb295d8194df93f7670": {
       "first_seen_at": "2026-09-20T19:46:10+00:00",
@@ -106500,7 +106469,11 @@
       "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1792341110.314462,
       "category": "job",
-      "reference": "OW-C0DD2E7714"
+      "reference": "OW-C0DD2E7714",
+      "discord_pending": false,
+      "discord_sent_at": "2026-10-19T01:09:58+00:00",
+      "delivery_evidence": "api_success",
+      "discord_url": "https://discord.com/channels/787327675949121567/1550872949165260831/1561546919853957174"
     },
     "152f652cd8786c1323b41a8272c1621640746ab1d9a0661691dab747d9735050": {
       "first_seen_at": "2026-10-18T16:32:08+00:00",
@@ -106522,7 +106495,11 @@
       "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1792341110.314462,
       "category": "job",
-      "reference": "OW-152F652CD8"
+      "reference": "OW-152F652CD8",
+      "discord_pending": false,
+      "discord_sent_at": "2026-10-19T01:09:58+00:00",
+      "delivery_evidence": "api_success",
+      "discord_url": "https://discord.com/channels/787327675949121567/1550872949165260831/1561546921892388898"
     },
     "ddcf9f6df1280db0044386ac6d2abee3d76dd2b8eed5a771aaf0839c48fb967c": {
       "first_seen_at": "2026-10-18T16:32:08+00:00",
@@ -106544,7 +106521,11 @@
       "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1792341110.314462,
       "category": "job",
-      "reference": "OW-DDCF9F6DF1"
+      "reference": "OW-DDCF9F6DF1",
+      "discord_pending": false,
+      "discord_sent_at": "2026-10-19T01:09:58+00:00",
+      "delivery_evidence": "api_success",
+      "discord_url": "https://discord.com/channels/787327675949121567/1550872949165260831/1561546923804987452"
     },
     "c039b78acf47d46915a975cf92da09e8969a2541d9fc4590dd7b404973553ec8": {
       "first_seen_at": "2026-10-18T16:32:24+00:00",
@@ -106587,7 +106568,11 @@
       "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1792349407.8673844,
       "category": "job",
-      "reference": "OW-6CDC33A992"
+      "reference": "OW-6CDC33A992",
+      "discord_pending": false,
+      "discord_sent_at": "2026-10-19T01:09:59+00:00",
+      "delivery_evidence": "api_success",
+      "discord_url": "https://discord.com/channels/787327675949121567/1550872949165260831/1561546928062206102"
     },
     "6a4493f29c09f83430a9466f9d0cc89538fe2eb8b849dd5a0a9a0cb905bab405": {
       "first_seen_at": "2026-10-18T21:05:37+00:00",
@@ -106608,7 +106593,11 @@
       "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1792357518.4545848,
       "category": "job",
-      "reference": "OW-6A4493F29C"
+      "reference": "OW-6A4493F29C",
+      "discord_pending": false,
+      "discord_sent_at": "2026-10-19T01:09:59+00:00",
+      "delivery_evidence": "api_success",
+      "discord_url": "https://discord.com/channels/787327675949121567/1550872949165260831/1561546925596082308"
     }
   },
   "filter_policy": "estonia-remote-selected-relocation-all-levels-v3"
