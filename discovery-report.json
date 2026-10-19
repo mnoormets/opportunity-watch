@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T01:09:04+00:00",
+  "checked_at": "2026-10-19T06:07:35+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,33 +17,38 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 12,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
       "items": 4,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 38,
+      "items": 37,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 17,
+      "items": 18,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 56,
+      "items": 54,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 71,
+      "items": 70,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 55,
+      "items": 53,
       "new_candidates": 0
     },
     {
@@ -63,7 +68,7 @@
     },
     {
       "id": "hn_ai",
-      "items": 6,
+      "items": 4,
       "new_candidates": 0
     },
     {
@@ -77,18 +82,38 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 10,
       "new_candidates": 0
     },
     {
+      "id": "news_clients",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_seb",
-      "items": 120,
+      "items": 122,
       "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 523,
+      "items": 519,
       "new_candidates": 0
     },
     {
@@ -103,23 +128,23 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 658,
-      "new_candidates": 0
+      "items": 657,
+      "new_candidates": 1
     },
     {
       "id": "direct_openai",
-      "items": 813,
-      "new_candidates": 0
+      "items": 814,
+      "new_candidates": 1
     },
     {
       "id": "direct_stripe",
-      "items": 731,
+      "items": 729,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
       "items": 433,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_hpiq",
@@ -128,17 +153,17 @@
     },
     {
       "id": "direct_roblox",
-      "items": 263,
+      "items": 262,
       "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 232,
+      "items": 231,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 118,
+      "items": 116,
       "new_candidates": 0
     },
     {
@@ -174,103 +199,100 @@
   ],
   "selected": [
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Software Engineer, Data Pipeline",
-      "url": "https://jobicy.com/jobs/155730-senior-software-engineer-data-pipeline",
-      "location": "Europe",
-      "company": "Bloomreach",
-      "published": 1792327968.0,
-      "salary": "1296000–1620000 CZK / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792341110.314462,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Staff Software Engineer - Python, Java / Spring or Go",
-      "url": "https://jobicy.com/jobs/155731-staff-software-engineer-python-java-spring-or-go",
-      "location": "Europe",
-      "company": "Bloomreach",
-      "published": 1792327967.0,
-      "salary": "49100–61430 EUR / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792341110.314462,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Full-Stack Software Engineer (Remote in Europe)",
-      "url": "https://jobicy.com/jobs/155727-senior-full-stack-software-engineer-remote-in-europe-2",
-      "location": "Europe",
-      "company": "Skedda",
-      "published": 1792327964.0,
-      "salary": "75000–85000 USD / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792341110.314462,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "International Audio/Video Remote Toisan and Mandarin or Cantonese Interpreter",
-      "url": "https://jobicy.com/jobs/155762-international-audio-video-remote-toisan-and-mandarin-or-cantonese-interpreter",
-      "location": "Anywhere",
-      "company": "Language Services Associates",
-      "published": 1792339839.0,
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Research Engineer, Pretraining Scaling",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4938432008",
+      "location": "San Francisco, CA",
+      "company": "Anthropic",
+      "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
+      "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792357518.4545848,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Machine Learning Engineer (Governance ML Platform)",
-      "url": "https://jobicy.com/jobs/155746-machine-learning-engineer-governance-ml-platform",
-      "location": "EMEA",
-      "company": "EDB",
-      "published": 1792331322.0,
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Research Engineer, Pretraining Scaling - London",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4938436008",
+      "location": "London, UK",
+      "company": "Anthropic",
+      "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
+      "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792349407.8673844,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: London, UK — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Research Engineer, Production Model Post-Training",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4613592008",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Research Engineer/Research Scientist, Pre-training",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4616971008",
+      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Research Engineer / Research Scientist, Tokens",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4951814008",
+      "location": "New York City, NY; New York City, NY | Seattle, WA; San Francisco, CA",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: New York City, NY; New York City, NY | Seattle, WA; San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
       "category": "job"
     }
   ],
-  "queued_candidates": 1471
+  "queued_candidates": 1469
 }
