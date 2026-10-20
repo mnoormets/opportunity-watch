@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T01:18:56+00:00",
+  "checked_at": "2026-10-20T06:06:34+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,16 +9,11 @@
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
-    },
-    {
-      "id": "remotive",
-      "items": 12,
       "new_candidates": 0
     },
     {
@@ -28,22 +23,22 @@
     },
     {
       "id": "news_paid_training",
-      "items": 35,
+      "items": 36,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 15,
+      "items": 14,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 60,
+      "items": 30,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 70,
+      "items": 69,
       "new_candidates": 0
     },
     {
@@ -68,7 +63,7 @@
     },
     {
       "id": "hn_ai",
-      "items": 1,
+      "items": 6,
       "new_candidates": 0
     },
     {
@@ -82,28 +77,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 99,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 10,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
       "new_candidates": 0
     },
     {
@@ -113,7 +88,7 @@
     },
     {
       "id": "direct_welo",
-      "items": 504,
+      "items": 493,
       "new_candidates": 0
     },
     {
@@ -128,22 +103,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 667,
+      "items": 666,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 808,
-      "new_candidates": 1
+      "items": 806,
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 726,
+      "items": 723,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 430,
+      "items": 431,
       "new_candidates": 0
     },
     {
@@ -153,7 +128,7 @@
     },
     {
       "id": "direct_roblox",
-      "items": 263,
+      "items": 264,
       "new_candidates": 1
     },
     {
@@ -163,7 +138,7 @@
     },
     {
       "id": "direct_cohere",
-      "items": 115,
+      "items": 116,
       "new_candidates": 0
     },
     {
@@ -199,14 +174,14 @@
   ],
   "selected": [
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Growth Marketing Manager",
-      "url": "https://jobicy.com/jobs/155933-growth-marketing-manager-4",
-      "location": "Anywhere",
-      "company": "Eight Sleep",
-      "published": 1792430071.0,
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Senior Product Designer - Growth/Website | Deel",
+      "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-senior-product-designer-growth-website-deel-422078",
+      "location": "Remote",
+      "company": "Hirehire",
+      "published": 1792464018.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -214,65 +189,26 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792450391.4868326,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Enterprise Sales Executive, AI Solutions",
-      "url": "https://jobicy.com/jobs/155914-enterprise-sales-executive-ai-solutions",
-      "location": "LATAM, Canada, Europe",
-      "company": "Toptal",
-      "published": 1792429098.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: LATAM, Canada, Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792450391.4868326,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Marketing Analyst, New Business and MA",
-      "url": "https://jobicy.com/jobs/155919-marketing-analyst-new-business-and-ma",
-      "location": "LATAM, Europe",
-      "company": "Toptal",
-      "published": 1792429094.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: LATAM, Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792450391.4868326,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1792476394.0375965,
       "category": "job"
     },
     {
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Scaled Growth Account Executive, AI Native",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415461008",
-      "location": "New York City, NY; San Francisco, CA | New York City, NY",
+      "title": "Security Engineer, Detection & Response",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4982193008",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC",
       "company": "Anthropic",
       "published": null,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: New York City, NY; San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     },
@@ -280,21 +216,62 @@
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Security Engineer, Corporate Security",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397319008",
-      "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+      "title": "Security Engineer, Offensive Security",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418977008",
+      "location": "Remote-Friendly, United States; San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
       "company": "Anthropic",
       "published": null,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Remote-Friendly, United States; San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Security Engineer - Threat Intel",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5195705008",
+      "location": "New York City, NY; Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC; San Francisco, CA | New York City, NY",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: New York City, NY; Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC; San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Security Software Engineer, Detection & Response Platform",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4595463008",
+      "location": "New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790091916.2319474,
       "category": "job"
     }
   ],
-  "queued_candidates": 1479
+  "queued_candidates": 1476
 }
