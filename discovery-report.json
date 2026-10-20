@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T11:27:24+00:00",
+  "checked_at": "2026-10-20T15:43:51+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,38 +17,33 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 10,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
-      "items": 3,
+      "items": 4,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 36,
+      "items": 35,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 14,
+      "items": 13,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 59,
+      "items": 60,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 68,
+      "items": 70,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 61,
+      "items": 63,
       "new_candidates": 0
     },
     {
@@ -64,11 +59,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 6
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
-      "items": 5,
+      "items": 3,
       "new_candidates": 0
     },
     {
@@ -82,33 +77,13 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 99,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 10,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
       "id": "direct_seb",
-      "items": 126,
+      "items": 128,
       "new_candidates": 1
     },
     {
@@ -128,22 +103,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 667,
-      "new_candidates": 1
+      "items": 670,
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 807,
+      "items": 806,
       "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 727,
-      "new_candidates": 2
+      "items": 728,
+      "new_candidates": 1
     },
     {
       "id": "direct_datadog",
-      "items": 432,
+      "items": 431,
       "new_candidates": 0
     },
     {
@@ -158,7 +133,7 @@
     },
     {
       "id": "direct_gitlab",
-      "items": 229,
+      "items": 231,
       "new_candidates": 0
     },
     {
@@ -168,7 +143,7 @@
     },
     {
       "id": "direct_n8n",
-      "items": 41,
+      "items": 40,
       "new_candidates": 0
     },
     {
@@ -199,72 +174,33 @@
   ],
   "selected": [
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Security Engineer",
-      "url": "https://jobicy.com/jobs/153639-security-engineer-2",
-      "location": "Europe, USA",
-      "company": "Roboflow",
-      "published": 1792466727.0,
-      "salary": "165000–200000 USD / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792495644.3295949,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Backend Software Engineer",
-      "url": "https://jobicy.com/jobs/150975-backend-software-engineer-2",
-      "location": "Europe",
-      "company": "Northflank",
-      "published": 1792466107.0,
-      "salary": "75000–104000 GBP / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792495644.3295949,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "DevOps Engineer, Blockchain Infra (Fully Remote)",
-      "url": "https://jobicy.com/jobs/153653-devops-engineer-blockchain-infra-fully-remote",
-      "location": "Europe, UAE",
-      "company": "Binance",
-      "published": 1792469720.0,
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Junior-Middle Level Cloud Developer in Analytics Team / Mākoņa risinājumu programmētājs/-a | SEB, Riga",
+      "url": "https://jobs.eu.lever.co/seb/c6e73ba5-e8cd-4773-8341-20f29f49132a",
+      "location": "Rīga",
+      "company": "SEB",
+      "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
+      "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe, UAE — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792495644.3295949,
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Rīga — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792511031.908973,
       "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Associate Linux Support Engineer",
-      "url": "https://jobicy.com/jobs/151014-associate-linux-support-engineer",
+      "title": "Distributed Systems Testing Software Engineer, Python / Go",
+      "url": "https://jobicy.com/jobs/151013-distributed-systems-testing-software-engineer-python-go",
       "location": "Anywhere",
       "company": "Canonical",
-      "published": 1792466716.0,
+      "published": 1792466113.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -276,25 +212,65 @@
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Software Engineer - Secure Container Images",
-      "url": "https://jobicy.com/jobs/150994-software-engineer-secure-container-images",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1792466710.0,
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Senior Engineering Manager, Capacity Engineering",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5363210008",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "company": "Anthropic",
+      "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
+      "relocation_employer": true,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792495644.3295949,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Senior Software Engineer, Full-stack",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5174743008",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Senior Software Security Engineer",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4887959008",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
       "category": "job"
     }
   ],
-  "queued_candidates": 1481
+  "queued_candidates": 1478
 }
