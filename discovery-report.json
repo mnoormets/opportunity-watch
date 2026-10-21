@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-21T10:26:04+00:00",
+  "checked_at": "2026-10-21T15:29:08+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,13 +17,18 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 10,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
-      "items": 4,
+      "items": 6,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 29,
+      "items": 28,
       "new_candidates": 0
     },
     {
@@ -43,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 63,
+      "items": 67,
       "new_candidates": 0
     },
     {
@@ -59,11 +64,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 4
+      "new_candidates": 2
     },
     {
       "id": "hn_ai",
-      "items": 3,
+      "items": 2,
       "new_candidates": 0
     },
     {
@@ -77,19 +82,39 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 99,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
-      "items": 5,
+      "items": 3,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
       "id": "direct_seb",
-      "items": 127,
+      "items": 129,
       "new_candidates": 2
     },
     {
       "id": "direct_welo",
       "items": 485,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_pipedrive",
@@ -98,28 +123,28 @@
     },
     {
       "id": "direct_veriff",
-      "items": 10,
+      "items": 9,
       "new_candidates": 0
     },
     {
       "id": "direct_anthropic",
-      "items": 676,
+      "items": 675,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 808,
-      "new_candidates": 1
+      "items": 807,
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 730,
-      "new_candidates": 0
+      "items": 731,
+      "new_candidates": 1
     },
     {
       "id": "direct_datadog",
-      "items": 436,
-      "new_candidates": 0
+      "items": 439,
+      "new_candidates": 1
     },
     {
       "id": "direct_hpiq",
@@ -133,7 +158,7 @@
     },
     {
       "id": "direct_gitlab",
-      "items": 232,
+      "items": 230,
       "new_candidates": 0
     },
     {
@@ -148,7 +173,7 @@
     },
     {
       "id": "direct_sentry",
-      "items": 45,
+      "items": 44,
       "new_candidates": 0
     },
     {
@@ -174,14 +199,33 @@
   ],
   "selected": [
     {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Junior-Middle Level Cloud Developer / Mākoņa risinājumu programmētājs/-a | SEB, Riga",
+      "url": "https://jobs.eu.lever.co/seb/c6e73ba5-e8cd-4773-8341-20f29f49132a",
+      "location": "Rīga",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Rīga — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792596548.1674566,
+      "category": "job"
+    },
+    {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Staff Software Engineer",
-      "url": "https://jobicy.com/jobs/153697-staff-software-engineer-6",
+      "title": "Senior Web Engineer - Subscriptions",
+      "url": "https://jobicy.com/jobs/156186-senior-web-engineer-subscriptions",
       "location": "EMEA",
-      "company": "saas.group",
-      "published": 1792552512.0,
+      "company": "Spotify",
+      "published": 1792579510.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -190,37 +234,18 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792578364.6230266,
+      "found_at": 1792596548.1674566,
       "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Sales Engineer - Upstream Bioprocessing",
-      "url": "https://jobicy.com/jobs/146984-sales-engineer-upstream-bioprocessing",
-      "location": "EMEA",
-      "company": "Spirax Group",
-      "published": 1792551915.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792578364.6230266,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Application Security Engineering Manager",
-      "url": "https://jobicy.com/jobs/146803-application-security-engineering-manager",
-      "location": "Europe, UK",
-      "company": "Synthesia",
-      "published": 1792551906.0,
+      "title": "Staff Software Engineer - Market Data",
+      "url": "https://jobicy.com/jobs/156140-staff-software-engineer-market-data",
+      "location": "Europe, USA",
+      "company": "Dune",
+      "published": 1792575739.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -228,19 +253,19 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Europe, UK — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792578364.6230266,
+      "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792596548.1674566,
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Staff Android Engineer",
-      "url": "https://jobicy.com/jobs/147066-staff-android-engineer",
-      "location": "Europe, UK",
-      "company": "AlphaSense",
-      "published": 1792551557.0,
+      "source": "Welo Global careers (direct)",
+      "source_id": "direct_welo",
+      "kind": "lever",
+      "title": "English to Bosnian (Cyrillic) Review Lead for UI, Marketing & Product Content",
+      "url": "https://jobs.lever.co/weloglobal/421589cc-06c4-49c9-81be-76ca0fc232a2",
+      "location": "Remote, Worldwide",
+      "company": "Welo Global",
+      "published": null,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -248,16 +273,16 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Europe, UK — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792578364.6230266,
+      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792596548.1674566,
       "category": "job"
     },
     {
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Software Engineer, Research Data Platform",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5191226008",
+      "title": "Software Engineer, Research Infrastructure",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5283063008",
       "location": "San Francisco, CA | New York City, NY",
       "company": "Anthropic",
       "published": null,
@@ -272,5 +297,5 @@
       "category": "job"
     }
   ],
-  "queued_candidates": 1486
+  "queued_candidates": 1488
 }
