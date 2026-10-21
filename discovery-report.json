@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T22:37:45+00:00",
+  "checked_at": "2026-10-21T00:53:01+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -43,7 +43,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 66,
+      "items": 67,
       "new_candidates": 0
     },
     {
@@ -59,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "hn_ai",
@@ -78,12 +78,12 @@
     },
     {
       "id": "news_corps",
-      "items": 7,
+      "items": 5,
       "new_candidates": 0
     },
     {
       "id": "direct_seb",
-      "items": 128,
+      "items": 124,
       "new_candidates": 0
     },
     {
@@ -103,7 +103,7 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 672,
+      "items": 675,
       "new_candidates": 1
     },
     {
@@ -113,12 +113,12 @@
     },
     {
       "id": "direct_stripe",
-      "items": 731,
+      "items": 732,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 434,
+      "items": 435,
       "new_candidates": 0
     },
     {
@@ -128,7 +128,7 @@
     },
     {
       "id": "direct_roblox",
-      "items": 262,
+      "items": 261,
       "new_candidates": 1
     },
     {
@@ -172,6 +172,105 @@
       "new_candidates": 0
     }
   ],
-  "selected": [],
-  "queued_candidates": 1490
+  "selected": [
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Software Engineer, Agents",
+      "url": "https://jobicy.com/jobs/156026-senior-software-engineer-agents-2",
+      "location": "EMEA, LATAM, Canada, USA",
+      "company": "RevenueCat",
+      "published": 1792510028.0,
+      "salary": "230000–230000 USD / yearly",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792525120.0027618,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "AI Enablement and Learning Specialist",
+      "url": "https://jobicy.com/jobs/156074-ai-enablement-and-learning-specialist",
+      "location": "EMEA",
+      "company": "Superside",
+      "published": 1792523929.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792543981.2707222,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Senior Staff Software Engineer, API",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5134895008",
+      "location": "San Francisco, CA | New York City, NY",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Silicon Engineer",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5286348008",
+      "location": "San Francisco, CA",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Software Engineer, Beneficial Deployments",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4942024008",
+      "location": "San Francisco, CA | New York City, NY",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790091916.2319474,
+      "category": "job"
+    }
+  ],
+  "queued_candidates": 1488
 }
