@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-21T19:27:56+00:00",
+  "checked_at": "2026-10-21T22:35:21+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,13 +17,18 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 10,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
       "items": 5,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 29,
+      "items": 31,
       "new_candidates": 0
     },
     {
@@ -38,12 +43,12 @@
     },
     {
       "id": "news_grants",
-      "items": 70,
+      "items": 69,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 66,
+      "items": 64,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 99,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 3,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -104,21 +129,21 @@
     {
       "id": "direct_anthropic",
       "items": 674,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 808,
-      "new_candidates": 1
+      "items": 809,
+      "new_candidates": 4
     },
     {
       "id": "direct_stripe",
-      "items": 729,
+      "items": 726,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 438,
+      "items": 439,
       "new_candidates": 1
     },
     {
@@ -129,16 +154,16 @@
     {
       "id": "direct_roblox",
       "items": 267,
-      "new_candidates": 3
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 230,
+      "items": 229,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 115,
+      "items": 114,
       "new_candidates": 0
     },
     {
@@ -173,5 +198,5 @@
     }
   ],
   "selected": [],
-  "queued_candidates": 1494
+  "queued_candidates": 1499
 }
