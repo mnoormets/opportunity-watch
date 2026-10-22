@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-22T19:21:08+00:00",
+  "checked_at": "2026-10-22T22:28:38+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,13 +17,18 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 10,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
       "items": 5,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 39,
+      "items": 42,
       "new_candidates": 0
     },
     {
@@ -38,12 +43,12 @@
     },
     {
       "id": "news_grants",
-      "items": 70,
+      "items": 67,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 63,
+      "items": 33,
       "new_candidates": 0
     },
     {
@@ -59,11 +64,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
-      "items": 2,
+      "items": 1,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 3,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -88,7 +113,7 @@
     },
     {
       "id": "direct_welo",
-      "items": 464,
+      "items": 463,
       "new_candidates": 0
     },
     {
@@ -103,43 +128,43 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 679,
+      "items": 680,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 809,
-      "new_candidates": 2
+      "items": 799,
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 726,
-      "new_candidates": 1
+      "items": 727,
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 438,
-      "new_candidates": 1
+      "items": 439,
+      "new_candidates": 0
     },
     {
       "id": "direct_hpiq",
-      "items": 35,
+      "items": 34,
       "new_candidates": 0
     },
     {
       "id": "direct_roblox",
-      "items": 265,
-      "new_candidates": 1
+      "items": 266,
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 233,
+      "items": 232,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
       "items": 114,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_n8n",
@@ -148,7 +173,7 @@
     },
     {
       "id": "direct_sentry",
-      "items": 43,
+      "items": 42,
       "new_candidates": 0
     },
     {
@@ -173,5 +198,5 @@
     }
   ],
   "selected": [],
-  "queued_candidates": 717
+  "queued_candidates": 713
 }
