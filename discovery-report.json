@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-22T10:28:31+00:00",
+  "checked_at": "2026-10-22T15:28:44+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,7 +14,12 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 1
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 10,
+      "new_candidates": 0
     },
     {
       "id": "news_fellowships",
@@ -23,12 +28,12 @@
     },
     {
       "id": "news_paid_training",
-      "items": 33,
+      "items": 37,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 10,
+      "items": 9,
       "new_candidates": 0
     },
     {
@@ -43,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 32,
+      "items": 56,
       "new_candidates": 0
     },
     {
@@ -59,11 +64,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 3
+      "new_candidates": 5
     },
     {
       "id": "hn_ai",
-      "items": 3,
+      "items": 2,
       "new_candidates": 0
     },
     {
@@ -77,14 +82,34 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 3,
       "new_candidates": 0
     },
     {
+      "id": "news_clients",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_seb",
       "items": 129,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
@@ -98,28 +123,28 @@
     },
     {
       "id": "direct_veriff",
-      "items": 8,
-      "new_candidates": 0
+      "items": 10,
+      "new_candidates": 1
     },
     {
       "id": "direct_anthropic",
       "items": 678,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_openai",
-      "items": 812,
+      "items": 809,
       "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 727,
+      "items": 725,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 438,
-      "new_candidates": 0
+      "items": 439,
+      "new_candidates": 1
     },
     {
       "id": "direct_hpiq",
@@ -129,21 +154,21 @@
     {
       "id": "direct_roblox",
       "items": 268,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_gitlab",
-      "items": 232,
+      "items": 233,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
       "items": 113,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_n8n",
-      "items": 43,
+      "items": 40,
       "new_candidates": 0
     },
     {
@@ -177,31 +202,51 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Senior Web Security Engineer, Browser Platform",
-      "url": "https://jobicy.com/jobs/151281-senior-web-security-engineer-browser-platform",
-      "location": "Anywhere",
-      "company": "DuckDuckGo",
-      "published": 1792643407.0,
-      "salary": "178500–178500 USD / yearly",
+      "title": "Software Engineer/C Developer-PGD",
+      "url": "https://jobicy.com/jobs/156380-software-engineer-c-developer-pgd",
+      "location": "EMEA",
+      "company": "EDB",
+      "published": 1792669049.0,
+      "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792664911.9071143,
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792682924.7926896,
       "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Senior Data Analyst",
-      "url": "https://jobicy.com/jobs/143979-senior-data-analyst-4",
+      "title": "Staff Software Engineer-ClickHouse Committer",
+      "url": "https://jobicy.com/jobs/156381-staff-software-engineer-clickhouse-committer",
+      "location": "EMEA",
+      "company": "EDB",
+      "published": 1792669047.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792682924.7926896,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Platform Engineer",
+      "url": "https://jobicy.com/jobs/156306-senior-platform-engineer-6",
       "location": "Europe",
-      "company": "Ruby Labs",
-      "published": 1792643708.0,
+      "company": "saas.group",
+      "published": 1792660947.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -210,37 +255,18 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792664911.9071143,
+      "found_at": 1792682924.7926896,
       "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "C++/Rust Graphics and Windowing System Software Engineer - Mir",
-      "url": "https://jobicy.com/jobs/151197-c-rust-graphics-and-windowing-system-software-engineer-mir",
-      "location": "APAC, EMEA",
-      "company": "Canonical",
-      "published": 1792643416.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: APAC, EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792664911.9071143,
-      "category": "job"
-    },
-    {
-      "source": "Startup Jobs",
-      "source_id": "startup",
-      "kind": "rss_jobs",
-      "title": "Senior Product Manager, AI Platform & Ecosystem at Wrike",
-      "url": "https://startup.jobs/senior-product-manager-ai-platform-ecosystem-wrike-10542074",
-      "location": "",
-      "company": "",
-      "published": 1792572269.0,
+      "title": "Senior Software Engineer",
+      "url": "https://jobicy.com/jobs/156308-senior-software-engineer-15",
+      "location": "Europe",
+      "company": "saas.group",
+      "published": 1792660946.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -248,30 +274,30 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1792664911.9071143,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792682924.7926896,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Staff Research Engineer, Discovery Team",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4593216008",
-      "location": "San Francisco, CA",
-      "company": "Anthropic",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Head of Marketing Compliance",
+      "url": "https://jobicy.com/jobs/156286-head-of-marketing-compliance",
+      "location": "EMEA",
+      "company": "OKX",
+      "published": 1792660819.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790091916.2319474,
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792682924.7926896,
       "category": "job"
     }
   ],
-  "queued_candidates": 1497
+  "queued_candidates": 1501
 }
