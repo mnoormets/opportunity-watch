@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-23T10:22:32+00:00",
+  "checked_at": "2026-10-23T15:12:57+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,33 +17,38 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 9,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
       "items": 5,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 32,
+      "items": 44,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 8,
+      "items": 7,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 62,
+      "items": 63,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 62,
+      "items": 65,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 57,
+      "items": 53,
       "new_candidates": 0
     },
     {
@@ -59,7 +64,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 1
+      "new_candidates": 15
     },
     {
       "id": "hn_ai",
@@ -77,14 +82,34 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 99,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 3,
       "new_candidates": 0
     },
     {
-      "id": "direct_seb",
-      "items": 121,
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
+    },
+    {
+      "id": "direct_seb",
+      "items": 126,
+      "new_candidates": 2
     },
     {
       "id": "direct_welo",
@@ -103,23 +128,23 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 683,
-      "new_candidates": 0
+      "items": 684,
+      "new_candidates": 1
     },
     {
       "id": "direct_openai",
-      "items": 802,
+      "items": 798,
       "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 727,
-      "new_candidates": 2
+      "items": 723,
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 439,
-      "new_candidates": 0
+      "items": 436,
+      "new_candidates": 1
     },
     {
       "id": "direct_hpiq",
@@ -138,12 +163,12 @@
     },
     {
       "id": "direct_cohere",
-      "items": 114,
+      "items": 113,
       "new_candidates": 0
     },
     {
       "id": "direct_n8n",
-      "items": 39,
+      "items": 40,
       "new_candidates": 0
     },
     {
@@ -177,100 +202,100 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Pre-Sales Engineer (Baltic States)",
-      "url": "https://jobicy.com/jobs/156526-pre-sales-engineer-baltic-states",
-      "location": "Estonia, Latvia, Lithuania",
-      "company": "Ajax Systems",
-      "published": 1792739376.0,
-      "salary": "",
+      "title": "Sr. Engineer, Infrastructure Security",
+      "url": "https://jobicy.com/jobs/156567-sr-engineer-infrastructure-security",
+      "location": "EMEA, Canada, USA",
+      "company": "Zapier",
+      "published": 1792746942.0,
+      "salary": "174200–261200 USD / yearly",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Eesti — kohapeal või kaugtöö",
-      "found_at": 1792750952.2437186,
+      "score": 10,
+      "region": "Kaugtöö: EMEA, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792768377.8233135,
       "category": "job"
     },
     {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "Rack Power Engineer",
-      "url": "https://jobs.ashbyhq.com/openai/9d56b6fe-880a-47e8-a5ea-42fc8a1a8edc",
-      "location": "San Francisco",
-      "company": "OpenAI",
-      "published": null,
-      "salary": "",
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Sr. Engineer, Database Reliability",
+      "url": "https://jobicy.com/jobs/156564-sr-engineer-database-reliability",
+      "location": "EMEA, Canada, USA",
+      "company": "Zapier",
+      "published": 1792746942.0,
+      "salary": "174200–261200 USD / yearly",
       "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790174394.5281067,
+      "score": 10,
+      "region": "Kaugtöö: EMEA, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792768377.8233135,
       "category": "job"
     },
     {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Full Stack Engineer, Money Movement",
-      "url": "https://stripe.com/jobs/search?gh_jid=8226261",
-      "location": "London",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Software Engineer, Backend",
+      "url": "https://jobicy.com/jobs/156558-senior-software-engineer-backend-4",
+      "location": "EMEA",
+      "company": "Customer.io",
+      "published": 1792746804.0,
+      "salary": "150000–200000 USD / yearly",
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: London — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790174394.5281067,
+      "score": 10,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792768377.8233135,
       "category": "job"
     },
     {
-      "source": "Datadog careers (direct)",
-      "source_id": "direct_datadog",
-      "kind": "greenhouse",
-      "title": "Senior Software Engineer - CI/CD Security",
-      "url": "https://careers.datadoghq.com/detail/8223819?gh_jid=8223819",
-      "location": "New York, New York, USA",
-      "company": "Datadog",
-      "published": null,
-      "salary": "",
-      "remote": false,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Events Marketing Manager, EMEA",
+      "url": "https://jobicy.com/jobs/156556-events-marketing-manager-emea",
+      "location": "EMEA",
+      "company": "Customer.io",
+      "published": 1792746804.0,
+      "salary": "93000–110000 USD / yearly",
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: New York, New York, USA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790174394.5281067,
+      "score": 10,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792768377.8233135,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Applied AI Architect, Public Sector",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Software Engineer, Product/AI",
+      "url": "https://jobicy.com/jobs/156560-senior-software-engineer-product-ai",
+      "location": "EMEA",
+      "company": "Customer.io",
+      "published": 1792746802.0,
+      "salary": "150000–250000 USD / yearly",
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790188598.3885388,
+      "score": 10,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792768377.8233135,
       "category": "job"
     }
   ],
-  "queued_candidates": 704
+  "queued_candidates": 718
 }
