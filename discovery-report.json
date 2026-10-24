@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-24T09:19:50+00:00",
+  "checked_at": "2026-10-24T13:23:48+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,13 +17,18 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 10,
+      "new_candidates": 1
+    },
+    {
       "id": "news_fellowships",
       "items": 4,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 49,
+      "items": 33,
       "new_candidates": 0
     },
     {
@@ -43,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 26,
+      "items": 51,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 99,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 99,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 1,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -113,7 +138,7 @@
     },
     {
       "id": "direct_stripe",
-      "items": 720,
+      "items": 719,
       "new_candidates": 0
     },
     {
@@ -174,91 +199,31 @@
   ],
   "selected": [
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Manual QA Engineer (Game Client)",
-      "url": "https://jobicy.com/jobs/156544-manual-qa-engineer-game-client",
-      "location": "Europe",
-      "company": "Playson",
-      "published": 1792746735.0,
-      "salary": "",
+      "source": "Remotive",
+      "source_id": "remotive",
+      "kind": "remotive",
+      "title": "AI Trainer - Video Annotation",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
+      "location": "Worldwide",
+      "company": "iMerit Technology",
+      "published": 1792694419.0,
+      "salary": "70K-80K",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792768377.8233135,
-      "category": "job"
-    },
-    {
-      "source": "Startup Jobs",
-      "source_id": "startup",
-      "kind": "rss_jobs",
-      "title": "AI Growth Manager Ads at lemlist",
-      "url": "https://startup.jobs/ai-growth-manager-ads-lemlist-10569369",
-      "location": "",
-      "company": "",
-      "published": 1792713600.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1792802129.6072302,
-      "category": "job"
-    },
-    {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "Applied AI Engineer, Startups (Codex)",
-      "url": "https://jobs.ashbyhq.com/openai/d801f26e-951e-452c-9924-9449b55edc5a",
-      "location": "Paris, France",
-      "company": "OpenAI",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Paris, France — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790272796.6830246,
-      "category": "job"
-    },
-    {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "Supply Chain Operations Program Manager, AI Infrastructure",
-      "url": "https://jobs.ashbyhq.com/openai/063d1957-23f0-4976-b8bd-93a0d4a31cfb",
-      "location": "San Francisco",
-      "company": "OpenAI",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790272796.6830246,
+      "score": 13,
+      "region": "Kaugtöö: Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792848228.6929677,
       "category": "job"
     },
     {
       "source": "Stripe careers (direct)",
       "source_id": "direct_stripe",
       "kind": "greenhouse",
-      "title": "Engineering Manager - LPM Foundations",
-      "url": "https://stripe.com/jobs/search?gh_jid=8230300",
-      "location": "Dublin",
+      "title": "Senior Software Engineer, Backend",
+      "url": "https://stripe.com/jobs/search?gh_jid=8230952",
+      "location": "Seattle, WA",
       "company": "Stripe",
       "published": null,
       "salary": "",
@@ -268,10 +233,69 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: Dublin — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790272796.6830246,
+      "category": "job"
+    },
+    {
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "Staff Software Engineer, Money Movement Platform",
+      "url": "https://stripe.com/jobs/search?gh_jid=8177513",
+      "location": "SEA, San Francisco",
+      "company": "Stripe",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: SEA, San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790272796.6830246,
+      "category": "job"
+    },
+    {
+      "source": "Datadog careers (direct)",
+      "source_id": "direct_datadog",
+      "kind": "greenhouse",
+      "title": "Senior Sales Engineer - New England",
+      "url": "https://careers.datadoghq.com/detail/8230456?gh_jid=8230456",
+      "location": "Massachusetts, USA, Remote",
+      "company": "Datadog",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Massachusetts, USA, Remote — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790272796.6830246,
+      "category": "job"
+    },
+    {
+      "source": "Datadog careers (direct)",
+      "source_id": "direct_datadog",
+      "kind": "greenhouse",
+      "title": "Software Engineer with Systems Depth",
+      "url": "https://careers.datadoghq.com/detail/4452918?gh_jid=4452918",
+      "location": "New York, New York, USA",
+      "company": "Datadog",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: New York, New York, USA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790272796.6830246,
       "category": "job"
     }
   ],
-  "queued_candidates": 705
+  "queued_candidates": 701
 }
