@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-24T00:35:29+00:00",
+  "checked_at": "2026-10-24T04:59:33+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,21 +9,26 @@
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 1
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 9,
+      "new_candidates": 0
     },
     {
       "id": "news_fellowships",
-      "items": 6,
+      "items": 5,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 45,
+      "items": 46,
       "new_candidates": 0
     },
     {
@@ -38,12 +43,12 @@
     },
     {
       "id": "news_grants",
-      "items": 63,
+      "items": 33,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 51,
+      "items": 50,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 99,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 2,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -103,12 +128,12 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 678,
+      "items": 679,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 795,
+      "items": 796,
       "new_candidates": 0
     },
     {
@@ -129,7 +154,7 @@
     {
       "id": "direct_roblox",
       "items": 269,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
@@ -148,8 +173,8 @@
     },
     {
       "id": "direct_sentry",
-      "items": 42,
-      "new_candidates": 0
+      "items": 43,
+      "new_candidates": 1
     },
     {
       "id": "direct_uplane",
@@ -174,71 +199,34 @@
   ],
   "selected": [
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Performance Engineer - Performance Analysis & Tuning",
-      "url": "https://jobicy.com/jobs/156581-performance-engineer-performance-analysis-tuning",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1792747600.0,
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Product Designer, AI-Native Products (Staff-Level / L6)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/synthesia/product-designer-ai-native-products-staff-level-l6-london-45735",
+      "location": "Europe",
+      "company": "Synthesia",
+      "published": 1792798812.0,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
       "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792768377.8233135,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792817972.9650407,
       "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Performance Engineer - Benchmarking",
-      "url": "https://jobicy.com/jobs/156582-performance-engineer-benchmarking",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1792747599.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792768377.8233135,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Supalite Engineer",
-      "url": "https://jobicy.com/jobs/156576-supalite-engineer",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1792747598.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792768377.8233135,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Cloud Platform Engineer",
-      "url": "https://jobicy.com/jobs/156583-cloud-platform-engineer",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1792747597.0,
+      "title": "Engineering Manager - Distributed Systems, Python / Go",
+      "url": "https://jobicy.com/jobs/156573-engineering-manager-distributed-systems-python-go",
+      "location": "EMEA, LATAM, Canada, USA",
+      "company": "Canonical",
+      "published": 1792746945.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -246,7 +234,7 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1792768377.8233135,
       "category": "job"
     },
@@ -254,21 +242,62 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Release Engineer",
-      "url": "https://jobicy.com/jobs/156579-release-engineer",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1792747597.0,
+      "title": "Engineering Director - Commercial Systems",
+      "url": "https://jobicy.com/jobs/156570-engineering-director-commercial-systems",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1792746944.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792768377.8233135,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Engineering Manager, Commercial Systems",
+      "url": "https://jobicy.com/jobs/156572-engineering-manager-commercial-systems",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1792746942.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792768377.8233135,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Engineering Director - Business Data",
+      "url": "https://jobicy.com/jobs/156569-engineering-director-business-data",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1792746942.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1792768377.8233135,
       "category": "job"
     }
   ],
-  "queued_candidates": 719
+  "queued_candidates": 715
 }
