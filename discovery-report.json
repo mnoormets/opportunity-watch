@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-23T22:08:01+00:00",
+  "checked_at": "2026-10-24T00:35:29+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,21 +14,16 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
-    },
-    {
-      "id": "remotive",
-      "items": 9,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "news_fellowships",
-      "items": 5,
+      "items": 6,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 44,
+      "items": 45,
       "new_candidates": 0
     },
     {
@@ -38,17 +33,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 64,
+      "items": 62,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 64,
+      "items": 63,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 52,
+      "items": 51,
       "new_candidates": 0
     },
     {
@@ -82,33 +77,13 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 99,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 2,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
       "id": "direct_seb",
-      "items": 126,
+      "items": 109,
       "new_candidates": 0
     },
     {
@@ -129,21 +104,21 @@
     {
       "id": "direct_anthropic",
       "items": 678,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 797,
+      "items": 795,
       "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 722,
+      "items": 720,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 434,
+      "items": 433,
       "new_candidates": 0
     },
     {
@@ -153,18 +128,18 @@
     },
     {
       "id": "direct_roblox",
-      "items": 267,
-      "new_candidates": 2
+      "items": 269,
+      "new_candidates": 1
     },
     {
       "id": "direct_gitlab",
-      "items": 237,
+      "items": 239,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
       "items": 116,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_n8n",
@@ -197,6 +172,103 @@
       "new_candidates": 0
     }
   ],
-  "selected": [],
-  "queued_candidates": 722
+  "selected": [
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Performance Engineer - Performance Analysis & Tuning",
+      "url": "https://jobicy.com/jobs/156581-performance-engineer-performance-analysis-tuning",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1792747600.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792768377.8233135,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Performance Engineer - Benchmarking",
+      "url": "https://jobicy.com/jobs/156582-performance-engineer-benchmarking",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1792747599.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792768377.8233135,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Supalite Engineer",
+      "url": "https://jobicy.com/jobs/156576-supalite-engineer",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1792747598.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792768377.8233135,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Cloud Platform Engineer",
+      "url": "https://jobicy.com/jobs/156583-cloud-platform-engineer",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1792747597.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792768377.8233135,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Release Engineer",
+      "url": "https://jobicy.com/jobs/156579-release-engineer",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1792747597.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792768377.8233135,
+      "category": "job"
+    }
+  ],
+  "queued_candidates": 719
 }
