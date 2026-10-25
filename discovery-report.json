@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T18:58:27+00:00",
+  "checked_at": "2026-10-25T21:25:49+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -18,12 +18,12 @@
     },
     {
       "id": "news_fellowships",
-      "items": 7,
+      "items": 6,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 46,
+      "items": 44,
       "new_candidates": 0
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 48,
+      "items": 49,
       "new_candidates": 0
     },
     {
@@ -113,7 +113,7 @@
     },
     {
       "id": "direct_stripe",
-      "items": 719,
+      "items": 718,
       "new_candidates": 0
     },
     {

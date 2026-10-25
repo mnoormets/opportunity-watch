@@ -38072,27 +38072,77 @@
     "d6bd9bde0a03805c547e4980d33defbf0c0a1083c7d8a1c6149b501d8ab12525": 1792954707.778426,
     "801c8b2dfc360dacf10846bd6f5563c0416bae32f3b0c7e99ab2ef9f2e68283a": 1792954707.778426,
     "f00d0de85d7719c0245af8562efc2f3caa04aabb297c940c08623668a28bcdd7": 1792954707.778426,
-    "cdd38bebaa451b298c08dc2489286a9ce708c1c1daab3d314282b7d85253a44e": 1792954707.778426
+    "cdd38bebaa451b298c08dc2489286a9ce708c1c1daab3d314282b7d85253a44e": 1792954707.778426,
+    "f3ed33b52e4e34f83d0043302e68a5c818df54c133e768a33de950d338d6759b": 1792963549.8556788,
+    "19cf25599486c484512d29ea9bd25f2b20e3df8db197a740657445c8ffb55765": 1792963549.8556788,
+    "b84d426614775bb73fa10f667771a8bcbd43814a0e5896d42d65151628e6cce4": 1792963549.8556788,
+    "084f332fe8b8f48a240a4209a42acb70d50167794c437647ffadfd5cf3a5defc": 1792963549.8556788,
+    "ad66c9ca1464f44928a1fdbc94ac3dd4e2505c2debba373e8583c80ee3fad840": 1792963549.8556788,
+    "28b24c5f93b31800c98e4faf7b120b4fdfaf5412edf3814e2b3d4a59f13b17ee": 1792963549.8556788,
+    "99947b8e31d205f22ee773d2d8c5cbd2393a8ca8a1a7ce05894c937cce4fd374": 1792963549.8556788,
+    "298fb16cd3e4f51a60c5a4a76252ee88427ee409be5c86eabd336977e96d25ac": 1792963549.8556788,
+    "cbb01f6b32a012e093102ae7e77d6ce174f0062fa2029fff8c2a589cc479925c": 1792963549.8556788,
+    "c415f0e69c500836fe4fca1df14018bab1b981313db63debc914c91d39288a1d": 1792963549.8556788,
+    "08ed60bccd6d49146b6eb14fa3996ad9108445eb620c9dee4dfe28c10fdfa31b": 1792963549.8556788,
+    "4d8c3e4765314f883bfae0740c50f668ddad3270681571c92f1f3e34b9477254": 1792963549.8556788,
+    "e17637ba0b7c02cd2bfb0d84d378f10d0816e58a9668f79a7d64f475e1d90405": 1792963549.8556788,
+    "04e25a2f6026434c5c7381d6918db653bbef6407a9646ff10887b0983792a2ad": 1792963549.8556788,
+    "55e374e1b885f5dc0932a12f564ebac7f4f11600d3a823edd82d48260ce12c55": 1792963549.8556788,
+    "4ac09a92f3bcf2abfbd2d3e87752627b796a426659fc35b445a14cd6ddd783c6": 1792963549.8556788,
+    "ac0b82b685465411a34e32d6bf62cc685b1c6df52d1368a46a77a7c5b73b223d": 1792963549.8556788,
+    "3c99f05d9635f503a77603329d105346528ed5c253bc7d078dedeb06a313a240": 1792963549.8556788,
+    "83470ae74b7e814f1976eb5db847f887c6f1ab8c5c74939f06f371c3b02a5956": 1792963549.8556788,
+    "b55f1b6a2bac9a1013c597e5221cec5bfbb5a0df747bc8ac504571a92a50ff71": 1792963549.8556788,
+    "53aa53f021e3264864547c620f18b5dec7f5e3737251b8fa55dd941c7ddee13f": 1792963549.8556788,
+    "bf8ead4f8c76aae53c7c157ecb933bb7495bffc2de9c91fdfccca5ee24781a00": 1792963549.8556788,
+    "9a2ea4aa6bcff3f9bebd6fdea0134e2c35ce447f2885442d73af4bc531a9fd91": 1792963549.8556788,
+    "ffb1c50df6ff5222bac6c945f3d942d27f4fe65163ea345bc36ed63a05ec7ae8": 1792963549.8556788,
+    "e307a865cd4fb58fb57453dab14015d5efdc22411763071c9f816e649a383a05": 1792963549.8556788,
+    "3d8e5f18b46dcabe907deaaa5ff736efd16dfb5f69457cfdd59f20f070b3f07f": 1792963549.8556788,
+    "c021e02a8b054576d75434cb652ec867c5923c0ecf03eb69eb71af811a54e6ed": 1792963549.8556788,
+    "09acbc96debe2546f3c1fd0784e8de8c67f28e3ae861897cea879e6be4e7435b": 1792963549.8556788,
+    "6e86191d497da7fac759d6061bbd2422772a5914a6cbb3e6579142aa5d1527f9": 1792963549.8556788,
+    "a112c0380167f970cb8596ed57c58519113054c522c480272e155dd2677c4288": 1792963549.8556788,
+    "83d7515f31859956135301c2a37c9399397864e794459ae73fb83082ff3f0421": 1792963549.8556788,
+    "95551835e6c914f1932eeb063b1d10cd862bd2e252ee6f0277d2946f9012970b": 1792963549.8556788,
+    "c0a26abefaa891f6083e19f5a160160ae48870954e9822c72fae8d112780f70d": 1792963549.8556788,
+    "7b83d5d9b6003af1f01a839fca4b10492f6c3ab71d69a56bd8303254caa5f693": 1792963549.8556788,
+    "4ec6c97c7cdc1a46995b5ae4c22bf843cdeb53432c1b4d67722625896a5aa231": 1792963549.8556788,
+    "fb73c9d149ab4543de65f7e9418f158ace6cdf696a5d6be54bf8611e5046c07d": 1792963549.8556788,
+    "cf0dd440f239872b73734ad0e365dcdaeb23c19da0ed0e2850b536b962bf5eb4": 1792963549.8556788,
+    "45b548a93d431b5411c871c85fa94dc21a458eb931bba310fd246bf694318891": 1792963549.8556788,
+    "e7f6b8441e3a4cfc019f755f420720ca15373ab582d7ffaa9d641e00f2ee3ec8": 1792963549.8556788,
+    "ee52f41fc8aa5b3e2086d896765792aaca94758e711504d05a160dd0198e389f": 1792963549.8556788,
+    "8063656e220bcf49f2d0192e89bfb6c4202efd0d6bb1aed994bcacb3bbbb175d": 1792963549.8556788,
+    "35948b928be80b9b32cc40808f29f9b43d9bb8915c63f67fff6b13e98ff3e53b": 1792963549.8556788,
+    "0139e2c36069c2829cdfbf355c60f5c824e9c790a786fe0725bffe464295c096": 1792963549.8556788,
+    "3d0d20e268115a722189ddf434af59a13c7464fd270f66486f044f86943b4454": 1792963549.8556788,
+    "c33e9b4f1443147ff3a2168ce06cb8d6df38a455f42ef8ab319e358b5c2403fb": 1792963549.8556788,
+    "56f7e26d1cf8301135458510f874fa555faa9e8d46375c80a285a6a0f29ba149": 1792963549.8556788,
+    "a2cfec3c760abca13969f81cbfc5889af08315bbd33de6cfa739e5fbee13a383": 1792963549.8556788,
+    "29642815b6a7a3e1eb662969cca28dff483be1b007b51e023a19da4d5ad9568a": 1792963549.8556788,
+    "df4868f88329361eba484330c992a37ecd3bf7e82cb94c2a038acd654b789ed7": 1792963549.8556788,
+    "0304eeeed72e29602f6048644be31d2fc0dee24a9a90654ba5e4b876a8c94580": 1792963549.8556788
   },
   "sources": {
     "remoteok": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:58:28+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:25:50+00:00",
       "items": 99,
       "accepted": 0
     },
     "arbeitnow": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:58:30+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:25:52+00:00",
       "items": 300,
       "accepted": 0
     },
     "startup": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:58:32+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:25:53+00:00",
       "items": 50,
       "accepted": 0
     },
@@ -38105,85 +38155,85 @@
     },
     "news_fellowships": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:58:33+00:00",
-      "items": 7,
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:25:55+00:00",
+      "items": 6,
       "accepted": 0
     },
     "news_paid_training": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:58:34+00:00",
-      "items": 46,
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:25:56+00:00",
+      "items": 44,
       "accepted": 0
     },
     "news_ai_tasks": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:58:36+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:25:57+00:00",
       "items": 5,
       "accepted": 0
     },
     "news_hackathons": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:58:37+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:25:59+00:00",
       "items": 68,
       "accepted": 0
     },
     "news_grants": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:58:39+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:01+00:00",
       "items": 67,
       "accepted": 0
     },
     "news_bounties": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:58:41+00:00",
-      "items": 48,
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:02+00:00",
+      "items": 49,
       "accepted": 0
     },
     "news_paid_research": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:58:42+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:03+00:00",
       "items": 0,
       "accepted": 0
     },
     "news_estonia": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:58:43+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:05+00:00",
       "items": 0,
       "accepted": 0
     },
     "jobicy": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:58:46+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:07+00:00",
       "items": 100,
       "accepted": 0
     },
     "hn_ai": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:58:47+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:09+00:00",
       "items": 1,
       "accepted": 0
     },
     "hn_ml": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:58:49+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:10+00:00",
       "items": 0,
       "accepted": 0
     },
     "hn_projects": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:58:50+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:11+00:00",
       "items": 0,
       "accepted": 0
     },
@@ -38210,8 +38260,8 @@
     },
     "news_corps": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:58:52+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:13+00:00",
       "items": 1,
       "accepted": 0
     },
@@ -38224,127 +38274,127 @@
     },
     "direct_seb": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:58:55+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:15+00:00",
       "items": 109,
       "accepted": 0
     },
     "direct_welo": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:58:57+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:18+00:00",
       "items": 461,
       "accepted": 0
     },
     "direct_pipedrive": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:58:58+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:19+00:00",
       "items": 8,
       "accepted": 0
     },
     "direct_veriff": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:58:59+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:20+00:00",
       "items": 11,
       "accepted": 0
     },
     "direct_anthropic": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:59:03+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:23+00:00",
       "items": 682,
       "accepted": 0
     },
     "direct_openai": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:59:05+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:25+00:00",
       "items": 793,
       "accepted": 0
     },
     "direct_stripe": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:59:08+00:00",
-      "items": 719,
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:27+00:00",
+      "items": 718,
       "accepted": 0
     },
     "direct_datadog": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:59:10+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:29+00:00",
       "items": 433,
       "accepted": 0
     },
     "news_estonia_jobs": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:59:22+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:40+00:00",
       "items": 0,
       "accepted": 0
     },
     "news_early_career": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:59:23+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:41+00:00",
       "items": 0,
       "accepted": 0
     },
     "news_shopify": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:59:24+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:43+00:00",
       "items": 0,
       "accepted": 0
     },
     "direct_hpiq": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:59:12+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:31+00:00",
       "items": 36,
       "accepted": 0
     },
     "direct_roblox": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:59:14+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:32+00:00",
       "items": 269,
       "accepted": 0
     },
     "direct_gitlab": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:59:16+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:34+00:00",
       "items": 239,
       "accepted": 0
     },
     "direct_cohere": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:59:17+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:35+00:00",
       "items": 116,
       "accepted": 0
     },
     "direct_n8n": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:59:18+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:36+00:00",
       "items": 39,
       "accepted": 0
     },
     "direct_sentry": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:59:19+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:38+00:00",
       "items": 43,
       "accepted": 0
     },
     "direct_uplane": {
       "failures": 0,
-      "next_check": 1792958307.778426,
-      "last_success": "2026-10-25T18:59:20+00:00",
+      "next_check": 1792967149.8556788,
+      "last_success": "2026-10-25T21:26:39+00:00",
       "items": 16,
       "accepted": 0
     }
@@ -51956,7 +52006,7 @@
     "secondary": 0
   },
   "initialized": true,
-  "last_run_utc": "2026-10-25T18:59:26+00:00",
+  "last_run_utc": "2026-10-25T21:26:44+00:00",
   "opportunities": {
     "b80d1e466f51065435882b9898c9ef4dbb874a8d99404eb295d8194df93f7670": {
       "first_seen_at": "2026-09-20T19:46:10+00:00",
