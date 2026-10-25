@@ -38042,27 +38042,57 @@
     "736b3b0044b7f6d61d314ecc51710816730f8f25c301f1927119ab08a3ed6c03": 1792944405.621969,
     "a81dedbc20eca1a362cc1fe23df69679c8d73cdb5cf3f305aaff41c7101a6958": 1792944405.621969,
     "69687de223fe241b70075de374ef2468f054d43f73d46678d0785b897db66042": 1792944405.621969,
-    "c2c02a9ecf1ae5f4c1e784c6cd88c3c7f9ef4ecc3bfc58cf6c698b6bfc39936a": 1792944405.621969
+    "c2c02a9ecf1ae5f4c1e784c6cd88c3c7f9ef4ecc3bfc58cf6c698b6bfc39936a": 1792944405.621969,
+    "95a8e707aa454900232a26df3ed6edbd08dd4a9b20c08ccef75f6b625055ca3c": 1792954707.778426,
+    "30984a66c25f1b5c919cbe43fc3348f0c187c6532e8a73c49c4f9ddcc4343c77": 1792954707.778426,
+    "162e2cc18e385f8a6b43a9de6229b3956127f14e95a2fca81ee14c1e316ed9a1": 1792954707.778426,
+    "66a1fedf46da948e463be5304352e3cfe8152828662294c64bba53e445b28cdb": 1792954707.778426,
+    "07aaada6f796370d0a76a8f1c769a27ceb6dad8a11eaf03f13df9cd1f9591e39": 1792954707.778426,
+    "143f448f55eaf9a8e245eaf85c149675b2aef85362413ed4f66bb5e1b24a5b47": 1792954707.778426,
+    "59e4a50a2528e386162979ad1bc36ddc9e9a79ce998d4420fd5d207cc6022619": 1792954707.778426,
+    "2db92904cc755dc94874f9d29f7c656cec0bd96cdaaf8cbfb931fa9210119445": 1792954707.778426,
+    "53173a3001d2476fb60330d80ef2337dffc373d73d5e6dfa102f97705cdea122": 1792954707.778426,
+    "18f709aab06bc065b17535ad61ead7ebfc25c5fff5b13828fb958ddfa43b48a4": 1792954707.778426,
+    "1d36eade9e18ab0c69d1aebca620340021d2ddcbc84ddc784f25921f76cdc636": 1792954707.778426,
+    "9eb90abf216fbf53047deb3837557015fa4294229fc2660b1a6c7f43e61a04a1": 1792954707.778426,
+    "93d1feb430f7ebddf86bca4d65e39fbbe3ec7ce958a1b416c1654719ffecfba6": 1792954707.778426,
+    "b352c6a77411dace3dfca85c1327215a93b16e0bd369530462d445136bf0df75": 1792954707.778426,
+    "e256afbf6ff3860c8cba9ec7b40281a90dff3d53ceb331a302fe637c45cd1544": 1792954707.778426,
+    "ec0e1b3388e46bdcaec03cddb328ff564c1a9482f7a120baabb69629afe5f357": 1792954707.778426,
+    "282be84effe042be9f9879c3f9f791138979e45fd639408d464059626fa5dd48": 1792954707.778426,
+    "def1089327254032d953cabcc75c0cdea971007dd3bf8b9a81faa003d2cf97e7": 1792954707.778426,
+    "da273a21bdbb8544c39f4b33278812e51fd33a8532b0f2104cb52513e40e8cb9": 1792954707.778426,
+    "f6a1ad512c3f27d858360aa0dce5c19a32a1b2fcc1a81b62c0f03cde10b34f3b": 1792954707.778426,
+    "68810d4732dd632229b449b11fdb17c9ad81f9982ad9bb9fb38ce8a6c895925e": 1792954707.778426,
+    "97a8c024bc0038e67d48c068d1207b9533146e12288180055e1cb2e571aa656a": 1792954707.778426,
+    "ed5255b472ba80729bec79fc3f75e5cd4616af18268d5736f6bb804e54497ded": 1792954707.778426,
+    "84085bade1141a7715d0f80aa491488a4efdb1a0722534c13a0049a0d8c0f9ff": 1792954707.778426,
+    "16bd34d2a39639d868054e22ec5e341883478cb4d9d5bf30975f163c6a273712": 1792954707.778426,
+    "907e8f30166c491cdc27b8fb8b0bd29d6781ef0f8ca93c6d5977392e9f41f6d1": 1792954707.778426,
+    "d6bd9bde0a03805c547e4980d33defbf0c0a1083c7d8a1c6149b501d8ab12525": 1792954707.778426,
+    "801c8b2dfc360dacf10846bd6f5563c0416bae32f3b0c7e99ab2ef9f2e68283a": 1792954707.778426,
+    "f00d0de85d7719c0245af8562efc2f3caa04aabb297c940c08623668a28bcdd7": 1792954707.778426,
+    "cdd38bebaa451b298c08dc2489286a9ce708c1c1daab3d314282b7d85253a44e": 1792954707.778426
   },
   "sources": {
     "remoteok": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:06:46+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:58:28+00:00",
       "items": 99,
       "accepted": 0
     },
     "arbeitnow": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:06:48+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:58:30+00:00",
       "items": 300,
       "accepted": 0
     },
     "startup": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:06:49+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:58:32+00:00",
       "items": 50,
       "accepted": 0
     },
@@ -38075,85 +38105,85 @@
     },
     "news_fellowships": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:06:53+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:58:33+00:00",
       "items": 7,
       "accepted": 0
     },
     "news_paid_training": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:06:55+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:58:34+00:00",
       "items": 46,
       "accepted": 0
     },
     "news_ai_tasks": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:06:57+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:58:36+00:00",
       "items": 5,
       "accepted": 0
     },
     "news_hackathons": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:06:58+00:00",
-      "items": 31,
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:58:37+00:00",
+      "items": 68,
       "accepted": 0
     },
     "news_grants": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:00+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:58:39+00:00",
       "items": 67,
       "accepted": 0
     },
     "news_bounties": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:02+00:00",
-      "items": 25,
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:58:41+00:00",
+      "items": 48,
       "accepted": 0
     },
     "news_paid_research": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:03+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:58:42+00:00",
       "items": 0,
       "accepted": 0
     },
     "news_estonia": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:05+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:58:43+00:00",
       "items": 0,
       "accepted": 0
     },
     "jobicy": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:07+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:58:46+00:00",
       "items": 100,
-      "accepted": 10
+      "accepted": 0
     },
     "hn_ai": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:09+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:58:47+00:00",
       "items": 1,
       "accepted": 0
     },
     "hn_ml": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:10+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:58:49+00:00",
       "items": 0,
       "accepted": 0
     },
     "hn_projects": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:12+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:58:50+00:00",
       "items": 0,
       "accepted": 0
     },
@@ -38180,8 +38210,8 @@
     },
     "news_corps": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:18+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:58:52+00:00",
       "items": 1,
       "accepted": 0
     },
@@ -38194,152 +38224,132 @@
     },
     "direct_seb": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:22+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:58:55+00:00",
       "items": 109,
       "accepted": 0
     },
     "direct_welo": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:25+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:58:57+00:00",
       "items": 461,
       "accepted": 0
     },
     "direct_pipedrive": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:26+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:58:58+00:00",
       "items": 8,
       "accepted": 0
     },
     "direct_veriff": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:27+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:58:59+00:00",
       "items": 11,
       "accepted": 0
     },
     "direct_anthropic": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:31+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:59:03+00:00",
       "items": 682,
       "accepted": 0
     },
     "direct_openai": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:33+00:00",
-      "items": 794,
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:59:05+00:00",
+      "items": 793,
       "accepted": 0
     },
     "direct_stripe": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:36+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:59:08+00:00",
       "items": 719,
       "accepted": 0
     },
     "direct_datadog": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:38+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:59:10+00:00",
       "items": 433,
       "accepted": 0
     },
     "news_estonia_jobs": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:50+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:59:22+00:00",
       "items": 0,
       "accepted": 0
     },
     "news_early_career": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:51+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:59:23+00:00",
       "items": 0,
       "accepted": 0
     },
     "news_shopify": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:53+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:59:24+00:00",
       "items": 0,
       "accepted": 0
     },
     "direct_hpiq": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:40+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:59:12+00:00",
       "items": 36,
       "accepted": 0
     },
     "direct_roblox": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:42+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:59:14+00:00",
       "items": 269,
       "accepted": 0
     },
     "direct_gitlab": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:44+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:59:16+00:00",
       "items": 239,
       "accepted": 0
     },
     "direct_cohere": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:45+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:59:17+00:00",
       "items": 116,
       "accepted": 0
     },
     "direct_n8n": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:46+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:59:18+00:00",
       "items": 39,
       "accepted": 0
     },
     "direct_sentry": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:47+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:59:19+00:00",
       "items": 43,
       "accepted": 0
     },
     "direct_uplane": {
       "failures": 0,
-      "next_check": 1792948005.621969,
-      "last_success": "2026-10-25T16:07:48+00:00",
+      "next_check": 1792958307.778426,
+      "last_success": "2026-10-25T18:59:20+00:00",
       "items": 16,
       "accepted": 0
     }
   },
   "candidates": {
-    "68f7871ae195ac13a81c0e293e25c57a882418925536b55f171a7b809f0f54ae": {
-      "source": "Datadog careers (direct)",
-      "source_id": "direct_datadog",
-      "kind": "greenhouse",
-      "title": "Developer Engagement Lead",
-      "url": "https://careers.datadoghq.com/detail/8103045?gh_jid=8103045",
-      "location": "New York, New York, USA",
-      "company": "Datadog",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: New York, New York, USA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790362116.5865383,
-      "category": "job"
-    },
     "8a43a8253a3e7a8b89356705bff13845e9fd189059a9472efa9f643dd2422614": {
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
@@ -51946,7 +51956,7 @@
     "secondary": 0
   },
   "initialized": true,
-  "last_run_utc": "2026-10-25T16:07:54+00:00",
+  "last_run_utc": "2026-10-25T18:59:26+00:00",
   "opportunities": {
     "b80d1e466f51065435882b9898c9ef4dbb874a8d99404eb295d8194df93f7670": {
       "first_seen_at": "2026-09-20T19:46:10+00:00",

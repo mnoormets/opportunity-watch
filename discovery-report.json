@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T16:06:45+00:00",
+  "checked_at": "2026-10-25T18:58:27+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,11 +14,6 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
-    },
-    {
-      "id": "remotive",
-      "items": 10,
       "new_candidates": 0
     },
     {
@@ -38,7 +33,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 31,
+      "items": 68,
       "new_candidates": 0
     },
     {
@@ -48,7 +43,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 25,
+      "items": 48,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 10
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
@@ -82,28 +77,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 68,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 99,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 1,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
       "new_candidates": 0
     },
     {
@@ -133,7 +108,7 @@
     },
     {
       "id": "direct_openai",
-      "items": 794,
+      "items": 793,
       "new_candidates": 0
     },
     {
@@ -197,103 +172,6 @@
       "new_candidates": 0
     }
   ],
-  "selected": [
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)",
-      "url": "https://jobicy.com/jobs/156997-linux-software-engineer-ubuntu-for-next-gen-silicon-multiple-roles-and-seniority-levels",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1792926920.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792944405.621969,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Software Engineer - Branching",
-      "url": "https://jobicy.com/jobs/156947-software-engineer-branching",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1792925108.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792944405.621969,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Platform Engineer - Compute Capacity",
-      "url": "https://jobicy.com/jobs/156946-platform-engineer-compute-capacity",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1792925107.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792944405.621969,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Distributed Systems Engineer",
-      "url": "https://jobicy.com/jobs/156945-distributed-systems-engineer-3",
-      "location": "Anywhere",
-      "company": "Canonical",
-      "published": 1792925107.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792944405.621969,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Data Analyst - Marketing",
-      "url": "https://jobicy.com/jobs/156941-senior-data-analyst-marketing",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1792925107.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792944405.621969,
-      "category": "job"
-    }
-  ],
-  "queued_candidates": 689
+  "selected": [],
+  "queued_candidates": 688
 }
