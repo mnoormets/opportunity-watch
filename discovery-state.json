@@ -38159,29 +38159,46 @@
     "aca071f8421ed7cd7bb27b071b90273514bc6a0f834c4544b0c0b8ea83fcda08": 1792970758.2802186,
     "b09c05d98d914726ba18a445edc61e0707a49aeb26ff392b94735134ae33272a": 1792970758.2802186,
     "44e2a5891ce67cdd4dd6c20383bd908ffe16b31a34e4e43600cd0031765f669c": 1792970758.2802186,
-    "2f8f150e1ae6f85ec9d5d14942456345729f916df550c60b6846cf4fc68c72ac": 1792970758.2802186
+    "2f8f150e1ae6f85ec9d5d14942456345729f916df550c60b6846cf4fc68c72ac": 1792970758.2802186,
+    "9f8ba87412d7255bbb4d2917c901e11a2236488710ec46dfb8fb03dddbc27451": 1792978106.5669298,
+    "e7104994614e3ade766f92d33941d1b51465ccf5fc66faf0bffbbb4c1af5cb48": 1792978106.5669298,
+    "0d177d0a896ace32892a9ea9251c8a8ee9c91ec37333baff9e484805bbfb12ac": 1792978106.5669298,
+    "04ffc58705615a735fd893196305b176c25ce81a27dc8bebe54f59ced7eb9928": 1792978106.5669298,
+    "9d8d0a9c8d613992d35eb5de1589f0608f464d97a9ffb358a2c967168dfe4de7": 1792978106.5669298,
+    "935f7491ffe5abfde1f1db6c64d19c5f83014f13e077f1b903cc96a990d3b87e": 1792978106.5669298,
+    "6d8f5064a89bf0cd84cd7701a5e6edfc334a3eeb64d918450babc531a9d744aa": 1792978106.5669298,
+    "c7771b3ddfa04822f4c3fee1ab9920853b9a99655677266f6f94451ded0b71ec": 1792978106.5669298,
+    "e7cd48409e8a25b4bcd2b422ce236a39f0ae2b91c04f23635145ef8f61f36fa1": 1792978106.5669298,
+    "6d790b669632374b8f525a509a97a5277752352ed7086c25143824c826dc6fb3": 1792978106.5669298,
+    "da3d56dcbd34f3ac7618a03bb44eeb93cf9cda6ab09c002d5403330decdda8e3": 1792978106.5669298,
+    "58c8b871a091bac82092faa4032dcd45b34ffa3f24ef97caac4406141512e0cd": 1792978106.5669298,
+    "32a32c7a63a8be5b72e87a239d57372f82337acc298790127ef4f2ff2fd7e48b": 1792978106.5669298,
+    "c0c36704d4c0f1dcb4d33a8d749e91832ae601e81b69560c3e45f885d5f92443": 1792978106.5669298,
+    "c6bf65ee52dce47bb4a87bfbd508593ce5a0b5c979324ca4d6cec5f05103c447": 1792978106.5669298,
+    "1d6b90bc3ff4cb95f597a0e0962e2df587693d85d5ebc2cb8ecde50cdd08e422": 1792978106.5669298,
+    "bb2f01f3f6a52b56b1d4110d1c914d168f4d2ee623e4a830457db94f869d5692": 1792978106.5669298
   },
   "sources": {
     "remoteok": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:25:58+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:28:27+00:00",
       "items": 99,
       "accepted": 0
     },
     "arbeitnow": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:00+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:28:29+00:00",
       "items": 300,
       "accepted": 0
     },
     "startup": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:02+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:28:30+00:00",
       "items": 50,
-      "accepted": 0
+      "accepted": 1
     },
     "remotive": {
       "failures": 0,
@@ -38192,85 +38209,85 @@
     },
     "news_fellowships": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:05+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:28:32+00:00",
       "items": 6,
       "accepted": 0
     },
     "news_paid_training": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:06+00:00",
-      "items": 45,
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:28:33+00:00",
+      "items": 44,
       "accepted": 0
     },
     "news_ai_tasks": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:08+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:28:34+00:00",
       "items": 5,
       "accepted": 0
     },
     "news_hackathons": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:10+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:28:37+00:00",
       "items": 66,
       "accepted": 0
     },
     "news_grants": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:11+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:28:38+00:00",
       "items": 67,
       "accepted": 0
     },
     "news_bounties": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:13+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:28:40+00:00",
       "items": 50,
       "accepted": 0
     },
     "news_paid_research": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:14+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:28:41+00:00",
       "items": 0,
       "accepted": 0
     },
     "news_estonia": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:16+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:28:43+00:00",
       "items": 0,
       "accepted": 0
     },
     "jobicy": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:19+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:28:45+00:00",
       "items": 100,
       "accepted": 0
     },
     "hn_ai": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:20+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:28:46+00:00",
       "items": 1,
       "accepted": 0
     },
     "hn_ml": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:22+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:28:48+00:00",
       "items": 0,
       "accepted": 0
     },
     "hn_projects": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:23+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:28:49+00:00",
       "items": 0,
       "accepted": 0
     },
@@ -38297,8 +38314,8 @@
     },
     "news_corps": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:29+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:28:51+00:00",
       "items": 1,
       "accepted": 0
     },
@@ -38311,127 +38328,127 @@
     },
     "direct_seb": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:33+00:00",
-      "items": 109,
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:28:53+00:00",
+      "items": 107,
       "accepted": 0
     },
     "direct_welo": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:36+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:29:02+00:00",
       "items": 461,
       "accepted": 0
     },
     "direct_pipedrive": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:37+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:29:03+00:00",
       "items": 8,
       "accepted": 0
     },
     "direct_veriff": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:39+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:29:05+00:00",
       "items": 11,
       "accepted": 0
     },
     "direct_anthropic": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:42+00:00",
-      "items": 681,
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:29:08+00:00",
+      "items": 682,
       "accepted": 0
     },
     "direct_openai": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:43+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:29:10+00:00",
       "items": 793,
       "accepted": 0
     },
     "direct_stripe": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:46+00:00",
-      "items": 718,
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:29:13+00:00",
+      "items": 719,
       "accepted": 0
     },
     "direct_datadog": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:48+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:29:16+00:00",
       "items": 433,
       "accepted": 0
     },
     "news_estonia_jobs": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:59+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:29:27+00:00",
       "items": 0,
       "accepted": 0
     },
     "news_early_career": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:27:00+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:29:28+00:00",
       "items": 0,
       "accepted": 0
     },
     "news_shopify": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:27:01+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:29:30+00:00",
       "items": 0,
       "accepted": 0
     },
     "direct_hpiq": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:49+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:29:17+00:00",
       "items": 36,
       "accepted": 0
     },
     "direct_roblox": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:51+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:29:19+00:00",
       "items": 269,
       "accepted": 0
     },
     "direct_gitlab": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:53+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:29:21+00:00",
       "items": 239,
       "accepted": 0
     },
     "direct_cohere": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:54+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:29:22+00:00",
       "items": 116,
       "accepted": 0
     },
     "direct_n8n": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:55+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:29:23+00:00",
       "items": 39,
       "accepted": 0
     },
     "direct_sentry": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:56+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:29:24+00:00",
       "items": 43,
       "accepted": 0
     },
     "direct_uplane": {
       "failures": 0,
-      "next_check": 1792974358.2802186,
-      "last_success": "2026-10-25T23:26:57+00:00",
+      "next_check": 1792981706.5669298,
+      "last_success": "2026-10-26T01:29:26+00:00",
       "items": 16,
       "accepted": 0
     }
@@ -51897,114 +51914,35 @@
       "found_at": 1792929872.5159144,
       "category": "job"
     },
-    "c75f1a8090cbfc90ae926e76930aeb7de5657a75b90d1ebe8c1fffabdf9673c1": {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Software Engineer - Storage",
-      "url": "https://jobicy.com/jobs/156940-software-engineer-storage",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1792925107.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792944405.621969,
-      "category": "job"
-    },
-    "eaf9e2a477317d61ce911e3feb3c9751b7dddc58c62589640a42dc8f547759d4": {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Data API Engineer",
-      "url": "https://jobicy.com/jobs/156939-data-api-engineer",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1792925106.0,
+    "da3d56dcbd34f3ac7618a03bb44eeb93cf9cda6ab09c002d5403330decdda8e3": {
+      "source": "Startup Jobs",
+      "source_id": "startup",
+      "kind": "rss_jobs",
+      "title": "Product and Engineering at Kota",
+      "url": "https://startup.jobs/product-and-engineering-kota-io-10579610",
+      "location": "",
+      "company": "",
+      "published": 1792886400.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792944405.621969,
-      "category": "job"
-    },
-    "7f5e658d14e0b01e59438e14e2be2ada74951fc273959b1780bcbf6d0a680427": {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Product Marketing Manager, AI Governance (EMEA)",
-      "url": "https://jobicy.com/jobs/156927-product-marketing-manager-ai-governance-emea",
-      "location": "EMEA",
-      "company": "Kong Inc.",
-      "published": 1792924681.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792944405.621969,
-      "category": "job"
-    },
-    "f5087265646bc45ec8994439b6b1424e8145de9d1866d8e101b24f94d4c8523e": {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Technical Product Marketing Manager, Agent Identity & Auth (EMEA)",
-      "url": "https://jobicy.com/jobs/156925-senior-technical-product-marketing-manager-agent-identity-auth-emea",
-      "location": "EMEA",
-      "company": "Kong Inc.",
-      "published": 1792924681.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792944405.621969,
-      "category": "job"
-    },
-    "a1dcf32b8895caeba3ac6011b0d7d720f4c055fa4b448a7b58d8fb262b2cd0ae": {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "DevOps Engineer | Live Entertainment Company",
-      "url": "https://jobicy.com/jobs/156913-devops-engineer-live-entertainment-company",
-      "location": "Europe",
-      "company": "GT",
-      "published": 1792924626.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792944405.621969,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1792978106.5669298,
       "category": "job"
     }
   },
   "outbox": [],
   "delivery_after": {},
   "daily": {
-    "day": "2026-10-25",
-    "sent": 20,
+    "day": "2026-10-26",
+    "sent": 5,
     "secondary": 0
   },
   "initialized": true,
-  "last_run_utc": "2026-10-25T23:27:02+00:00",
+  "last_run_utc": "2026-10-26T01:29:31+00:00",
   "opportunities": {
     "b80d1e466f51065435882b9898c9ef4dbb874a8d99404eb295d8194df93f7670": {
       "first_seen_at": "2026-09-20T19:46:10+00:00",
@@ -101716,7 +101654,11 @@
       "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1792944405.621969,
       "category": "job",
-      "reference": "OW-DDE0C4FDCB"
+      "reference": "OW-DDE0C4FDCB",
+      "discord_pending": false,
+      "discord_sent_at": "2026-10-26T01:29:31+00:00",
+      "delivery_evidence": "api_success",
+      "discord_url": "https://discord.com/channels/787327675949121567/1550872949165260831/1564088557897785375"
     },
     "f7fe44b6660856c4e323bb1f63539998b95e5c71cd291982a064a0eb5beee2d4": {
       "first_seen_at": "2026-10-25T16:07:07+00:00",
@@ -101737,7 +101679,11 @@
       "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1792944405.621969,
       "category": "job",
-      "reference": "OW-F7FE44B666"
+      "reference": "OW-F7FE44B666",
+      "discord_pending": false,
+      "discord_sent_at": "2026-10-26T01:29:32+00:00",
+      "delivery_evidence": "api_success",
+      "discord_url": "https://discord.com/channels/787327675949121567/1550872949165260831/1564088560615694490"
     },
     "1a02ada37f77d347fb9cbe5fa430d2412f22f1baed37f6284939691b44ea65fa": {
       "first_seen_at": "2026-10-25T16:07:07+00:00",
@@ -101759,7 +101705,11 @@
       "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1792944405.621969,
       "category": "job",
-      "reference": "OW-1A02ADA37F"
+      "reference": "OW-1A02ADA37F",
+      "discord_pending": false,
+      "discord_sent_at": "2026-10-26T01:29:32+00:00",
+      "delivery_evidence": "api_success",
+      "discord_url": "https://discord.com/channels/787327675949121567/1550872949165260831/1564088562473767022"
     },
     "1449bcb2beb2991ed4605e08dbaf099fde04a2899c7b31f13fade883cea865d0": {
       "first_seen_at": "2026-10-25T16:07:07+00:00",
@@ -101781,7 +101731,11 @@
       "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1792944405.621969,
       "category": "job",
-      "reference": "OW-1449BCB2BE"
+      "reference": "OW-1449BCB2BE",
+      "discord_pending": false,
+      "discord_sent_at": "2026-10-26T01:29:33+00:00",
+      "delivery_evidence": "api_success",
+      "discord_url": "https://discord.com/channels/787327675949121567/1550872949165260831/1564088564206010419"
     },
     "da8cbc203f72d587363947bf8eac22da570f3627cd5fb2035b3701737658d56b": {
       "first_seen_at": "2026-10-25T16:07:07+00:00",
@@ -101802,7 +101756,32 @@
       "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1792944405.621969,
       "category": "job",
-      "reference": "OW-DA8CBC203F"
+      "reference": "OW-DA8CBC203F",
+      "discord_pending": false,
+      "discord_sent_at": "2026-10-26T01:29:33+00:00",
+      "delivery_evidence": "api_success",
+      "discord_url": "https://discord.com/channels/787327675949121567/1550872949165260831/1564088565514899670"
+    },
+    "da3d56dcbd34f3ac7618a03bb44eeb93cf9cda6ab09c002d5403330decdda8e3": {
+      "first_seen_at": "2026-10-26T01:28:30+00:00",
+      "source": "Startup Jobs",
+      "source_id": "startup",
+      "kind": "rss_jobs",
+      "title": "Product and Engineering at Kota",
+      "url": "https://startup.jobs/product-and-engineering-kota-io-10579610",
+      "location": "",
+      "company": "",
+      "published": 1792886400.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1792978106.5669298,
+      "category": "job",
+      "reference": "OW-DA3D56DCBD"
     }
   },
   "filter_policy": "estonia-remote-selected-relocation-all-levels-v3"

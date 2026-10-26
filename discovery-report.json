@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T23:25:58+00:00",
+  "checked_at": "2026-10-26T01:28:26+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,12 +14,7 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
-    },
-    {
-      "id": "remotive",
-      "items": 10,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "news_fellowships",
@@ -28,7 +23,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 45,
+      "items": 44,
       "new_candidates": 0
     },
     {
@@ -82,33 +77,13 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 99,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 1,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
       "id": "direct_seb",
-      "items": 109,
+      "items": 107,
       "new_candidates": 0
     },
     {
@@ -128,7 +103,7 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 681,
+      "items": 682,
       "new_candidates": 0
     },
     {
@@ -138,7 +113,7 @@
     },
     {
       "id": "direct_stripe",
-      "items": 718,
+      "items": 719,
       "new_candidates": 0
     },
     {
@@ -197,6 +172,105 @@
       "new_candidates": 0
     }
   ],
-  "selected": [],
-  "queued_candidates": 686
+  "selected": [
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Software Engineer - Storage",
+      "url": "https://jobicy.com/jobs/156940-software-engineer-storage",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1792925107.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792944405.621969,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Data API Engineer",
+      "url": "https://jobicy.com/jobs/156939-data-api-engineer",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1792925106.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792944405.621969,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Product Marketing Manager, AI Governance (EMEA)",
+      "url": "https://jobicy.com/jobs/156927-product-marketing-manager-ai-governance-emea",
+      "location": "EMEA",
+      "company": "Kong Inc.",
+      "published": 1792924681.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792944405.621969,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Technical Product Marketing Manager, Agent Identity & Auth (EMEA)",
+      "url": "https://jobicy.com/jobs/156925-senior-technical-product-marketing-manager-agent-identity-auth-emea",
+      "location": "EMEA",
+      "company": "Kong Inc.",
+      "published": 1792924681.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792944405.621969,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "DevOps Engineer | Live Entertainment Company",
+      "url": "https://jobicy.com/jobs/156913-devops-engineer-live-entertainment-company",
+      "location": "Europe",
+      "company": "GT",
+      "published": 1792924626.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792944405.621969,
+      "category": "job"
+    }
+  ],
+  "queued_candidates": 682
 }
