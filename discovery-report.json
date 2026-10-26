@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T13:34:32+00:00",
+  "checked_at": "2026-10-26T19:31:55+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,13 +17,8 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 10,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
-      "items": 8,
+      "items": 9,
       "new_candidates": 0
     },
     {
@@ -38,17 +33,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 69,
+      "items": 67,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 34,
+      "items": 68,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 45,
+      "items": 46,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "hn_ai",
@@ -82,38 +77,18 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 98,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 0,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 0,
+      "id": "direct_seb",
+      "items": 118,
       "new_candidates": 0
     },
     {
-      "id": "direct_seb",
-      "items": 116,
-      "new_candidates": 5
-    },
-    {
       "id": "direct_welo",
-      "items": 466,
+      "items": 471,
       "new_candidates": 0
     },
     {
@@ -128,22 +103,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 682,
+      "items": 681,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 790,
-      "new_candidates": 0
+      "items": 789,
+      "new_candidates": 3
     },
     {
       "id": "direct_stripe",
-      "items": 718,
+      "items": 714,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 429,
+      "items": 426,
       "new_candidates": 0
     },
     {
@@ -153,17 +128,17 @@
     },
     {
       "id": "direct_roblox",
-      "items": 268,
-      "new_candidates": 0
+      "items": 267,
+      "new_candidates": 1
     },
     {
       "id": "direct_gitlab",
-      "items": 239,
+      "items": 238,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 115,
+      "items": 116,
       "new_candidates": 0
     },
     {
@@ -173,7 +148,7 @@
     },
     {
       "id": "direct_sentry",
-      "items": 43,
+      "items": 42,
       "new_candidates": 0
     },
     {
@@ -199,100 +174,104 @@
   ],
   "selected": [
     {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Corporate & Investment Banking Summer Internship 2027: Client Analyst | SEB, Helsinki",
-      "url": "https://jobs.eu.lever.co/seb/c623d45e-ddf9-4ae8-8e10-599eb91490f4",
-      "location": "Helsinki",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Software Engineer, Product",
+      "url": "https://jobicy.com/jobs/157109-senior-software-engineer-product",
+      "location": "EMEA, LATAM, Canada, USA",
+      "company": "RevenueCat",
+      "published": 1793010955.0,
+      "salary": "230000–230000 USD / yearly",
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Helsinki — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793021672.9304512,
-      "category": "programme"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Junior Software Developer at CODE Tribe | SEB, Tallinn",
-      "url": "https://jobs.eu.lever.co/seb/0ffeaec5-d74f-41d0-928e-45f3542c7746",
-      "location": "Tallinn",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 11,
-      "region": "Eesti — kohapeal või kaugtöö",
-      "found_at": 1793021672.9304512,
+      "score": 10,
+      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793043114.945627,
       "category": "job"
     },
     {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Internship in Trade Finance Operations Team | SEB Group, Vilnius",
-      "url": "https://jobs.eu.lever.co/seb/9a3b0266-fbd2-4bf9-a2e4-9f3eccaffbdf",
-      "location": "Vilnius",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Backend Engineer",
+      "url": "https://jobicy.com/jobs/157106-senior-backend-engineer-13",
+      "location": "EMEA, LATAM, Canada, USA",
+      "company": "RevenueCat",
+      "published": 1793010950.0,
+      "salary": "230000–230000 USD / yearly",
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Vilnius — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793021672.9304512,
-      "category": "programme"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Junior Software Developer at CODE Tribe | SEB, Vilnius",
-      "url": "https://jobs.eu.lever.co/seb/e50f206c-1a02-4771-8d1d-954a268b35da",
-      "location": "Vilnius",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Vilnius — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793021672.9304512,
+      "score": 10,
+      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793043114.945627,
       "category": "job"
     },
     {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Junior Software Developer/ Jaunākais programmatūras izstrādātājs/-a at CODE Tribe | SEB, Riga",
-      "url": "https://jobs.eu.lever.co/seb/659850ce-3827-4f3a-a4b0-b2549bd6e943",
-      "location": "Rīga",
-      "company": "SEB",
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Applied AI Engineer, DNB",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5435282008",
+      "location": "London, UK",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: London, UK — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790596918.9397666,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "[London] Applied AI Architect, Partnerships",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432583008",
+      "location": "London, UK",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: London, UK — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790596918.9397666,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Product Engineer, Computer Use",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5238637008",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "company": "Anthropic",
       "published": null,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Rīga — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793021672.9304512,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790596918.9397666,
       "category": "job"
     }
   ],
-  "queued_candidates": 681
+  "queued_candidates": 682
 }
