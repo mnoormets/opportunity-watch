@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T01:28:26+00:00",
+  "checked_at": "2026-10-26T06:42:17+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,16 +9,21 @@
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 1
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 10,
+      "new_candidates": 0
     },
     {
       "id": "news_fellowships",
-      "items": 6,
+      "items": 7,
       "new_candidates": 0
     },
     {
@@ -33,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 66,
+      "items": 64,
       "new_candidates": 0
     },
     {
@@ -77,13 +82,33 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 99,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 1,
       "new_candidates": 0
     },
     {
+      "id": "news_clients",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_seb",
-      "items": 107,
+      "items": 109,
       "new_candidates": 0
     },
     {
@@ -108,18 +133,18 @@
     },
     {
       "id": "direct_openai",
-      "items": 793,
-      "new_candidates": 0
+      "items": 791,
+      "new_candidates": 1
     },
     {
       "id": "direct_stripe",
-      "items": 719,
-      "new_candidates": 0
+      "items": 721,
+      "new_candidates": 1
     },
     {
       "id": "direct_datadog",
-      "items": 433,
-      "new_candidates": 0
+      "items": 429,
+      "new_candidates": 1
     },
     {
       "id": "direct_hpiq",
@@ -128,7 +153,7 @@
     },
     {
       "id": "direct_roblox",
-      "items": 269,
+      "items": 268,
       "new_candidates": 0
     },
     {
@@ -174,103 +199,102 @@
   ],
   "selected": [
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Software Engineer - Storage",
-      "url": "https://jobicy.com/jobs/156940-software-engineer-storage",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1792925107.0,
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Product Marketing Manager B2C",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alan/product-marketing-manager-b2c-anywhere-in-france-138784",
+      "location": "Anywhere in France",
+      "company": "Alan",
+      "published": 1792986015.0,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
       "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792944405.621969,
+      "region": "Kaugtöö: Anywhere in France — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1792996937.4303148,
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Data API Engineer",
-      "url": "https://jobicy.com/jobs/156939-data-api-engineer",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1792925106.0,
+      "source": "Startup Jobs",
+      "source_id": "startup",
+      "kind": "rss_jobs",
+      "title": "Product and Engineering at Kota",
+      "url": "https://startup.jobs/product-and-engineering-kota-io-10579610",
+      "location": "",
+      "company": "",
+      "published": 1792886400.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792944405.621969,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1792978106.5669298,
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Product Marketing Manager, AI Governance (EMEA)",
-      "url": "https://jobicy.com/jobs/156927-product-marketing-manager-ai-governance-emea",
-      "location": "EMEA",
-      "company": "Kong Inc.",
-      "published": 1792924681.0,
+      "source": "Datadog careers (direct)",
+      "source_id": "direct_datadog",
+      "kind": "greenhouse",
+      "title": "Senior Product Marketing Manager",
+      "url": "https://careers.datadoghq.com/detail/8113654?gh_jid=8113654",
+      "location": "New York, New York, USA",
+      "company": "Datadog",
+      "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
+      "relocation_employer": true,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792944405.621969,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: New York, New York, USA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790443527.7558465,
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Technical Product Marketing Manager, Agent Identity & Auth (EMEA)",
-      "url": "https://jobicy.com/jobs/156925-senior-technical-product-marketing-manager-agent-identity-auth-emea",
-      "location": "EMEA",
-      "company": "Kong Inc.",
-      "published": 1792924681.0,
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Data Analyst seeking an exciting career in Financial Data Quality Area | SEB, Vilnius",
+      "url": "https://jobs.eu.lever.co/seb/77fde801-3208-458a-bafd-647c46b15992",
+      "location": "Vilnius",
+      "company": "SEB",
+      "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792944405.621969,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Vilnius — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790574533.7014484,
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "DevOps Engineer | Live Entertainment Company",
-      "url": "https://jobicy.com/jobs/156913-devops-engineer-live-entertainment-company",
-      "location": "Europe",
-      "company": "GT",
-      "published": 1792924626.0,
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Research Engineer, Post-Training Model Evaluations",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5198255008",
+      "location": "San Francisco, CA | Seattle, WA",
+      "company": "Anthropic",
+      "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
+      "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1792944405.621969,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790574533.7014484,
       "category": "job"
     }
   ],
-  "queued_candidates": 682
+  "queued_candidates": 681
 }
