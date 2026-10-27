@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-27T02:08:25+00:00",
+  "checked_at": "2026-10-27T07:44:22+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,13 +17,18 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 10,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
       "items": 9,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 33,
+      "items": 32,
       "new_candidates": 0
     },
     {
@@ -33,17 +38,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 29,
+      "items": 30,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 34,
+      "items": 33,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 47,
+      "items": 50,
       "new_candidates": 0
     },
     {
@@ -77,18 +82,38 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 62,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 98,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 1,
       "new_candidates": 0
     },
     {
-      "id": "direct_seb",
-      "items": 100,
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
+      "id": "direct_seb",
+      "items": 104,
+      "new_candidates": 4
+    },
+    {
       "id": "direct_welo",
-      "items": 471,
+      "items": 472,
       "new_candidates": 0
     },
     {
@@ -108,28 +133,28 @@
     },
     {
       "id": "direct_openai",
-      "items": 795,
-      "new_candidates": 2
+      "items": 796,
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 712,
-      "new_candidates": 3
+      "items": 711,
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 427,
+      "items": 428,
       "new_candidates": 0
     },
     {
       "id": "direct_hpiq",
-      "items": 36,
-      "new_candidates": 0
+      "items": 39,
+      "new_candidates": 3
     },
     {
       "id": "direct_roblox",
-      "items": 266,
-      "new_candidates": 2
+      "items": 267,
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
@@ -174,103 +199,100 @@
   ],
   "selected": [
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Technical Pre-Sales Engineer (Greece)",
-      "url": "https://jobicy.com/jobs/157255-technical-pre-sales-engineer-greece",
-      "location": "Europe",
-      "company": "Ajax Systems",
-      "published": 1793032945.0,
+      "source": "HP IQ careers (direct)",
+      "source_id": "direct_hpiq",
+      "kind": "greenhouse",
+      "title": "Electrical Engineering Intern, Hardware (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6116396004",
+      "location": "San Francisco, CA",
+      "company": "HP IQ",
+      "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1793087062.4505339,
+      "category": "programme"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Software Developer in Savings & Investments Tribe | SEB, Tallinn",
+      "url": "https://jobs.eu.lever.co/seb/a95c6b03-7edd-46c7-ac6a-9e0cbbc95c44",
+      "location": "Tallinn",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793056587.8854976,
+      "region": "Eesti — kohapeal või kaugtöö",
+      "found_at": 1793087062.4505339,
       "category": "job"
     },
     {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
+      "source": "HP IQ careers (direct)",
+      "source_id": "direct_hpiq",
       "kind": "greenhouse",
-      "title": "Engineering Manager, Accounting Products",
-      "url": "https://stripe.com/jobs/search?gh_jid=8234252",
-      "location": "Bengaluru, India",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Bengaluru, India — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790596918.9397666,
-      "category": "job"
-    },
-    {
-      "source": "Veriff careers (direct)",
-      "source_id": "direct_veriff",
-      "kind": "greenhouse",
-      "title": "Solutions Engineer - LATAM",
-      "url": "https://www.veriff.com/careers/position/8849957002?gh_jid=8849957002",
-      "location": "Sao Paulo",
-      "company": "Veriff",
+      "title": "Engineering Intern, Wireless Automation and Test (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114741004",
+      "location": "San Francisco, CA",
+      "company": "HP IQ",
       "published": null,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Sao Paulo — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790624086.4216533,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Staff Security Engineer, Detection & Response",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432626008",
-      "location": "Zürich, CH",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Zürich, CH — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790624086.4216533,
-      "category": "job"
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1793087062.4505339,
+      "category": "programme"
     },
     {
       "source": "OpenAI careers (direct)",
       "source_id": "direct_openai",
       "kind": "ashby",
-      "title": "AI Deployment Manager",
-      "url": "https://jobs.ashbyhq.com/openai/78a49da9-b768-427e-ad01-3e61d80cfea8",
-      "location": "London, UK",
+      "title": "Data Center Hardware Quality & Reliability Engineer",
+      "url": "https://jobs.ashbyhq.com/openai/e7594296-a38b-43a1-b4f8-01253a3b7732",
+      "location": "San Francisco",
       "company": "OpenAI",
       "published": null,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: London, UK — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790624086.4216533,
       "category": "job"
+    },
+    {
+      "source": "HP IQ careers (direct)",
+      "source_id": "direct_hpiq",
+      "kind": "greenhouse",
+      "title": "Product Design Engineering Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6141235004",
+      "location": "San Francisco, CA",
+      "company": "HP IQ",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1793087062.4505339,
+      "category": "programme"
     }
   ],
-  "queued_candidates": 693
+  "queued_candidates": 695
 }
