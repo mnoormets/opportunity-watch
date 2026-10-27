@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T23:16:27+00:00",
+  "checked_at": "2026-10-27T02:08:25+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,18 +17,13 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 10,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
       "items": 9,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 40,
+      "items": 33,
       "new_candidates": 0
     },
     {
@@ -38,17 +33,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 68,
+      "items": 29,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 68,
+      "items": 34,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 50,
+      "items": 47,
       "new_candidates": 0
     },
     {
@@ -64,11 +59,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
-      "items": 1,
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -82,33 +77,13 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 61,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 98,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 1,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
       "id": "direct_seb",
-      "items": 118,
+      "items": 100,
       "new_candidates": 0
     },
     {
@@ -129,17 +104,17 @@
     {
       "id": "direct_anthropic",
       "items": 679,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 794,
-      "new_candidates": 5
+      "items": 795,
+      "new_candidates": 2
     },
     {
       "id": "direct_stripe",
-      "items": 711,
-      "new_candidates": 2
+      "items": 712,
+      "new_candidates": 3
     },
     {
       "id": "direct_datadog",
@@ -153,8 +128,8 @@
     },
     {
       "id": "direct_roblox",
-      "items": 267,
-      "new_candidates": 0
+      "items": 266,
+      "new_candidates": 2
     },
     {
       "id": "direct_gitlab",
@@ -197,6 +172,105 @@
       "new_candidates": 0
     }
   ],
-  "selected": [],
-  "queued_candidates": 691
+  "selected": [
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Technical Pre-Sales Engineer (Greece)",
+      "url": "https://jobicy.com/jobs/157255-technical-pre-sales-engineer-greece",
+      "location": "Europe",
+      "company": "Ajax Systems",
+      "published": 1793032945.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793056587.8854976,
+      "category": "job"
+    },
+    {
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "Engineering Manager, Accounting Products",
+      "url": "https://stripe.com/jobs/search?gh_jid=8234252",
+      "location": "Bengaluru, India",
+      "company": "Stripe",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Bengaluru, India — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790596918.9397666,
+      "category": "job"
+    },
+    {
+      "source": "Veriff careers (direct)",
+      "source_id": "direct_veriff",
+      "kind": "greenhouse",
+      "title": "Solutions Engineer - LATAM",
+      "url": "https://www.veriff.com/careers/position/8849957002?gh_jid=8849957002",
+      "location": "Sao Paulo",
+      "company": "Veriff",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Sao Paulo — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790624086.4216533,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Staff Security Engineer, Detection & Response",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432626008",
+      "location": "Zürich, CH",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Zürich, CH — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790624086.4216533,
+      "category": "job"
+    },
+    {
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "AI Deployment Manager",
+      "url": "https://jobs.ashbyhq.com/openai/78a49da9-b768-427e-ad01-3e61d80cfea8",
+      "location": "London, UK",
+      "company": "OpenAI",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: London, UK — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790624086.4216533,
+      "category": "job"
+    }
+  ],
+  "queued_candidates": 693
 }
