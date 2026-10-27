@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-27T07:44:22+00:00",
+  "checked_at": "2026-10-27T13:38:30+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,12 +14,7 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
-    },
-    {
-      "id": "remotive",
-      "items": 10,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "news_fellowships",
@@ -38,17 +33,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 30,
+      "items": 67,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 33,
+      "items": 31,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 50,
+      "items": 55,
       "new_candidates": 0
     },
     {
@@ -82,38 +77,18 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 62,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 98,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 1,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 0,
-      "new_candidates": 0
-    },
-    {
       "id": "direct_seb",
-      "items": 104,
+      "items": 114,
       "new_candidates": 4
     },
     {
       "id": "direct_welo",
-      "items": 472,
+      "items": 467,
       "new_candidates": 0
     },
     {
@@ -129,27 +104,27 @@
     {
       "id": "direct_anthropic",
       "items": 679,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_openai",
-      "items": 796,
+      "items": 797,
       "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 711,
-      "new_candidates": 0
+      "items": 714,
+      "new_candidates": 2
     },
     {
       "id": "direct_datadog",
-      "items": 428,
+      "items": 429,
       "new_candidates": 0
     },
     {
       "id": "direct_hpiq",
       "items": 39,
-      "new_candidates": 3
+      "new_candidates": 0
     },
     {
       "id": "direct_roblox",
@@ -158,7 +133,7 @@
     },
     {
       "id": "direct_gitlab",
-      "items": 238,
+      "items": 239,
       "new_candidates": 0
     },
     {
@@ -199,30 +174,51 @@
   ],
   "selected": [
     {
-      "source": "HP IQ careers (direct)",
-      "source_id": "direct_hpiq",
-      "kind": "greenhouse",
-      "title": "Electrical Engineering Intern, Hardware (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6116396004",
-      "location": "San Francisco, CA",
-      "company": "HP IQ",
-      "published": null,
+      "source": "Startup Jobs",
+      "source_id": "startup",
+      "kind": "rss_jobs",
+      "title": "Senior Software Engineer | Kubernetes Automation at Cast AI",
+      "url": "https://startup.jobs/senior-software-engineer-kubernetes-automation-cast-ai-10589767",
+      "location": "",
+      "company": "",
+      "published": 1793017145.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793087062.4505339,
-      "category": "programme"
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1793108310.6879315,
+      "category": "job"
+    },
+    {
+      "source": "Startup Jobs",
+      "source_id": "startup",
+      "kind": "rss_jobs",
+      "title": "Engineering Manager, Pricing & Revenue at Nuitée",
+      "url": "https://startup.jobs/engineering-manager-pricing-revenue-nuitee-10583467",
+      "location": "",
+      "company": "",
+      "published": 1793009850.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1793108310.6879315,
+      "category": "job"
     },
     {
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Software Developer in Savings & Investments Tribe | SEB, Tallinn",
-      "url": "https://jobs.eu.lever.co/seb/a95c6b03-7edd-46c7-ac6a-9e0cbbc95c44",
+      "title": "Business Developer (Analyst) in Savings & Investments Tribe, Trading team | SEB, Tallinn",
+      "url": "https://jobs.eu.lever.co/seb/50a2c0b5-10db-437c-a3a4-73d89c01c168",
       "location": "Tallinn",
       "company": "SEB",
       "published": null,
@@ -233,34 +229,15 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Eesti — kohapeal või kaugtöö",
-      "found_at": 1793087062.4505339,
+      "found_at": 1793108310.6879315,
       "category": "job"
-    },
-    {
-      "source": "HP IQ careers (direct)",
-      "source_id": "direct_hpiq",
-      "kind": "greenhouse",
-      "title": "Engineering Intern, Wireless Automation and Test (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114741004",
-      "location": "San Francisco, CA",
-      "company": "HP IQ",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793087062.4505339,
-      "category": "programme"
     },
     {
       "source": "OpenAI careers (direct)",
       "source_id": "direct_openai",
       "kind": "ashby",
-      "title": "Data Center Hardware Quality & Reliability Engineer",
-      "url": "https://jobs.ashbyhq.com/openai/e7594296-a38b-43a1-b4f8-01253a3b7732",
+      "title": "Software Engineer, DevOps",
+      "url": "https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
       "location": "San Francisco",
       "company": "OpenAI",
       "published": null,
@@ -275,24 +252,25 @@
       "category": "job"
     },
     {
-      "source": "HP IQ careers (direct)",
-      "source_id": "direct_hpiq",
-      "kind": "greenhouse",
-      "title": "Product Design Engineering Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6141235004",
-      "location": "San Francisco, CA",
-      "company": "HP IQ",
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Technical Program Manager, Global Programs — Applied AI Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/cd3c9c99-9527-4ba2-bea7-9f8f4892bc62",
+      "location": "San Francisco",
+      "company": "OpenAI",
       "published": null,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
       "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793087062.4505339,
-      "category": "programme"
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790624086.4216533,
+      "category": "job"
     }
   ],
-  "queued_candidates": 695
+  "queued_candidates": 699
 }
