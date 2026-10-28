@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-28T19:39:42+00:00",
+  "checked_at": "2026-10-28T23:30:27+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,23 +17,28 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 11,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
       "items": 10,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 32,
+      "items": 43,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 5,
+      "items": 6,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 68,
+      "items": 32,
       "new_candidates": 0
     },
     {
@@ -59,7 +64,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "hn_ai",
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 80,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 99,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 2,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -89,7 +114,7 @@
     {
       "id": "direct_welo",
       "items": 463,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_pipedrive",
@@ -103,47 +128,47 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 680,
-      "new_candidates": 0
-    },
-    {
-      "id": "direct_openai",
-      "items": 806,
-      "new_candidates": 2
-    },
-    {
-      "id": "direct_stripe",
-      "items": 720,
-      "new_candidates": 3
-    },
-    {
-      "id": "direct_datadog",
-      "items": 393,
+      "items": 678,
       "new_candidates": 1
     },
     {
+      "id": "direct_openai",
+      "items": 810,
+      "new_candidates": 1
+    },
+    {
+      "id": "direct_stripe",
+      "items": 718,
+      "new_candidates": 1
+    },
+    {
+      "id": "direct_datadog",
+      "items": 395,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_hpiq",
-      "items": 39,
+      "items": 38,
       "new_candidates": 0
     },
     {
       "id": "direct_roblox",
-      "items": 272,
-      "new_candidates": 1
+      "items": 270,
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 235,
+      "items": 234,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 118,
-      "new_candidates": 0
+      "items": 119,
+      "new_candidates": 1
     },
     {
       "id": "direct_n8n",
-      "items": 40,
+      "items": 39,
       "new_candidates": 0
     },
     {
@@ -172,105 +197,6 @@
       "new_candidates": 0
     }
   ],
-  "selected": [
-    {
-      "source": "Welo Global careers (direct)",
-      "source_id": "direct_welo",
-      "kind": "lever",
-      "title": "English to German (Germany or Switzerland) Linguist & Copy Editor for Product, Marketing & UI Content",
-      "url": "https://jobs.lever.co/weloglobal/ec33ecb5-f712-47a4-81bf-7e2a0a832890",
-      "location": "Remote, Worldwide",
-      "company": "Welo Global",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793216382.5943065,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Marketing & Communication Manager | SEB, Luxembourg",
-      "url": "https://jobs.eu.lever.co/seb/699ba913-ec06-4480-9c6f-9552f0b7d64b",
-      "location": "Luxembourg",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Luxembourg — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790699866.7783933,
-      "category": "job"
-    },
-    {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Enterprise Field Marketing Manager",
-      "url": "https://stripe.com/jobs/search?gh_jid=8224614",
-      "location": "London",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: London — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790699866.7783933,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Research Engineer / Performance Engineer, RL Distributed Systems",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438030008",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790715648.6640465,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Research Engineer / Research Scientist, RL Frontiers",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438044008",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790715648.6640465,
-      "category": "job"
-    }
-  ],
-  "queued_candidates": 707
+  "selected": [],
+  "queued_candidates": 713
 }
