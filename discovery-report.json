@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29T08:54:32+00:00",
+  "checked_at": "2026-10-29T15:51:10+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,21 +14,21 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "remotive",
       "items": 12,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "news_fellowships",
-      "items": 10,
+      "items": 9,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 43,
+      "items": 44,
       "new_candidates": 0
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "id": "news_hackathons",
-      "items": 69,
+      "items": 65,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 67,
+      "items": 68,
       "new_candidates": 0
     },
     {
@@ -83,22 +83,22 @@
     },
     {
       "id": "social_youtube",
-      "items": 75,
+      "items": 99,
       "new_candidates": 0
     },
     {
       "id": "social_x",
-      "items": 100,
+      "items": 55,
       "new_candidates": 0
     },
     {
       "id": "social_tiktok",
-      "items": 98,
+      "items": 99,
       "new_candidates": 0
     },
     {
       "id": "news_corps",
-      "items": 2,
+      "items": 1,
       "new_candidates": 0
     },
     {
@@ -108,12 +108,12 @@
     },
     {
       "id": "direct_seb",
-      "items": 124,
-      "new_candidates": 0
+      "items": 129,
+      "new_candidates": 1
     },
     {
       "id": "direct_welo",
-      "items": 464,
+      "items": 466,
       "new_candidates": 0
     },
     {
@@ -123,28 +123,28 @@
     },
     {
       "id": "direct_veriff",
-      "items": 11,
+      "items": 12,
       "new_candidates": 0
     },
     {
       "id": "direct_anthropic",
       "items": 680,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
       "items": 812,
-      "new_candidates": 2
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 723,
-      "new_candidates": 0
+      "items": 729,
+      "new_candidates": 1
     },
     {
       "id": "direct_datadog",
-      "items": 396,
-      "new_candidates": 0
+      "items": 395,
+      "new_candidates": 1
     },
     {
       "id": "direct_hpiq",
@@ -153,12 +153,12 @@
     },
     {
       "id": "direct_roblox",
-      "items": 268,
+      "items": 267,
       "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 232,
+      "items": 231,
       "new_candidates": 0
     },
     {
@@ -168,13 +168,13 @@
     },
     {
       "id": "direct_n8n",
-      "items": 39,
+      "items": 38,
       "new_candidates": 0
     },
     {
       "id": "direct_sentry",
       "items": 42,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_uplane",
@@ -202,66 +202,47 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Web3 Licensing and Regulatory Compliance Specialist",
-      "url": "https://jobicy.com/jobs/157720-web3-licensing-and-regulatory-compliance-specialist",
-      "location": "Europe, UAE",
-      "company": "CertiK",
-      "published": 1793246631.0,
+      "title": "Golang Software Engineer, Commercial Systems",
+      "url": "https://jobicy.com/jobs/157772-golang-software-engineer-commercial-systems",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1793261121.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Europe, UAE — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793264072.9159536,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793289070.0663292,
       "category": "job"
     },
     {
-      "source": "Startup Jobs",
-      "source_id": "startup",
-      "kind": "rss_jobs",
-      "title": "Customer Succes Engineer at Oddin",
-      "url": "https://startup.jobs/customer-succes-engineer-oddin-10606611",
-      "location": "",
-      "company": "",
-      "published": 1793166046.0,
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Customer Marketing Manager, Special Projects",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439355008",
+      "location": "San Francisco, CA | New York City, NY",
+      "company": "Anthropic",
+      "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1793264072.9159536,
-      "category": "job"
-    },
-    {
-      "source": "Remotive",
-      "source_id": "remotive",
-      "kind": "remotive",
-      "title": "Senior Back-end Developer",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
-      "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
-      "company": "Lemon.io",
-      "published": 1793105773.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
+      "relocation_employer": true,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793264072.9159536,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790746176.1487787,
       "category": "job"
     },
     {
       "source": "OpenAI careers (direct)",
       "source_id": "direct_openai",
       "kind": "ashby",
-      "title": "Physical Engineering Business Lead",
-      "url": "https://jobs.ashbyhq.com/openai/8dcf85ee-563d-40de-bc78-cf829404d212",
+      "title": "Integrated Marketing Manager, AI Impact",
+      "url": "https://jobs.ashbyhq.com/openai/1d8596f7-a81f-432f-9828-cfa915726b3f",
       "location": "San Francisco",
       "company": "OpenAI",
       "published": null,
@@ -273,28 +254,49 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
       "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790727120.4648852,
+      "found_at": 1790746176.1487787,
       "category": "job"
     },
     {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "Software Engineer, Implicit Signals",
-      "url": "https://jobs.ashbyhq.com/openai/c7bcdaec-9714-44b0-8ba8-adc824594b54",
-      "location": "San Francisco",
-      "company": "OpenAI",
+      "source": "Veriff careers (direct)",
+      "source_id": "direct_veriff",
+      "kind": "greenhouse",
+      "title": "VP of Revenue Marketing",
+      "url": "https://www.veriff.com/careers/position/8857648002?gh_jid=8857648002",
+      "location": "United States",
+      "company": "Veriff",
       "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790727120.4648852,
+      "region": "Kolimine pärast pakkumist: United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790767060.3301678,
+      "category": "job"
+    },
+    {
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "Fullstack Engineer, Payments and Risk",
+      "url": "https://stripe.com/jobs/search?gh_jid=6717520",
+      "location": "Dublin, Ireland",
+      "company": "Stripe",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Dublin, Ireland — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790767060.3301678,
       "category": "job"
     }
   ],
-  "queued_candidates": 715
+  "queued_candidates": 714
 }
