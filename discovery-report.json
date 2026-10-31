@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-31T20:58:01+00:00",
+  "checked_at": "2026-10-31T23:56:17+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,13 +17,8 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 13,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
-      "items": 10,
+      "items": 9,
       "new_candidates": 0
     },
     {
@@ -33,17 +28,17 @@
     },
     {
       "id": "news_ai_tasks",
-      "items": 6,
+      "items": 3,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 29,
+      "items": 31,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 68,
+      "items": 66,
       "new_candidates": 0
     },
     {
@@ -82,28 +77,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 96,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 52,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 1,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
       "new_candidates": 0
     },
     {
@@ -134,7 +109,7 @@
     {
       "id": "direct_openai",
       "items": 810,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
@@ -168,7 +143,7 @@
     },
     {
       "id": "direct_n8n",
-      "items": 51,
+      "items": 50,
       "new_candidates": 0
     },
     {
