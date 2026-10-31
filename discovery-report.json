@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-31T01:38:07+00:00",
+  "checked_at": "2026-10-31T07:28:38+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,7 +9,7 @@
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
@@ -17,28 +17,33 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 12,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
-      "items": 8,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_paid_training",
-      "items": 30,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_ai_tasks",
       "items": 7,
       "new_candidates": 0
     },
     {
+      "id": "news_paid_training",
+      "items": 31,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_ai_tasks",
+      "items": 6,
+      "new_candidates": 0
+    },
+    {
       "id": "news_hackathons",
-      "items": 62,
+      "items": 63,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 67,
+      "items": 65,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 96,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 2,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -104,12 +129,12 @@
     {
       "id": "direct_anthropic",
       "items": 675,
-      "new_candidates": 2
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 815,
-      "new_candidates": 2
+      "items": 813,
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
@@ -128,12 +153,12 @@
     },
     {
       "id": "direct_roblox",
-      "items": 267,
-      "new_candidates": 0
+      "items": 268,
+      "new_candidates": 1
     },
     {
       "id": "direct_gitlab",
-      "items": 237,
+      "items": 238,
       "new_candidates": 0
     },
     {
@@ -174,12 +199,32 @@
   ],
   "selected": [
     {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Staff Engineer",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mewssystems/staff-engineer-4421",
+      "location": "",
+      "company": "mewssystems",
+      "published": 1793429714.0,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1793431718.1072774,
+      "category": "job"
+    },
+    {
       "source": "Datadog careers (direct)",
       "source_id": "direct_datadog",
       "kind": "greenhouse",
-      "title": "Regional Manager, Sales Engineering - Majors (West)",
-      "url": "https://careers.datadoghq.com/detail/8231877?gh_jid=8231877",
-      "location": "California, USA, Remote; Washington, USA, Remote",
+      "title": "Senior Technology Partner Engineer",
+      "url": "https://careers.datadoghq.com/detail/8247686?gh_jid=8247686",
+      "location": "New York, New York, USA",
       "company": "Datadog",
       "published": null,
       "salary": "",
@@ -189,77 +234,37 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: California, USA, Remote; Washington, USA, Remote — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790895690.9634018,
-      "category": "job"
-    },
-    {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "Full Stack Software Engineer, Sales Platform",
-      "url": "https://jobs.ashbyhq.com/openai/1f7c6071-ad3a-4903-9b05-4684f5c1a7c8",
-      "location": "San Francisco",
-      "company": "OpenAI",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790929530.9392931,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Staff+ Software Engineer, Safeguards Data",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5379140008",
-      "location": "New York City, NY",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: New York, New York, USA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790952780.8003218,
       "category": "job"
     },
     {
-      "source": "Datadog careers (direct)",
-      "source_id": "direct_datadog",
+      "source": "HP IQ careers (direct)",
+      "source_id": "direct_hpiq",
       "kind": "greenhouse",
-      "title": "Senior Software Engineer - Autonomous Ops & Maintenance (ATOM)",
-      "url": "https://careers.datadoghq.com/detail/8248968?gh_jid=8248968",
-      "location": "Paris, France",
-      "company": "Datadog",
+      "title": "Digital Design Engineer",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6144525004",
+      "location": "San Francisco, CA",
+      "company": "HP IQ",
       "published": null,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: Paris, France — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790952780.8003218,
       "category": "job"
     },
     {
-      "source": "Datadog careers (direct)",
-      "source_id": "direct_datadog",
+      "source": "HP IQ careers (direct)",
+      "source_id": "direct_hpiq",
       "kind": "greenhouse",
-      "title": "Senior Software Engineer - Distributed Systems (Applied AI)",
-      "url": "https://careers.datadoghq.com/detail/8249202?gh_jid=8249202",
-      "location": "Bordeaux, France; Grenoble, France; Lyon, France; Montpellier, France; Nantes, France; Nice, France; Paris, France; Sophia Antipolis, France",
-      "company": "Datadog",
+      "title": "IT Engineer",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6135653004",
+      "location": "San Francisco, CA",
+      "company": "HP IQ",
       "published": null,
       "salary": "",
       "remote": false,
@@ -268,10 +273,30 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: Bordeaux, France; Grenoble, France; Lyon, France; Montpellier, France; Nantes, France; Nice, France; Paris, France; Sophia Antipolis, France — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790952780.8003218,
+      "category": "job"
+    },
+    {
+      "source": "HP IQ careers (direct)",
+      "source_id": "direct_hpiq",
+      "kind": "greenhouse",
+      "title": "IT Support Lead",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6092026004",
+      "location": "San Francisco, CA",
+      "company": "HP IQ",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1790952780.8003218,
       "category": "job"
     }
   ],
-  "queued_candidates": 716
+  "queued_candidates": 713
 }
