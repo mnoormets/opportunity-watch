@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-31T17:57:41+00:00",
+  "checked_at": "2026-10-31T20:58:01+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,13 +17,18 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 13,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
       "items": 10,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 51,
+      "items": 32,
       "new_candidates": 0
     },
     {
@@ -33,17 +38,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 60,
+      "items": 29,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 66,
+      "items": 68,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 55,
+      "items": 25,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 96,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 52,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
-      "items": 2,
+      "items": 1,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -108,8 +133,8 @@
     },
     {
       "id": "direct_openai",
-      "items": 812,
-      "new_candidates": 0
+      "items": 810,
+      "new_candidates": 1
     },
     {
       "id": "direct_stripe",
@@ -172,107 +197,6 @@
       "new_candidates": 0
     }
   ],
-  "selected": [
-    {
-      "source": "HP IQ careers (direct)",
-      "source_id": "direct_hpiq",
-      "kind": "greenhouse",
-      "title": "Senior AI Software Engineer",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/5472600004",
-      "location": "San Francisco, CA",
-      "company": "HP IQ",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790952780.8003218,
-      "category": "job"
-    },
-    {
-      "source": "HP IQ careers (direct)",
-      "source_id": "direct_hpiq",
-      "kind": "greenhouse",
-      "title": "Senior Connectivity Software Engineer",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/5718759004",
-      "location": "San Francisco, CA",
-      "company": "HP IQ",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790952780.8003218,
-      "category": "job"
-    },
-    {
-      "source": "HP IQ careers (direct)",
-      "source_id": "direct_hpiq",
-      "kind": "greenhouse",
-      "title": "Senior Embedded Firmware Engineer",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6123841004",
-      "location": "San Francisco, CA",
-      "company": "HP IQ",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790952780.8003218,
-      "category": "job"
-    },
-    {
-      "source": "HP IQ careers (direct)",
-      "source_id": "direct_hpiq",
-      "kind": "greenhouse",
-      "title": "Senior Engineering Manager, System Software",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/5858812004",
-      "location": "San Francisco, CA",
-      "company": "HP IQ",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790952780.8003218,
-      "category": "job"
-    },
-    {
-      "source": "HP IQ careers (direct)",
-      "source_id": "direct_hpiq",
-      "kind": "greenhouse",
-      "title": "Senior Firmware Engineer",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/5752725004",
-      "location": "San Francisco, CA",
-      "company": "HP IQ",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790952780.8003218,
-      "category": "job"
-    }
-  ],
-  "queued_candidates": 704
+  "selected": [],
+  "queued_candidates": 705
 }
