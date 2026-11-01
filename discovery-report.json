@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-01T04:22:21+00:00",
+  "checked_at": "2026-11-01T11:22:44+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -18,7 +18,7 @@
     },
     {
       "id": "remotive",
-      "items": 13,
+      "items": 12,
       "new_candidates": 0
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 32,
+      "items": 49,
       "new_candidates": 0
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 54,
+      "items": 26,
       "new_candidates": 0
     },
     {
@@ -64,7 +64,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "hn_ai",
@@ -83,12 +83,12 @@
     },
     {
       "id": "social_youtube",
-      "items": 84,
+      "items": 96,
       "new_candidates": 0
     },
     {
       "id": "social_x",
-      "items": 100,
+      "items": 55,
       "new_candidates": 0
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "id": "news_corps",
-      "items": 2,
+      "items": 1,
       "new_candidates": 0
     },
     {
@@ -199,11 +199,30 @@
   ],
   "selected": [
     {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Golang System Software Engineer - Containers / Virtualisation",
+      "url": "https://jobicy.com/jobs/158296-golang-system-software-engineer-containers-virtualisation",
+      "location": "EMEA, LATAM, Canada, USA",
+      "company": "Canonical",
+      "published": 1793507888.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793532164.2887518,
+      "category": "job"
+    },
+    {
       "source": "HP IQ careers (direct)",
       "source_id": "direct_hpiq",
       "kind": "greenhouse",
-      "title": "Senior Platform Engineer",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6205831004",
+      "title": "Senior Software Engineer, Windows Experiences",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/5543232004",
       "location": "San Francisco, CA",
       "company": "HP IQ",
       "published": null,
@@ -222,8 +241,8 @@
       "source": "HP IQ careers (direct)",
       "source_id": "direct_hpiq",
       "kind": "greenhouse",
-      "title": "Senior Power Systems Engineer",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/5806393004",
+      "title": "Senior System Software Engineer",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/5752728004",
       "location": "San Francisco, CA",
       "company": "HP IQ",
       "published": null,
@@ -242,8 +261,8 @@
       "source": "HP IQ careers (direct)",
       "source_id": "direct_hpiq",
       "kind": "greenhouse",
-      "title": "Senior Software Engineer, Cloud Services",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/5814832004",
+      "title": "Senior Technical Program Manager, QA & Developer Experience",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/5841340004",
       "location": "San Francisco, CA",
       "company": "HP IQ",
       "published": null,
@@ -262,28 +281,8 @@
       "source": "HP IQ careers (direct)",
       "source_id": "direct_hpiq",
       "kind": "greenhouse",
-      "title": "Senior Software Engineer, Device Security",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/5369346004",
-      "location": "San Francisco, CA",
-      "company": "HP IQ",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790952780.8003218,
-      "category": "job"
-    },
-    {
-      "source": "HP IQ careers (direct)",
-      "source_id": "direct_hpiq",
-      "kind": "greenhouse",
-      "title": "Senior Software Engineer, Tooling and Development Infrastructure",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/5613861004",
+      "title": "Senior Wireless Systems Software Engineer",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6164689004",
       "location": "San Francisco, CA",
       "company": "HP IQ",
       "published": null,
@@ -299,5 +298,5 @@
       "category": "job"
     }
   ],
-  "queued_candidates": 700
+  "queued_candidates": 696
 }
