@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-01T11:22:44+00:00",
+  "checked_at": "2026-11-01T17:11:24+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,28 +17,23 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 12,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
       "items": 9,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 49,
+      "items": 31,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 6,
+      "items": 3,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 31,
+      "items": 63,
       "new_candidates": 0
     },
     {
@@ -48,7 +43,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 26,
+      "items": 54,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
@@ -82,28 +77,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 96,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 55,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
-      "items": 1,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
+      "items": 2,
       "new_candidates": 0
     },
     {
@@ -138,7 +113,7 @@
     },
     {
       "id": "direct_stripe",
-      "items": 745,
+      "items": 746,
       "new_candidates": 0
     },
     {
@@ -163,12 +138,12 @@
     },
     {
       "id": "direct_cohere",
-      "items": 122,
+      "items": 120,
       "new_candidates": 0
     },
     {
       "id": "direct_n8n",
-      "items": 50,
+      "items": 49,
       "new_candidates": 0
     },
     {
@@ -199,32 +174,92 @@
   ],
   "selected": [
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Golang System Software Engineer - Containers / Virtualisation",
-      "url": "https://jobicy.com/jobs/158296-golang-system-software-engineer-containers-virtualisation",
-      "location": "EMEA, LATAM, Canada, USA",
-      "company": "Canonical",
-      "published": 1793507888.0,
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Staff Research Engineer, Multi-Agent Scaling",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5442680008",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "company": "Anthropic",
+      "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793532164.2887518,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790969687.0040154,
+      "category": "job"
+    },
+    {
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "Engineering Manager, Revenue Foundations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8165515",
+      "location": "N/A",
+      "company": "Stripe",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: N/A — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790969687.0040154,
+      "category": "job"
+    },
+    {
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "Integration Engineer (Chicago)",
+      "url": "https://stripe.com/jobs/search?gh_jid=7819426",
+      "location": "Chicago, US-Remote",
+      "company": "Stripe",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Chicago, US-Remote — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790969687.0040154,
       "category": "job"
     },
     {
       "source": "HP IQ careers (direct)",
       "source_id": "direct_hpiq",
       "kind": "greenhouse",
-      "title": "Senior Software Engineer, Windows Experiences",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/5543232004",
+      "title": "Software Engineer, Device Security",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6214660004",
       "location": "San Francisco, CA",
       "company": "HP IQ",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790969687.0040154,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Head of Recruiting, Communications, Brand, & Marketing",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440891008",
+      "location": "San Francisco, CA",
+      "company": "Anthropic",
       "published": null,
       "salary": "",
       "remote": false,
@@ -234,69 +269,9 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
       "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790952780.8003218,
-      "category": "job"
-    },
-    {
-      "source": "HP IQ careers (direct)",
-      "source_id": "direct_hpiq",
-      "kind": "greenhouse",
-      "title": "Senior System Software Engineer",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/5752728004",
-      "location": "San Francisco, CA",
-      "company": "HP IQ",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790952780.8003218,
-      "category": "job"
-    },
-    {
-      "source": "HP IQ careers (direct)",
-      "source_id": "direct_hpiq",
-      "kind": "greenhouse",
-      "title": "Senior Technical Program Manager, QA & Developer Experience",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/5841340004",
-      "location": "San Francisco, CA",
-      "company": "HP IQ",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790952780.8003218,
-      "category": "job"
-    },
-    {
-      "source": "HP IQ careers (direct)",
-      "source_id": "direct_hpiq",
-      "kind": "greenhouse",
-      "title": "Senior Wireless Systems Software Engineer",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6164689004",
-      "location": "San Francisco, CA",
-      "company": "HP IQ",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790952780.8003218,
+      "found_at": 1790982832.609183,
       "category": "job"
     }
   ],
-  "queued_candidates": 696
+  "queued_candidates": 438
 }
