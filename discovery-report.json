@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-01T21:10:00+00:00",
+  "checked_at": "2026-11-02T00:38:27+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,11 +14,6 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
-    },
-    {
-      "id": "remotive",
-      "items": 12,
       "new_candidates": 0
     },
     {
@@ -38,17 +33,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 32,
+      "items": 64,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 34,
+      "items": 68,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 56,
+      "items": 26,
       "new_candidates": 0
     },
     {
@@ -82,33 +77,13 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 77,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 55,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
-      "items": 1,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
       "items": 0,
       "new_candidates": 0
     },
     {
       "id": "direct_seb",
-      "items": 115,
+      "items": 105,
       "new_candidates": 0
     },
     {
@@ -128,7 +103,7 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 673,
+      "items": 672,
       "new_candidates": 0
     },
     {
@@ -138,7 +113,7 @@
     },
     {
       "id": "direct_stripe",
-      "items": 745,
+      "items": 746,
       "new_candidates": 0
     },
     {
@@ -202,28 +177,8 @@
       "source": "OpenAI careers (direct)",
       "source_id": "direct_openai",
       "kind": "ashby",
-      "title": "Applied AI Engineer, API Platform, Digital Natives",
-      "url": "https://jobs.ashbyhq.com/openai/3254f6a7-6353-4a77-beec-f37b832c99ae",
-      "location": "New York City",
-      "company": "OpenAI",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: New York City — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790982832.609183,
-      "category": "job"
-    },
-    {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "Applied AI Delivery Lead",
-      "url": "https://jobs.ashbyhq.com/openai/afebc24f-c6b8-4c66-a344-b1661fc77570",
+      "title": "Integrated Marketing Manager, Hardware",
+      "url": "https://jobs.ashbyhq.com/openai/93eb3037-c062-453f-8e3d-f6656d733746",
       "location": "San Francisco",
       "company": "OpenAI",
       "published": null,
@@ -235,16 +190,36 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
       "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790982832.609183,
+      "found_at": 1790993024.466023,
+      "category": "job"
+    },
+    {
+      "source": "Datadog careers (direct)",
+      "source_id": "direct_datadog",
+      "kind": "greenhouse",
+      "title": "Staff Product Manger- Self Improving Software",
+      "url": "https://careers.datadoghq.com/detail/8174592?gh_jid=8174592",
+      "location": "New York, New York, USA",
+      "company": "Datadog",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: New York, New York, USA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1790993024.466023,
       "category": "job"
     },
     {
       "source": "OpenAI careers (direct)",
       "source_id": "direct_openai",
       "kind": "ashby",
-      "title": "Dedicated Support Engineer - London",
-      "url": "https://jobs.ashbyhq.com/openai/310bba8b-1fb6-4e38-bd0b-9d83b712d240",
-      "location": "London, UK",
+      "title": "Full Stack Engineer, Enterprise Expansions",
+      "url": "https://jobs.ashbyhq.com/openai/d1c6cb87-a44d-4d04-92a8-dc40eccd090e",
+      "location": "San Francisco",
       "company": "OpenAI",
       "published": null,
       "salary": "",
@@ -253,18 +228,18 @@
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: London, UK — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790982832.609183,
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791014470.5235422,
       "category": "job"
     },
     {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Full Stack Engineer, Revenue",
-      "url": "https://stripe.com/jobs/search?gh_jid=8234357",
-      "location": "N/A",
-      "company": "Stripe",
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Software Engineer, OpenAI Presence",
+      "url": "https://jobs.ashbyhq.com/openai/b94099f6-8418-48b0-82b5-5953a27d636f",
+      "location": "San Francisco",
+      "company": "OpenAI",
       "published": null,
       "salary": "",
       "remote": false,
@@ -273,30 +248,29 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: N/A — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790982832.609183,
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791014470.5235422,
       "category": "job"
     },
     {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Software Engineer, Revenue and Financial Automation",
-      "url": "https://stripe.com/jobs/search?gh_jid=8127182",
-      "location": "San Francisco, New York City, Seattle, Chicago, US-Remote",
-      "company": "Stripe",
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Software Engineer, Enterprise Controls",
+      "url": "https://jobs.ashbyhq.com/openai/88164d12-c8ed-4b62-ae26-dcb6f1cc8482",
+      "location": "San Francisco",
+      "company": "OpenAI",
       "published": null,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, New York City, Seattle, Chicago, US-Remote — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1790982832.609183,
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791014470.5235422,
       "category": "job"
     }
   ],
-  "queued_candidates": 433
+  "queued_candidates": 426
 }
