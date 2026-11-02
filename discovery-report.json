@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-02T06:46:32+00:00",
+  "checked_at": "2026-11-02T16:36:19+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,7 +9,7 @@
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "startup",
@@ -23,22 +23,22 @@
     },
     {
       "id": "news_fellowships",
-      "items": 8,
+      "items": 9,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 32,
+      "items": 50,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 4,
+      "items": 3,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 63,
+      "items": 32,
       "new_candidates": 0
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 57,
+      "items": 24,
       "new_candidates": 0
     },
     {
@@ -64,16 +64,16 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 3
     },
     {
       "id": "hn_ai",
-      "items": 0,
+      "items": 4,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 0,
+      "items": 4,
       "new_candidates": 0
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "id": "social_youtube",
-      "items": 82,
+      "items": 83,
       "new_candidates": 0
     },
     {
       "id": "social_x",
-      "items": 54,
+      "items": 58,
       "new_candidates": 0
     },
     {
@@ -108,13 +108,12 @@
     },
     {
       "id": "direct_seb",
-      "items": 105,
-      "new_candidates": 0
+      "items": 108,
+      "new_candidates": 1
     },
     {
       "id": "direct_welo",
-      "items": 459,
-      "new_candidates": 0
+      "error": "ReadTimeout"
     },
     {
       "id": "direct_pipedrive",
@@ -123,27 +122,27 @@
     },
     {
       "id": "direct_veriff",
-      "items": 13,
+      "items": 12,
       "new_candidates": 0
     },
     {
       "id": "direct_anthropic",
-      "items": 673,
-      "new_candidates": 1
+      "items": 681,
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 811,
-      "new_candidates": 2
+      "items": 809,
+      "new_candidates": 1
     },
     {
       "id": "direct_stripe",
-      "items": 746,
+      "items": 744,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 396,
+      "items": 402,
       "new_candidates": 0
     },
     {
@@ -158,17 +157,17 @@
     },
     {
       "id": "direct_gitlab",
-      "items": 239,
+      "items": 236,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 121,
-      "new_candidates": 1
+      "items": 120,
+      "new_candidates": 0
     },
     {
       "id": "direct_n8n",
-      "items": 49,
+      "items": 52,
       "new_candidates": 0
     },
     {
@@ -199,102 +198,102 @@
   ],
   "selected": [
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Analytics Engineer - Finance",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mewssystems/analytics-engineer-finance-280853",
-      "location": "",
-      "company": "mewssystems",
-      "published": 1793591721.0,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Technical Support Engineer - night shifts",
+      "url": "https://jobicy.com/jobs/158523-technical-support-engineer-night-shifts",
+      "location": "Europe",
+      "company": "Playson",
+      "published": 1793623623.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1793601992.558854,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793637379.4946742,
       "category": "job"
     },
     {
-      "source": "Cohere careers (direct)",
-      "source_id": "direct_cohere",
-      "kind": "ashby",
-      "title": "Staff Technical Program Manager, Machine Learning",
-      "url": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d",
-      "location": "London",
-      "company": "Cohere",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Embedded Linux Senior Software Engineer - Optimisation",
+      "url": "https://jobicy.com/jobs/158514-embedded-linux-senior-software-engineer-optimisation",
+      "location": "EMEA, LATAM, Canada, USA",
+      "company": "Canonical",
+      "published": 1793620458.0,
       "salary": "",
       "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793637379.4946742,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Embedded Devices Software Solution Sales Account Manager",
+      "url": "https://jobicy.com/jobs/158506-embedded-devices-software-solution-sales-account-manager",
+      "location": "APAC, EMEA, LATAM, Canada, USA",
+      "company": "Canonical",
+      "published": 1793620424.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: APAC, EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793637379.4946742,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Team Manager for CIB Credit & AI | SEB, Solna",
+      "url": "https://jobs.eu.lever.co/seb/14896183-0344-474c-ac36-4c12bbe18457",
+      "location": "Solna",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: London — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791047745.103315,
+      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791224653.5801928,
       "category": "job"
     },
     {
-      "source": "Sentry careers (direct)",
-      "source_id": "direct_sentry",
-      "kind": "ashby",
-      "title": "Staff Software Engineer, AI Developer Tooling",
-      "url": "https://jobs.ashbyhq.com/sentry/c00e77f5-bd58-49da-b4a8-3b6249529747",
-      "location": "San Francisco, California",
-      "company": "Sentry",
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Data Center Engineer, Reliability & Infrastructure Management – Compute Supply",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440636008",
+      "location": "San Francisco, CA | New York City, NY",
+      "company": "Anthropic",
       "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, California — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791100059.2668433,
-      "category": "job"
-    },
-    {
-      "source": "Sentry careers (direct)",
-      "source_id": "direct_sentry",
-      "kind": "ashby",
-      "title": "Senior Technical Program Manager, AI Platform",
-      "url": "https://jobs.ashbyhq.com/sentry/278476b1-87c5-461f-ad7e-950cd31e5f31",
-      "location": "San Francisco, California",
-      "company": "Sentry",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, California — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791100059.2668433,
-      "category": "job"
-    },
-    {
-      "source": "Sentry careers (direct)",
-      "source_id": "direct_sentry",
-      "kind": "ashby",
-      "title": "Sr Staff Software Engineer, Platform",
-      "url": "https://jobs.ashbyhq.com/sentry/af7fab29-5d68-4041-9794-de4de3f41953",
-      "location": "San Francisco, California",
-      "company": "Sentry",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, California — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791100059.2668433,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791224653.5801928,
       "category": "job"
     }
   ],
