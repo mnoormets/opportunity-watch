@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-02T16:36:19+00:00",
+  "checked_at": "2026-11-02T23:40:20+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -33,12 +33,12 @@
     },
     {
       "id": "news_ai_tasks",
-      "items": 3,
+      "items": 4,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 32,
+      "items": 65,
       "new_candidates": 0
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 24,
+      "items": 26,
       "new_candidates": 0
     },
     {
@@ -64,16 +64,16 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 3
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
-      "items": 4,
+      "items": 22,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 4,
+      "items": 9,
       "new_candidates": 0
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "id": "social_youtube",
-      "items": 83,
+      "items": 87,
       "new_candidates": 0
     },
     {
       "id": "social_x",
-      "items": 58,
+      "items": 100,
       "new_candidates": 0
     },
     {
@@ -109,11 +109,12 @@
     {
       "id": "direct_seb",
       "items": 108,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "error": "ReadTimeout"
+      "items": 459,
+      "new_candidates": 0
     },
     {
       "id": "direct_pipedrive",
@@ -127,23 +128,23 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 681,
-      "new_candidates": 0
+      "items": 677,
+      "new_candidates": 1
     },
     {
       "id": "direct_openai",
-      "items": 809,
+      "items": 805,
       "new_candidates": 1
     },
     {
       "id": "direct_stripe",
-      "items": 744,
-      "new_candidates": 0
+      "items": 742,
+      "new_candidates": 2
     },
     {
       "id": "direct_datadog",
-      "items": 402,
-      "new_candidates": 0
+      "items": 405,
+      "new_candidates": 2
     },
     {
       "id": "direct_hpiq",
@@ -152,22 +153,22 @@
     },
     {
       "id": "direct_roblox",
-      "items": 268,
-      "new_candidates": 0
+      "items": 266,
+      "new_candidates": 2
     },
     {
       "id": "direct_gitlab",
-      "items": 236,
+      "items": 235,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
       "items": 120,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_n8n",
-      "items": 52,
+      "items": 51,
       "new_candidates": 0
     },
     {
@@ -198,91 +199,12 @@
   ],
   "selected": [
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Technical Support Engineer - night shifts",
-      "url": "https://jobicy.com/jobs/158523-technical-support-engineer-night-shifts",
-      "location": "Europe",
-      "company": "Playson",
-      "published": 1793623623.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793637379.4946742,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Embedded Linux Senior Software Engineer - Optimisation",
-      "url": "https://jobicy.com/jobs/158514-embedded-linux-senior-software-engineer-optimisation",
-      "location": "EMEA, LATAM, Canada, USA",
-      "company": "Canonical",
-      "published": 1793620458.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793637379.4946742,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Embedded Devices Software Solution Sales Account Manager",
-      "url": "https://jobicy.com/jobs/158506-embedded-devices-software-solution-sales-account-manager",
-      "location": "APAC, EMEA, LATAM, Canada, USA",
-      "company": "Canonical",
-      "published": 1793620424.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: APAC, EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793637379.4946742,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Team Manager for CIB Credit & AI | SEB, Solna",
-      "url": "https://jobs.eu.lever.co/seb/14896183-0344-474c-ac36-4c12bbe18457",
-      "location": "Solna",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791224653.5801928,
-      "category": "job"
-    },
-    {
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Data Center Engineer, Reliability & Infrastructure Management – Compute Supply",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440636008",
-      "location": "San Francisco, CA | New York City, NY",
+      "title": "Manager, Applied AI Engineering (Megas)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5442934008",
+      "location": "San Francisco, CA | New York City, NY; San Francisco, CA | Seattle, WA",
       "company": "Anthropic",
       "published": null,
       "salary": "",
@@ -292,10 +214,87 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY; San Francisco, CA | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791224653.5801928,
+      "category": "job"
+    },
+    {
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Forward Deployed Engineer - Paris",
+      "url": "https://jobs.ashbyhq.com/openai/9ddb1bd1-3ee0-4350-88f7-3710057b8c93",
+      "location": "Paris, France",
+      "company": "OpenAI",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Paris, France — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791224653.5801928,
+      "category": "job"
+    },
+    {
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Forward Deployed Engineer - Munich",
+      "url": "https://jobs.ashbyhq.com/openai/05223b5a-5ff1-4fe7-9f97-4ef7fc68b8ef",
+      "location": "Munich, Germany",
+      "company": "OpenAI",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Munich, Germany — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791224653.5801928,
+      "category": "job"
+    },
+    {
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Sr. Integrations Engineer, Supply Chain Technology",
+      "url": "https://jobs.ashbyhq.com/openai/fa02b383-d5b0-45ea-b29e-3464ceeb4574",
+      "location": "San Francisco",
+      "company": "OpenAI",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791224653.5801928,
+      "category": "job"
+    },
+    {
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Forward Deployed Engineer - Zurich",
+      "url": "https://jobs.ashbyhq.com/openai/067788c8-505b-4296-bc05-d5699cb87a1f",
+      "location": "Zurich, Switzerland",
+      "company": "OpenAI",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Zurich, Switzerland — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1791224653.5801928,
       "category": "job"
     }
   ],
-  "queued_candidates": 426
+  "queued_candidates": 430
 }
