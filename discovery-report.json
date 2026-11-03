@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-03T11:46:38+00:00",
+  "checked_at": "2026-11-03T18:40:36+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,7 +14,7 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "remotive",
@@ -23,12 +23,12 @@
     },
     {
       "id": "news_fellowships",
-      "items": 9,
+      "items": 7,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 48,
+      "items": 33,
       "new_candidates": 0
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "id": "news_hackathons",
-      "items": 61,
+      "items": 29,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 33,
+      "items": 63,
       "new_candidates": 0
     },
     {
@@ -64,21 +64,21 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 4
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
-      "items": 13,
+      "items": 11,
       "new_candidates": 2
     },
     {
       "id": "hn_ml",
-      "items": 10,
+      "items": 13,
       "new_candidates": 0
     },
     {
       "id": "hn_projects",
-      "items": 0,
+      "items": 1,
       "new_candidates": 0
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "id": "social_x",
-      "items": 100,
+      "items": 56,
       "new_candidates": 0
     },
     {
@@ -108,8 +108,8 @@
     },
     {
       "id": "direct_seb",
-      "items": 119,
-      "new_candidates": 9
+      "items": 123,
+      "new_candidates": 1
     },
     {
       "id": "direct_welo",
@@ -123,47 +123,47 @@
     },
     {
       "id": "direct_veriff",
-      "items": 12,
+      "items": 11,
       "new_candidates": 0
     },
     {
       "id": "direct_anthropic",
-      "items": 677,
+      "items": 673,
       "new_candidates": 1
     },
     {
       "id": "direct_openai",
-      "items": 805,
-      "new_candidates": 0
+      "items": 806,
+      "new_candidates": 1
     },
     {
       "id": "direct_stripe",
-      "items": 737,
-      "new_candidates": 0
+      "items": 740,
+      "new_candidates": 3
     },
     {
       "id": "direct_datadog",
-      "items": 402,
-      "new_candidates": 0
+      "items": 400,
+      "new_candidates": 1
     },
     {
       "id": "direct_hpiq",
-      "items": 37,
+      "items": 36,
       "new_candidates": 0
     },
     {
       "id": "direct_roblox",
-      "items": 266,
+      "items": 265,
       "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 236,
+      "items": 239,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 120,
+      "items": 119,
       "new_candidates": 0
     },
     {
@@ -199,53 +199,14 @@
   ],
   "selected": [
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Marketing Team Lead",
-      "url": "https://jobicy.com/jobs/158636-marketing-team-lead",
-      "location": "EMEA, LATAM, Canada, USA",
-      "company": "Canonical",
-      "published": 1793694221.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793706398.1219654,
-      "category": "job"
-    },
-    {
       "source": "Hacker News: ai",
       "source_id": "hn_ai",
       "kind": "hn",
-      "title": "Scento | Paris, Berlin | REMOTE (EU) or ONSITE | Full-time | https://www.scento.com/careers Scento is Europe's largest perfume decant website: more than 1,000 original designer and niche perfumes as 2 ml, 5 ml and 8 ml d",
-      "url": "https://news.ycombinator.com/item?id=50349294",
+      "title": "Proofline | Founding Staff / Principal Engineer | REMOTE (Worldwide, Berlin timezone overlap preferred) | Full-time | €120k-€200k + equity | https://proofline.sh/careers/founding-staff-principal-engine... Hi HN, I'm the",
+      "url": "https://news.ycombinator.com/item?id=50350810",
       "location": "",
       "company": "",
-      "published": 1793692767.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1793706398.1219654,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Lead Data Governance Engineer",
-      "url": "https://jobicy.com/jobs/158612-lead-data-governance-engineer",
-      "location": "EMEA",
-      "company": "Canonical",
-      "published": 1793685085.0,
+      "published": 1793706470.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -253,19 +214,19 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793706398.1219654,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1793731236.9078326,
       "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Kernel Build Automation Engineer - Ubuntu Linux",
-      "url": "https://jobicy.com/jobs/158610-kernel-build-automation-engineer-ubuntu-linux",
+      "title": "Juju Software Engineer (Go)",
+      "url": "https://jobicy.com/jobs/158600-juju-software-engineer-go",
       "location": "EMEA",
       "company": "Canonical",
-      "published": 1793685050.0,
+      "published": 1793685020.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -277,14 +238,14 @@
       "category": "job"
     },
     {
-      "source": "Hacker News: ai",
-      "source_id": "hn_ai",
-      "kind": "hn",
-      "title": "Opsfleet | AI Engineer (Agentic / GenAI) | REMOTE (EEA) | Full-time Fully remote cloud & AI services company (founded 2015, 70+ engineers, AWS Premier, Google Cloud & Snowflake Partner) with a growing GenAI practice and",
-      "url": "https://news.ycombinator.com/item?id=50349129",
+      "source": "Startup Jobs",
+      "source_id": "startup",
+      "kind": "rss_jobs",
+      "title": "Security Engineer at Cast AI",
+      "url": "https://startup.jobs/security-engineer-cast-ai-10658554",
       "location": "",
       "company": "",
-      "published": 1793691115.0,
+      "published": 1793633658.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -292,9 +253,47 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1793731236.9078326,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Business Developer /Analyst in Mobile Business Application Team | SEB, Tallinn",
+      "url": "https://jobs.eu.lever.co/seb/1c255047-7a78-4b45-9e6c-c606ca4ddc9e",
+      "location": "Tallinn",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Eesti — kohapeal või kaugtöö",
       "found_at": 1793706398.1219654,
+      "category": "job"
+    },
+    {
+      "source": "Hacker News: ai",
+      "source_id": "hn_ai",
+      "kind": "hn",
+      "title": "EggAI | AI tech leads, Software and Platform engineers | REMOTE (EU) | Full-time preferred. Contract possible. We are a small boutique consultancy and are quite experienced. A lot of us have extensive consultant experien",
+      "url": "https://news.ycombinator.com/item?id=50351693",
+      "location": "",
+      "company": "",
+      "published": 1793712296.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1793731236.9078326,
       "category": "secondary"
     }
   ],
-  "queued_candidates": 437
+  "queued_candidates": 442
 }
