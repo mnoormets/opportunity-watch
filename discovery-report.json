@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-03T18:40:36+00:00",
+  "checked_at": "2026-11-03T23:39:24+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,21 +9,16 @@
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 1
-    },
-    {
-      "id": "remotive",
-      "items": 10,
       "new_candidates": 0
     },
     {
       "id": "news_fellowships",
-      "items": 7,
+      "items": 8,
       "new_candidates": 0
     },
     {
@@ -38,7 +33,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 29,
+      "items": 30,
       "new_candidates": 0
     },
     {
@@ -48,12 +43,12 @@
     },
     {
       "id": "news_bounties",
-      "items": 30,
+      "items": 58,
       "new_candidates": 0
     },
     {
       "id": "news_paid_research",
-      "items": 0,
+      "items": 1,
       "new_candidates": 0
     },
     {
@@ -64,12 +59,12 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "hn_ai",
-      "items": 11,
-      "new_candidates": 2
+      "items": 12,
+      "new_candidates": 0
     },
     {
       "id": "hn_ml",
@@ -82,38 +77,18 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 96,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 56,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
-      "items": 2,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
+      "items": 3,
       "new_candidates": 0
     },
     {
       "id": "direct_seb",
       "items": 123,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 461,
+      "items": 460,
       "new_candidates": 0
     },
     {
@@ -128,23 +103,23 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 673,
-      "new_candidates": 1
+      "items": 680,
+      "new_candidates": 2
     },
     {
       "id": "direct_openai",
-      "items": 806,
-      "new_candidates": 1
-    },
-    {
-      "id": "direct_stripe",
-      "items": 740,
+      "items": 808,
       "new_candidates": 3
     },
     {
+      "id": "direct_stripe",
+      "items": 745,
+      "new_candidates": 2
+    },
+    {
       "id": "direct_datadog",
-      "items": 400,
-      "new_candidates": 1
+      "items": 398,
+      "new_candidates": 0
     },
     {
       "id": "direct_hpiq",
@@ -153,8 +128,8 @@
     },
     {
       "id": "direct_roblox",
-      "items": 265,
-      "new_candidates": 0
+      "items": 271,
+      "new_candidates": 4
     },
     {
       "id": "direct_gitlab",
@@ -164,7 +139,7 @@
     {
       "id": "direct_cohere",
       "items": 119,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_n8n",
@@ -173,7 +148,7 @@
     },
     {
       "id": "direct_sentry",
-      "items": 40,
+      "items": 39,
       "new_candidates": 0
     },
     {
@@ -199,14 +174,33 @@
   ],
   "selected": [
     {
-      "source": "Hacker News: ai",
-      "source_id": "hn_ai",
-      "kind": "hn",
-      "title": "Proofline | Founding Staff / Principal Engineer | REMOTE (Worldwide, Berlin timezone overlap preferred) | Full-time | €120k-€200k + equity | https://proofline.sh/careers/founding-staff-principal-engine... Hi HN, I'm the",
-      "url": "https://news.ycombinator.com/item?id=50350810",
-      "location": "",
-      "company": "",
-      "published": 1793706470.0,
+      "source": "Cohere careers (direct)",
+      "source_id": "direct_cohere",
+      "kind": "ashby",
+      "title": "Data Annotation Specialist, Safety",
+      "url": "https://jobs.ashbyhq.com/cohere/0cf19dbd-bfa9-425f-a357-e2bd874bb489",
+      "location": "Canada",
+      "company": "Cohere",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Canada — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1793749164.8054566,
+      "category": "job"
+    },
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Senior Architect, Enterprise Agentic Automation",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-architect-enterprise-agentic-automation-165952",
+      "location": "Remote",
+      "company": "Camunda",
+      "published": 1793742017.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -215,53 +209,35 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1793731236.9078326,
+      "found_at": 1793749164.8054566,
       "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Juju Software Engineer (Go)",
-      "url": "https://jobicy.com/jobs/158600-juju-software-engineer-go",
-      "location": "EMEA",
-      "company": "Canonical",
-      "published": 1793685020.0,
+      "title": "Partner Solutions Architect , AI Builder",
+      "url": "https://jobicy.com/jobs/158826-partner-solutions-architect-ai-builder",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1793735795.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793706398.1219654,
-      "category": "job"
-    },
-    {
-      "source": "Startup Jobs",
-      "source_id": "startup",
-      "kind": "rss_jobs",
-      "title": "Security Engineer at Cast AI",
-      "url": "https://startup.jobs/security-engineer-cast-ai-10658554",
-      "location": "",
-      "company": "",
-      "published": 1793633658.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1793731236.9078326,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793749164.8054566,
       "category": "job"
     },
     {
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Business Developer /Analyst in Mobile Business Application Team | SEB, Tallinn",
-      "url": "https://jobs.eu.lever.co/seb/1c255047-7a78-4b45-9e6c-c606ca4ddc9e",
+      "title": "Finance Developer in General Ledger and Internal Accounting Team | SEB, Tallinn",
+      "url": "https://jobs.eu.lever.co/seb/bdc14b92-c9f3-4a76-958e-466391cd1f69",
       "location": "Tallinn",
       "company": "SEB",
       "published": null,
@@ -276,24 +252,24 @@
       "category": "job"
     },
     {
-      "source": "Hacker News: ai",
-      "source_id": "hn_ai",
-      "kind": "hn",
-      "title": "EggAI | AI tech leads, Software and Platform engineers | REMOTE (EU) | Full-time preferred. Contract possible. We are a small boutique consultancy and are quite experienced. A lot of us have extensive consultant experien",
-      "url": "https://news.ycombinator.com/item?id=50351693",
-      "location": "",
-      "company": "",
-      "published": 1793712296.0,
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Software Tester in Mobile Business Application team | SEB, Tallinn",
+      "url": "https://jobs.eu.lever.co/seb/4a79e402-8661-46da-bad5-14334aa55129",
+      "location": "Tallinn",
+      "company": "SEB",
+      "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
+      "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1793731236.9078326,
-      "category": "secondary"
+      "region": "Eesti — kohapeal või kaugtöö",
+      "found_at": 1793706398.1219654,
+      "category": "job"
     }
   ],
-  "queued_candidates": 442
+  "queued_candidates": 451
 }
