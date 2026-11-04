@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-04T11:05:52+00:00",
+  "checked_at": "2026-11-04T18:35:57+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,7 +14,7 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "remotive",
@@ -23,12 +23,12 @@
     },
     {
       "id": "news_fellowships",
-      "items": 6,
+      "items": 8,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 52,
+      "items": 34,
       "new_candidates": 0
     },
     {
@@ -48,12 +48,12 @@
     },
     {
       "id": "news_bounties",
-      "items": 56,
+      "items": 32,
       "new_candidates": 0
     },
     {
       "id": "news_paid_research",
-      "items": 1,
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -64,16 +64,16 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 7
     },
     {
       "id": "hn_ai",
       "items": 13,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "hn_ml",
-      "items": 12,
+      "items": 13,
       "new_candidates": 0
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "id": "social_youtube",
-      "items": 81,
+      "items": 74,
       "new_candidates": 0
     },
     {
       "id": "social_x",
-      "items": 55,
+      "items": 54,
       "new_candidates": 0
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "id": "news_corps",
-      "items": 3,
+      "items": 2,
       "new_candidates": 0
     },
     {
@@ -108,12 +108,12 @@
     },
     {
       "id": "direct_seb",
-      "items": 117,
-      "new_candidates": 0
+      "items": 121,
+      "new_candidates": 1
     },
     {
       "id": "direct_welo",
-      "items": 441,
+      "items": 440,
       "new_candidates": 0
     },
     {
@@ -128,22 +128,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 680,
-      "new_candidates": 1
+      "items": 681,
+      "new_candidates": 3
     },
     {
       "id": "direct_openai",
-      "items": 813,
-      "new_candidates": 2
+      "items": 817,
+      "new_candidates": 3
     },
     {
       "id": "direct_stripe",
-      "items": 754,
-      "new_candidates": 2
+      "items": 753,
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 394,
+      "items": 395,
       "new_candidates": 0
     },
     {
@@ -153,17 +153,17 @@
     },
     {
       "id": "direct_roblox",
-      "items": 270,
-      "new_candidates": 1
+      "items": 269,
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 239,
+      "items": 245,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 118,
+      "items": 117,
       "new_candidates": 0
     },
     {
@@ -199,14 +199,91 @@
   ],
   "selected": [
     {
-      "source": "Startup Jobs",
-      "source_id": "startup",
-      "kind": "rss_jobs",
-      "title": "Security Detection & Automation Engineer at JustMarkets",
-      "url": "https://startup.jobs/security-detection-automation-engineer-justmarkets-10665175",
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Python Software Engineer - Ubuntu Hardware Certification Team",
+      "url": "https://jobicy.com/jobs/158954-python-software-engineer-ubuntu-hardware-certification-team",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1793800159.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793817357.635112,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Python Software Engineer, Commercial Systems",
+      "url": "https://jobicy.com/jobs/158952-python-software-engineer-commercial-systems",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1793800156.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793817357.635112,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Product Marketing Lead",
+      "url": "https://jobicy.com/jobs/158950-product-marketing-lead-4",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1793800153.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793817357.635112,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
+      "url": "https://jobicy.com/jobs/158947-full-stack-engineer-backend-leaning-payments-engineering",
+      "location": "Europe, USA",
+      "company": "Elevenlabs",
+      "published": 1793800126.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793817357.635112,
+      "category": "job"
+    },
+    {
+      "source": "Hacker News: ai",
+      "source_id": "hn_ai",
+      "kind": "hn",
+      "title": "Search Atlas | Product Engineer (PM) | REMOTE (anywhere, EST hours) | Full-time | $23-34/hr We're ~160 people building an AI marketing platform. Our main product, OTTO, runs a site's SEO on its own: it reads live search",
+      "url": "https://news.ycombinator.com/item?id=50365279",
       "location": "",
       "company": "",
-      "published": 1793696284.0,
+      "published": 1793799088.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -214,87 +291,9 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1793790352.3053093,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Security Risk Analyst, Risk Engineering",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397704008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791245630.288484,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Staff + Software Security Engineer, Labs",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440477008",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791245630.288484,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Staff + Software Security Engineer, Secure Frameworks",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440475008",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791245630.288484,
-      "category": "job"
-    },
-    {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "Android Engineer, Plugin Developer Platform",
-      "url": "https://jobs.ashbyhq.com/openai/e6e5e4b6-a1d9-4a4e-beef-8d3befef08c0",
-      "location": "San Francisco",
-      "company": "OpenAI",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791245630.288484,
-      "category": "job"
+      "found_at": 1793817357.635112,
+      "category": "secondary"
     }
   ],
-  "queued_candidates": 450
+  "queued_candidates": 460
 }
