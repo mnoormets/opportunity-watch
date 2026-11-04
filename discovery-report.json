@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-03T23:39:24+00:00",
+  "checked_at": "2026-11-04T03:13:56+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,11 +9,16 @@
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "startup",
       "items": 50,
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 10,
       "new_candidates": 0
     },
     {
@@ -28,7 +33,7 @@
     },
     {
       "id": "news_ai_tasks",
-      "items": 4,
+      "items": 5,
       "new_candidates": 0
     },
     {
@@ -43,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 58,
+      "items": 31,
       "new_candidates": 0
     },
     {
@@ -59,11 +64,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
-      "items": 12,
+      "items": 14,
       "new_candidates": 0
     },
     {
@@ -77,13 +82,33 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 81,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 57,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
-      "items": 3,
+      "items": 2,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
       "id": "direct_seb",
-      "items": 123,
+      "items": 116,
       "new_candidates": 0
     },
     {
@@ -103,22 +128,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 680,
-      "new_candidates": 2
+      "items": 682,
+      "new_candidates": 1
     },
     {
       "id": "direct_openai",
-      "items": 808,
-      "new_candidates": 3
+      "items": 811,
+      "new_candidates": 1
     },
     {
       "id": "direct_stripe",
       "items": 745,
-      "new_candidates": 2
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 398,
+      "items": 397,
       "new_candidates": 0
     },
     {
@@ -128,8 +153,8 @@
     },
     {
       "id": "direct_roblox",
-      "items": 271,
-      "new_candidates": 4
+      "items": 270,
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
@@ -139,7 +164,7 @@
     {
       "id": "direct_cohere",
       "items": 119,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_n8n",
@@ -174,102 +199,105 @@
   ],
   "selected": [
     {
-      "source": "Cohere careers (direct)",
-      "source_id": "direct_cohere",
-      "kind": "ashby",
-      "title": "Data Annotation Specialist, Safety",
-      "url": "https://jobs.ashbyhq.com/cohere/0cf19dbd-bfa9-425f-a357-e2bd874bb489",
-      "location": "Canada",
-      "company": "Cohere",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Canada — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793749164.8054566,
-      "category": "job"
-    },
-    {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Senior Architect, Enterprise Agentic Automation",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-architect-enterprise-agentic-automation-165952",
-      "location": "Remote",
-      "company": "Camunda",
-      "published": 1793742017.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1793749164.8054566,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Partner Solutions Architect , AI Builder",
-      "url": "https://jobicy.com/jobs/158826-partner-solutions-architect-ai-builder",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1793735795.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793749164.8054566,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Finance Developer in General Ledger and Internal Accounting Team | SEB, Tallinn",
-      "url": "https://jobs.eu.lever.co/seb/bdc14b92-c9f3-4a76-958e-466391cd1f69",
-      "location": "Tallinn",
-      "company": "SEB",
+      "source": "Datadog careers (direct)",
+      "source_id": "direct_datadog",
+      "kind": "greenhouse",
+      "title": "Event Marketing Manager - Global Sponsorships (NAMER/LATAM)",
+      "url": "https://careers.datadoghq.com/detail/8242795?gh_jid=8242795",
+      "location": "New York, New York, USA",
+      "company": "Datadog",
       "published": null,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Eesti — kohapeal või kaugtöö",
-      "found_at": 1793706398.1219654,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: New York, New York, USA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791224653.5801928,
       "category": "job"
     },
     {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Software Tester in Mobile Business Application team | SEB, Tallinn",
-      "url": "https://jobs.eu.lever.co/seb/4a79e402-8661-46da-bad5-14334aa55129",
-      "location": "Tallinn",
-      "company": "SEB",
+      "source": "Datadog careers (direct)",
+      "source_id": "direct_datadog",
+      "kind": "greenhouse",
+      "title": "Senior Sales Engineer - Majors (Central)",
+      "url": "https://careers.datadoghq.com/detail/8238457?gh_jid=8238457",
+      "location": "Illinois, USA, Remote; Texas, USA, Remote",
+      "company": "Datadog",
       "published": null,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Eesti — kohapeal või kaugtöö",
-      "found_at": 1793706398.1219654,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Illinois, USA, Remote; Texas, USA, Remote — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791224653.5801928,
+      "category": "job"
+    },
+    {
+      "source": "Datadog careers (direct)",
+      "source_id": "direct_datadog",
+      "kind": "greenhouse",
+      "title": "Staff Product Manager- Self Improving Software",
+      "url": "https://careers.datadoghq.com/detail/8174592?gh_jid=8174592",
+      "location": "New York, New York, USA",
+      "company": "Datadog",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: New York, New York, USA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791224653.5801928,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "AV Engineer, Builds and Design",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+      "location": "San Francisco, CA",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791245630.288484,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "AV Engineer, Platform & Automation",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383714008",
+      "location": "San Francisco, CA | New York City, NY",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791245630.288484,
       "category": "job"
     }
   ],
-  "queued_candidates": 451
+  "queued_candidates": 448
 }
