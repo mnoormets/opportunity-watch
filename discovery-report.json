@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-04T18:35:57+00:00",
+  "checked_at": "2026-11-04T23:54:28+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,38 +17,33 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 11,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
-      "items": 8,
+      "items": 7,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 34,
+      "items": 33,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 5,
+      "items": 4,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 29,
+      "items": 30,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 34,
+      "items": 32,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 32,
+      "items": 30,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 7
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
@@ -82,38 +77,18 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 74,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 54,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 2,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 0,
+      "id": "direct_seb",
+      "items": 121,
       "new_candidates": 0
     },
     {
-      "id": "direct_seb",
-      "items": 121,
-      "new_candidates": 1
-    },
-    {
       "id": "direct_welo",
-      "items": 440,
+      "items": 439,
       "new_candidates": 0
     },
     {
@@ -129,21 +104,21 @@
     {
       "id": "direct_anthropic",
       "items": 681,
-      "new_candidates": 3
-    },
-    {
-      "id": "direct_openai",
-      "items": 817,
-      "new_candidates": 3
-    },
-    {
-      "id": "direct_stripe",
-      "items": 753,
       "new_candidates": 0
     },
     {
+      "id": "direct_openai",
+      "items": 809,
+      "new_candidates": 1
+    },
+    {
+      "id": "direct_stripe",
+      "items": 757,
+      "new_candidates": 2
+    },
+    {
       "id": "direct_datadog",
-      "items": 395,
+      "items": 396,
       "new_candidates": 0
     },
     {
@@ -153,22 +128,22 @@
     },
     {
       "id": "direct_roblox",
-      "items": 269,
-      "new_candidates": 0
+      "items": 273,
+      "new_candidates": 4
     },
     {
       "id": "direct_gitlab",
-      "items": 245,
+      "items": 242,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 117,
+      "items": 118,
       "new_candidates": 0
     },
     {
       "id": "direct_n8n",
-      "items": 52,
+      "items": 51,
       "new_candidates": 0
     },
     {
@@ -202,18 +177,18 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Python Software Engineer - Ubuntu Hardware Certification Team",
-      "url": "https://jobicy.com/jobs/158954-python-software-engineer-ubuntu-hardware-certification-team",
-      "location": "EMEA",
-      "company": "Canonical",
-      "published": 1793800159.0,
+      "title": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
+      "url": "https://jobicy.com/jobs/158945-full-stack-engineer-backend-leaning-platform-engineering",
+      "location": "Europe, USA",
+      "company": "Elevenlabs",
+      "published": 1793800122.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1793817357.635112,
       "category": "job"
     },
@@ -221,30 +196,11 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Python Software Engineer, Commercial Systems",
-      "url": "https://jobicy.com/jobs/158952-python-software-engineer-commercial-systems",
+      "title": "Product Manager - AI",
+      "url": "https://jobicy.com/jobs/158940-product-manager-ai",
       "location": "EMEA",
       "company": "Canonical",
-      "published": 1793800156.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793817357.635112,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Product Marketing Lead",
-      "url": "https://jobicy.com/jobs/158950-product-marketing-lead-4",
-      "location": "EMEA",
-      "company": "Canonical",
-      "published": 1793800153.0,
+      "published": 1793800114.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -260,30 +216,50 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
-      "url": "https://jobicy.com/jobs/158947-full-stack-engineer-backend-leaning-payments-engineering",
-      "location": "Europe, USA",
-      "company": "Elevenlabs",
-      "published": 1793800126.0,
+      "title": "Observability Engineering Manager",
+      "url": "https://jobicy.com/jobs/158930-observability-engineering-manager",
+      "location": "EMEA, Canada, USA",
+      "company": "Canonical",
+      "published": 1793800056.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "region": "Kaugtöö: EMEA, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1793817357.635112,
+      "category": "job"
+    },
+    {
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "Full Stack Engineer, Builder Experience",
+      "url": "https://stripe.com/jobs/search?gh_jid=8206731",
+      "location": "US remote",
+      "company": "Stripe",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: US remote — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791245630.288484,
       "category": "job"
     },
     {
       "source": "Hacker News: ai",
       "source_id": "hn_ai",
       "kind": "hn",
-      "title": "Search Atlas | Product Engineer (PM) | REMOTE (anywhere, EST hours) | Full-time | $23-34/hr We're ~160 people building an AI marketing platform. Our main product, OTTO, runs a site's SEO on its own: it reads live search",
-      "url": "https://news.ycombinator.com/item?id=50365279",
+      "title": "Matcha.fm | REMOTE (Worldwide: US / Canada / Europe / UK / LATAM) | Full-time | https://matcha.fm I'm a Canadian repeat founder working on agents that cut the noise in large dataset search. Looking for a great builder (f",
+      "url": "https://news.ycombinator.com/item?id=50369728",
       "location": "",
       "company": "",
-      "published": 1793799088.0,
+      "published": 1793817529.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -291,9 +267,9 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1793817357.635112,
+      "found_at": 1793836468.0138948,
       "category": "secondary"
     }
   ],
-  "queued_candidates": 460
+  "queued_candidates": 463
 }
