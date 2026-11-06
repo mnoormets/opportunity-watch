@@ -1,15 +1,15 @@
 {
-  "checked_at": "2026-11-06T07:52:54+00:00",
+  "checked_at": "2026-11-06T15:25:13+00:00",
   "sources": [
     {
       "id": "remoteok",
       "items": 99,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "startup",
@@ -18,7 +18,7 @@
     },
     {
       "id": "remotive",
-      "items": 10,
+      "items": 12,
       "new_candidates": 0
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "id": "news_ai_tasks",
-      "items": 6,
+      "items": 5,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 27,
+      "items": 25,
       "new_candidates": 0
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 33,
+      "items": 32,
       "new_candidates": 0
     },
     {
@@ -64,16 +64,16 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "hn_ai",
-      "items": 8,
+      "items": 9,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 13,
+      "items": 12,
       "new_candidates": 0
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "id": "social_youtube",
-      "items": 79,
+      "items": 84,
       "new_candidates": 0
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "id": "news_corps",
-      "items": 2,
+      "items": 1,
       "new_candidates": 0
     },
     {
@@ -108,13 +108,13 @@
     },
     {
       "id": "direct_seb",
-      "items": 120,
-      "new_candidates": 1
+      "items": 130,
+      "new_candidates": 3
     },
     {
       "id": "direct_welo",
-      "items": 446,
-      "new_candidates": 0
+      "items": 447,
+      "new_candidates": 2
     },
     {
       "id": "direct_pipedrive",
@@ -128,22 +128,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 674,
+      "items": 673,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 822,
-      "new_candidates": 1
+      "items": 823,
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 768,
+      "items": 762,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 401,
+      "items": 399,
       "new_candidates": 1
     },
     {
@@ -154,7 +154,7 @@
     {
       "id": "direct_roblox",
       "items": 271,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
@@ -163,7 +163,7 @@
     },
     {
       "id": "direct_cohere",
-      "items": 119,
+      "items": 121,
       "new_candidates": 0
     },
     {
@@ -199,32 +199,90 @@
   ],
   "selected": [
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Software Engineer, Operations Research",
-      "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-operations-research-57308",
-      "location": "Remote",
-      "company": "Circuithub",
-      "published": 1793947211.0,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Salesforce/NetSuite Engineering Manager, Commercial Systems",
+      "url": "https://jobicy.com/jobs/159279-salesforce-netsuite-engineering-manager-commercial-systems",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1793967666.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793978713.8022501,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Full-Stack Engineer - ElevenCreative Enterprise",
+      "url": "https://jobicy.com/jobs/159276-full-stack-engineer-elevencreative-enterprise",
+      "location": "Europe",
+      "company": "Elevenlabs",
+      "published": 1793967642.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1793951574.5629902,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793978713.8022501,
       "category": "job"
     },
     {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "Creative Resource Manager, Business Marketing",
-      "url": "https://jobs.ashbyhq.com/openai/6ff654e4-fd45-4cac-a76f-30249e14292c",
-      "location": "San Francisco",
-      "company": "OpenAI",
+      "source": "Remote OK",
+      "source_id": "remoteok",
+      "kind": "remoteok",
+      "title": "Operations Expert with Python for AI Supply Chain Task Design",
+      "url": "https://remoteok.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
+      "location": "Anywhere in the World",
+      "company": "Toptal",
+      "published": 1793890869.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere in the World — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793978713.8022501,
+      "category": "job"
+    },
+    {
+      "source": "Remote OK",
+      "source_id": "remoteok",
+      "kind": "remoteok",
+      "title": "ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
+      "url": "https://remoteok.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
+      "location": "Anywhere in the World",
+      "company": "Toptal",
+      "published": 1793890736.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere in the World — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793978713.8022501,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Senior Software Developer in Internet Bank Customer Journey | SEB, Tallinn",
+      "url": "https://jobs.eu.lever.co/seb/1d6e2e42-078e-4438-8ede-7458fc0841f3",
+      "location": "Tallinn",
+      "company": "SEB",
       "published": null,
       "salary": "",
       "remote": false,
@@ -232,69 +290,11 @@
       "relocation_employer": true,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791387914.9517412,
-      "category": "job"
-    },
-    {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Backend Engineer, Payments & Risk",
-      "url": "https://stripe.com/jobs/search?gh_jid=8260985",
-      "location": "Toronto, Canada",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Toronto, Canada — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791387914.9517412,
-      "category": "job"
-    },
-    {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Security Engineer, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8257892",
-      "location": "Dublin",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Dublin — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791387914.9517412,
-      "category": "job"
-    },
-    {
-      "source": "Datadog careers (direct)",
-      "source_id": "direct_datadog",
-      "kind": "greenhouse",
-      "title": "Commercial Sales Engineer",
-      "url": "https://careers.datadoghq.com/detail/8238655?gh_jid=8238655",
-      "location": "Sydney, Australia",
-      "company": "Datadog",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Sydney, Australia — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791387914.9517412,
+      "score": 8,
+      "region": "Eesti — kohapeal või kaugtöö",
+      "found_at": 1793978713.8022501,
       "category": "job"
     }
   ],
-  "queued_candidates": 465
+  "queued_candidates": 470
 }
