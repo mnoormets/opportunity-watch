@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-06T01:06:08+00:00",
+  "checked_at": "2026-11-06T07:52:54+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,11 +9,16 @@
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
       "items": 50,
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 10,
       "new_candidates": 0
     },
     {
@@ -33,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 28,
+      "items": 27,
       "new_candidates": 0
     },
     {
@@ -43,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 34,
+      "items": 33,
       "new_candidates": 0
     },
     {
@@ -63,7 +68,7 @@
     },
     {
       "id": "hn_ai",
-      "items": 7,
+      "items": 8,
       "new_candidates": 0
     },
     {
@@ -77,18 +82,38 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 79,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 58,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 2,
       "new_candidates": 0
     },
     {
-      "id": "direct_seb",
-      "items": 118,
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
+      "id": "direct_seb",
+      "items": 120,
+      "new_candidates": 1
+    },
+    {
       "id": "direct_welo",
-      "items": 439,
+      "items": 446,
       "new_candidates": 0
     },
     {
@@ -103,23 +128,23 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 677,
+      "items": 674,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 821,
-      "new_candidates": 7
+      "items": 822,
+      "new_candidates": 1
     },
     {
       "id": "direct_stripe",
       "items": 768,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
       "items": 401,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_hpiq",
@@ -128,12 +153,12 @@
     },
     {
       "id": "direct_roblox",
-      "items": 270,
-      "new_candidates": 4
+      "items": 271,
+      "new_candidates": 1
     },
     {
       "id": "direct_gitlab",
-      "items": 248,
+      "items": 249,
       "new_candidates": 0
     },
     {
@@ -174,71 +199,32 @@
   ],
   "selected": [
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Applied AI Engineer, Public Sector",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445410008",
-      "location": "Washington, DC",
-      "company": "Anthropic",
-      "published": null,
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Software Engineer, Operations Research",
+      "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-operations-research-57308",
+      "location": "Remote",
+      "company": "Circuithub",
+      "published": 1793947211.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Washington, DC — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791338671.0130978,
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1793951574.5629902,
       "category": "job"
     },
     {
       "source": "OpenAI careers (direct)",
       "source_id": "direct_openai",
       "kind": "ashby",
-      "title": "Software Engineer, Life Sciences",
-      "url": "https://jobs.ashbyhq.com/openai/4f0d64b8-bfa7-4c30-9972-a10d74b49075",
+      "title": "Creative Resource Manager, Business Marketing",
+      "url": "https://jobs.ashbyhq.com/openai/6ff654e4-fd45-4cac-a76f-30249e14292c",
       "location": "San Francisco",
       "company": "OpenAI",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791338671.0130978,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Experienced GCP Data Engineer for Fund and Portfolio Services | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/8151efcb-2635-4477-a14c-158f80c9fdca",
-      "location": "Stockholm",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791387914.9517412,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Growth Marketing Lead",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5444769008",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "company": "Anthropic",
       "published": null,
       "salary": "",
       "remote": false,
@@ -247,18 +233,38 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1791387914.9517412,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
       "kind": "greenhouse",
-      "title": "IT Systems Engineer, Client Platform Engineer, macOS",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445625008",
-      "location": "Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC",
-      "company": "Anthropic",
+      "title": "Backend Engineer, Payments & Risk",
+      "url": "https://stripe.com/jobs/search?gh_jid=8260985",
+      "location": "Toronto, Canada",
+      "company": "Stripe",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Toronto, Canada — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791387914.9517412,
+      "category": "job"
+    },
+    {
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "Security Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8257892",
+      "location": "Dublin",
+      "company": "Stripe",
       "published": null,
       "salary": "",
       "remote": false,
@@ -266,7 +272,26 @@
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Dublin — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791387914.9517412,
+      "category": "job"
+    },
+    {
+      "source": "Datadog careers (direct)",
+      "source_id": "direct_datadog",
+      "kind": "greenhouse",
+      "title": "Commercial Sales Engineer",
+      "url": "https://careers.datadoghq.com/detail/8238655?gh_jid=8238655",
+      "location": "Sydney, Australia",
+      "company": "Datadog",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Sydney, Australia — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1791387914.9517412,
       "category": "job"
     }
