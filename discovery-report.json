@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-06T15:25:13+00:00",
+  "checked_at": "2026-11-06T20:58:38+00:00",
   "sources": [
     {
       "id": "remoteok",
       "items": 99,
-      "new_candidates": 2
+      "new_candidates": 0
     },
     {
       "id": "arbeitnow",
@@ -14,11 +14,6 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
-    },
-    {
-      "id": "remotive",
-      "items": 12,
       "new_candidates": 0
     },
     {
@@ -33,12 +28,12 @@
     },
     {
       "id": "news_ai_tasks",
-      "items": 5,
+      "items": 4,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 25,
+      "items": 26,
       "new_candidates": 0
     },
     {
@@ -48,7 +43,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 32,
+      "items": 33,
       "new_candidates": 0
     },
     {
@@ -64,11 +59,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 2
+      "new_candidates": 7
     },
     {
       "id": "hn_ai",
-      "items": 9,
+      "items": 10,
       "new_candidates": 0
     },
     {
@@ -82,39 +77,19 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 84,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 58,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
-      "items": 1,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
+      "items": 2,
       "new_candidates": 0
     },
     {
       "id": "direct_seb",
       "items": 130,
-      "new_candidates": 3
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 447,
-      "new_candidates": 2
+      "items": 445,
+      "new_candidates": 0
     },
     {
       "id": "direct_pipedrive",
@@ -128,22 +103,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 673,
-      "new_candidates": 0
+      "items": 672,
+      "new_candidates": 2
     },
     {
       "id": "direct_openai",
-      "items": 823,
-      "new_candidates": 0
+      "items": 819,
+      "new_candidates": 2
     },
     {
       "id": "direct_stripe",
-      "items": 762,
-      "new_candidates": 0
+      "items": 766,
+      "new_candidates": 1
     },
     {
       "id": "direct_datadog",
-      "items": 399,
+      "items": 398,
       "new_candidates": 1
     },
     {
@@ -158,23 +133,23 @@
     },
     {
       "id": "direct_gitlab",
-      "items": 249,
+      "items": 244,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 121,
-      "new_candidates": 0
+      "items": 124,
+      "new_candidates": 3
     },
     {
       "id": "direct_n8n",
-      "items": 51,
+      "items": 49,
       "new_candidates": 0
     },
     {
       "id": "direct_sentry",
       "items": 39,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_uplane",
@@ -202,11 +177,11 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Salesforce/NetSuite Engineering Manager, Commercial Systems",
-      "url": "https://jobicy.com/jobs/159279-salesforce-netsuite-engineering-manager-commercial-systems",
-      "location": "EMEA",
-      "company": "Canonical",
-      "published": 1793967666.0,
+      "title": "Head of AI Native Operations",
+      "url": "https://jobicy.com/jobs/159382-head-of-ai-native-operations",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1793980920.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -214,87 +189,87 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793978713.8022501,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793998718.8169196,
       "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Full-Stack Engineer - ElevenCreative Enterprise",
-      "url": "https://jobicy.com/jobs/159276-full-stack-engineer-elevencreative-enterprise",
-      "location": "Europe",
-      "company": "Elevenlabs",
-      "published": 1793967642.0,
+      "title": "OrioleDB Deployment Engineer",
+      "url": "https://jobicy.com/jobs/159380-orioledb-deployment-engineer",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1793980862.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793978713.8022501,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793998718.8169196,
       "category": "job"
     },
     {
-      "source": "Remote OK",
-      "source_id": "remoteok",
-      "kind": "remoteok",
-      "title": "Operations Expert with Python for AI Supply Chain Task Design",
-      "url": "https://remoteok.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
-      "location": "Anywhere in the World",
-      "company": "Toptal",
-      "published": 1793890869.0,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "AWS Partner Marketing Manager",
+      "url": "https://jobicy.com/jobs/159377-aws-partner-marketing-manager",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1793980859.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere in the World — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793978713.8022501,
-      "category": "job"
-    },
-    {
-      "source": "Remote OK",
-      "source_id": "remoteok",
-      "kind": "remoteok",
-      "title": "ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
-      "url": "https://remoteok.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
-      "location": "Anywhere in the World",
-      "company": "Toptal",
-      "published": 1793890736.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere in the World — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793978713.8022501,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Senior Software Developer in Internet Bank Customer Journey | SEB, Tallinn",
-      "url": "https://jobs.eu.lever.co/seb/1d6e2e42-078e-4438-8ede-7458fc0841f3",
-      "location": "Tallinn",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Eesti — kohapeal või kaugtöö",
-      "found_at": 1793978713.8022501,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793998718.8169196,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "SDK Engineer - Python",
+      "url": "https://jobicy.com/jobs/159374-sdk-engineer-python",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1793980804.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793998718.8169196,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "FinOps Engineer",
+      "url": "https://jobicy.com/jobs/159370-finops-engineer",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1793980797.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1793998718.8169196,
       "category": "job"
     }
   ],
-  "queued_candidates": 470
+  "queued_candidates": 471
 }
