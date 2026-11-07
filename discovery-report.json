@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-07T06:33:36+00:00",
+  "checked_at": "2026-11-07T13:30:23+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,7 +9,7 @@
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
@@ -17,8 +17,13 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 12,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
-      "items": 6,
+      "items": 5,
       "new_candidates": 0
     },
     {
@@ -28,22 +33,22 @@
     },
     {
       "id": "news_ai_tasks",
-      "items": 5,
+      "items": 2,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 26,
+      "items": 19,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 31,
+      "items": 32,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 32,
+      "items": 31,
       "new_candidates": 0
     },
     {
@@ -59,11 +64,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 3
     },
     {
       "id": "hn_ai",
-      "items": 10,
+      "items": 8,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 87,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 54,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 3,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -109,7 +134,7 @@
     {
       "id": "direct_openai",
       "items": 820,
-      "new_candidates": 3
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
@@ -119,7 +144,7 @@
     {
       "id": "direct_datadog",
       "items": 400,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_hpiq",
@@ -128,7 +153,7 @@
     },
     {
       "id": "direct_roblox",
-      "items": 269,
+      "items": 270,
       "new_candidates": 0
     },
     {
@@ -163,7 +188,7 @@
     },
     {
       "id": "news_early_career",
-      "items": 1,
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -177,11 +202,11 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Senior Developer Relations, Twitter Brand Rep",
-      "url": "https://jobicy.com/jobs/159353-senior-developer-relations-twitter-brand-rep",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1793980717.0,
+      "title": "Software Alliance Ecosystem Manager",
+      "url": "https://jobicy.com/jobs/159483-software-alliance-ecosystem-manager",
+      "location": "EMEA, LATAM, Canada, USA",
+      "company": "Canonical",
+      "published": 1794034542.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -189,38 +214,19 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793998718.8169196,
+      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794058223.5162585,
       "category": "job"
     },
     {
-      "source": "Welo Global careers (direct)",
-      "source_id": "direct_welo",
-      "kind": "lever",
-      "title": "English to Brazilian Portugeze SME (Subject Matter Expert) for History Content",
-      "url": "https://jobs.lever.co/weloglobal/eac0b110-5931-41bf-9427-c308878d2cfd",
-      "location": "Remote - Europe",
-      "company": "Welo Global",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Remote - Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793978713.8022501,
-      "category": "job"
-    },
-    {
-      "source": "Welo Global careers (direct)",
-      "source_id": "direct_welo",
-      "kind": "lever",
-      "title": "English to Hebrew Linguist for UI, Marketing & Product Content",
-      "url": "https://jobs.lever.co/weloglobal/04a4e887-6f2b-444e-9014-bb8ffb86de45",
-      "location": "Remote, Worldwide",
-      "company": "Welo Global",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Software Engineer - Python/Golang - Kubernetes",
+      "url": "https://jobicy.com/jobs/159482-senior-software-engineer-python-golang-kubernetes",
+      "location": "EMEA, LATAM, Canada, USA",
+      "company": "Canonical",
+      "published": 1794034540.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -228,38 +234,58 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Remote, Worldwide — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793978713.8022501,
+      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794058223.5162585,
       "category": "job"
     },
     {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "Web Strategist Lead",
-      "url": "https://jobs.ashbyhq.com/openai/67eb66cd-d89e-4312-a2cf-59e9a0a5e43f",
-      "location": "San Francisco",
-      "company": "OpenAI",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Software Engineer - Digital Workplace",
+      "url": "https://jobicy.com/jobs/159481-senior-software-engineer-digital-workplace",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1794034539.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791487870.3659253,
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794058223.5162585,
       "category": "job"
     },
     {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Senior Forward Deployed Engineer - Canada",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-forward-deployed-engineer-canada-170128",
+      "location": "Remote",
+      "company": "Camunda",
+      "published": 1794033626.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1794058223.5162585,
+      "category": "job"
+    },
+    {
+      "source": "Datadog careers (direct)",
+      "source_id": "direct_datadog",
       "kind": "greenhouse",
-      "title": "Solutions Architect, AI",
-      "url": "https://stripe.com/jobs/search?gh_jid=8248509",
-      "location": "NYC, SF, or Chicago",
-      "company": "Stripe",
+      "title": "Senior Product Security Engineer - AI Agents",
+      "url": "https://careers.datadoghq.com/detail/7993198?gh_jid=7993198",
+      "location": "Alabama, USA, Remote; Arizona, USA, Remote; Arkansas, USA, Remote; Atlanta, Georgia, USA; Boston, Massachusetts, USA; California, USA, Remote; Chicago, Illinois, USA; Colorado, USA",
+      "company": "Datadog",
       "published": null,
       "salary": "",
       "remote": false,
@@ -268,10 +294,10 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: NYC, SF, or Chicago — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Alabama, USA, Remote; Arizona, USA, Remote; Arkansas, USA, Remote; Atlanta, Georgia, USA; Boston, Massachusetts, USA; California, USA, Remote; Chicago, Illinois, USA; Colorado, USA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1791487870.3659253,
       "category": "job"
     }
   ],
-  "queued_candidates": 475
+  "queued_candidates": 474
 }
