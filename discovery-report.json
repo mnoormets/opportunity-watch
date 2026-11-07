@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-06T20:58:38+00:00",
+  "checked_at": "2026-11-07T00:38:00+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,6 +14,11 @@
     {
       "id": "startup",
       "items": 50,
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 12,
       "new_candidates": 0
     },
     {
@@ -38,12 +43,12 @@
     },
     {
       "id": "news_grants",
-      "items": 33,
+      "items": 31,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 33,
+      "items": 32,
       "new_candidates": 0
     },
     {
@@ -59,12 +64,12 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 7
+      "new_candidates": 2
     },
     {
       "id": "hn_ai",
-      "items": 10,
-      "new_candidates": 0
+      "items": 11,
+      "new_candidates": 1
     },
     {
       "id": "hn_ml",
@@ -77,13 +82,33 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 88,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 56,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 2,
       "new_candidates": 0
     },
     {
+      "id": "news_clients",
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_seb",
-      "items": 130,
+      "items": 124,
       "new_candidates": 0
     },
     {
@@ -103,53 +128,53 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 672,
-      "new_candidates": 2
-    },
-    {
-      "id": "direct_openai",
-      "items": 819,
-      "new_candidates": 2
-    },
-    {
-      "id": "direct_stripe",
-      "items": 766,
+      "items": 677,
       "new_candidates": 1
     },
     {
+      "id": "direct_openai",
+      "items": 820,
+      "new_candidates": 9
+    },
+    {
+      "id": "direct_stripe",
+      "items": 765,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_datadog",
-      "items": 398,
+      "items": 399,
       "new_candidates": 1
     },
     {
       "id": "direct_hpiq",
-      "items": 34,
-      "new_candidates": 0
+      "items": 35,
+      "new_candidates": 1
     },
     {
       "id": "direct_roblox",
-      "items": 271,
+      "items": 269,
       "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 244,
+      "items": 247,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
       "items": 124,
-      "new_candidates": 3
+      "new_candidates": 2
     },
     {
       "id": "direct_n8n",
-      "items": 49,
+      "items": 48,
       "new_candidates": 0
     },
     {
       "id": "direct_sentry",
       "items": 39,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_uplane",
@@ -174,14 +199,74 @@
   ],
   "selected": [
     {
+      "source": "Cohere careers (direct)",
+      "source_id": "direct_cohere",
+      "kind": "ashby",
+      "title": "Senior Full-Stack Engineer, Annotation Platform",
+      "url": "https://jobs.ashbyhq.com/cohere/7133d205-5421-4336-a8e2-6037b5f55073",
+      "location": "Toronto",
+      "company": "Cohere",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Toronto — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1794011880.051568,
+      "category": "job"
+    },
+    {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Head of AI Native Operations",
-      "url": "https://jobicy.com/jobs/159382-head-of-ai-native-operations",
+      "title": "Senior Product Marketing Manager",
+      "url": "https://jobicy.com/jobs/159446-senior-product-marketing-manager-9",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1793987892.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794011880.051568,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Juju Software Engineer (Go)",
+      "url": "https://jobicy.com/jobs/159443-senior-juju-software-engineer-go",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1793987889.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794011880.051568,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Platform Engineer, Edge & Networking",
+      "url": "https://jobicy.com/jobs/159366-platform-engineer-edge-networking",
       "location": "Anywhere",
       "company": "Supabase",
-      "published": 1793980920.0,
+      "published": 1793980790.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -194,33 +279,14 @@
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "OrioleDB Deployment Engineer",
-      "url": "https://jobicy.com/jobs/159380-orioledb-deployment-engineer",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1793980862.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793998718.8169196,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "AWS Partner Marketing Manager",
-      "url": "https://jobicy.com/jobs/159377-aws-partner-marketing-manager",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1793980859.0,
+      "source": "Hacker News: ai",
+      "source_id": "hn_ai",
+      "kind": "hn",
+      "title": "3ive | Senior/Staff Software Engineer | REMOTE (Europe) | Full-time | Python, TypeScript, React, AI Agents We’re building Cursor for mechanical engineering. Imagine an AI that doesn’t just answer questions about a mechan",
+      "url": "https://news.ycombinator.com/item?id=50398466",
+      "location": "",
+      "company": "",
+      "published": 1793998870.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -228,48 +294,10 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793998718.8169196,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "SDK Engineer - Python",
-      "url": "https://jobicy.com/jobs/159374-sdk-engineer-python",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1793980804.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793998718.8169196,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "FinOps Engineer",
-      "url": "https://jobicy.com/jobs/159370-finops-engineer",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1793980797.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1793998718.8169196,
-      "category": "job"
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1794011880.051568,
+      "category": "secondary"
     }
   ],
-  "queued_candidates": 471
+  "queued_candidates": 478
 }
