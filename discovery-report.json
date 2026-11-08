@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-07T21:47:13+00:00",
+  "checked_at": "2026-11-08T00:55:48+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,16 +9,11 @@
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
-    },
-    {
-      "id": "remotive",
-      "items": 12,
       "new_candidates": 0
     },
     {
@@ -28,7 +23,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 33,
+      "items": 34,
       "new_candidates": 0
     },
     {
@@ -38,17 +33,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 21,
+      "items": 18,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 32,
+      "items": 33,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 30,
+      "items": 31,
       "new_candidates": 0
     },
     {
@@ -64,11 +59,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 16
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
-      "items": 7,
+      "items": 9,
       "new_candidates": 0
     },
     {
@@ -82,33 +77,13 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 80,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 57,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
-      "items": 2,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
+      "items": 1,
       "new_candidates": 0
     },
     {
       "id": "direct_seb",
-      "items": 124,
+      "items": 123,
       "new_candidates": 0
     },
     {
@@ -143,8 +118,8 @@
     },
     {
       "id": "direct_datadog",
-      "items": 400,
-      "new_candidates": 0
+      "items": 401,
+      "new_candidates": 1
     },
     {
       "id": "direct_hpiq",
@@ -197,6 +172,104 @@
       "new_candidates": 0
     }
   ],
-  "selected": [],
-  "queued_candidates": 487
+  "selected": [
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Senior Analytics Engineer - Finance",
+      "url": "https://www.arbeitnow.com/jobs/companies/mewssystems/senior-analytics-engineer-finance-426148",
+      "location": "",
+      "company": "mewssystems",
+      "published": 1794077723.0,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1794088033.410141,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Web Developer",
+      "url": "https://jobicy.com/jobs/159606-web-developer",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1794065011.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794088033.410141,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "UX Designer - Developer experience",
+      "url": "https://jobicy.com/jobs/159603-ux-designer-developer-experience",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1794065007.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794088033.410141,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Usability Engineer - User Science",
+      "url": "https://jobicy.com/jobs/159601-usability-engineer-user-science",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1794065003.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794088033.410141,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Telco Field Engineering Director",
+      "url": "https://jobicy.com/jobs/159599-telco-field-engineering-director",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1794064980.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794088033.410141,
+      "category": "job"
+    }
+  ],
+  "queued_candidates": 480
 }
