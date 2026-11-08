@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-08T14:03:29+00:00",
+  "checked_at": "2026-11-08T18:48:04+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,11 +14,6 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
-    },
-    {
-      "id": "remotive",
-      "items": 13,
       "new_candidates": 0
     },
     {
@@ -38,12 +33,12 @@
     },
     {
       "id": "news_hackathons",
-      "items": 21,
+      "items": 24,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 33,
+      "items": 34,
       "new_candidates": 0
     },
     {
@@ -68,7 +63,7 @@
     },
     {
       "id": "hn_ai",
-      "items": 11,
+      "items": 8,
       "new_candidates": 0
     },
     {
@@ -82,28 +77,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 97,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 61,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 1,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 0,
       "new_candidates": 0
     },
     {
@@ -133,8 +108,8 @@
     },
     {
       "id": "direct_openai",
-      "items": 818,
-      "new_candidates": 0
+      "items": 816,
+      "new_candidates": 1
     },
     {
       "id": "direct_stripe",
@@ -168,7 +143,7 @@
     },
     {
       "id": "direct_n8n",
-      "items": 48,
+      "items": 49,
       "new_candidates": 0
     },
     {
@@ -202,18 +177,18 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Software Engineer - Python/Golang - Kubernetes",
-      "url": "https://jobicy.com/jobs/159591-software-engineer-python-golang-kubernetes",
-      "location": "EMEA, LATAM, Canada, USA",
+      "title": "Software Developer in Observability",
+      "url": "https://jobicy.com/jobs/159583-software-developer-in-observability",
+      "location": "EMEA, Canada, USA",
       "company": "Canonical",
-      "published": 1794064967.0,
+      "published": 1794064928.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "region": "Kaugtöö: EMEA, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1794088033.410141,
       "category": "job"
     },
@@ -221,34 +196,16 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Software Engineer - OpenStack",
-      "url": "https://jobicy.com/jobs/159590-software-engineer-openstack",
-      "location": "EMEA, LATAM, Canada, USA",
-      "company": "Canonical",
-      "published": 1794064939.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794088033.410141,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Software Engineer - Edge AI",
-      "url": "https://jobicy.com/jobs/159589-software-engineer-edge-ai",
+      "title": "Software Alliances Director, EMEA",
+      "url": "https://jobicy.com/jobs/159581-software-alliances-director-emea",
       "location": "EMEA",
       "company": "Canonical",
-      "published": 1794064938.0,
+      "published": 1794064925.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
@@ -256,43 +213,65 @@
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Software Engineer - Cross-platform C++ - Multipass",
-      "url": "https://jobicy.com/jobs/159588-software-engineer-cross-platform-c-multipass",
-      "location": "EMEA",
-      "company": "Canonical",
-      "published": 1794064937.0,
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Software Engineer, API Agents",
+      "url": "https://jobs.ashbyhq.com/openai/a6ab3111-7092-4da2-a7a6-71e01351bfda",
+      "location": "San Francisco",
+      "company": "OpenAI",
+      "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794088033.410141,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791581895.0970862,
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Software Engineer, Automotive and Industrial Architecture",
-      "url": "https://jobicy.com/jobs/159585-software-engineer-automotive-and-industrial-architecture",
-      "location": "EMEA",
-      "company": "Canonical",
-      "published": 1794064931.0,
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "Backend/API Engineer, Money as a Service",
+      "url": "https://stripe.com/jobs/search?gh_jid=6176758",
+      "location": "US",
+      "company": "Stripe",
+      "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794088033.410141,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: US — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791581895.0970862,
+      "category": "job"
+    },
+    {
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "Marketing Operations Manager, APAC Events",
+      "url": "https://stripe.com/jobs/search?gh_jid=8176256",
+      "location": "Singapore",
+      "company": "Stripe",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Singapore — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791581895.0970862,
       "category": "job"
     }
   ],
-  "queued_candidates": 463
+  "queued_candidates": 451
 }
