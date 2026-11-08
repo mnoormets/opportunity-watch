@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-08T06:55:08+00:00",
+  "checked_at": "2026-11-08T14:03:29+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -18,12 +18,12 @@
     },
     {
       "id": "remotive",
-      "items": 12,
+      "items": 13,
       "new_candidates": 0
     },
     {
       "id": "news_fellowships",
-      "items": 4,
+      "items": 3,
       "new_candidates": 0
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "id": "news_hackathons",
-      "items": 19,
+      "items": 21,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 34,
+      "items": 33,
       "new_candidates": 0
     },
     {
@@ -68,12 +68,12 @@
     },
     {
       "id": "hn_ai",
-      "items": 7,
+      "items": 11,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 13,
+      "items": 12,
       "new_candidates": 0
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "id": "social_youtube",
-      "items": 93,
+      "items": 97,
       "new_candidates": 0
     },
     {
       "id": "social_x",
-      "items": 60,
+      "items": 61,
       "new_candidates": 0
     },
     {
@@ -202,11 +202,11 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Telco Cloud Field Engineer",
-      "url": "https://jobicy.com/jobs/159598-telco-cloud-field-engineer",
+      "title": "Software Engineer - Python/Golang - Kubernetes",
+      "url": "https://jobicy.com/jobs/159591-software-engineer-python-golang-kubernetes",
       "location": "EMEA, LATAM, Canada, USA",
       "company": "Canonical",
-      "published": 1794064979.0,
+      "published": 1794064967.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -221,16 +221,34 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Technical Product Marketing Manager - Cybersecurity",
-      "url": "https://jobicy.com/jobs/159597-technical-product-marketing-manager-cybersecurity",
-      "location": "EMEA",
+      "title": "Software Engineer - OpenStack",
+      "url": "https://jobicy.com/jobs/159590-software-engineer-openstack",
+      "location": "EMEA, LATAM, Canada, USA",
       "company": "Canonical",
-      "published": 1794064977.0,
+      "published": 1794064939.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794088033.410141,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Software Engineer - Edge AI",
+      "url": "https://jobicy.com/jobs/159589-software-engineer-edge-ai",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1794064938.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
@@ -241,56 +259,34 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Staff Software Engineer for Identity Management (Go/Golang)",
-      "url": "https://jobicy.com/jobs/159594-staff-software-engineer-for-identity-management-go-golang",
-      "location": "EMEA, LATAM, Canada, USA",
-      "company": "Canonical",
-      "published": 1794064972.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794088033.410141,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Staff Engineer, Development Lifecycle",
-      "url": "https://jobicy.com/jobs/159593-staff-engineer-development-lifecycle",
-      "location": "EMEA, LATAM, Canada, USA",
-      "company": "Canonical",
-      "published": 1794064970.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794088033.410141,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Staff Design Engineer - Cloud Networking UX",
-      "url": "https://jobicy.com/jobs/159592-staff-design-engineer-cloud-networking-ux",
+      "title": "Software Engineer - Cross-platform C++ - Multipass",
+      "url": "https://jobicy.com/jobs/159588-software-engineer-cross-platform-c-multipass",
       "location": "EMEA",
       "company": "Canonical",
-      "published": 1794064969.0,
+      "published": 1794064937.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794088033.410141,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Software Engineer, Automotive and Industrial Architecture",
+      "url": "https://jobicy.com/jobs/159585-software-engineer-automotive-and-industrial-architecture",
+      "location": "EMEA",
+      "company": "Canonical",
+      "published": 1794064931.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
@@ -298,5 +294,5 @@
       "category": "job"
     }
   ],
-  "queued_candidates": 474
+  "queued_candidates": 463
 }
