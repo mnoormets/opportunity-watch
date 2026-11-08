@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-08T18:48:04+00:00",
+  "checked_at": "2026-11-08T22:31:18+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,7 +9,7 @@
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
@@ -17,8 +17,13 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 13,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
-      "items": 3,
+      "items": 5,
       "new_candidates": 0
     },
     {
@@ -63,7 +68,7 @@
     },
     {
       "id": "hn_ai",
-      "items": 8,
+      "items": 7,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 95,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 59,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 1,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -104,12 +129,12 @@
     {
       "id": "direct_anthropic",
       "items": 675,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_openai",
       "items": 816,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
@@ -172,106 +197,6 @@
       "new_candidates": 0
     }
   ],
-  "selected": [
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Software Developer in Observability",
-      "url": "https://jobicy.com/jobs/159583-software-developer-in-observability",
-      "location": "EMEA, Canada, USA",
-      "company": "Canonical",
-      "published": 1794064928.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794088033.410141,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Software Alliances Director, EMEA",
-      "url": "https://jobicy.com/jobs/159581-software-alliances-director-emea",
-      "location": "EMEA",
-      "company": "Canonical",
-      "published": 1794064925.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794088033.410141,
-      "category": "job"
-    },
-    {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "Software Engineer, API Agents",
-      "url": "https://jobs.ashbyhq.com/openai/a6ab3111-7092-4da2-a7a6-71e01351bfda",
-      "location": "San Francisco",
-      "company": "OpenAI",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791581895.0970862,
-      "category": "job"
-    },
-    {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Backend/API Engineer, Money as a Service",
-      "url": "https://stripe.com/jobs/search?gh_jid=6176758",
-      "location": "US",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: US — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791581895.0970862,
-      "category": "job"
-    },
-    {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Marketing Operations Manager, APAC Events",
-      "url": "https://stripe.com/jobs/search?gh_jid=8176256",
-      "location": "Singapore",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Singapore — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791581895.0970862,
-      "category": "job"
-    }
-  ],
-  "queued_candidates": 451
+  "selected": [],
+  "queued_candidates": 446
 }
