@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-09T08:43:55+00:00",
+  "checked_at": "2026-11-09T19:13:01+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,7 +9,7 @@
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
@@ -18,7 +18,7 @@
     },
     {
       "id": "remotive",
-      "items": 13,
+      "items": 12,
       "new_candidates": 0
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 33,
+      "items": 34,
       "new_candidates": 0
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 23,
+      "items": 24,
       "new_candidates": 0
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 31,
+      "items": 32,
       "new_candidates": 0
     },
     {
@@ -64,16 +64,16 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "hn_ai",
-      "items": 8,
+      "items": 7,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 14,
+      "items": 9,
       "new_candidates": 0
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "id": "social_youtube",
-      "items": 94,
+      "items": 86,
       "new_candidates": 0
     },
     {
       "id": "social_x",
-      "items": 55,
+      "items": 52,
       "new_candidates": 0
     },
     {
@@ -98,18 +98,18 @@
     },
     {
       "id": "news_corps",
-      "items": 0,
+      "items": 2,
       "new_candidates": 0
     },
     {
       "id": "news_clients",
-      "items": 0,
+      "items": 1,
       "new_candidates": 0
     },
     {
       "id": "direct_seb",
-      "items": 119,
-      "new_candidates": 0
+      "items": 131,
+      "new_candidates": 2
     },
     {
       "id": "direct_welo",
@@ -128,23 +128,23 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 676,
+      "items": 677,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 813,
-      "new_candidates": 0
+      "items": 810,
+      "new_candidates": 3
     },
     {
       "id": "direct_stripe",
-      "items": 767,
+      "items": 772,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
       "items": 402,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "direct_hpiq",
@@ -153,22 +153,22 @@
     },
     {
       "id": "direct_roblox",
-      "items": 270,
+      "items": 268,
       "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 251,
+      "items": 250,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
       "items": 124,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_n8n",
-      "items": 49,
+      "items": 51,
       "new_candidates": 0
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "id": "direct_uplane",
-      "items": 16,
+      "items": 17,
       "new_candidates": 0
     },
     {
@@ -199,103 +199,103 @@
   ],
   "selected": [
     {
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Executive in Residence, Cyber",
+      "url": "https://jobs.ashbyhq.com/openai/6384df1b-c2e0-4265-ad9b-d4a7bca706d6",
+      "location": "San Francisco",
+      "company": "OpenAI",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1794251580.9036696,
+      "category": "programme"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Strategy & Ops Lead, Applied AI",
+      "url": "https://jobicy.com/jobs/160213-strategy-ops-lead-applied-ai",
+      "location": "Canada, Europe",
+      "company": "Clipboard",
+      "published": 1794238530.0,
+      "salary": "120000–140000 USD / yearly",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: Canada, Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794251580.9036696,
+      "category": "job"
+    },
+    {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "VP of Product & Engineering - Back of House",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mewssystems/vp-of-product-engineering-back-of-house-463968",
+      "location": "",
+      "company": "mewssystems",
+      "published": 1794239724.0,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1794251580.9036696,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Marketing Manager (Maternity Cover)",
+      "url": "https://jobicy.com/jobs/160212-marketing-manager-maternity-cover",
+      "location": "Europe",
+      "company": "saas.group",
+      "published": 1794238528.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794251580.9036696,
+      "category": "job"
+    },
+    {
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Java Software Developer / Programmētājs(-a) (Mid/Senior) | SEB, Riga",
-      "url": "https://jobs.eu.lever.co/seb/77bfd1c9-cea0-416e-8608-53c5466d0840",
-      "location": "Rīga",
+      "title": "Software Developer in Savings & Investments Tribe FX and Derivatives team | SEB, Tallinn",
+      "url": "https://jobs.eu.lever.co/seb/503fc060-9459-4a8f-87b6-67e901897e1c",
+      "location": "Tallinn",
       "company": "SEB",
       "published": null,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Rīga — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791819757.3532934,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Quality Assurance Engineer (SDET) at Technology Trading FX | SEB, Solna",
-      "url": "https://jobs.eu.lever.co/seb/eb2d87e9-4d9c-4b50-bbc2-c88b37be6f7e",
-      "location": "Solna",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791819757.3532934,
-      "category": "job"
-    },
-    {
-      "source": "Roblox careers (direct)",
-      "source_id": "direct_roblox",
-      "kind": "greenhouse",
-      "title": "Director, Developer Relations",
-      "url": "https://careers.roblox.com/jobs/8264894?gh_jid=8264894",
-      "location": "Amsterdam, North Holland, Netherlands",
-      "company": "Roblox",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Amsterdam, North Holland, Netherlands — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791819757.3532934,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Data Engineer, Billing & Payments",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5450099008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791844546.3535428,
-      "category": "job"
-    },
-    {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Android Engineer, Terminal - CA",
-      "url": "https://stripe.com/jobs/search?gh_jid=8274893",
-      "location": "Toronto, CA",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Toronto, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791844546.3535428,
+      "score": 8,
+      "region": "Eesti — kohapeal või kaugtöö",
+      "found_at": 1794251580.9036696,
       "category": "job"
     }
   ],
-  "queued_candidates": 436
+  "queued_candidates": 442
 }
