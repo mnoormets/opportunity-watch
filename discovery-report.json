@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-09T01:52:18+00:00",
+  "checked_at": "2026-11-09T08:43:55+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,6 +14,11 @@
     {
       "id": "startup",
       "items": 50,
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 13,
       "new_candidates": 0
     },
     {
@@ -38,7 +43,7 @@
     },
     {
       "id": "news_grants",
-      "items": 35,
+      "items": 33,
       "new_candidates": 0
     },
     {
@@ -63,12 +68,12 @@
     },
     {
       "id": "hn_ai",
-      "items": 7,
+      "items": 8,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 11,
+      "items": 14,
       "new_candidates": 0
     },
     {
@@ -77,18 +82,38 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 94,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 55,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
-      "items": 1,
+      "items": 0,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 0,
       "new_candidates": 0
     },
     {
       "id": "direct_seb",
-      "items": 112,
+      "items": 119,
       "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 445,
+      "items": 444,
       "new_candidates": 0
     },
     {
@@ -103,13 +128,13 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 675,
+      "items": 676,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 817,
-      "new_candidates": 1
+      "items": 813,
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
@@ -119,7 +144,7 @@
     {
       "id": "direct_datadog",
       "items": 402,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_hpiq",
@@ -133,7 +158,7 @@
     },
     {
       "id": "direct_gitlab",
-      "items": 248,
+      "items": 251,
       "new_candidates": 0
     },
     {
@@ -174,33 +199,13 @@
   ],
   "selected": [
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Senior Security Engineer",
-      "url": "https://www.arbeitnow.fr/jobs/companies/kestra-technologies/senior-security-engineer-villeneuve-dascq-452235",
-      "location": "Europe",
-      "company": "Kestra Technologies",
-      "published": 1794163215.0,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794177078.8282218,
-      "category": "job"
-    },
-    {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Writer, Content Marketing",
-      "url": "https://stripe.com/jobs/search?gh_jid=8265686",
-      "location": "US Hybrid",
-      "company": "Stripe",
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Java Software Developer / Programmētājs(-a) (Mid/Senior) | SEB, Riga",
+      "url": "https://jobs.eu.lever.co/seb/77bfd1c9-cea0-416e-8608-53c5466d0840",
+      "location": "Rīga",
+      "company": "SEB",
       "published": null,
       "salary": "",
       "remote": false,
@@ -209,17 +214,36 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: US Hybrid — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791698202.010798,
+      "region": "Kolimine pärast pakkumist: Rīga — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791819757.3532934,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Quality Assurance Engineer (SDET) at Technology Trading FX | SEB, Solna",
+      "url": "https://jobs.eu.lever.co/seb/eb2d87e9-4d9c-4b50-bbc2-c88b37be6f7e",
+      "location": "Solna",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791819757.3532934,
       "category": "job"
     },
     {
       "source": "Roblox careers (direct)",
       "source_id": "direct_roblox",
       "kind": "greenhouse",
-      "title": "Senior Quality Engineer, Safety",
-      "url": "https://careers.roblox.com/jobs/7656541?gh_jid=7656541",
-      "location": "San Mateo, CA, United States",
+      "title": "Director, Developer Relations",
+      "url": "https://careers.roblox.com/jobs/8264894?gh_jid=8264894",
+      "location": "Amsterdam, North Holland, Netherlands",
       "company": "Roblox",
       "published": null,
       "salary": "",
@@ -229,18 +253,18 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791740398.8849926,
+      "region": "Kolimine pärast pakkumist: Amsterdam, North Holland, Netherlands — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791819757.3532934,
       "category": "job"
     },
     {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Engineering Manager – Tech Trading FX | SEB, Solna",
-      "url": "https://jobs.eu.lever.co/seb/ed2ac4d3-e6d9-4db3-ac7b-3851ba848cfb",
-      "location": "Solna",
-      "company": "SEB",
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Data Engineer, Billing & Payments",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5450099008",
+      "location": "San Francisco, CA | New York City, NY",
+      "company": "Anthropic",
       "published": null,
       "salary": "",
       "remote": false,
@@ -249,30 +273,29 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791819757.3532934,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791844546.3535428,
       "category": "job"
     },
     {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Java Software Developer (Mid/Senior) – Investment Advisory | SEB, Vilnius",
-      "url": "https://jobs.eu.lever.co/seb/de6a7cb2-c49c-4d19-85c6-440cbc6ecb92",
-      "location": "Vilnius",
-      "company": "SEB",
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "Android Engineer, Terminal - CA",
+      "url": "https://stripe.com/jobs/search?gh_jid=8274893",
+      "location": "Toronto, CA",
+      "company": "Stripe",
       "published": null,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: Vilnius — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791819757.3532934,
+      "region": "Kolimine pärast pakkumist: Toronto, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791844546.3535428,
       "category": "job"
     }
   ],
-  "queued_candidates": 441
+  "queued_candidates": 436
 }
