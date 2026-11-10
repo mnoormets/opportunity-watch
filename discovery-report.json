@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-09T19:13:01+00:00",
+  "checked_at": "2026-11-10T02:06:36+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,7 +9,7 @@
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "startup",
@@ -38,12 +38,12 @@
     },
     {
       "id": "news_hackathons",
-      "items": 24,
+      "items": 25,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 33,
+      "items": 32,
       "new_candidates": 0
     },
     {
@@ -64,7 +64,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 2
+      "new_candidates": 1
     },
     {
       "id": "hn_ai",
@@ -73,7 +73,7 @@
     },
     {
       "id": "hn_ml",
-      "items": 9,
+      "items": 6,
       "new_candidates": 0
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "id": "social_youtube",
-      "items": 86,
+      "items": 87,
       "new_candidates": 0
     },
     {
       "id": "social_x",
-      "items": 52,
+      "items": 53,
       "new_candidates": 0
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "id": "news_corps",
-      "items": 2,
+      "items": 3,
       "new_candidates": 0
     },
     {
@@ -108,12 +108,12 @@
     },
     {
       "id": "direct_seb",
-      "items": 131,
-      "new_candidates": 2
+      "items": 125,
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 444,
+      "items": 445,
       "new_candidates": 0
     },
     {
@@ -128,12 +128,12 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 677,
-      "new_candidates": 0
+      "items": 673,
+      "new_candidates": 3
     },
     {
       "id": "direct_openai",
-      "items": 810,
+      "items": 824,
       "new_candidates": 3
     },
     {
@@ -143,38 +143,38 @@
     },
     {
       "id": "direct_datadog",
-      "items": 402,
-      "new_candidates": 2
+      "items": 400,
+      "new_candidates": 0
     },
     {
       "id": "direct_hpiq",
-      "items": 35,
+      "items": 33,
       "new_candidates": 0
     },
     {
       "id": "direct_roblox",
-      "items": 268,
-      "new_candidates": 0
+      "items": 272,
+      "new_candidates": 4
     },
     {
       "id": "direct_gitlab",
-      "items": 250,
+      "items": 252,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 124,
-      "new_candidates": 1
+      "items": 127,
+      "new_candidates": 0
     },
     {
       "id": "direct_n8n",
-      "items": 51,
+      "items": 50,
       "new_candidates": 0
     },
     {
       "id": "direct_sentry",
-      "items": 39,
-      "new_candidates": 0
+      "items": 41,
+      "new_candidates": 1
     },
     {
       "id": "direct_uplane",
@@ -188,7 +188,7 @@
     },
     {
       "id": "news_early_career",
-      "items": 0,
+      "items": 1,
       "new_candidates": 0
     },
     {
@@ -199,103 +199,105 @@
   ],
   "selected": [
     {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "Executive in Residence, Cyber",
-      "url": "https://jobs.ashbyhq.com/openai/6384df1b-c2e0-4265-ad9b-d4a7bca706d6",
-      "location": "San Francisco",
-      "company": "OpenAI",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Staff Backend Software Engineer",
+      "url": "https://jobicy.com/jobs/160701-staff-backend-software-engineer",
+      "location": "EMEA",
+      "company": "Notabene",
+      "published": 1794252718.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794276396.840059,
+      "category": "job"
+    },
+    {
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "Staff Software Engineer, High Availability and Disaster Recovery",
+      "url": "https://stripe.com/jobs/search?gh_jid=8209967",
+      "location": "Seattle, San Francisco, Seattle, New York, Toronto",
+      "company": "Stripe",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
       "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1794251580.9036696,
-      "category": "programme"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Strategy & Ops Lead, Applied AI",
-      "url": "https://jobicy.com/jobs/160213-strategy-ops-lead-applied-ai",
-      "location": "Canada, Europe",
-      "company": "Clipboard",
-      "published": 1794238530.0,
-      "salary": "120000–140000 USD / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Canada, Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794251580.9036696,
+      "region": "Kolimine pärast pakkumist: Seattle, San Francisco, Seattle, New York, Toronto — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791844546.3535428,
       "category": "job"
     },
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "VP of Product & Engineering - Back of House",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mewssystems/vp-of-product-engineering-back-of-house-463968",
-      "location": "",
-      "company": "mewssystems",
-      "published": 1794239724.0,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1794251580.9036696,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Marketing Manager (Maternity Cover)",
-      "url": "https://jobicy.com/jobs/160212-marketing-manager-maternity-cover",
-      "location": "Europe",
-      "company": "saas.group",
-      "published": 1794238528.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794251580.9036696,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Software Developer in Savings & Investments Tribe FX and Derivatives team | SEB, Tallinn",
-      "url": "https://jobs.eu.lever.co/seb/503fc060-9459-4a8f-87b6-67e901897e1c",
-      "location": "Tallinn",
-      "company": "SEB",
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "Staff Software Engineer - Stripe Tax",
+      "url": "https://stripe.com/jobs/search?gh_jid=8274582",
+      "location": "Dublin",
+      "company": "Stripe",
       "published": null,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Eesti — kohapeal või kaugtöö",
-      "found_at": 1794251580.9036696,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Dublin — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791844546.3535428,
+      "category": "job"
+    },
+    {
+      "source": "Roblox careers (direct)",
+      "source_id": "direct_roblox",
+      "kind": "greenhouse",
+      "title": "Principal Machine Learning Platform Engineer, Foundation AI",
+      "url": "https://careers.roblox.com/jobs/8233722?gh_jid=8233722",
+      "location": "San Mateo, CA, United States",
+      "company": "Roblox",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791844546.3535428,
+      "category": "job"
+    },
+    {
+      "source": "Roblox careers (direct)",
+      "source_id": "direct_roblox",
+      "kind": "greenhouse",
+      "title": "Principal Software Engineer - Streaming",
+      "url": "https://careers.roblox.com/jobs/8247322?gh_jid=8247322",
+      "location": "San Mateo, CA, United States",
+      "company": "Roblox",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791844546.3535428,
       "category": "job"
     }
   ],
-  "queued_candidates": 442
+  "queued_candidates": 449
 }
