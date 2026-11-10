@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-10T09:41:13+00:00",
+  "checked_at": "2026-11-10T17:17:09+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -18,7 +18,7 @@
     },
     {
       "id": "remotive",
-      "items": 12,
+      "items": 13,
       "new_candidates": 0
     },
     {
@@ -38,17 +38,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 26,
+      "items": 27,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 32,
+      "items": 31,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 30,
+      "items": 24,
       "new_candidates": 0
     },
     {
@@ -64,16 +64,16 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 1
+      "new_candidates": 8
     },
     {
       "id": "hn_ai",
-      "items": 6,
+      "items": 8,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 1,
+      "items": 6,
       "new_candidates": 0
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "id": "social_youtube",
-      "items": 84,
+      "items": 78,
       "new_candidates": 0
     },
     {
       "id": "social_x",
-      "items": 56,
+      "items": 53,
       "new_candidates": 0
     },
     {
@@ -108,12 +108,12 @@
     },
     {
       "id": "direct_seb",
-      "items": 129,
-      "new_candidates": 2
+      "items": 133,
+      "new_candidates": 1
     },
     {
       "id": "direct_welo",
-      "items": 447,
+      "items": 448,
       "new_candidates": 0
     },
     {
@@ -123,28 +123,28 @@
     },
     {
       "id": "direct_veriff",
-      "items": 11,
+      "items": 12,
       "new_candidates": 0
     },
     {
       "id": "direct_anthropic",
       "items": 676,
-      "new_candidates": 1
+      "new_candidates": 2
     },
     {
       "id": "direct_openai",
-      "items": 826,
-      "new_candidates": 3
+      "items": 828,
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 773,
-      "new_candidates": 0
+      "items": 774,
+      "new_candidates": 1
     },
     {
       "id": "direct_datadog",
-      "items": 401,
-      "new_candidates": 0
+      "items": 395,
+      "new_candidates": 1
     },
     {
       "id": "direct_hpiq",
@@ -158,7 +158,7 @@
     },
     {
       "id": "direct_gitlab",
-      "items": 254,
+      "items": 251,
       "new_candidates": 0
     },
     {
@@ -168,7 +168,7 @@
     },
     {
       "id": "direct_n8n",
-      "items": 50,
+      "items": 49,
       "new_candidates": 0
     },
     {
@@ -202,101 +202,99 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Software Engineer - Console",
-      "url": "https://jobicy.com/jobs/160794-software-engineer-console",
-      "location": "Argentina, Europe, USA",
-      "company": "XBOW",
-      "published": 1794284395.0,
-      "salary": "100000–350000 USD / yearly",
+      "title": "Quality Assurance Engineer - Remote Europe",
+      "url": "https://jobicy.com/jobs/161089-quality-assurance-engineer-remote-europe",
+      "location": "Europe",
+      "company": "Reedsy",
+      "published": 1794311475.0,
+      "salary": "40000–50000 EUR / yearly",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794331029.5945685,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Site Reliability Engineer",
+      "url": "https://jobicy.com/jobs/161022-site-reliability-engineer-6",
+      "location": "EMEA, Australia",
+      "company": "Orkes",
+      "published": 1794301767.0,
+      "salary": "125000–250000 USD / yearly",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: EMEA, Australia — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794331029.5945685,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Full-Stack Engineer - ElevenAPI",
+      "url": "https://jobicy.com/jobs/161065-full-stack-engineer-elevenapi",
+      "location": "Europe",
+      "company": "Elevenlabs",
+      "published": 1794310359.0,
+      "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Argentina, Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794303673.8996994,
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794331029.5945685,
       "category": "job"
     },
     {
-      "source": "Roblox careers (direct)",
-      "source_id": "direct_roblox",
-      "kind": "greenhouse",
-      "title": "Senior Quality Engineer, Social",
-      "url": "https://careers.roblox.com/jobs/7656541?gh_jid=7656541",
-      "location": "San Mateo, CA, United States",
-      "company": "Roblox",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Research Scientist, Real-Time Video Generation",
+      "url": "https://jobicy.com/jobs/161001-research-scientist-real-time-video-generation",
+      "location": "Europe, USA",
+      "company": "Cantina Labs",
+      "published": 1794301074.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791844546.3535428,
+      "score": 8,
+      "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794331029.5945685,
       "category": "job"
     },
     {
-      "source": "Roblox careers (direct)",
-      "source_id": "direct_roblox",
-      "kind": "greenhouse",
-      "title": "Senior Software Engineer - Network Transport",
-      "url": "https://careers.roblox.com/jobs/8247320?gh_jid=8247320",
-      "location": "San Mateo, CA, United States",
-      "company": "Roblox",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Machine Learning Engineer, Voice Conversion",
+      "url": "https://jobicy.com/jobs/160999-machine-learning-engineer-voice-conversion",
+      "location": "Europe, USA",
+      "company": "Cantina Labs",
+      "published": 1794301054.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791844546.3535428,
-      "category": "job"
-    },
-    {
-      "source": "Roblox careers (direct)",
-      "source_id": "direct_roblox",
-      "kind": "greenhouse",
-      "title": "Principal Software Engineer, Agent Infrastructure",
-      "url": "https://careers.roblox.com/jobs/8259270?gh_jid=8259270",
-      "location": "San Mateo, CA, United States",
-      "company": "Roblox",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791860994.211791,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Red Team Lead – AI-Enabled Offensive Security | SEB, Solna",
-      "url": "https://jobs.eu.lever.co/seb/b0bffc7d-e3fd-4149-b3c0-e88a9c6b582f",
-      "location": "Solna",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791887284.316014,
+      "score": 8,
+      "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794331029.5945685,
       "category": "job"
     }
   ],
-  "queued_candidates": 451
+  "queued_candidates": 459
 }
