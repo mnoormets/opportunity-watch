@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-10T17:17:09+00:00",
+  "checked_at": "2026-11-10T22:24:39+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,18 +17,13 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 13,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
       "items": 4,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 34,
+      "items": 32,
       "new_candidates": 0
     },
     {
@@ -38,17 +33,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 27,
+      "items": 28,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 31,
+      "items": 32,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 24,
+      "items": 26,
       "new_candidates": 0
     },
     {
@@ -64,16 +59,16 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 8
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
-      "items": 8,
+      "items": 7,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 6,
+      "items": 5,
       "new_candidates": 0
     },
     {
@@ -82,34 +77,14 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 78,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 53,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
-      "items": 3,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 1,
+      "items": 4,
       "new_candidates": 0
     },
     {
       "id": "direct_seb",
       "items": 133,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
@@ -128,23 +103,23 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 676,
+      "items": 678,
       "new_candidates": 2
     },
     {
       "id": "direct_openai",
-      "items": 828,
-      "new_candidates": 0
+      "items": 830,
+      "new_candidates": 2
     },
     {
       "id": "direct_stripe",
-      "items": 774,
+      "items": 776,
       "new_candidates": 1
     },
     {
       "id": "direct_datadog",
-      "items": 395,
-      "new_candidates": 1
+      "items": 394,
+      "new_candidates": 0
     },
     {
       "id": "direct_hpiq",
@@ -153,27 +128,27 @@
     },
     {
       "id": "direct_roblox",
-      "items": 273,
-      "new_candidates": 0
+      "items": 277,
+      "new_candidates": 4
     },
     {
       "id": "direct_gitlab",
-      "items": 251,
+      "items": 252,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 127,
+      "items": 125,
       "new_candidates": 0
     },
     {
       "id": "direct_n8n",
-      "items": 49,
+      "items": 50,
       "new_candidates": 0
     },
     {
       "id": "direct_sentry",
-      "items": 41,
+      "items": 42,
       "new_candidates": 0
     },
     {
@@ -202,70 +177,11 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Quality Assurance Engineer - Remote Europe",
-      "url": "https://jobicy.com/jobs/161089-quality-assurance-engineer-remote-europe",
-      "location": "Europe",
-      "company": "Reedsy",
-      "published": 1794311475.0,
-      "salary": "40000–50000 EUR / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794331029.5945685,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Site Reliability Engineer",
-      "url": "https://jobicy.com/jobs/161022-site-reliability-engineer-6",
-      "location": "EMEA, Australia",
-      "company": "Orkes",
-      "published": 1794301767.0,
-      "salary": "125000–250000 USD / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: EMEA, Australia — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794331029.5945685,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Full-Stack Engineer - ElevenAPI",
-      "url": "https://jobicy.com/jobs/161065-full-stack-engineer-elevenapi",
-      "location": "Europe",
-      "company": "Elevenlabs",
-      "published": 1794310359.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794331029.5945685,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Research Scientist, Real-Time Video Generation",
-      "url": "https://jobicy.com/jobs/161001-research-scientist-real-time-video-generation",
+      "title": "Machine Learning Engineer, Ops",
+      "url": "https://jobicy.com/jobs/160996-machine-learning-engineer-ops",
       "location": "Europe, USA",
       "company": "Cantina Labs",
-      "published": 1794301074.0,
+      "published": 1794301032.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -280,11 +196,11 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Machine Learning Engineer, Voice Conversion",
-      "url": "https://jobicy.com/jobs/160999-machine-learning-engineer-voice-conversion",
+      "title": "Machine Learning Engineer, TTS",
+      "url": "https://jobicy.com/jobs/160994-machine-learning-engineer-tts",
       "location": "Europe, USA",
       "company": "Cantina Labs",
-      "published": 1794301054.0,
+      "published": 1794301008.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -293,8 +209,66 @@
       "score": 8,
       "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1794331029.5945685,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Machine Learning Engineer, Core Evaluations",
+      "url": "https://jobicy.com/jobs/160991-machine-learning-engineer-core-evaluations",
+      "location": "Europe, USA",
+      "company": "Cantina Labs",
+      "published": 1794301004.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794331029.5945685,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Software Engineer, Observability & Profiling",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412272008",
+      "location": "London, UK",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: London, UK — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791887284.316014,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "IT Support Specialist at 1st Line Employee IT Support | SEB, Vilnius",
+      "url": "https://jobs.eu.lever.co/seb/7be6bd38-dd43-4cb5-970e-f9959831d9f6",
+      "location": "Vilnius",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Vilnius — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791913344.4645998,
       "category": "job"
     }
   ],
-  "queued_candidates": 459
+  "queued_candidates": 463
 }
