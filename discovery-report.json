@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-11T17:14:24+00:00",
+  "checked_at": "2026-11-11T23:30:29+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -28,7 +28,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 24,
+      "items": 25,
       "new_candidates": 0
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 27,
+      "items": 28,
       "new_candidates": 0
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 20,
+      "items": 16,
       "new_candidates": 0
     },
     {
@@ -64,11 +64,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 1
+      "new_candidates": 4
     },
     {
       "id": "hn_ai",
-      "items": 5,
+      "items": 6,
       "new_candidates": 0
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "id": "social_youtube",
-      "items": 87,
+      "items": 86,
       "new_candidates": 0
     },
     {
       "id": "social_x",
-      "items": 58,
+      "items": 56,
       "new_candidates": 0
     },
     {
@@ -109,7 +109,7 @@
     {
       "id": "direct_seb",
       "items": 132,
-      "new_candidates": 2
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
@@ -123,38 +123,38 @@
     },
     {
       "id": "direct_veriff",
-      "items": 11,
+      "items": 12,
       "new_candidates": 0
     },
     {
       "id": "direct_anthropic",
-      "items": 675,
+      "items": 674,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 824,
-      "new_candidates": 1
+      "items": 820,
+      "new_candidates": 2
     },
     {
       "id": "direct_stripe",
-      "items": 783,
+      "items": 785,
       "new_candidates": 2
     },
     {
       "id": "direct_datadog",
       "items": 392,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_hpiq",
-      "items": 32,
+      "items": 31,
       "new_candidates": 0
     },
     {
       "id": "direct_roblox",
       "items": 276,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "direct_gitlab",
@@ -163,7 +163,7 @@
     },
     {
       "id": "direct_cohere",
-      "items": 124,
+      "items": 123,
       "new_candidates": 0
     },
     {
@@ -199,14 +199,93 @@
   ],
   "selected": [
     {
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "Software Engineer, Intern (Summer)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+      "location": "Toronto",
+      "company": "Stripe",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Toronto — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1794439829.5041847,
+      "category": "programme"
+    },
+    {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Senior Backend Engineer | Feeld",
-      "url": "https://jobicy.com/jobs/161264-senior-backend-engineer-feeld",
+      "title": "Senior Frontend Engineer - Remote Europe",
+      "url": "https://jobicy.com/jobs/161371-senior-frontend-engineer-remote-europe",
       "location": "Europe",
-      "company": "GT",
-      "published": 1794395111.0,
+      "company": "Reedsy",
+      "published": 1794417262.0,
+      "salary": "70000–100000 EUR / yearly",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794439829.5041847,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Ruby Engineer - Remote Europe",
+      "url": "https://jobicy.com/jobs/161365-senior-ruby-engineer-remote-europe",
+      "location": "Europe",
+      "company": "Reedsy",
+      "published": 1794417227.0,
+      "salary": "70000–120000 EUR / yearly",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794439829.5041847,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Software Engineer (Node/Vue/TypeScript) - Remote Europe",
+      "url": "https://jobicy.com/jobs/161358-senior-software-engineer-node-vue-typescript-remote-europe",
+      "location": "Europe",
+      "company": "Reedsy",
+      "published": 1794417185.0,
+      "salary": "70000–120000 EUR / yearly",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794439829.5041847,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Fullstack Engineer",
+      "url": "https://jobicy.com/jobs/161444-senior-fullstack-engineer-4",
+      "location": "LATAM, Europe",
+      "company": "Toptal",
+      "published": 1794423384.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -214,89 +293,10 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794417264.4611142,
-      "category": "job"
-    },
-    {
-      "source": "Datadog careers (direct)",
-      "source_id": "direct_datadog",
-      "kind": "greenhouse",
-      "title": "Staff AI Engineer - Agent Observability",
-      "url": "https://careers.datadoghq.com/detail/7107437?gh_jid=7107437",
-      "location": "Boston, Massachusetts, USA; New York, New York, USA",
-      "company": "Datadog",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Boston, Massachusetts, USA; New York, New York, USA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791913344.4645998,
-      "category": "job"
-    },
-    {
-      "source": "Roblox careers (direct)",
-      "source_id": "direct_roblox",
-      "kind": "greenhouse",
-      "title": "Senior Software Engineer - Replication",
-      "url": "https://careers.roblox.com/jobs/7561743?gh_jid=7561743",
-      "location": "San Mateo, CA, United States",
-      "company": "Roblox",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791913344.4645998,
-      "category": "job"
-    },
-    {
-      "source": "Cohere careers (direct)",
-      "source_id": "direct_cohere",
-      "kind": "ashby",
-      "title": "Forward Deployed Engineer, Agentic Platform (Korea)",
-      "url": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a",
-      "location": "Korea",
-      "company": "Cohere",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Korea — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791913344.4645998,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Partner Marketing Lead, Resellers",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5451134008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791928664.7179763,
+      "region": "Kaugtöö: LATAM, Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794439829.5041847,
       "category": "job"
     }
   ],
-  "queued_candidates": 461
+  "queued_candidates": 466
 }
