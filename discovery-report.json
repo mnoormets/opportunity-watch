@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-11T02:04:03+00:00",
+  "checked_at": "2026-11-11T09:16:42+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,7 +14,7 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "remotive",
@@ -28,7 +28,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 32,
+      "items": 24,
       "new_candidates": 0
     },
     {
@@ -38,17 +38,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 28,
+      "items": 27,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 32,
+      "items": 31,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 28,
+      "items": 21,
       "new_candidates": 0
     },
     {
@@ -68,12 +68,12 @@
     },
     {
       "id": "hn_ai",
-      "items": 7,
+      "items": 4,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 0,
+      "items": 1,
       "new_candidates": 0
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "id": "social_youtube",
-      "items": 83,
+      "items": 86,
       "new_candidates": 0
     },
     {
       "id": "social_x",
-      "items": 56,
+      "items": 57,
       "new_candidates": 0
     },
     {
@@ -108,12 +108,12 @@
     },
     {
       "id": "direct_seb",
-      "items": 130,
-      "new_candidates": 0
+      "items": 133,
+      "new_candidates": 2
     },
     {
       "id": "direct_welo",
-      "items": 448,
+      "items": 447,
       "new_candidates": 0
     },
     {
@@ -123,27 +123,27 @@
     },
     {
       "id": "direct_veriff",
-      "items": 12,
+      "items": 11,
       "new_candidates": 0
     },
     {
       "id": "direct_anthropic",
-      "items": 679,
+      "items": 677,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
       "items": 828,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
       "items": 779,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 394,
+      "items": 392,
       "new_candidates": 0
     },
     {
@@ -153,12 +153,12 @@
     },
     {
       "id": "direct_roblox",
-      "items": 277,
-      "new_candidates": 1
+      "items": 276,
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 252,
+      "items": 253,
       "new_candidates": 0
     },
     {
@@ -199,79 +199,21 @@
   ],
   "selected": [
     {
-      "source": "Startup Jobs",
-      "source_id": "startup",
-      "kind": "rss_jobs",
-      "title": "Fullstack Developer – Taplio & TweetHunter at lemlist",
-      "url": "https://startup.jobs/fullstack-developer-taplio-tweethunter-lemlist-10738635",
-      "location": "",
-      "company": "",
-      "published": 1794268800.0,
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Machine Learning Engineer, Implicit Signals",
+      "url": "https://jobs.ashbyhq.com/openai/a01fc9ed-de08-4326-9206-4ee3f08000dc",
+      "location": "San Francisco",
+      "company": "OpenAI",
+      "published": null,
       "salary": "",
       "remote": true,
       "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1794362643.5687575,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Applied AI Engineer, Beneficial Deployments (Lab Automation)",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440821008",
-      "location": "London, UK",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: London, UK — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791913344.4645998,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "IT Systems Engineer, MA",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5450479008",
-      "location": "Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791913344.4645998,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Senior Software Engineer, Inference",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4641822008",
-      "location": "Dublin, IE",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Dublin, IE — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1791913344.4645998,
       "category": "job"
     },
@@ -279,9 +221,9 @@
       "source": "OpenAI careers (direct)",
       "source_id": "direct_openai",
       "kind": "ashby",
-      "title": "Applied AI Architect (Brazil)",
-      "url": "https://jobs.ashbyhq.com/openai/5db54c88-2ff4-4a2e-98e2-68439d59e3df",
-      "location": "São Paulo",
+      "title": "Machine Learning Engineer, Growth",
+      "url": "https://jobs.ashbyhq.com/openai/70042d81-4db6-4c5c-bdb2-76c133ee2917",
+      "location": "San Francisco",
       "company": "OpenAI",
       "published": null,
       "salary": "",
@@ -291,10 +233,69 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: São Paulo — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791913344.4645998,
+      "category": "job"
+    },
+    {
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Software Engineer, Cloud Computer",
+      "url": "https://jobs.ashbyhq.com/openai/eba9c8bc-dc0a-4666-a9c8-356d05b7daf5",
+      "location": "San Francisco",
+      "company": "OpenAI",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791913344.4645998,
+      "category": "job"
+    },
+    {
+      "source": "Datadog careers (direct)",
+      "source_id": "direct_datadog",
+      "kind": "greenhouse",
+      "title": "Manager ll, Engineering - Datadog Agent SDLC",
+      "url": "https://careers.datadoghq.com/detail/8261861?gh_jid=8261861",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA",
+      "company": "Datadog",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Boston, Massachusetts, USA; New York, New York, USA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791913344.4645998,
+      "category": "job"
+    },
+    {
+      "source": "Datadog careers (direct)",
+      "source_id": "direct_datadog",
+      "kind": "greenhouse",
+      "title": "Senior Software Engineer - Distributed Systems (Continuous Profiler)",
+      "url": "https://careers.datadoghq.com/detail/8278850?gh_jid=8278850",
+      "location": "Madrid, Spain; Paris, France; Sophia Antipolis, France",
+      "company": "Datadog",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Madrid, Spain; Paris, France; Sophia Antipolis, France — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1791913344.4645998,
       "category": "job"
     }
   ],
-  "queued_candidates": 462
+  "queued_candidates": 459
 }
