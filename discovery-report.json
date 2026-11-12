@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-12T12:30:38+00:00",
+  "checked_at": "2026-11-12T20:17:40+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -28,7 +28,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 15,
+      "items": 16,
       "new_candidates": 0
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 13,
+      "items": 12,
       "new_candidates": 0
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 15,
+      "items": 14,
       "new_candidates": 0
     },
     {
@@ -64,16 +64,16 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 1
+      "new_candidates": 7
     },
     {
       "id": "hn_ai",
-      "items": 8,
+      "items": 7,
       "new_candidates": 0
     },
     {
       "id": "hn_ml",
-      "items": 3,
+      "items": 0,
       "new_candidates": 0
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "id": "social_youtube",
-      "items": 79,
+      "items": 78,
       "new_candidates": 0
     },
     {
       "id": "social_x",
-      "items": 62,
+      "items": 64,
       "new_candidates": 0
     },
     {
@@ -108,12 +108,12 @@
     },
     {
       "id": "direct_seb",
-      "items": 132,
-      "new_candidates": 1
+      "items": 133,
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 450,
+      "items": 443,
       "new_candidates": 0
     },
     {
@@ -128,22 +128,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 672,
-      "new_candidates": 0
+      "items": 670,
+      "new_candidates": 1
     },
     {
       "id": "direct_openai",
-      "items": 825,
-      "new_candidates": 0
+      "items": 828,
+      "new_candidates": 5
     },
     {
       "id": "direct_stripe",
-      "items": 785,
-      "new_candidates": 0
+      "items": 782,
+      "new_candidates": 2
     },
     {
       "id": "direct_datadog",
-      "items": 388,
+      "items": 384,
       "new_candidates": 0
     },
     {
@@ -153,27 +153,27 @@
     },
     {
       "id": "direct_roblox",
-      "items": 277,
-      "new_candidates": 0
+      "items": 275,
+      "new_candidates": 2
     },
     {
       "id": "direct_gitlab",
-      "items": 259,
+      "items": 254,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 123,
-      "new_candidates": 0
+      "items": 122,
+      "new_candidates": 2
     },
     {
       "id": "direct_n8n",
-      "items": 54,
+      "items": 55,
       "new_candidates": 0
     },
     {
       "id": "direct_sentry",
-      "items": 33,
+      "items": 37,
       "new_candidates": 0
     },
     {
@@ -199,103 +199,102 @@
   ],
   "selected": [
     {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Internship in HR department",
-      "url": "https://jobs.eu.lever.co/seb/486931a5-6fa2-4e4f-8fb8-6092c1ccec81",
-      "location": "Warsaw",
-      "company": "SEB",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Junior Ubuntu Software Engineer",
+      "url": "https://jobicy.com/jobs/161675-junior-ubuntu-software-engineer",
+      "location": "EMEA, LATAM, Canada, USA",
+      "company": "Canonical",
+      "published": 1794502298.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Warsaw — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1794486638.6870432,
-      "category": "programme"
+      "score": 11,
+      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794514660.8460622,
+      "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Software Engineer - Python - Container Images",
-      "url": "https://jobicy.com/jobs/150364-software-engineer-python-container-images",
-      "location": "APAC, EMEA, LATAM, Canada, USA",
-      "company": "Canonical",
-      "published": 1794451885.0,
+      "title": "Senior Engineering Manager, Consumer / New Verticals",
+      "url": "https://jobicy.com/jobs/161687-senior-engineering-manager-consumer-new-verticals",
+      "location": "Anywhere",
+      "company": "Flex",
+      "published": 1794502835.0,
+      "salary": "200000–300000 USD / yearly",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794514660.8460622,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Backend Engineer",
+      "url": "https://jobicy.com/jobs/161588-senior-backend-engineer-15",
+      "location": "Europe",
+      "company": "Fever",
+      "published": 1794485495.0,
+      "salary": "50000–75000 EUR / yearly",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794514660.8460622,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "FinOps Data Engineer",
+      "url": "https://jobicy.com/jobs/161693-finops-data-engineer",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1794502871.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: APAC, EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794486638.6870432,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794514660.8460622,
       "category": "job"
     },
     {
-      "source": "Roblox careers (direct)",
-      "source_id": "direct_roblox",
-      "kind": "greenhouse",
-      "title": "Talent Sourcing Partner, ML/AI",
-      "url": "https://careers.roblox.com/jobs/8269034?gh_jid=8269034",
-      "location": "San Mateo, CA, United States",
-      "company": "Roblox",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791939074.8089757,
-      "category": "job"
-    },
-    {
-      "source": "Cohere careers (direct)",
-      "source_id": "direct_cohere",
-      "kind": "ashby",
-      "title": "Senior Full-Stack Engineer, Cohere Dashboard",
-      "url": "https://jobs.ashbyhq.com/cohere/7e0e08ed-4b12-4aaa-8dda-ad6292992061",
-      "location": "Toronto",
-      "company": "Cohere",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Linux Cryptography and Security Engineer",
+      "url": "https://jobicy.com/jobs/161678-linux-cryptography-and-security-engineer",
+      "location": "Anywhere",
+      "company": "Canonical",
+      "published": 1794502333.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Toronto — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791939074.8089757,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Senior Engineer in Virtual Hybrid Services | SEB, Vilnius",
-      "url": "https://jobs.eu.lever.co/seb/749ead98-a8b3-439d-aba1-fae5881280e5",
-      "location": "Vilnius",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Vilnius — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791955840.2228417,
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794514660.8460622,
       "category": "job"
     }
   ],
-  "queued_candidates": 459
+  "queued_candidates": 473
 }
