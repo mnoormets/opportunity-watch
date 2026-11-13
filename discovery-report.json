@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-12T20:17:40+00:00",
+  "checked_at": "2026-11-13T01:10:08+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,18 +17,13 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 14,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
-      "items": 5,
+      "items": 6,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 16,
+      "items": 20,
       "new_candidates": 0
     },
     {
@@ -38,7 +33,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 12,
+      "items": 13,
       "new_candidates": 0
     },
     {
@@ -48,7 +43,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 14,
+      "items": 17,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 7
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
@@ -82,33 +77,13 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 78,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 64,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 6,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 1,
-      "new_candidates": 0
-    },
-    {
       "id": "direct_seb",
-      "items": 133,
+      "items": 130,
       "new_candidates": 0
     },
     {
@@ -128,22 +103,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 670,
-      "new_candidates": 1
-    },
-    {
-      "id": "direct_openai",
-      "items": 828,
-      "new_candidates": 5
-    },
-    {
-      "id": "direct_stripe",
-      "items": 782,
+      "items": 672,
       "new_candidates": 2
     },
     {
+      "id": "direct_openai",
+      "items": 826,
+      "new_candidates": 3
+    },
+    {
+      "id": "direct_stripe",
+      "items": 785,
+      "new_candidates": 1
+    },
+    {
       "id": "direct_datadog",
-      "items": 384,
+      "items": 382,
       "new_candidates": 0
     },
     {
@@ -153,8 +128,8 @@
     },
     {
       "id": "direct_roblox",
-      "items": 275,
-      "new_candidates": 2
+      "items": 273,
+      "new_candidates": 1
     },
     {
       "id": "direct_gitlab",
@@ -163,8 +138,8 @@
     },
     {
       "id": "direct_cohere",
-      "items": 122,
-      "new_candidates": 2
+      "items": 121,
+      "new_candidates": 0
     },
     {
       "id": "direct_n8n",
@@ -173,7 +148,7 @@
     },
     {
       "id": "direct_sentry",
-      "items": 37,
+      "items": 39,
       "new_candidates": 0
     },
     {
@@ -202,17 +177,17 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Junior Ubuntu Software Engineer",
-      "url": "https://jobicy.com/jobs/161675-junior-ubuntu-software-engineer",
+      "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+      "url": "https://jobicy.com/jobs/161672-graduate-software-engineer-open-source-and-linux-canonical-ubuntu-2",
       "location": "EMEA, LATAM, Canada, USA",
       "company": "Canonical",
-      "published": 1794502298.0,
+      "published": 1794502293.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 11,
+      "score": 8,
       "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1794514660.8460622,
       "category": "job"
@@ -221,80 +196,82 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Senior Engineering Manager, Consumer / New Verticals",
-      "url": "https://jobicy.com/jobs/161687-senior-engineering-manager-consumer-new-verticals",
-      "location": "Anywhere",
-      "company": "Flex",
-      "published": 1794502835.0,
-      "salary": "200000–300000 USD / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794514660.8460622,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Backend Engineer",
-      "url": "https://jobicy.com/jobs/161588-senior-backend-engineer-15",
-      "location": "Europe",
-      "company": "Fever",
-      "published": 1794485495.0,
-      "salary": "50000–75000 EUR / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794514660.8460622,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "FinOps Data Engineer",
-      "url": "https://jobicy.com/jobs/161693-finops-data-engineer",
-      "location": "Anywhere",
-      "company": "Supabase",
-      "published": 1794502871.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794514660.8460622,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Linux Cryptography and Security Engineer",
-      "url": "https://jobicy.com/jobs/161678-linux-cryptography-and-security-engineer",
-      "location": "Anywhere",
+      "title": "Engineering Manager - App Stores",
+      "url": "https://jobicy.com/jobs/161665-engineering-manager-app-stores",
+      "location": "EMEA, LATAM, Canada, USA",
       "company": "Canonical",
-      "published": 1794502333.0,
+      "published": 1794502246.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "region": "Kaugtöö: EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
       "found_at": 1794514660.8460622,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Developer Relations Manager, Claude Platform",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5367562008",
+      "location": "San Francisco, CA | New York City, NY",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791955840.2228417,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Engineering Manager, Claude Platform",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5378643008",
+      "location": "San Francisco, CA | New York City, NY",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791955840.2228417,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Partner Marketing Manager, GSI & SI",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5434116008",
+      "location": "San Francisco, CA | New York City, NY",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1791955840.2228417,
       "category": "job"
     }
   ],
-  "queued_candidates": 473
+  "queued_candidates": 475
 }
