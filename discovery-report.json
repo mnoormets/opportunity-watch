@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-13T15:43:24+00:00",
+  "checked_at": "2026-11-13T21:38:13+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,7 +9,7 @@
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "startup",
@@ -17,18 +17,13 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 16,
-      "new_candidates": 1
-    },
-    {
       "id": "news_fellowships",
-      "items": 6,
+      "items": 7,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 19,
+      "items": 26,
       "new_candidates": 0
     },
     {
@@ -38,7 +33,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 18,
+      "items": 26,
       "new_candidates": 0
     },
     {
@@ -48,7 +43,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 23,
+      "items": 24,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 2
+      "new_candidates": 3
     },
     {
       "id": "hn_ai",
@@ -82,34 +77,14 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 82,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 61,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 6,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 1,
-      "new_candidates": 0
-    },
-    {
       "id": "direct_seb",
       "items": 138,
-      "new_candidates": 5
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
@@ -128,22 +103,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 672,
-      "new_candidates": 0
+      "items": 670,
+      "new_candidates": 4
     },
     {
       "id": "direct_openai",
-      "items": 833,
-      "new_candidates": 0
+      "items": 835,
+      "new_candidates": 3
     },
     {
       "id": "direct_stripe",
-      "items": 786,
-      "new_candidates": 2
+      "items": 787,
+      "new_candidates": 3
     },
     {
       "id": "direct_datadog",
-      "items": 387,
+      "items": 384,
       "new_candidates": 0
     },
     {
@@ -153,22 +128,22 @@
     },
     {
       "id": "direct_roblox",
-      "items": 273,
-      "new_candidates": 0
+      "items": 272,
+      "new_candidates": 3
     },
     {
       "id": "direct_gitlab",
-      "items": 251,
+      "items": 250,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 120,
-      "new_candidates": 1
+      "items": 122,
+      "new_candidates": 0
     },
     {
       "id": "direct_n8n",
-      "items": 56,
+      "items": 55,
       "new_candidates": 0
     },
     {
@@ -199,54 +174,53 @@
   ],
   "selected": [
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Staff Engineer - Fintech",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/mewssystems/staff-engineer-fintech-46611",
-      "location": "",
-      "company": "mewssystems",
-      "published": 1794574514.0,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Frontend Software Engineer",
+      "url": "https://jobicy.com/jobs/161933-frontend-software-engineer",
+      "location": "Europe",
+      "company": "Wayflyer",
+      "published": 1794581488.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1794584604.8310592,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794605893.736031,
       "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "(Senior) Product Marketing Manager (m/f/d)",
-      "url": "https://jobicy.com/jobs/161762-senior-product-marketing-manager-m-f-d",
-      "location": "EMEA",
-      "company": "Kayzen",
-      "published": 1794555638.0,
+      "title": "Full Stack Software Engineer",
+      "url": "https://jobicy.com/jobs/161930-full-stack-software-engineer-3",
+      "location": "Europe",
+      "company": "Wayflyer",
+      "published": 1794581448.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794584604.8310592,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794605893.736031,
       "category": "job"
     },
     {
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Marketing Manager, Community & Events (m/f/d)",
-      "url": "https://jobicy.com/jobs/161736-marketing-manager-community-events-m-f-d",
-      "location": "EMEA",
-      "company": "Kayzen",
-      "published": 1794555514.0,
+      "title": "Backend Software Engineer",
+      "url": "https://jobicy.com/jobs/161926-backend-software-engineer-3",
+      "location": "Europe",
+      "company": "Wayflyer",
+      "published": 1794581442.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -254,49 +228,50 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794584604.8310592,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794605893.736031,
       "category": "job"
     },
     {
-      "source": "Remotive",
-      "source_id": "remotive",
-      "kind": "remotive",
-      "title": "Senior Data Engineer",
-      "url": "https://remotive.com/remote-jobs/data/senior-data-engineer-2091137",
-      "location": "LATAM, Europe, USA, Canada, APAC",
-      "company": "Lemon.io",
-      "published": 1794422399.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: LATAM, Europe, USA, Canada, APAC — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794584604.8310592,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "IT Security Engineer (Privileged Access Management) | SEB, Tallinn",
-      "url": "https://jobs.eu.lever.co/seb/baf487ef-8773-48a1-b777-720edfe01fd8",
-      "location": "Tallinn",
-      "company": "SEB",
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Marketing Manager, Tech Partnership",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5444778008",
+      "location": "San Francisco, CA | New York City, NY",
+      "company": "Anthropic",
       "published": null,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Eesti — kohapeal või kaugtöö",
-      "found_at": 1794584604.8310592,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792017052.9693823,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Partner Account Manager, AI-Native/Boutique SI Partners",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452909008",
+      "location": "San Francisco, CA | New York City, NY",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792017052.9693823,
       "category": "job"
     }
   ],
-  "queued_candidates": 477
+  "queued_candidates": 483
 }
