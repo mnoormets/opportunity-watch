@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-13T07:52:37+00:00",
+  "checked_at": "2026-11-13T15:43:24+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,7 +9,7 @@
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
@@ -18,8 +18,8 @@
     },
     {
       "id": "remotive",
-      "items": 14,
-      "new_candidates": 0
+      "items": 16,
+      "new_candidates": 1
     },
     {
       "id": "news_fellowships",
@@ -33,12 +33,12 @@
     },
     {
       "id": "news_ai_tasks",
-      "items": 3,
+      "items": 5,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 12,
+      "items": 18,
       "new_candidates": 0
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 19,
+      "items": 23,
       "new_candidates": 0
     },
     {
@@ -64,7 +64,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "hn_ai",
@@ -73,7 +73,7 @@
     },
     {
       "id": "hn_ml",
-      "items": 1,
+      "items": 2,
       "new_candidates": 0
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "id": "social_youtube",
-      "items": 84,
+      "items": 82,
       "new_candidates": 0
     },
     {
       "id": "social_x",
-      "items": 62,
+      "items": 61,
       "new_candidates": 0
     },
     {
@@ -108,12 +108,12 @@
     },
     {
       "id": "direct_seb",
-      "items": 129,
-      "new_candidates": 0
+      "items": 138,
+      "new_candidates": 5
     },
     {
       "id": "direct_welo",
-      "items": 445,
+      "items": 444,
       "new_candidates": 0
     },
     {
@@ -128,22 +128,22 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 673,
+      "items": 672,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 827,
+      "items": 833,
       "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 787,
-      "new_candidates": 0
+      "items": 786,
+      "new_candidates": 2
     },
     {
       "id": "direct_datadog",
-      "items": 383,
+      "items": 387,
       "new_candidates": 0
     },
     {
@@ -154,21 +154,21 @@
     {
       "id": "direct_roblox",
       "items": 273,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 254,
+      "items": 251,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 121,
-      "new_candidates": 0
+      "items": 120,
+      "new_candidates": 1
     },
     {
       "id": "direct_n8n",
-      "items": 55,
+      "items": 56,
       "new_candidates": 0
     },
     {
@@ -199,12 +199,92 @@
   ],
   "selected": [
     {
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Staff Engineer - Fintech",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mewssystems/staff-engineer-fintech-46611",
+      "location": "",
+      "company": "mewssystems",
+      "published": 1794574514.0,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1794584604.8310592,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "(Senior) Product Marketing Manager (m/f/d)",
+      "url": "https://jobicy.com/jobs/161762-senior-product-marketing-manager-m-f-d",
+      "location": "EMEA",
+      "company": "Kayzen",
+      "published": 1794555638.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794584604.8310592,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Marketing Manager, Community & Events (m/f/d)",
+      "url": "https://jobicy.com/jobs/161736-marketing-manager-community-events-m-f-d",
+      "location": "EMEA",
+      "company": "Kayzen",
+      "published": 1794555514.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794584604.8310592,
+      "category": "job"
+    },
+    {
+      "source": "Remotive",
+      "source_id": "remotive",
+      "kind": "remotive",
+      "title": "Senior Data Engineer",
+      "url": "https://remotive.com/remote-jobs/data/senior-data-engineer-2091137",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "company": "Lemon.io",
+      "published": 1794422399.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: LATAM, Europe, USA, Canada, APAC — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794584604.8310592,
+      "category": "job"
+    },
+    {
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Data Analyst (temporary contract ~2 years) | SEB Life and Pension Baltic SE, Vilnius",
-      "url": "https://jobs.eu.lever.co/seb/4266fe9f-2996-47a6-83d4-9f58a0f326bd",
-      "location": "Vilnius",
+      "title": "IT Security Engineer (Privileged Access Management) | SEB, Tallinn",
+      "url": "https://jobs.eu.lever.co/seb/baf487ef-8773-48a1-b777-720edfe01fd8",
+      "location": "Tallinn",
       "company": "SEB",
       "published": null,
       "salary": "",
@@ -212,90 +292,11 @@
       "discovery_only": false,
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Vilnius — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791991310.967932,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Data Analyst/ Datu analītiķis/-e (temporary contract ~2 years)| SEB Life and Pension Baltic SE, Riga",
-      "url": "https://jobs.eu.lever.co/seb/969baa89-545d-40f0-84a5-c988ec7b4d68",
-      "location": "Rīga",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Rīga — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791991310.967932,
-      "category": "job"
-    },
-    {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Software Engineer, Storage Integrations",
-      "url": "https://stripe.com/jobs/search?gh_jid=8231178",
-      "location": "Bucharest",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Bucharest — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791991310.967932,
-      "category": "job"
-    },
-    {
-      "source": "Datadog careers (direct)",
-      "source_id": "direct_datadog",
-      "kind": "greenhouse",
-      "title": "Senior Sales Engineer - AI Accounts",
-      "url": "https://careers.datadoghq.com/detail/8238455?gh_jid=8238455",
-      "location": "California, USA, Remote; Illinois, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",
-      "company": "Datadog",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: California, USA, Remote; Illinois, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1791991310.967932,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Staff Forward Deployed Engineer",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5449229008",
-      "location": "New York City, NY; San Francisco, CA; Seattle, WA",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: New York City, NY; San Francisco, CA; Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792006193.6561944,
+      "score": 8,
+      "region": "Eesti — kohapeal või kaugtöö",
+      "found_at": 1794584604.8310592,
       "category": "job"
     }
   ],
-  "queued_candidates": 470
+  "queued_candidates": 477
 }
