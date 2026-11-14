@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-14T08:05:43+00:00",
+  "checked_at": "2026-11-14T14:59:06+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,7 +9,7 @@
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "startup",
@@ -23,17 +23,17 @@
     },
     {
       "id": "news_fellowships",
-      "items": 6,
+      "items": 5,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 26,
+      "items": 29,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 5,
+      "items": 6,
       "new_candidates": 0
     },
     {
@@ -64,11 +64,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "hn_ai",
-      "items": 7,
+      "items": 8,
       "new_candidates": 0
     },
     {
@@ -78,12 +78,12 @@
     },
     {
       "id": "hn_projects",
-      "items": 1,
+      "items": 2,
       "new_candidates": 0
     },
     {
       "id": "social_youtube",
-      "items": 79,
+      "items": 73,
       "new_candidates": 0
     },
     {
@@ -128,7 +128,7 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 670,
+      "items": 669,
       "new_candidates": 0
     },
     {
@@ -154,7 +154,7 @@
     {
       "id": "direct_roblox",
       "items": 271,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
@@ -199,31 +199,50 @@
   ],
   "selected": [
     {
-      "source": "Arbeitnow",
-      "source_id": "arbeitnow",
-      "kind": "arbeitnow",
-      "title": "Senior Data Engineer",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/eucalyptus/senior-data-engineer-195297",
-      "location": "",
-      "company": "eucalyptus",
-      "published": 1794639322.0,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Manager, Integrated Marketing Campaigns",
+      "url": "https://jobicy.com/jobs/162105-senior-manager-integrated-marketing-campaigns",
+      "location": "Europe",
+      "company": "Nebius",
+      "published": 1794641164.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
       "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1794643543.5170884,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794668346.259329,
       "category": "job"
     },
     {
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Technical Program Manager, Corporate Engineering",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453548008",
+      "title": "Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008",
+      "location": "London, UK",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: London, UK — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792108464.1900117,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Applied AI Engineer, Startups (Life Sciences)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454650008",
       "location": "San Francisco, CA | New York City, NY",
       "company": "Anthropic",
       "published": null,
@@ -235,17 +254,17 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
       "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792100801.0469558,
+      "found_at": 1792108464.1900117,
       "category": "job"
     },
     {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Engineering Manager, Self Serve Direct Onboarding",
-      "url": "https://stripe.com/jobs/search?gh_jid=8238489",
-      "location": "New York City, San Francisco, Seattle",
-      "company": "Stripe",
+      "title": "Applied AI Engineer, Startups (Physical AI)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454673008",
+      "location": "San Francisco, CA",
+      "company": "Anthropic",
       "published": null,
       "salary": "",
       "remote": false,
@@ -254,18 +273,18 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: New York City, San Francisco, Seattle — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792100801.0469558,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792108464.1900117,
       "category": "job"
     },
     {
-      "source": "Datadog careers (direct)",
-      "source_id": "direct_datadog",
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Senior Security Engineer, Security Incident Response Team",
-      "url": "https://careers.datadoghq.com/detail/8286919?gh_jid=8286919",
-      "location": "New York, New York, USA",
-      "company": "Datadog",
+      "title": "Engineering Manager, Agent Runtime Platform",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5316593008",
+      "location": "San Francisco, CA | New York City, NY",
+      "company": "Anthropic",
       "published": null,
       "salary": "",
       "remote": false,
@@ -274,30 +293,10 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: New York, New York, USA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792100801.0469558,
-      "category": "job"
-    },
-    {
-      "source": "Roblox careers (direct)",
-      "source_id": "direct_roblox",
-      "kind": "greenhouse",
-      "title": "Principal Software Engineer - Avatar Personalization",
-      "url": "https://careers.roblox.com/jobs/8211933?gh_jid=8211933",
-      "location": "San Mateo, CA, United States",
-      "company": "Roblox",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792100801.0469558,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792108464.1900117,
       "category": "job"
     }
   ],
-  "queued_candidates": 471
+  "queued_candidates": 467
 }
