@@ -1,15 +1,15 @@
 {
-  "checked_at": "2026-11-14T01:43:33+00:00",
+  "checked_at": "2026-11-14T08:05:43+00:00",
   "sources": [
     {
       "id": "remoteok",
       "items": 97,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
@@ -28,7 +28,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 28,
+      "items": 26,
       "new_candidates": 0
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 27,
+      "items": 22,
       "new_candidates": 0
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 22,
+      "items": 24,
       "new_candidates": 0
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "id": "social_youtube",
-      "items": 81,
+      "items": 79,
       "new_candidates": 0
     },
     {
       "id": "social_x",
-      "items": 58,
+      "items": 54,
       "new_candidates": 0
     },
     {
@@ -128,13 +128,13 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 668,
+      "items": 670,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 836,
-      "new_candidates": 1
+      "items": 838,
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
@@ -153,8 +153,8 @@
     },
     {
       "id": "direct_roblox",
-      "items": 270,
-      "new_candidates": 2
+      "items": 271,
+      "new_candidates": 1
     },
     {
       "id": "direct_gitlab",
@@ -199,52 +199,52 @@
   ],
   "selected": [
     {
-      "source": "Remote OK",
-      "source_id": "remoteok",
-      "kind": "remoteok",
-      "title": "Software Engineer AI Tooling",
-      "url": "https://remoteok.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Senior Data Engineer",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/eucalyptus/senior-data-engineer-195297",
       "location": "",
-      "company": "Supabase",
-      "published": 1794528015.0,
+      "company": "eucalyptus",
+      "published": 1794639322.0,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
       "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
       "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1794620613.5285113,
+      "found_at": 1794643543.5170884,
       "category": "job"
     },
     {
-      "source": "Cohere careers (direct)",
-      "source_id": "direct_cohere",
-      "kind": "ashby",
-      "title": "Senior/Staff Software Engineer (Back-End), Inference",
-      "url": "https://jobs.ashbyhq.com/cohere/14aef6d9-763e-4f56-a498-206fb31dd0c6",
-      "location": "Canada",
-      "company": "Cohere",
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Technical Program Manager, Corporate Engineering",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453548008",
+      "location": "San Francisco, CA | New York City, NY",
+      "company": "Anthropic",
       "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: Canada — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792075687.123381,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792100801.0469558,
       "category": "job"
     },
     {
       "source": "Stripe careers (direct)",
       "source_id": "direct_stripe",
       "kind": "greenhouse",
-      "title": "Staff Software Engineer, Alloy Integrations",
-      "url": "https://stripe.com/jobs/search?gh_jid=8257935",
-      "location": "Seattle",
+      "title": "Engineering Manager, Self Serve Direct Onboarding",
+      "url": "https://stripe.com/jobs/search?gh_jid=8238489",
+      "location": "New York City, San Francisco, Seattle",
       "company": "Stripe",
       "published": null,
       "salary": "",
@@ -254,16 +254,36 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: Seattle — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792089709.475232,
+      "region": "Kolimine pärast pakkumist: New York City, San Francisco, Seattle — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792100801.0469558,
+      "category": "job"
+    },
+    {
+      "source": "Datadog careers (direct)",
+      "source_id": "direct_datadog",
+      "kind": "greenhouse",
+      "title": "Senior Security Engineer, Security Incident Response Team",
+      "url": "https://careers.datadoghq.com/detail/8286919?gh_jid=8286919",
+      "location": "New York, New York, USA",
+      "company": "Datadog",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: New York, New York, USA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792100801.0469558,
       "category": "job"
     },
     {
       "source": "Roblox careers (direct)",
       "source_id": "direct_roblox",
       "kind": "greenhouse",
-      "title": "Principal Software Engineer- Agentic Customer Care",
-      "url": "https://careers.roblox.com/jobs/8214965?gh_jid=8214965",
+      "title": "Principal Software Engineer - Avatar Personalization",
+      "url": "https://careers.roblox.com/jobs/8211933?gh_jid=8211933",
       "location": "San Mateo, CA, United States",
       "company": "Roblox",
       "published": null,
@@ -275,28 +295,9 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
       "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792089709.475232,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Software Engineer, Research Productivity",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5283063008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1792100801.0469558,
       "category": "job"
     }
   ],
-  "queued_candidates": 474
+  "queued_candidates": 471
 }
