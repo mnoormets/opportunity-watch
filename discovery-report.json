@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-13T21:38:13+00:00",
+  "checked_at": "2026-11-14T01:43:33+00:00",
   "sources": [
     {
       "id": "remoteok",
-      "items": 98,
-      "new_candidates": 0
+      "items": 97,
+      "new_candidates": 1
     },
     {
       "id": "arbeitnow",
@@ -17,13 +17,18 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 16,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
-      "items": 7,
+      "items": 6,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 26,
+      "items": 28,
       "new_candidates": 0
     },
     {
@@ -33,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 26,
+      "items": 27,
       "new_candidates": 0
     },
     {
@@ -43,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 24,
+      "items": 22,
       "new_candidates": 0
     },
     {
@@ -59,7 +64,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 3
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
@@ -77,13 +82,33 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 81,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 58,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 6,
       "new_candidates": 0
     },
     {
+      "id": "news_clients",
+      "items": 1,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_seb",
-      "items": 138,
+      "items": 131,
       "new_candidates": 0
     },
     {
@@ -103,18 +128,18 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 670,
-      "new_candidates": 4
+      "items": 668,
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 835,
-      "new_candidates": 3
+      "items": 836,
+      "new_candidates": 1
     },
     {
       "id": "direct_stripe",
-      "items": 787,
-      "new_candidates": 3
+      "items": 786,
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
@@ -123,22 +148,22 @@
     },
     {
       "id": "direct_hpiq",
-      "items": 31,
+      "items": 30,
       "new_candidates": 0
     },
     {
       "id": "direct_roblox",
-      "items": 272,
-      "new_candidates": 3
+      "items": 270,
+      "new_candidates": 2
     },
     {
       "id": "direct_gitlab",
-      "items": 250,
+      "items": 251,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 122,
+      "items": 121,
       "new_candidates": 0
     },
     {
@@ -174,14 +199,14 @@
   ],
   "selected": [
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Frontend Software Engineer",
-      "url": "https://jobicy.com/jobs/161933-frontend-software-engineer",
-      "location": "Europe",
-      "company": "Wayflyer",
-      "published": 1794581488.0,
+      "source": "Remote OK",
+      "source_id": "remoteok",
+      "kind": "remoteok",
+      "title": "Software Engineer AI Tooling",
+      "url": "https://remoteok.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
+      "location": "",
+      "company": "Supabase",
+      "published": 1794528015.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -189,57 +214,38 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794605893.736031,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1794620613.5285113,
       "category": "job"
     },
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Full Stack Software Engineer",
-      "url": "https://jobicy.com/jobs/161930-full-stack-software-engineer-3",
-      "location": "Europe",
-      "company": "Wayflyer",
-      "published": 1794581448.0,
+      "source": "Cohere careers (direct)",
+      "source_id": "direct_cohere",
+      "kind": "ashby",
+      "title": "Senior/Staff Software Engineer (Back-End), Inference",
+      "url": "https://jobs.ashbyhq.com/cohere/14aef6d9-763e-4f56-a498-206fb31dd0c6",
+      "location": "Canada",
+      "company": "Cohere",
+      "published": null,
       "salary": "",
       "remote": true,
       "discovery_only": false,
-      "relocation_employer": false,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794605893.736031,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Backend Software Engineer",
-      "url": "https://jobicy.com/jobs/161926-backend-software-engineer-3",
-      "location": "Europe",
-      "company": "Wayflyer",
-      "published": 1794581442.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
+      "relocation_employer": true,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794605893.736031,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Canada — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792075687.123381,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
       "kind": "greenhouse",
-      "title": "Marketing Manager, Tech Partnership",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5444778008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
+      "title": "Staff Software Engineer, Alloy Integrations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8257935",
+      "location": "Seattle",
+      "company": "Stripe",
       "published": null,
       "salary": "",
       "remote": false,
@@ -248,18 +254,18 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792017052.9693823,
+      "region": "Kolimine pärast pakkumist: Seattle — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792089709.475232,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
+      "source": "Roblox careers (direct)",
+      "source_id": "direct_roblox",
       "kind": "greenhouse",
-      "title": "Partner Account Manager, AI-Native/Boutique SI Partners",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452909008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
+      "title": "Principal Software Engineer- Agentic Customer Care",
+      "url": "https://careers.roblox.com/jobs/8214965?gh_jid=8214965",
+      "location": "San Mateo, CA, United States",
+      "company": "Roblox",
       "published": null,
       "salary": "",
       "remote": false,
@@ -268,10 +274,29 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
+      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792089709.475232,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Software Engineer, Research Productivity",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5283063008",
+      "location": "San Francisco, CA | New York City, NY",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
       "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792017052.9693823,
+      "found_at": 1792100801.0469558,
       "category": "job"
     }
   ],
-  "queued_candidates": 483
+  "queued_candidates": 474
 }
