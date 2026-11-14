@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-14T14:59:06+00:00",
+  "checked_at": "2026-11-14T19:44:21+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,23 +17,18 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 16,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
-      "items": 5,
+      "items": 7,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 29,
+      "items": 30,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 6,
+      "items": 7,
       "new_candidates": 0
     },
     {
@@ -48,7 +43,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 24,
+      "items": 22,
       "new_candidates": 0
     },
     {
@@ -82,28 +77,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 73,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 54,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 6,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 1,
       "new_candidates": 0
     },
     {
@@ -133,7 +108,7 @@
     },
     {
       "id": "direct_openai",
-      "items": 838,
+      "items": 839,
       "new_candidates": 0
     },
     {
@@ -202,11 +177,11 @@
       "source": "Jobicy",
       "source_id": "jobicy",
       "kind": "jobicy",
-      "title": "Senior Manager, Integrated Marketing Campaigns",
-      "url": "https://jobicy.com/jobs/162105-senior-manager-integrated-marketing-campaigns",
-      "location": "Europe",
-      "company": "Nebius",
-      "published": 1794641164.0,
+      "title": "Senior Field Marketing Manager EMEA",
+      "url": "https://jobicy.com/jobs/162225-senior-field-marketing-manager-emea",
+      "location": "EMEA",
+      "company": "Armada",
+      "published": 1794666772.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
@@ -214,37 +189,18 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 8,
-      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1794668346.259329,
+      "region": "Kaugtöö: EMEA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794685461.8207154,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
       "kind": "greenhouse",
-      "title": "Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases)",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008",
-      "location": "London, UK",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: London, UK — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792108464.1900117,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Applied AI Engineer, Startups (Life Sciences)",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454650008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
+      "title": "Staff Software Engineer, Risk Engineering",
+      "url": "https://stripe.com/jobs/search?gh_jid=8120494",
+      "location": "Toronto",
+      "company": "Stripe",
       "published": null,
       "salary": "",
       "remote": false,
@@ -253,18 +209,18 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Toronto — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1792108464.1900117,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
+      "source": "Roblox careers (direct)",
+      "source_id": "direct_roblox",
       "kind": "greenhouse",
-      "title": "Applied AI Engineer, Startups (Physical AI)",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454673008",
-      "location": "San Francisco, CA",
-      "company": "Anthropic",
+      "title": "Senior Frontend Engineer - Marketplace Discovery & Shopping",
+      "url": "https://careers.roblox.com/jobs/7913878?gh_jid=7913878",
+      "location": "San Mateo, CA, United States",
+      "company": "Roblox",
       "published": null,
       "salary": "",
       "remote": false,
@@ -273,18 +229,18 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1792108464.1900117,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Engineering Manager, Agent Runtime Platform",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5316593008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Full Stack Software Engineer, Intelligence & Investigations",
+      "url": "https://jobs.ashbyhq.com/openai/52c72cb9-7c44-4cba-b440-e05262a38491",
+      "location": "San Francisco",
+      "company": "OpenAI",
       "published": null,
       "salary": "",
       "remote": false,
@@ -293,10 +249,30 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792108464.1900117,
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792119972.380716,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Reporting Solutions Developer (Mid/Senior) | SEB, Vilnius",
+      "url": "https://jobs.eu.lever.co/seb/d5f850b7-f315-4321-8419-c7f754ca31c8",
+      "location": "Vilnius",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Vilnius — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792137902.4245071,
       "category": "job"
     }
   ],
-  "queued_candidates": 467
+  "queued_candidates": 463
 }
