@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-15T10:23:16+00:00",
+  "checked_at": "2026-11-15T17:19:56+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,7 +9,7 @@
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "startup",
@@ -28,7 +28,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 30,
+      "items": 27,
       "new_candidates": 0
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 25,
+      "items": 28,
       "new_candidates": 0
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 24,
+      "items": 26,
       "new_candidates": 0
     },
     {
@@ -64,7 +64,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "hn_ai",
@@ -83,12 +83,12 @@
     },
     {
       "id": "social_youtube",
-      "items": 75,
+      "items": 70,
       "new_candidates": 0
     },
     {
       "id": "social_x",
-      "items": 52,
+      "items": 48,
       "new_candidates": 0
     },
     {
@@ -133,7 +133,7 @@
     },
     {
       "id": "direct_openai",
-      "items": 840,
+      "items": 837,
       "new_candidates": 0
     },
     {
@@ -199,33 +199,53 @@
   ],
   "selected": [
     {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Reporting Solutions Developer (Mid/Senior) | SEB, Kaunas",
-      "url": "https://jobs.eu.lever.co/seb/dfff4c02-ecd5-443d-b331-82b150334dd7",
-      "location": "Kaunas",
-      "company": "SEB",
-      "published": null,
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Enterprise Solutions Engineer, EMEA",
+      "url": "https://www.arbeitnow.com/jobs/companies/ninjaone/enterprise-solutions-engineer-emea-427878",
+      "location": "",
+      "company": "Ninjaone",
+      "published": 1794747318.0,
       "salary": "",
       "remote": false,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Kaunas — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792156342.0605726,
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1794763196.6566205,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Marketing Manager",
+      "url": "https://jobicy.com/jobs/162416-senior-marketing-manager-2",
+      "location": "Europe",
+      "company": "Enode",
+      "published": 1794744424.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794763196.6566205,
+      "category": "job"
+    },
+    {
+      "source": "Datadog careers (direct)",
+      "source_id": "direct_datadog",
       "kind": "greenhouse",
-      "title": "Applied AI Architect, Security Specialist",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445806008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
+      "title": "Forward Deployed Engineering Lead - Datadog for Startups",
+      "url": "https://careers.datadoghq.com/detail/8003181?gh_jid=8003181",
+      "location": "New York, New York, USA; San Francisco, California, USA",
+      "company": "Datadog",
       "published": null,
       "salary": "",
       "remote": false,
@@ -234,7 +254,7 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: New York, New York, USA; San Francisco, California, USA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1792171386.1914144,
       "category": "job"
     },
@@ -242,27 +262,8 @@
       "source": "OpenAI careers (direct)",
       "source_id": "direct_openai",
       "kind": "ashby",
-      "title": "Audio Engineer, Live Video",
-      "url": "https://jobs.ashbyhq.com/openai/775ef7de-c9aa-423e-b00c-a43124068bdb",
-      "location": "San Francisco",
-      "company": "OpenAI",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792171386.1914144,
-      "category": "job"
-    },
-    {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "Financial Systems Engineer",
-      "url": "https://jobs.ashbyhq.com/openai/ac43a452-1f50-42a2-816e-f920fdb51823",
+      "title": "Content Studio Lead",
+      "url": "https://jobs.ashbyhq.com/openai/7ded0fa1-4887-4de2-84c8-eecc756e86d9",
       "location": "San Francisco",
       "company": "OpenAI",
       "published": null,
@@ -274,29 +275,29 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
       "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792171386.1914144,
+      "found_at": 1792180775.6098263,
       "category": "job"
     },
     {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "Product Marketing, Messaging Lead",
-      "url": "https://jobs.ashbyhq.com/openai/0adbf6f5-43bf-4c55-a0fd-10a0eff4bb3f",
-      "location": "San Francisco",
-      "company": "OpenAI",
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "Solutions Engineer, AI Build Team",
+      "url": "https://stripe.com/jobs/search?gh_jid=8198323",
+      "location": "US-SF, US-NYC, US-Remote",
+      "company": "Stripe",
       "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792171386.1914144,
+      "region": "Kolimine pärast pakkumist: US-SF, US-NYC, US-Remote — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792180775.6098263,
       "category": "job"
     }
   ],
-  "queued_candidates": 454
+  "queued_candidates": 451
 }
