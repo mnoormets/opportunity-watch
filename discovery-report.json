@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-15T02:56:17+00:00",
+  "checked_at": "2026-11-15T10:23:16+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,8 +17,13 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 16,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
-      "items": 6,
+      "items": 7,
       "new_candidates": 0
     },
     {
@@ -33,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 21,
+      "items": 25,
       "new_candidates": 0
     },
     {
@@ -43,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 23,
+      "items": 24,
       "new_candidates": 0
     },
     {
@@ -63,7 +68,7 @@
     },
     {
       "id": "hn_ai",
-      "items": 8,
+      "items": 7,
       "new_candidates": 0
     },
     {
@@ -77,8 +82,28 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 75,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 52,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
-      "items": 6,
+      "items": 7,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 1,
       "new_candidates": 0
     },
     {
@@ -103,12 +128,12 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 670,
+      "items": 668,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 839,
+      "items": 840,
       "new_candidates": 0
     },
     {
@@ -133,7 +158,7 @@
     },
     {
       "id": "direct_gitlab",
-      "items": 251,
+      "items": 254,
       "new_candidates": 0
     },
     {
@@ -177,9 +202,9 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Reporting Solutions Developer / Atskaišu risinājumu izstrādātājs/-a (Mid/Senior) | SEB, Riga",
-      "url": "https://jobs.eu.lever.co/seb/6b773da1-c546-40df-b96b-80c9f9667667",
-      "location": "Rīga",
+      "title": "Reporting Solutions Developer (Mid/Senior) | SEB, Kaunas",
+      "url": "https://jobs.eu.lever.co/seb/dfff4c02-ecd5-443d-b331-82b150334dd7",
+      "location": "Kaunas",
       "company": "SEB",
       "published": null,
       "salary": "",
@@ -189,16 +214,16 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: Rīga — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792137902.4245071,
+      "region": "Kolimine pärast pakkumist: Kaunas — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792156342.0605726,
       "category": "job"
     },
     {
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Staff+ Software Engineer, Enterprise (Full Stack)",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454882008",
+      "title": "Applied AI Architect, Security Specialist",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445806008",
       "location": "San Francisco, CA | New York City, NY",
       "company": "Anthropic",
       "published": null,
@@ -210,35 +235,15 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
       "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792137902.4245071,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Staff+ Software Engineer, Enterprise (Platform)",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5288742008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792137902.4245071,
+      "found_at": 1792171386.1914144,
       "category": "job"
     },
     {
       "source": "OpenAI careers (direct)",
       "source_id": "direct_openai",
       "kind": "ashby",
-      "title": "Full-Stack Software Engineer, Child Safety Tools & Systems",
-      "url": "https://jobs.ashbyhq.com/openai/ac442f1f-c0d2-4608-a155-bfc89190e01c",
+      "title": "Audio Engineer, Live Video",
+      "url": "https://jobs.ashbyhq.com/openai/775ef7de-c9aa-423e-b00c-a43124068bdb",
       "location": "San Francisco",
       "company": "OpenAI",
       "published": null,
@@ -246,32 +251,52 @@
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792171386.1914144,
+      "category": "job"
+    },
+    {
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Financial Systems Engineer",
+      "url": "https://jobs.ashbyhq.com/openai/ac43a452-1f50-42a2-816e-f920fdb51823",
+      "location": "San Francisco",
+      "company": "OpenAI",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": true,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
       "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792137902.4245071,
+      "found_at": 1792171386.1914144,
       "category": "job"
     },
     {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Cloud Data Engineer – GCP, Data Platforms & Automation | SEB, Solna",
-      "url": "https://jobs.eu.lever.co/seb/93316dff-5f9f-4a58-8b6f-ac7c7b22527f",
-      "location": "Solna",
-      "company": "SEB",
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Product Marketing, Messaging Lead",
+      "url": "https://jobs.ashbyhq.com/openai/0adbf6f5-43bf-4c55-a0fd-10a0eff4bb3f",
+      "location": "San Francisco",
+      "company": "OpenAI",
       "published": null,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
       "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792156342.0605726,
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792171386.1914144,
       "category": "job"
     }
   ],
-  "queued_candidates": 459
+  "queued_candidates": 454
 }
