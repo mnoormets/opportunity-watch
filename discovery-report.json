@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-16T08:33:27+00:00",
+  "checked_at": "2026-11-16T18:52:45+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,31 +14,31 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "remotive",
-      "items": 16,
+      "items": 17,
       "new_candidates": 0
     },
     {
       "id": "news_fellowships",
-      "items": 8,
+      "items": 10,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 28,
+      "items": 29,
       "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 6,
+      "items": 7,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 23,
+      "items": 20,
       "new_candidates": 0
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 16,
+      "items": 19,
       "new_candidates": 0
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "id": "social_youtube",
-      "items": 77,
+      "items": 79,
       "new_candidates": 0
     },
     {
       "id": "social_x",
-      "items": 49,
+      "items": 51,
       "new_candidates": 0
     },
     {
@@ -108,8 +108,8 @@
     },
     {
       "id": "direct_seb",
-      "items": 121,
-      "new_candidates": 0
+      "items": 149,
+      "new_candidates": 17
     },
     {
       "id": "direct_welo",
@@ -123,8 +123,8 @@
     },
     {
       "id": "direct_veriff",
-      "items": 11,
-      "new_candidates": 0
+      "items": 10,
+      "new_candidates": 1
     },
     {
       "id": "direct_anthropic",
@@ -133,17 +133,17 @@
     },
     {
       "id": "direct_openai",
-      "items": 838,
-      "new_candidates": 0
+      "items": 835,
+      "new_candidates": 2
     },
     {
       "id": "direct_stripe",
-      "items": 785,
-      "new_candidates": 0
+      "items": 789,
+      "new_candidates": 2
     },
     {
       "id": "direct_datadog",
-      "items": 384,
+      "items": 380,
       "new_candidates": 0
     },
     {
@@ -153,22 +153,22 @@
     },
     {
       "id": "direct_roblox",
-      "items": 269,
-      "new_candidates": 1
+      "items": 263,
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 258,
+      "items": 250,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 121,
-      "new_candidates": 0
+      "items": 122,
+      "new_candidates": 1
     },
     {
       "id": "direct_n8n",
-      "items": 55,
+      "items": 60,
       "new_candidates": 0
     },
     {
@@ -202,9 +202,9 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "Data Engineer with a Focus on Data Modelling – Finance & Risk Data Platform | SEB, Solna",
-      "url": "https://jobs.eu.lever.co/seb/6c2566ed-0c66-4bad-8cb8-c81d3d9b2270",
-      "location": "Solna",
+      "title": "SEB Tech Trainee Programme 2027-28: AI Engineer with passion of AIOps | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/14a58170-781b-4a67-921a-fb45f596a288",
+      "location": "Stockholm",
       "company": "SEB",
       "published": null,
       "salary": "",
@@ -212,19 +212,58 @@
       "discovery_only": false,
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792414807.939863,
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1794855165.1993437,
+      "category": "programme"
+    },
+    {
+      "source": "Startup Jobs",
+      "source_id": "startup",
+      "kind": "rss_jobs",
+      "title": "Director of Client Engineering - Trading Platform (Europe, Remote) at GoCharting",
+      "url": "https://startup.jobs/director-of-client-engineering-trading-platform-europe-remote-gocharting-10787415",
+      "location": "",
+      "company": "",
+      "published": 1794700800.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1794855165.1993437,
       "category": "job"
     },
     {
-      "source": "Datadog careers (direct)",
-      "source_id": "direct_datadog",
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "SEB Tech Trainee Programme 2027-28: AI Research Analyst | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/6bb6f12e-d9ef-4a9b-9806-2cde4fee402d",
+      "location": "Stockholm",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1794855165.1993437,
+      "category": "programme"
+    },
+    {
+      "source": "Veriff careers (direct)",
+      "source_id": "direct_veriff",
       "kind": "greenhouse",
-      "title": "Group Manager, Field Marketing",
-      "url": "https://careers.datadoghq.com/detail/8289036?gh_jid=8289036",
-      "location": "Sydney, Australia",
-      "company": "Datadog",
+      "title": "Lead Solutions Engineer",
+      "url": "https://www.veriff.com/careers/position/8919378002?gh_jid=8919378002",
+      "location": "Spain (Remote), Tallinn",
+      "company": "Veriff",
       "published": null,
       "salary": "",
       "remote": false,
@@ -232,71 +271,30 @@
       "relocation_employer": true,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Sydney, Australia — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792414807.939863,
+      "score": 8,
+      "region": "Eesti — kohapeal või kaugtöö",
+      "found_at": 1794855165.1993437,
       "category": "job"
     },
     {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Applied AI Architect, Cyber Specialist",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445806008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic",
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "SEB Tech Trainee Programme 2027-28: Cloud Data Engineer | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/ae73492a-ff68-43cf-8f29-8088527446f2",
+      "location": "Stockholm",
+      "company": "SEB",
       "published": null,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792436862.676423,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Manager of Applied AI Architecture, Industries",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456581008",
-      "location": "Paris, France",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Paris, France — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792436862.676423,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "Staff+ Software Engineer, Memory & Search",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456453008",
-      "location": "New York City, NY; New York City, NY | Seattle, WA; Remote-Friendly, United States; San Francisco, CA | New York City, NY | Seattle, WA",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: New York City, NY; New York City, NY | Seattle, WA; Remote-Friendly, United States; San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792436862.676423,
-      "category": "job"
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1794855165.1993437,
+      "category": "programme"
     }
   ],
-  "queued_candidates": 434
+  "queued_candidates": 453
 }
