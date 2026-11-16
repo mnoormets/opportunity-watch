@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-15T21:53:18+00:00",
+  "checked_at": "2026-11-16T01:34:02+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,6 +14,11 @@
     {
       "id": "startup",
       "items": 50,
+      "new_candidates": 0
+    },
+    {
+      "id": "remotive",
+      "items": 16,
       "new_candidates": 0
     },
     {
@@ -33,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 28,
+      "items": 27,
       "new_candidates": 0
     },
     {
@@ -63,7 +68,7 @@
     },
     {
       "id": "hn_ai",
-      "items": 6,
+      "items": 5,
       "new_candidates": 0
     },
     {
@@ -77,13 +82,33 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 73,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 52,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 7,
       "new_candidates": 0
     },
     {
+      "id": "news_clients",
+      "items": 1,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_seb",
-      "items": 131,
+      "items": 121,
       "new_candidates": 0
     },
     {
@@ -103,7 +128,7 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 666,
+      "items": 664,
       "new_candidates": 0
     },
     {
@@ -128,7 +153,7 @@
     },
     {
       "id": "direct_roblox",
-      "items": 271,
+      "items": 270,
       "new_candidates": 0
     },
     {
@@ -174,13 +199,13 @@
   ],
   "selected": [
     {
-      "source": "Datadog careers (direct)",
-      "source_id": "direct_datadog",
+      "source": "Roblox careers (direct)",
+      "source_id": "direct_roblox",
       "kind": "greenhouse",
-      "title": "Senior Security Engineer - Platform Trust & Safety",
-      "url": "https://careers.datadoghq.com/detail/8292699?gh_jid=8292699",
-      "location": "New York, New York, USA",
-      "company": "Datadog",
+      "title": "Senior Content Designer",
+      "url": "https://careers.roblox.com/jobs/8278922?gh_jid=8278922",
+      "location": "San Mateo, CA, United States",
+      "company": "Roblox",
       "published": null,
       "salary": "",
       "remote": false,
@@ -189,18 +214,18 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: New York, New York, USA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792190247.7858996,
+      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792213417.5713265,
       "category": "job"
     },
     {
-      "source": "Datadog careers (direct)",
-      "source_id": "direct_datadog",
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Senior Software Engineer - Husky Storage",
-      "url": "https://careers.datadoghq.com/detail/8292620?gh_jid=8292620",
-      "location": "Boston, Massachusetts, USA; New York, New York, USA",
-      "company": "Datadog",
+      "title": "Principal Engineer Capacity/Compute",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456039008",
+      "location": "San Francisco, CA",
+      "company": "Anthropic",
       "published": null,
       "salary": "",
       "remote": false,
@@ -209,18 +234,37 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: Boston, Massachusetts, USA; New York, New York, USA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792190247.7858996,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792341110.314462,
       "category": "job"
     },
     {
-      "source": "Cohere careers (direct)",
-      "source_id": "direct_cohere",
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Software Engineer, Memory & Search",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456453008",
+      "location": "New York City, NY; New York City, NY | Seattle, WA; Remote-Friendly, United States; San Francisco, CA | New York City, NY | Seattle, WA",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: New York City, NY; New York City, NY | Seattle, WA; Remote-Friendly, United States; San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792390055.6445775,
+      "category": "job"
+    },
+    {
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
       "kind": "ashby",
-      "title": "Senior Android Engineer",
-      "url": "https://jobs.ashbyhq.com/cohere/cd7de8ed-1b3d-4977-a909-5c0d04ddfcb3",
-      "location": "Toronto",
-      "company": "Cohere",
+      "title": "Applied AI Engineer, Startups (Mandarin-speaking)",
+      "url": "https://jobs.ashbyhq.com/openai/502fcf97-75b2-4e54-9957-a29cee8eb1ca",
+      "location": "Singapore",
+      "company": "OpenAI",
       "published": null,
       "salary": "",
       "remote": true,
@@ -229,50 +273,29 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: Toronto — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792190247.7858996,
+      "region": "Kolimine pärast pakkumist: Singapore — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792390055.6445775,
       "category": "job"
     },
     {
-      "source": "Sentry careers (direct)",
-      "source_id": "direct_sentry",
-      "kind": "ashby",
-      "title": "Staff Software Engineer, AI Platform",
-      "url": "https://jobs.ashbyhq.com/sentry/81f09568-da7d-4ed1-8283-614f846c9b00",
-      "location": "San Francisco, California",
-      "company": "Sentry",
+      "source": "Datadog careers (direct)",
+      "source_id": "direct_datadog",
+      "kind": "greenhouse",
+      "title": "Sales Engineer",
+      "url": "https://careers.datadoghq.com/detail/8258855?gh_jid=8258855",
+      "location": "Tokyo, Japan",
+      "company": "Datadog",
       "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, California — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792190247.7858996,
-      "category": "job"
-    },
-    {
-      "source": "Sentry careers (direct)",
-      "source_id": "direct_sentry",
-      "kind": "ashby",
-      "title": "Senior Software Engineer, AI Platform",
-      "url": "https://jobs.ashbyhq.com/sentry/6eb8d5f2-977e-4ff4-bdbe-fccb8747b5d7",
-      "location": "San Francisco, California",
-      "company": "Sentry",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, California — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792190247.7858996,
+      "region": "Kolimine pärast pakkumist: Tokyo, Japan — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792390055.6445775,
       "category": "job"
     }
   ],
-  "queued_candidates": 445
+  "queued_candidates": 438
 }
