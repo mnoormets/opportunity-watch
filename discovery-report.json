@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-17T02:09:31+00:00",
+  "checked_at": "2026-11-17T10:37:43+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -23,16 +23,17 @@
     },
     {
       "id": "news_fellowships",
-      "items": 10,
+      "items": 9,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "error": "FetchError"
+      "items": 32,
+      "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "items": 6,
+      "items": 7,
       "new_candidates": 0
     },
     {
@@ -47,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 19,
+      "items": 15,
       "new_candidates": 0
     },
     {
@@ -57,7 +58,8 @@
     },
     {
       "id": "news_estonia",
-      "error": "FetchError"
+      "items": 0,
+      "new_candidates": 0
     },
     {
       "id": "jobicy",
@@ -66,7 +68,7 @@
     },
     {
       "id": "hn_ai",
-      "items": 5,
+      "items": 4,
       "new_candidates": 0
     },
     {
@@ -81,11 +83,12 @@
     },
     {
       "id": "social_youtube",
-      "error": "FetchError"
+      "items": 83,
+      "new_candidates": 0
     },
     {
       "id": "social_x",
-      "items": 53,
+      "items": 52,
       "new_candidates": 0
     },
     {
@@ -95,7 +98,7 @@
     },
     {
       "id": "news_corps",
-      "items": 6,
+      "items": 5,
       "new_candidates": 0
     },
     {
@@ -105,18 +108,16 @@
     },
     {
       "id": "direct_seb",
-      "items": 145,
-      "new_candidates": 0
+      "items": 146,
+      "new_candidates": 1
     },
     {
       "id": "direct_welo",
-      "items": 440,
-      "new_candidates": 0
+      "error": "ReadTimeout"
     },
     {
       "id": "direct_pipedrive",
-      "items": 0,
-      "new_candidates": 0
+      "error": "ReadTimeout"
     },
     {
       "id": "direct_veriff",
@@ -125,23 +126,23 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 661,
-      "new_candidates": 3
+      "items": 660,
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 839,
-      "new_candidates": 3
+      "items": 840,
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 791,
-      "new_candidates": 1
+      "items": 793,
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 382,
-      "new_candidates": 1
+      "items": 381,
+      "new_candidates": 0
     },
     {
       "id": "direct_hpiq",
@@ -150,8 +151,8 @@
     },
     {
       "id": "direct_roblox",
-      "items": 266,
-      "new_candidates": 3
+      "items": 265,
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
@@ -160,7 +161,7 @@
     },
     {
       "id": "direct_cohere",
-      "items": 123,
+      "items": 125,
       "new_candidates": 0
     },
     {
@@ -180,11 +181,13 @@
     },
     {
       "id": "news_estonia_jobs",
-      "error": "FetchError"
+      "items": 0,
+      "new_candidates": 0
     },
     {
       "id": "news_early_career",
-      "error": "FetchError"
+      "items": 2,
+      "new_candidates": 0
     },
     {
       "id": "news_shopify",
@@ -197,8 +200,8 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "SEB Tech Trainee Programme 2027-28: Data Engineer with GCP developer skills | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/d5fafc8a-20b3-42b9-a1d8-cef3c0fefb9a",
+      "title": "SEB Tech Trainee Programme 2027-28: Full Stack Developer – Financial Crime Prevention | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/7794dc6a-0c5d-4da5-9da3-42137fa12481",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -216,13 +219,13 @@
       "source": "OpenAI careers (direct)",
       "source_id": "direct_openai",
       "kind": "ashby",
-      "title": "Research Scientist / Research Engineer - Foundations, Search",
-      "url": "https://jobs.ashbyhq.com/openai/020b2aae-8be0-408c-ab49-20eefa8541af",
+      "title": "Software Engineer, CI/CD & ML Infrastructure",
+      "url": "https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
       "location": "San Francisco",
       "company": "OpenAI",
       "published": null,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
@@ -235,8 +238,8 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "SEB Tech Trainee Programme 2027-28: Developer - Investment | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/c5675920-843b-44f4-98ae-1382657db96e",
+      "title": "SEB Tech Trainee Programme 2027-28: Full stack developer | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/1039d993-9555-4441-b58d-3f062e19fce9",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -254,13 +257,13 @@
       "source": "OpenAI careers (direct)",
       "source_id": "direct_openai",
       "kind": "ashby",
-      "title": "Mechanical Engineer, PCBA Test Infrastructure, Robotics",
-      "url": "https://jobs.ashbyhq.com/openai/88e65467-7e19-4164-a1de-1d49d3f2dd52",
+      "title": "Product Reliability Engineer",
+      "url": "https://jobs.ashbyhq.com/openai/30a1d941-f12c-4589-a7a0-dad116b9aa33",
       "location": "San Francisco",
       "company": "OpenAI",
       "published": null,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
@@ -273,8 +276,8 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "SEB Tech Trainee Programme 2027-28: Developer with AI Skills | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/a1999747-c813-4e3b-bb5c-219fae84d38a",
+      "title": "SEB Tech Trainee Programme 2027-28: Junior Cloud Platform Engineer | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/45249e94-5b38-43f2-8e01-9a3487c8ee67",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -289,5 +292,5 @@
       "category": "programme"
     }
   ],
-  "queued_candidates": 459
+  "queued_candidates": 455
 }
