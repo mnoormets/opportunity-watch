@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-17T10:37:43+00:00",
+  "checked_at": "2026-11-17T19:21:14+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -18,12 +18,12 @@
     },
     {
       "id": "remotive",
-      "items": 17,
+      "items": 16,
       "new_candidates": 0
     },
     {
       "id": "news_fellowships",
-      "items": 9,
+      "items": 10,
       "new_candidates": 0
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 21,
+      "items": 20,
       "new_candidates": 0
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 15,
+      "items": 16,
       "new_candidates": 0
     },
     {
@@ -64,11 +64,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "hn_ai",
-      "items": 4,
+      "items": 2,
       "new_candidates": 0
     },
     {
@@ -78,17 +78,17 @@
     },
     {
       "id": "hn_projects",
-      "items": 2,
+      "items": 1,
       "new_candidates": 0
     },
     {
       "id": "social_youtube",
-      "items": 83,
+      "items": 86,
       "new_candidates": 0
     },
     {
       "id": "social_x",
-      "items": 52,
+      "items": 54,
       "new_candidates": 0
     },
     {
@@ -108,40 +108,42 @@
     },
     {
       "id": "direct_seb",
-      "items": 146,
-      "new_candidates": 1
+      "items": 151,
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "error": "ReadTimeout"
+      "items": 451,
+      "new_candidates": 0
     },
     {
       "id": "direct_pipedrive",
-      "error": "ReadTimeout"
+      "items": 0,
+      "new_candidates": 0
     },
     {
       "id": "direct_veriff",
-      "items": 10,
+      "items": 11,
       "new_candidates": 0
     },
     {
       "id": "direct_anthropic",
       "items": 660,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "direct_openai",
-      "items": 840,
-      "new_candidates": 0
+      "items": 836,
+      "new_candidates": 2
     },
     {
       "id": "direct_stripe",
-      "items": 793,
-      "new_candidates": 0
+      "items": 792,
+      "new_candidates": 1
     },
     {
       "id": "direct_datadog",
-      "items": 381,
+      "items": 380,
       "new_candidates": 0
     },
     {
@@ -151,17 +153,17 @@
     },
     {
       "id": "direct_roblox",
-      "items": 265,
-      "new_candidates": 0
+      "items": 267,
+      "new_candidates": 1
     },
     {
       "id": "direct_gitlab",
-      "items": 253,
+      "items": 254,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 125,
+      "items": 127,
       "new_candidates": 0
     },
     {
@@ -172,7 +174,7 @@
     {
       "id": "direct_sentry",
       "items": 39,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_uplane",
@@ -200,8 +202,47 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "SEB Tech Trainee Programme 2027-28: Full Stack Developer – Financial Crime Prevention | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/7794dc6a-0c5d-4da5-9da3-42137fa12481",
+      "title": "SEB Tech Trainee Programme 2027-28: Junior Engineer – AI, Innovation & Cross-Team Delivery | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/99dc8ec0-0b41-487d-8f3a-c4e3fd25ce8a",
+      "location": "Stockholm",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1794855165.1993437,
+      "category": "programme"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Platform Engineer - Compute",
+      "url": "https://jobicy.com/jobs/162979-platform-engineer-compute",
+      "location": "Anywhere",
+      "company": "Supabase",
+      "published": 1794922752.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Anywhere — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1794943273.9526777,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "SEB Tech Trainee Programme 2027-28: Platform Engineer – AI | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/990ff670-a7b8-4fba-99eb-9e3a2017de1f",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -219,9 +260,9 @@
       "source": "OpenAI careers (direct)",
       "source_id": "direct_openai",
       "kind": "ashby",
-      "title": "Software Engineer, CI/CD & ML Infrastructure",
-      "url": "https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
-      "location": "San Francisco",
+      "title": "Software Engineer, Backend — Dots",
+      "url": "https://jobs.ashbyhq.com/openai/341a5ad4-9134-4bad-88e1-2ce0f70bf519",
+      "location": "New York City",
       "company": "OpenAI",
       "published": null,
       "salary": "",
@@ -230,7 +271,7 @@
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: New York City — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1792436862.676423,
       "category": "job"
     },
@@ -238,46 +279,8 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "SEB Tech Trainee Programme 2027-28: Full stack developer | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/1039d993-9555-4441-b58d-3f062e19fce9",
-      "location": "Stockholm",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1794855165.1993437,
-      "category": "programme"
-    },
-    {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "Product Reliability Engineer",
-      "url": "https://jobs.ashbyhq.com/openai/30a1d941-f12c-4589-a7a0-dad116b9aa33",
-      "location": "San Francisco",
-      "company": "OpenAI",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792436862.676423,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "SEB Tech Trainee Programme 2027-28: Junior Cloud Platform Engineer | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/45249e94-5b38-43f2-8e01-9a3487c8ee67",
+      "title": "SEB Tech Trainee Programme 2027-28: Site Reliability Engineer – Data & AI Platform | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/bf64cf3c-e578-4465-b933-7f077010da26",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -292,5 +295,5 @@
       "category": "programme"
     }
   ],
-  "queued_candidates": 455
+  "queued_candidates": 458
 }
