@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-16T18:52:45+00:00",
+  "checked_at": "2026-11-17T02:09:31+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,7 +14,7 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "remotive",
@@ -28,22 +28,21 @@
     },
     {
       "id": "news_paid_training",
-      "items": 29,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_ai_tasks",
-      "items": 7,
+      "items": 6,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 20,
+      "items": 21,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 31,
+      "items": 29,
       "new_candidates": 0
     },
     {
@@ -58,8 +57,7 @@
     },
     {
       "id": "news_estonia",
-      "items": 0,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "jobicy",
@@ -68,7 +66,7 @@
     },
     {
       "id": "hn_ai",
-      "items": 6,
+      "items": 5,
       "new_candidates": 0
     },
     {
@@ -83,12 +81,11 @@
     },
     {
       "id": "social_youtube",
-      "items": 79,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "social_x",
-      "items": 51,
+      "items": 53,
       "new_candidates": 0
     },
     {
@@ -98,7 +95,7 @@
     },
     {
       "id": "news_corps",
-      "items": 7,
+      "items": 6,
       "new_candidates": 0
     },
     {
@@ -108,12 +105,12 @@
     },
     {
       "id": "direct_seb",
-      "items": 149,
-      "new_candidates": 17
+      "items": 145,
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 441,
+      "items": 440,
       "new_candidates": 0
     },
     {
@@ -124,27 +121,27 @@
     {
       "id": "direct_veriff",
       "items": 10,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_anthropic",
       "items": 661,
-      "new_candidates": 0
+      "new_candidates": 3
     },
     {
       "id": "direct_openai",
-      "items": 835,
-      "new_candidates": 2
+      "items": 839,
+      "new_candidates": 3
     },
     {
       "id": "direct_stripe",
-      "items": 789,
-      "new_candidates": 2
+      "items": 791,
+      "new_candidates": 1
     },
     {
       "id": "direct_datadog",
-      "items": 380,
-      "new_candidates": 0
+      "items": 382,
+      "new_candidates": 1
     },
     {
       "id": "direct_hpiq",
@@ -153,18 +150,18 @@
     },
     {
       "id": "direct_roblox",
-      "items": 263,
-      "new_candidates": 0
+      "items": 266,
+      "new_candidates": 3
     },
     {
       "id": "direct_gitlab",
-      "items": 250,
+      "items": 253,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 122,
-      "new_candidates": 1
+      "items": 123,
+      "new_candidates": 0
     },
     {
       "id": "direct_n8n",
@@ -183,13 +180,11 @@
     },
     {
       "id": "news_estonia_jobs",
-      "items": 0,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_early_career",
-      "items": 2,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_shopify",
@@ -202,8 +197,8 @@
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "SEB Tech Trainee Programme 2027-28: AI Engineer with passion of AIOps | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/14a58170-781b-4a67-921a-fb45f596a288",
+      "title": "SEB Tech Trainee Programme 2027-28: Data Engineer with GCP developer skills | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/d5fafc8a-20b3-42b9-a1d8-cef3c0fefb9a",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -218,31 +213,30 @@
       "category": "programme"
     },
     {
-      "source": "Startup Jobs",
-      "source_id": "startup",
-      "kind": "rss_jobs",
-      "title": "Director of Client Engineering - Trading Platform (Europe, Remote) at GoCharting",
-      "url": "https://startup.jobs/director-of-client-engineering-trading-platform-europe-remote-gocharting-10787415",
-      "location": "",
-      "company": "",
-      "published": 1794700800.0,
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Research Scientist / Research Engineer - Foundations, Search",
+      "url": "https://jobs.ashbyhq.com/openai/020b2aae-8be0-408c-ab49-20eefa8541af",
+      "location": "San Francisco",
+      "company": "OpenAI",
+      "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1794855165.1993437,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792436862.676423,
       "category": "job"
     },
     {
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "SEB Tech Trainee Programme 2027-28: AI Research Analyst | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/6bb6f12e-d9ef-4a9b-9806-2cde4fee402d",
+      "title": "SEB Tech Trainee Programme 2027-28: Developer - Investment | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/c5675920-843b-44f4-98ae-1382657db96e",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -257,31 +251,30 @@
       "category": "programme"
     },
     {
-      "source": "Veriff careers (direct)",
-      "source_id": "direct_veriff",
-      "kind": "greenhouse",
-      "title": "Lead Solutions Engineer",
-      "url": "https://www.veriff.com/careers/position/8919378002?gh_jid=8919378002",
-      "location": "Spain (Remote), Tallinn",
-      "company": "Veriff",
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Mechanical Engineer, PCBA Test Infrastructure, Robotics",
+      "url": "https://jobs.ashbyhq.com/openai/88e65467-7e19-4164-a1de-1d49d3f2dd52",
+      "location": "San Francisco",
+      "company": "OpenAI",
       "published": null,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Eesti — kohapeal või kaugtöö",
-      "found_at": 1794855165.1993437,
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792436862.676423,
       "category": "job"
     },
     {
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "SEB Tech Trainee Programme 2027-28: Cloud Data Engineer | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/ae73492a-ff68-43cf-8f29-8088527446f2",
+      "title": "SEB Tech Trainee Programme 2027-28: Developer with AI Skills | SEB, Stockholm",
+      "url": "https://jobs.eu.lever.co/seb/a1999747-c813-4e3b-bb5c-219fae84d38a",
       "location": "Stockholm",
       "company": "SEB",
       "published": null,
@@ -296,5 +289,5 @@
       "category": "programme"
     }
   ],
-  "queued_candidates": 453
+  "queued_candidates": 459
 }
