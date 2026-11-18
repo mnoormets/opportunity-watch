@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-18T01:41:29+00:00",
+  "checked_at": "2026-11-18T09:06:46+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -28,7 +28,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 32,
+      "items": 33,
       "new_candidates": 0
     },
     {
@@ -38,17 +38,17 @@
     },
     {
       "id": "news_hackathons",
-      "items": 20,
+      "items": 25,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 29,
+      "items": 28,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 16,
+      "items": 17,
       "new_candidates": 0
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "id": "social_youtube",
-      "items": 84,
+      "items": 80,
       "new_candidates": 0
     },
     {
       "id": "social_x",
-      "items": 54,
+      "items": 57,
       "new_candidates": 0
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "id": "news_corps",
-      "items": 5,
+      "items": 6,
       "new_candidates": 0
     },
     {
@@ -108,12 +108,12 @@
     },
     {
       "id": "direct_seb",
-      "items": 149,
+      "items": 154,
       "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 451,
+      "items": 456,
       "new_candidates": 0
     },
     {
@@ -128,18 +128,18 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 661,
-      "new_candidates": 2
+      "items": 655,
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 836,
-      "new_candidates": 3
+      "items": 837,
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 789,
-      "new_candidates": 1
+      "items": 787,
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
@@ -153,12 +153,12 @@
     },
     {
       "id": "direct_roblox",
-      "items": 266,
+      "items": 265,
       "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 254,
+      "items": 251,
       "new_candidates": 0
     },
     {
@@ -199,70 +199,12 @@
   ],
   "selected": [
     {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "SEB Tech Trainee Programme 2027-28: Solution Developer - backend | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/e62b0eb1-9461-42a2-b447-82b1c4a5d38e",
-      "location": "Stockholm",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1794855165.1993437,
-      "category": "programme"
-    },
-    {
-      "source": "Roblox careers (direct)",
-      "source_id": "direct_roblox",
-      "kind": "greenhouse",
-      "title": "Senior Software Engineer, Service Management",
-      "url": "https://careers.roblox.com/jobs/8260221?gh_jid=8260221",
-      "location": "San Mateo, CA, United States",
-      "company": "Roblox",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792436862.676423,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "SEB Tech Trainee Programme 2027-28: Solution Developer - IT Asset Management | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/ea7f2bc9-8ce0-4922-8faf-b41cf4b1be83",
-      "location": "Stockholm",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1794855165.1993437,
-      "category": "programme"
-    },
-    {
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Applied AI Demo Engineer",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455961008",
-      "location": "San Francisco, CA | New York City, NY",
+      "title": "IT Systems Engineer, Client Platform Engineer, ChromeOS",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456018008",
+      "location": "Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC",
       "company": "Anthropic",
       "published": null,
       "salary": "",
@@ -271,29 +213,89 @@
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1792450391.4868326,
       "category": "job"
     },
     {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "SEB Tech Trainee Programme 2027-28: Solution Developer - Payments | SEB, Stockholm",
-      "url": "https://jobs.eu.lever.co/seb/9e121e6f-9ffd-447c-a6ba-636666d46e0d",
-      "location": "Stockholm",
-      "company": "SEB",
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Webinar & Digital Events Strategist",
+      "url": "https://jobs.ashbyhq.com/openai/c5d3a06a-eb31-425d-94d3-1664070c31e4",
+      "location": "San Francisco",
+      "company": "OpenAI",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792450391.4868326,
+      "category": "job"
+    },
+    {
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Deployment Lead, Forward Deployed Engineering (FDE) - Platform",
+      "url": "https://jobs.ashbyhq.com/openai/bc80a3ae-1e69-4a8d-8366-77fcdd56ff61",
+      "location": "San Francisco",
+      "company": "OpenAI",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792450391.4868326,
+      "category": "job"
+    },
+    {
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Engineering Manager, Preparedness",
+      "url": "https://jobs.ashbyhq.com/openai/c857b732-3556-4b65-8ae9-f64b92091729",
+      "location": "San Francisco",
+      "company": "OpenAI",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792450391.4868326,
+      "category": "job"
+    },
+    {
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "Backend / API Engineer, Radar",
+      "url": "https://stripe.com/jobs/search?gh_jid=8301253",
+      "location": "N/A",
+      "company": "Stripe",
       "published": null,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Stockholm — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1794855165.1993437,
-      "category": "programme"
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: N/A — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792450391.4868326,
+      "category": "job"
     }
   ],
-  "queued_candidates": 459
+  "queued_candidates": 454
 }
