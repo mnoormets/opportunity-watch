@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-18T17:58:34+00:00",
+  "checked_at": "2026-11-18T23:53:50+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,18 +17,13 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 16,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
-      "items": 10,
+      "items": 9,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 33,
+      "items": 32,
       "new_candidates": 0
     },
     {
@@ -48,7 +43,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 17,
+      "items": 21,
       "new_candidates": 0
     },
     {
@@ -64,7 +59,7 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 2
+      "new_candidates": 0
     },
     {
       "id": "hn_ai",
@@ -82,39 +77,19 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 75,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 54,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 6,
       "new_candidates": 0
     },
     {
-      "id": "news_clients",
-      "items": 1,
-      "new_candidates": 0
-    },
-    {
       "id": "direct_seb",
       "items": 157,
-      "new_candidates": 2
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
       "items": 456,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_pipedrive",
@@ -128,52 +103,52 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 654,
-      "new_candidates": 2
+      "items": 644,
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 839,
-      "new_candidates": 1
+      "items": 833,
+      "new_candidates": 3
     },
     {
       "id": "direct_stripe",
-      "items": 792,
-      "new_candidates": 2
+      "items": 785,
+      "new_candidates": 1
     },
     {
       "id": "direct_datadog",
-      "items": 383,
+      "items": 380,
       "new_candidates": 0
     },
     {
       "id": "direct_hpiq",
-      "items": 30,
+      "items": 29,
       "new_candidates": 0
     },
     {
       "id": "direct_roblox",
       "items": 265,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "direct_gitlab",
-      "items": 249,
+      "items": 248,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 126,
+      "items": 125,
       "new_candidates": 0
     },
     {
       "id": "direct_n8n",
-      "items": 61,
+      "items": 63,
       "new_candidates": 0
     },
     {
       "id": "direct_sentry",
-      "items": 40,
+      "items": 41,
       "new_candidates": 0
     },
     {
@@ -199,73 +174,32 @@
   ],
   "selected": [
     {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Senior Design Engineer",
-      "url": "https://jobicy.com/jobs/163111-senior-design-engineer-2",
-      "location": "EMEA, USA",
-      "company": "Consensys",
-      "published": 1795005792.0,
-      "salary": "149000–210000 USD / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: EMEA, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1795024714.2717168,
-      "category": "job"
-    },
-    {
-      "source": "Jobicy",
-      "source_id": "jobicy",
-      "kind": "jobicy",
-      "title": "Experiential Marketing Manager",
-      "url": "https://jobicy.com/jobs/163100-experiential-marketing-manager",
-      "location": "EMEA, USA",
-      "company": "Consensys",
-      "published": 1795005714.0,
-      "salary": "101000–141000 USD / yearly",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 10,
-      "region": "Kaugtöö: EMEA, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1795024714.2717168,
-      "category": "job"
-    },
-    {
-      "source": "Welo Global careers (direct)",
-      "source_id": "direct_welo",
-      "kind": "lever",
-      "title": "English to Belarusian Review Lead for UI, Marketing & Product Content",
-      "url": "https://jobs.lever.co/weloglobal/9c91ec15-acac-42fc-8ba0-c5f610556d0d",
-      "location": "Remote - Europe",
-      "company": "Welo Global",
+      "source": "Roblox careers (direct)",
+      "source_id": "direct_roblox",
+      "kind": "greenhouse",
+      "title": "[Summer 2027 Canada] Software Engineer Intern, Engine",
+      "url": "https://careers.roblox.com/jobs/8386080?gh_jid=8386080",
+      "location": "Vancouver, British Columbia, Canada",
+      "company": "Roblox",
       "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö: Remote - Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
-      "found_at": 1795024714.2717168,
-      "category": "job"
+      "score": 9,
+      "region": "Kolimine pärast pakkumist: Vancouver, British Columbia, Canada — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1795046030.6805768,
+      "category": "programme"
     },
     {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Marketing Technology Program Manager",
-      "url": "https://stripe.com/jobs/search?gh_jid=8257939",
-      "location": "US Remote",
-      "company": "Stripe",
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Backend Software Engineer, Cooperative AI (Evals)",
+      "url": "https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2",
+      "location": "San Francisco",
+      "company": "OpenAI",
       "published": null,
       "salary": "",
       "remote": false,
@@ -274,16 +208,16 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: US Remote — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792450391.4868326,
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792459136.6720881,
       "category": "job"
     },
     {
       "source": "Roblox careers (direct)",
       "source_id": "direct_roblox",
       "kind": "greenhouse",
-      "title": "Integrated Marketing Manager (Short Term)",
-      "url": "https://careers.roblox.com/jobs/8209048?gh_jid=8209048",
+      "title": "Principal Software Engineer, Orchestration",
+      "url": "https://careers.roblox.com/jobs/8094683?gh_jid=8094683",
       "location": "San Mateo, CA, United States",
       "company": "Roblox",
       "published": null,
@@ -295,7 +229,46 @@
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
       "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792450391.4868326,
+      "found_at": 1792459136.6720881,
+      "category": "job"
+    },
+    {
+      "source": "Roblox careers (direct)",
+      "source_id": "direct_roblox",
+      "kind": "greenhouse",
+      "title": "Senior Software Engineer, Data Infrastructure Compute",
+      "url": "https://careers.roblox.com/jobs/8042578?gh_jid=8042578",
+      "location": "San Mateo, CA, United States",
+      "company": "Roblox",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792476394.0375965,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Test Engineer in Payment Channels Team | SEB, Vilnius",
+      "url": "https://jobs.eu.lever.co/seb/0d5b44dd-f25a-484c-a490-c23a2a7b93ba",
+      "location": "Vilnius",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Vilnius — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792495644.3295949,
       "category": "job"
     }
   ],
