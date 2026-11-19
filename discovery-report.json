@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-18T23:53:50+00:00",
+  "checked_at": "2026-11-19T05:53:17+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -9,7 +9,7 @@
     {
       "id": "arbeitnow",
       "items": 300,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "startup",
@@ -17,13 +17,18 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 16,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
-      "items": 9,
+      "items": 10,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 32,
+      "items": 31,
       "new_candidates": 0
     },
     {
@@ -33,7 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 25,
+      "items": 24,
       "new_candidates": 0
     },
     {
@@ -43,7 +48,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 21,
+      "items": 17,
       "new_candidates": 0
     },
     {
@@ -63,7 +68,7 @@
     },
     {
       "id": "hn_ai",
-      "items": 3,
+      "items": 2,
       "new_candidates": 0
     },
     {
@@ -77,18 +82,38 @@
       "new_candidates": 0
     },
     {
+      "id": "social_youtube",
+      "items": 73,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_x",
+      "items": 54,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
       "id": "news_corps",
       "items": 6,
       "new_candidates": 0
     },
     {
+      "id": "news_clients",
+      "items": 1,
+      "new_candidates": 0
+    },
+    {
       "id": "direct_seb",
-      "items": 157,
+      "items": 149,
       "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 456,
+      "items": 455,
       "new_candidates": 0
     },
     {
@@ -103,18 +128,18 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 644,
+      "items": 637,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
       "items": 833,
-      "new_candidates": 3
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
       "items": 785,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
@@ -129,7 +154,7 @@
     {
       "id": "direct_roblox",
       "items": 265,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
@@ -148,7 +173,7 @@
     },
     {
       "id": "direct_sentry",
-      "items": 41,
+      "items": 42,
       "new_candidates": 0
     },
     {
@@ -174,32 +199,52 @@
   ],
   "selected": [
     {
-      "source": "Roblox careers (direct)",
-      "source_id": "direct_roblox",
-      "kind": "greenhouse",
-      "title": "[Summer 2027 Canada] Software Engineer Intern, Engine",
-      "url": "https://careers.roblox.com/jobs/8386080?gh_jid=8386080",
-      "location": "Vancouver, British Columbia, Canada",
-      "company": "Roblox",
-      "published": null,
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Forward Deployed Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-forward-deployed-engineer-385303",
+      "location": "Remote",
+      "company": "Camunda",
+      "published": 1795059806.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 9,
-      "region": "Kolimine pärast pakkumist: Vancouver, British Columbia, Canada — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1795046030.6805768,
-      "category": "programme"
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1795067597.186945,
+      "category": "job"
     },
     {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "Backend Software Engineer, Cooperative AI (Evals)",
-      "url": "https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2",
-      "location": "San Francisco",
-      "company": "OpenAI",
+      "source": "Arbeitnow",
+      "source_id": "arbeitnow",
+      "kind": "arbeitnow",
+      "title": "Senior Sales Engineer - Benelux",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-sales-engineer-benelux-359528",
+      "location": "Remote",
+      "company": "Camunda",
+      "published": 1795059806.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1795067597.186945,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Staff+ Software Engineer, VectorDB",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458044008",
+      "location": "New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | Seattle, WA",
+      "company": "Anthropic",
       "published": null,
       "salary": "",
       "remote": false,
@@ -208,18 +253,18 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792459136.6720881,
+      "region": "Kolimine pärast pakkumist: New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792495644.3295949,
       "category": "job"
     },
     {
-      "source": "Roblox careers (direct)",
-      "source_id": "direct_roblox",
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
       "kind": "greenhouse",
-      "title": "Principal Software Engineer, Orchestration",
-      "url": "https://careers.roblox.com/jobs/8094683?gh_jid=8094683",
-      "location": "San Mateo, CA, United States",
-      "company": "Roblox",
+      "title": "Engineering Manager, Money as a Service (MaaS)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8282169",
+      "location": "Singapore",
+      "company": "Stripe",
       "published": null,
       "salary": "",
       "remote": false,
@@ -228,18 +273,18 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792459136.6720881,
+      "region": "Kolimine pärast pakkumist: Singapore — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792495644.3295949,
       "category": "job"
     },
     {
-      "source": "Roblox careers (direct)",
-      "source_id": "direct_roblox",
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
       "kind": "greenhouse",
-      "title": "Senior Software Engineer, Data Infrastructure Compute",
-      "url": "https://careers.roblox.com/jobs/8042578?gh_jid=8042578",
-      "location": "San Mateo, CA, United States",
-      "company": "Roblox",
+      "title": "Software Engineer, Payin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8185012",
+      "location": "Bengaluru",
+      "company": "Stripe",
       "published": null,
       "salary": "",
       "remote": false,
@@ -248,29 +293,10 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792476394.0375965,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Test Engineer in Payment Channels Team | SEB, Vilnius",
-      "url": "https://jobs.eu.lever.co/seb/0d5b44dd-f25a-484c-a490-c23a2a7b93ba",
-      "location": "Vilnius",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Vilnius — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Bengaluru — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1792495644.3295949,
       "category": "job"
     }
   ],
-  "queued_candidates": 459
+  "queued_candidates": 456
 }
