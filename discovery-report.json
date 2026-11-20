@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-11-20T03:39:05+00:00",
+  "checked_at": "2026-11-20T12:08:59+00:00",
   "sources": [
     {
       "id": "remoteok",
-      "items": 97,
+      "items": 98,
       "new_candidates": 0
     },
     {
@@ -17,45 +17,58 @@
       "new_candidates": 0
     },
     {
+      "id": "remotive",
+      "items": 15,
+      "new_candidates": 0
+    },
+    {
       "id": "news_fellowships",
-      "error": "FetchError"
+      "items": 10,
+      "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "error": "FetchError"
+      "items": 32,
+      "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "error": "FetchError"
+      "items": 8,
+      "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "error": "FetchError"
+      "items": 25,
+      "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "error": "FetchError"
+      "items": 28,
+      "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "error": "FetchError"
+      "items": 22,
+      "new_candidates": 0
     },
     {
       "id": "news_paid_research",
-      "error": "FetchError"
+      "items": 0,
+      "new_candidates": 0
     },
     {
       "id": "news_estonia",
-      "error": "FetchError"
+      "items": 0,
+      "new_candidates": 0
     },
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 3
     },
     {
       "id": "hn_ai",
-      "items": 1,
+      "items": 3,
       "new_candidates": 0
     },
     {
@@ -69,17 +82,38 @@
       "new_candidates": 0
     },
     {
-      "id": "news_corps",
-      "error": "FetchError"
-    },
-    {
-      "id": "direct_seb",
-      "items": 152,
+      "id": "social_youtube",
+      "items": 74,
       "new_candidates": 0
     },
     {
+      "id": "social_x",
+      "items": 57,
+      "new_candidates": 0
+    },
+    {
+      "id": "social_tiktok",
+      "items": 100,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_corps",
+      "items": 5,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_clients",
+      "items": 2,
+      "new_candidates": 0
+    },
+    {
+      "id": "direct_seb",
+      "items": 156,
+      "new_candidates": 1
+    },
+    {
       "id": "direct_welo",
-      "items": 451,
+      "items": 464,
       "new_candidates": 0
     },
     {
@@ -94,18 +128,18 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 638,
-      "new_candidates": 3
+      "items": 637,
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
       "items": 854,
-      "new_candidates": 5
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
-      "items": 772,
-      "new_candidates": 1
+      "items": 773,
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
@@ -119,8 +153,8 @@
     },
     {
       "id": "direct_roblox",
-      "items": 265,
-      "new_candidates": 1
+      "items": 264,
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
@@ -149,103 +183,88 @@
     },
     {
       "id": "news_estonia_jobs",
-      "error": "FetchError"
+      "items": 0,
+      "new_candidates": 0
     },
     {
       "id": "news_early_career",
-      "error": "FetchError"
+      "items": 2,
+      "new_candidates": 0
     },
     {
       "id": "news_shopify",
-      "error": "FetchError"
+      "items": 0,
+      "new_candidates": 0
     }
   ],
   "selected": [
     {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Senior Software Engineer to Market & Counterparty Risk | SEB, Solna",
-      "url": "https://jobs.eu.lever.co/seb/ae0967de-7935-4f6c-9b82-3e6fdd610284",
-      "location": "Solna",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Developer Support Engineer",
+      "url": "https://jobicy.com/jobs/163453-developer-support-engineer-2",
+      "location": "APAC, EMEA, LATAM, Canada, USA",
+      "company": "RevenueCat",
+      "published": 1795163967.0,
+      "salary": "118000–118000 USD / yearly",
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "relocation_employer": false,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792578364.6230266,
+      "score": 10,
+      "region": "Kaugtöö: APAC, EMEA, LATAM, Canada, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1795176539.2587917,
       "category": "job"
     },
     {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Solution Developer - Digital Assets and Blockchain Integrations (.NET) | SEB, Solna",
-      "url": "https://jobs.eu.lever.co/seb/58d56889-84ff-47f4-a50c-02d854e2a75f",
-      "location": "Solna",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Solna — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792578364.6230266,
-      "category": "job"
-    },
-    {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "Software Engineer, Product Infrastructure - Agent Runtime",
-      "url": "https://jobs.ashbyhq.com/openai/5ed99d32-eed1-4679-b7b4-037de073e57c",
-      "location": "San Francisco",
-      "company": "OpenAI",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Manager, Legal Programs, Privacy & AI (EU/UK)",
+      "url": "https://jobicy.com/jobs/163445-manager-legal-programs-privacy-ai-eu-uk",
+      "location": "Europe",
+      "company": "hims & hers",
+      "published": 1795163283.0,
       "salary": "",
       "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792578364.6230266,
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1795176539.2587917,
       "category": "job"
     },
     {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Frontend Engineer (Future Full-Stack) in Accounts Channels | SEB, Vilnius",
-      "url": "https://jobs.eu.lever.co/seb/3a4591ff-cca6-4f2f-9f06-56cd8dee98a9",
-      "location": "Vilnius",
-      "company": "SEB",
-      "published": null,
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Senior Counsel, Privacy & AI (EU/UK)",
+      "url": "https://jobicy.com/jobs/163442-senior-counsel-privacy-ai-eu-uk",
+      "location": "Europe",
+      "company": "hims & hers",
+      "published": 1795163278.0,
       "salary": "",
-      "remote": false,
+      "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Vilnius — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792596548.1674566,
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1795176539.2587917,
       "category": "job"
     },
     {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
+      "source": "Datadog careers (direct)",
+      "source_id": "direct_datadog",
       "kind": "greenhouse",
-      "title": "Engineering Manager, Sandboxes",
-      "url": "https://stripe.com/jobs/search?gh_jid=8301946",
-      "location": "United States",
-      "company": "Stripe",
+      "title": "Senior Software Engineer - Distributed Systems (ODP Governance)",
+      "url": "https://careers.datadoghq.com/detail/8305790?gh_jid=8305790",
+      "location": "Paris, France",
+      "company": "Datadog",
       "published": null,
       "salary": "",
       "remote": false,
@@ -254,10 +273,29 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: Paris, France — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1792596548.1674566,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Research Engineer, Chip Design RL",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459098008",
+      "location": "San Francisco, CA",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792610876.596912,
       "category": "job"
     }
   ],
-  "queued_candidates": 459
+  "queued_candidates": 458
 }
