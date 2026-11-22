@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-22T16:41:18+00:00",
+  "checked_at": "2026-11-22T22:01:22+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -17,19 +17,13 @@
       "new_candidates": 0
     },
     {
-      "id": "remotive",
-      "items": 16,
-      "new_candidates": 0
-    },
-    {
       "id": "news_fellowships",
       "items": 9,
       "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "items": 31,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_ai_tasks",
@@ -38,23 +32,21 @@
     },
     {
       "id": "news_hackathons",
-      "items": 27,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_grants",
-      "items": 27,
+      "items": 29,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 24,
+      "items": 49,
       "new_candidates": 0
     },
     {
       "id": "news_paid_research",
-      "items": 0,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_estonia",
@@ -68,7 +60,7 @@
     },
     {
       "id": "hn_ai",
-      "items": 2,
+      "items": 1,
       "new_candidates": 0
     },
     {
@@ -82,28 +74,8 @@
       "new_candidates": 0
     },
     {
-      "id": "social_youtube",
-      "items": 75,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_x",
-      "items": 53,
-      "new_candidates": 0
-    },
-    {
-      "id": "social_tiktok",
-      "items": 100,
-      "new_candidates": 0
-    },
-    {
       "id": "news_corps",
       "items": 6,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_clients",
-      "items": 2,
       "new_candidates": 0
     },
     {
@@ -128,18 +100,18 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 633,
+      "items": 636,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
       "items": 852,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "direct_stripe",
-      "items": 777,
-      "new_candidates": 0
+      "items": 778,
+      "new_candidates": 1
     },
     {
       "id": "direct_datadog",
@@ -188,7 +160,7 @@
     },
     {
       "id": "news_early_career",
-      "items": 1,
+      "items": 2,
       "new_candidates": 0
     },
     {
@@ -199,87 +171,11 @@
   ],
   "selected": [
     {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "IT Systems Engineer",
-      "url": "https://jobs.ashbyhq.com/openai/b73e46a6-881a-4413-835a-94b9d5f35d2f",
-      "location": "San Francisco",
-      "company": "OpenAI",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792782731.4115992,
-      "category": "job"
-    },
-    {
       "source": "Roblox careers (direct)",
       "source_id": "direct_roblox",
       "kind": "greenhouse",
-      "title": "Software Engineer, Notifications",
-      "url": "https://careers.roblox.com/jobs/8261393?gh_jid=8261393",
-      "location": "San Mateo, CA, United States",
-      "company": "Roblox",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792782731.4115992,
-      "category": "job"
-    },
-    {
-      "source": "Roblox careers (direct)",
-      "source_id": "direct_roblox",
-      "kind": "greenhouse",
-      "title": "Software Engineer, Reliability",
-      "url": "https://careers.roblox.com/jobs/8283707?gh_jid=8283707",
-      "location": "San Mateo, CA, United States",
-      "company": "Roblox",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792782731.4115992,
-      "category": "job"
-    },
-    {
-      "source": "Anthropic careers (direct)",
-      "source_id": "direct_anthropic",
-      "kind": "greenhouse",
-      "title": "TPU Performance Engineer",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4720576008",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "company": "Anthropic",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY | Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792793281.3190012,
-      "category": "job"
-    },
-    {
-      "source": "Roblox careers (direct)",
-      "source_id": "direct_roblox",
-      "kind": "greenhouse",
-      "title": "Principal Reliability Operations Engineer",
-      "url": "https://careers.roblox.com/jobs/8287855?gh_jid=8287855",
+      "title": "Senior Software Engineer, Engine Systems",
+      "url": "https://careers.roblox.com/jobs/7309267?gh_jid=7309267",
       "location": "San Mateo, CA, United States",
       "company": "Roblox",
       "published": null,
@@ -293,7 +189,87 @@
       "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1792793281.3190012,
       "category": "job"
+    },
+    {
+      "source": "Cohere careers (direct)",
+      "source_id": "direct_cohere",
+      "kind": "ashby",
+      "title": "Engineering Manager, Cohere APIs and DevEx",
+      "url": "https://jobs.ashbyhq.com/cohere/dca93d1a-9ab8-442b-aa76-950595e8b9c3",
+      "location": "Toronto",
+      "company": "Cohere",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Toronto — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792793281.3190012,
+      "category": "job"
+    },
+    {
+      "source": "Roblox careers (direct)",
+      "source_id": "direct_roblox",
+      "kind": "greenhouse",
+      "title": "Senior Data Center Engineer",
+      "url": "https://careers.roblox.com/jobs/8287825?gh_jid=8287825",
+      "location": "Chicago, Illinois, United States",
+      "company": "Roblox",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Chicago, Illinois, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792802129.6072302,
+      "category": "job"
+    },
+    {
+      "source": "Sentry careers (direct)",
+      "source_id": "direct_sentry",
+      "kind": "ashby",
+      "title": "Director of Engineering, Platform (Runtime & Stateful Systems)",
+      "url": "https://jobs.ashbyhq.com/sentry/b7c17591-c9f1-449a-b0c1-39f2d6ff650e",
+      "location": "San Francisco, California",
+      "company": "Sentry",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, California — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792817972.9650407,
+      "category": "job"
+    },
+    {
+      "source": "HP IQ careers (direct)",
+      "source_id": "direct_hpiq",
+      "kind": "greenhouse",
+      "title": "Senior Quality Assurance Engineer",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6233902004",
+      "location": "San Francisco, CA",
+      "company": "HP IQ",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1792860444.183058,
+      "category": "job"
     }
   ],
-  "queued_candidates": 429
+  "queued_candidates": 427
 }
