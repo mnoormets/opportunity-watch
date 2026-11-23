@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-23T02:25:50+00:00",
+  "checked_at": "2026-11-23T11:00:09+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -23,7 +23,7 @@
     },
     {
       "id": "news_fellowships",
-      "items": 9,
+      "items": 10,
       "new_candidates": 0
     },
     {
@@ -38,8 +38,7 @@
     },
     {
       "id": "news_hackathons",
-      "items": 27,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_grants",
@@ -48,7 +47,7 @@
     },
     {
       "id": "news_bounties",
-      "items": 21,
+      "items": 22,
       "new_candidates": 0
     },
     {
@@ -83,12 +82,12 @@
     },
     {
       "id": "social_youtube",
-      "items": 87,
+      "items": 99,
       "new_candidates": 0
     },
     {
       "id": "social_x",
-      "items": 55,
+      "items": 100,
       "new_candidates": 0
     },
     {
@@ -98,7 +97,7 @@
     },
     {
       "id": "news_corps",
-      "items": 6,
+      "items": 5,
       "new_candidates": 0
     },
     {
@@ -108,12 +107,12 @@
     },
     {
       "id": "direct_seb",
-      "items": 130,
-      "new_candidates": 0
+      "items": 136,
+      "new_candidates": 1
     },
     {
       "id": "direct_welo",
-      "items": 462,
+      "items": 457,
       "new_candidates": 0
     },
     {
@@ -128,7 +127,7 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 636,
+      "items": 634,
       "new_candidates": 0
     },
     {
@@ -138,13 +137,13 @@
     },
     {
       "id": "direct_stripe",
-      "items": 778,
+      "items": 776,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 382,
-      "new_candidates": 0
+      "items": 384,
+      "new_candidates": 1
     },
     {
       "id": "direct_hpiq",
@@ -163,12 +162,12 @@
     },
     {
       "id": "direct_cohere",
-      "items": 124,
+      "items": 123,
       "new_candidates": 0
     },
     {
       "id": "direct_n8n",
-      "items": 67,
+      "items": 69,
       "new_candidates": 0
     },
     {
@@ -183,13 +182,11 @@
     },
     {
       "id": "news_estonia_jobs",
-      "items": 0,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_early_career",
-      "items": 1,
-      "new_candidates": 0
+      "error": "FetchError"
     },
     {
       "id": "news_shopify",
@@ -199,31 +196,12 @@
   ],
   "selected": [
     {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Forward Deployed AI Accelerator, Sales Development",
-      "url": "https://stripe.com/jobs/search?gh_jid=8055930",
-      "location": "Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792929872.5159144,
-      "category": "job"
-    },
-    {
       "source": "OpenAI careers (direct)",
       "source_id": "direct_openai",
       "kind": "ashby",
-      "title": "Applied AI Architect, OpenAI for Government",
-      "url": "https://jobs.ashbyhq.com/openai/c8eda1e9-10f9-4fc8-b88a-042ea6751d5b",
-      "location": "Munich, Germany",
+      "title": "Data Center Electrical R&D Design Engineer",
+      "url": "https://jobs.ashbyhq.com/openai/c3d39767-3824-4d41-83dd-7b132834b122",
+      "location": "San Francisco",
       "company": "OpenAI",
       "published": null,
       "salary": "",
@@ -233,56 +211,16 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: Munich, Germany — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792996937.4303148,
-      "category": "job"
-    },
-    {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Head of Marketing, Japan",
-      "url": "https://stripe.com/jobs/search?gh_jid=8273853",
-      "location": "Tokyo",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Tokyo — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792996937.4303148,
-      "category": "job"
-    },
-    {
-      "source": "Datadog careers (direct)",
-      "source_id": "direct_datadog",
-      "kind": "greenhouse",
-      "title": "Senior Partner Marketing Manager",
-      "url": "https://careers.datadoghq.com/detail/8139190?gh_jid=8139190",
-      "location": "Bangalore, India",
-      "company": "Datadog",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Bangalore, India — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1792996937.4303148,
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1793043114.945627,
       "category": "job"
     },
     {
       "source": "OpenAI careers (direct)",
       "source_id": "direct_openai",
       "kind": "ashby",
-      "title": "Forward Deployed Engineer (FDE) - AI Infra - SF",
-      "url": "https://jobs.ashbyhq.com/openai/7472e486-0aa6-4f9d-86da-2105a42b2dce",
+      "title": "Data Scientist, Personalization & Machine Learning",
+      "url": "https://jobs.ashbyhq.com/openai/5dce6671-9aa8-4c49-b263-b175a2a927f8",
       "location": "San Francisco",
       "company": "OpenAI",
       "published": null,
@@ -295,7 +233,65 @@
       "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1793043114.945627,
       "category": "job"
+    },
+    {
+      "source": "Roblox careers (direct)",
+      "source_id": "direct_roblox",
+      "kind": "greenhouse",
+      "title": "Software Engineer, Frontend - Economy",
+      "url": "https://careers.roblox.com/jobs/8259453?gh_jid=8259453",
+      "location": "San Mateo, CA, United States",
+      "company": "Roblox",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1793043114.945627,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Security Data Engineer",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462966008",
+      "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Remote-Friendly (Travel Required) | San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1793056587.8854976,
+      "category": "job"
+    },
+    {
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Value Engineer - San Francisco",
+      "url": "https://jobs.ashbyhq.com/openai/916fa6f6-f441-43c6-9769-27e4bf0b2cc9",
+      "location": "San Francisco",
+      "company": "OpenAI",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1793056587.8854976,
+      "category": "job"
     }
   ],
-  "queued_candidates": 422
+  "queued_candidates": 419
 }
