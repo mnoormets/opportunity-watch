@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-24T06:16:10+00:00",
+  "checked_at": "2026-11-24T17:54:07+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,7 +14,7 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "remotive",
@@ -28,7 +28,7 @@
     },
     {
       "id": "news_paid_training",
-      "items": 32,
+      "items": 43,
       "new_candidates": 0
     },
     {
@@ -43,12 +43,12 @@
     },
     {
       "id": "news_grants",
-      "items": 29,
+      "items": 63,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 27,
+      "items": 25,
       "new_candidates": 0
     },
     {
@@ -64,11 +64,11 @@
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 2
     },
     {
       "id": "hn_ai",
-      "items": 0,
+      "items": 1,
       "new_candidates": 0
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "id": "social_x",
-      "items": 54,
+      "items": 100,
       "new_candidates": 0
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "id": "news_corps",
-      "items": 5,
+      "items": 4,
       "new_candidates": 0
     },
     {
@@ -108,12 +108,12 @@
     },
     {
       "id": "direct_seb",
-      "items": 134,
-      "new_candidates": 0
+      "items": 153,
+      "new_candidates": 2
     },
     {
       "id": "direct_welo",
-      "items": 452,
+      "items": 454,
       "new_candidates": 0
     },
     {
@@ -128,23 +128,23 @@
     },
     {
       "id": "direct_anthropic",
-      "items": 630,
+      "items": 633,
       "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 861,
-      "new_candidates": 2
+      "items": 867,
+      "new_candidates": 1
     },
     {
       "id": "direct_stripe",
-      "items": 771,
-      "new_candidates": 0
+      "items": 772,
+      "new_candidates": 2
     },
     {
       "id": "direct_datadog",
-      "items": 383,
-      "new_candidates": 0
+      "items": 386,
+      "new_candidates": 1
     },
     {
       "id": "direct_hpiq",
@@ -153,22 +153,22 @@
     },
     {
       "id": "direct_roblox",
-      "items": 256,
+      "items": 254,
       "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 251,
+      "items": 253,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 125,
+      "items": 123,
       "new_candidates": 0
     },
     {
       "id": "direct_n8n",
-      "items": 69,
+      "items": 68,
       "new_candidates": 0
     },
     {
@@ -199,102 +199,101 @@
   ],
   "selected": [
     {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "Software Engineer, Physical Engineering",
-      "url": "https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783",
-      "location": "San Francisco",
-      "company": "OpenAI",
-      "published": null,
-      "salary": "",
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Staff Security Engineer",
+      "url": "https://jobicy.com/jobs/164087-staff-security-engineer-2",
+      "location": "Europe, USA",
+      "company": "OpenSea",
+      "published": 1795520971.0,
+      "salary": "200000–295000 USD / yearly",
       "remote": true,
       "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793056587.8854976,
-      "category": "job"
-    },
-    {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Android Engineer, Identity Product",
-      "url": "https://stripe.com/jobs/search?gh_jid=8311069",
-      "location": "San Francisco, CA; Seattle, WA; New York City, NY",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA; Seattle, WA; New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793056587.8854976,
-      "category": "job"
-    },
-    {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "iOS Engineer, Identity Product",
-      "url": "https://stripe.com/jobs/search?gh_jid=8311082",
-      "location": "San Francisco, CA; Seattle, WA; New York City, NY",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, CA; Seattle, WA; New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793056587.8854976,
-      "category": "job"
-    },
-    {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "Data Center Electrical R&D Engineer",
-      "url": "https://jobs.ashbyhq.com/openai/c3d39767-3824-4d41-83dd-7b132834b122",
-      "location": "San Francisco",
-      "company": "OpenAI",
-      "published": null,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": true,
+      "relocation_employer": false,
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 10,
+      "region": "Kaugtöö: Europe, USA — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1795542847.4611712,
+      "category": "job"
+    },
+    {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Forward Deployed Engineer",
+      "url": "https://jobicy.com/jobs/164135-forward-deployed-engineer-15",
+      "location": "Europe",
+      "company": "Enode",
+      "published": 1795531437.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1795542847.4611712,
+      "category": "job"
+    },
+    {
+      "source": "Startup Jobs",
+      "source_id": "startup",
+      "kind": "rss_jobs",
+      "title": "Software Development Engineer in Test at Mesh",
+      "url": "https://startup.jobs/software-development-engineer-in-test-mesh-company-10862239",
+      "location": "",
+      "company": "",
+      "published": 1795451987.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
+      "found_at": 1795542847.4611712,
+      "category": "job"
+    },
+    {
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "Android Engineer, Identity",
+      "url": "https://stripe.com/jobs/search?gh_jid=8311069",
+      "location": "San Francisco, CA",
+      "company": "Stripe",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1793066905.0440125,
       "category": "job"
     },
     {
-      "source": "OpenAI careers (direct)",
-      "source_id": "direct_openai",
-      "kind": "ashby",
-      "title": "Product Cost Management Lead - AI Infrastructure",
-      "url": "https://jobs.ashbyhq.com/openai/ed9255f0-981f-49e9-8b01-9fd203141929",
-      "location": "San Francisco",
-      "company": "OpenAI",
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "iOS Engineer, Identity",
+      "url": "https://stripe.com/jobs/search?gh_jid=8311082",
+      "location": "San Francisco, CA",
+      "company": "Stripe",
       "published": null,
       "salary": "",
-      "remote": true,
+      "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "region": "Kolimine pärast pakkumist: San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1793066905.0440125,
       "category": "job"
     }
   ],
-  "queued_candidates": 427
+  "queued_candidates": 431
 }
