@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-25T01:54:08+00:00",
+  "checked_at": "2026-11-25T10:51:53+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -14,7 +14,7 @@
     {
       "id": "startup",
       "items": 50,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "remotive",
@@ -33,22 +33,22 @@
     },
     {
       "id": "news_ai_tasks",
-      "items": 9,
+      "items": 10,
       "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "items": 52,
+      "items": 58,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 64,
+      "items": 32,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 52,
+      "items": 53,
       "new_candidates": 0
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "id": "social_youtube",
-      "items": 99,
+      "items": 97,
       "new_candidates": 0
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "id": "news_corps",
-      "items": 4,
+      "items": 3,
       "new_candidates": 0
     },
     {
@@ -108,12 +108,12 @@
     },
     {
       "id": "direct_seb",
-      "items": 149,
-      "new_candidates": 0
+      "items": 150,
+      "new_candidates": 1
     },
     {
       "id": "direct_welo",
-      "items": 455,
+      "items": 454,
       "new_candidates": 0
     },
     {
@@ -129,21 +129,21 @@
     {
       "id": "direct_anthropic",
       "items": 636,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_openai",
-      "items": 876,
-      "new_candidates": 7
+      "items": 877,
+      "new_candidates": 0
     },
     {
       "id": "direct_stripe",
       "items": 771,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 387,
+      "items": 388,
       "new_candidates": 0
     },
     {
@@ -153,17 +153,17 @@
     },
     {
       "id": "direct_roblox",
-      "items": 256,
+      "items": 255,
       "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 250,
+      "items": 247,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 122,
+      "items": 123,
       "new_candidates": 0
     },
     {
@@ -199,33 +199,13 @@
   ],
   "selected": [
     {
-      "source": "Startup Jobs",
-      "source_id": "startup",
-      "kind": "rss_jobs",
-      "title": "Senior Machine Learning Engineer, FeedForward 3D/4D Reconstruction at Parallel Domain",
-      "url": "https://startup.jobs/senior-machine-learning-engineer-feedforward-3d-4d-reconstruction-parallel-domain-10872553",
-      "location": "",
-      "company": "",
-      "published": 1795481630.0,
-      "salary": "",
-      "remote": true,
-      "discovery_only": false,
-      "relocation_employer": false,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 8,
-      "region": "Kaugtöö Eestist — kuulutuses ülemaailmne või Eestit hõlmav piirkond",
-      "found_at": 1795571648.121298,
-      "category": "job"
-    },
-    {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Technical Operations Engineer",
-      "url": "https://stripe.com/jobs/search?gh_jid=8325807",
-      "location": "South San Francisco, CA",
-      "company": "Stripe",
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Software Developer (Programmētājs-a) in Savings & Investments Tribe | SEB, Riga",
+      "url": "https://jobs.eu.lever.co/seb/942d49e6-4750-4a2c-a2f9-f8965039a34d",
+      "location": "Rīga",
+      "company": "SEB",
       "published": null,
       "salary": "",
       "remote": false,
@@ -233,56 +213,16 @@
       "relocation_employer": true,
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: South San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793066905.0440125,
-      "category": "job"
-    },
-    {
-      "source": "Roblox careers (direct)",
-      "source_id": "direct_roblox",
-      "kind": "greenhouse",
-      "title": "Principal Software Engineer, Metrics Platform",
-      "url": "https://careers.roblox.com/jobs/8029695?gh_jid=8029695",
-      "location": "San Mateo, CA, United States",
-      "company": "Roblox",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793066905.0440125,
-      "category": "job"
-    },
-    {
-      "source": "Roblox careers (direct)",
-      "source_id": "direct_roblox",
-      "kind": "greenhouse",
-      "title": "Senior Software Engineer, Metric Platform",
-      "url": "https://careers.roblox.com/jobs/8014486?gh_jid=8014486",
-      "location": "San Mateo, CA, United States",
-      "company": "Roblox",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793066905.0440125,
+      "region": "Kolimine pärast pakkumist: Rīga — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1793087062.4505339,
       "category": "job"
     },
     {
       "source": "SEB careers (direct)",
       "source_id": "direct_seb",
       "kind": "lever",
-      "title": "DevOps and support engineer | SEB, Vilnius",
-      "url": "https://jobs.eu.lever.co/seb/c6bf383f-a04c-4ad9-86aa-f4c7ae872d51",
+      "title": "Software Developer in Savings & Investments Tribe | SEB, Vilnius",
+      "url": "https://jobs.eu.lever.co/seb/3d63b51f-9a24-41e2-b085-2187ca2d3f96",
       "location": "Vilnius",
       "company": "SEB",
       "published": null,
@@ -295,7 +235,64 @@
       "region": "Kolimine pärast pakkumist: Vilnius — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
       "found_at": 1793087062.4505339,
       "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Business Developer (biznesa attīstības speciālists) in Savings & Investments Tribe | SEB, Riga",
+      "url": "https://jobs.eu.lever.co/seb/2c9d0ddb-fa68-48d1-9ae9-da941c5bac3c",
+      "location": "Rīga",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Rīga — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1793108310.6879315,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Data Engineer for a data-driven culture | SEB, Vilnius",
+      "url": "https://jobs.eu.lever.co/seb/f54f328b-eb9b-4b7b-9a9c-9bc4589f5d4e",
+      "location": "Vilnius",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Vilnius — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1793108310.6879315,
+      "category": "job"
+    },
+    {
+      "source": "SEB careers (direct)",
+      "source_id": "direct_seb",
+      "kind": "lever",
+      "title": "Java Developer within Analytics and Reporting/ Java Programmētājs/-a | SEB, Riga",
+      "url": "https://jobs.eu.lever.co/seb/0082ce39-0969-476c-8651-0ae0b5f57238",
+      "location": "Rīga",
+      "company": "SEB",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Rīga — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1793108310.6879315,
+      "category": "job"
     }
   ],
-  "queued_candidates": 436
+  "queued_candidates": 432
 }
