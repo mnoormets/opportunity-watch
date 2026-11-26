@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-25T20:14:33+00:00",
+  "checked_at": "2026-11-26T02:53:29+00:00",
   "sources": [
     {
       "id": "remoteok",
@@ -23,32 +23,32 @@
     },
     {
       "id": "news_fellowships",
-      "items": 10,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_paid_training",
-      "items": 32,
-      "new_candidates": 0
-    },
-    {
-      "id": "news_ai_tasks",
       "items": 9,
       "new_candidates": 0
     },
     {
+      "id": "news_paid_training",
+      "items": 47,
+      "new_candidates": 0
+    },
+    {
+      "id": "news_ai_tasks",
+      "items": 10,
+      "new_candidates": 0
+    },
+    {
       "id": "news_hackathons",
-      "items": 58,
+      "items": 26,
       "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "items": 32,
+      "items": 31,
       "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "items": 55,
+      "items": 25,
       "new_candidates": 0
     },
     {
@@ -109,11 +109,11 @@
     {
       "id": "direct_seb",
       "items": 156,
-      "new_candidates": 1
+      "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 457,
+      "items": 461,
       "new_candidates": 0
     },
     {
@@ -139,31 +139,31 @@
     {
       "id": "direct_stripe",
       "items": 772,
-      "new_candidates": 3
+      "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 391,
-      "new_candidates": 2
+      "items": 392,
+      "new_candidates": 1
     },
     {
       "id": "direct_hpiq",
-      "items": 29,
+      "items": 28,
       "new_candidates": 0
     },
     {
       "id": "direct_roblox",
-      "items": 255,
+      "items": 254,
       "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
-      "items": 244,
+      "items": 243,
       "new_candidates": 0
     },
     {
       "id": "direct_cohere",
-      "items": 121,
+      "items": 122,
       "new_candidates": 0
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "id": "direct_sentry",
-      "items": 41,
+      "items": 40,
       "new_candidates": 0
     },
     {
@@ -199,12 +199,90 @@
   ],
   "selected": [
     {
+      "source": "Datadog careers (direct)",
+      "source_id": "direct_datadog",
+      "kind": "greenhouse",
+      "title": "Manager II, Engineering - AI DBM",
+      "url": "https://careers.datadoghq.com/detail/8212114?gh_jid=8212114",
+      "location": "New York, New York, USA",
+      "company": "Datadog",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: New York, New York, USA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1793127388.6272454,
+      "category": "job"
+    },
+    {
+      "source": "Roblox careers (direct)",
+      "source_id": "direct_roblox",
+      "kind": "greenhouse",
+      "title": "Software Engineer, Creator Services Communication",
+      "url": "https://careers.roblox.com/jobs/8283641?gh_jid=8283641",
+      "location": "San Mateo, CA, United States",
+      "company": "Roblox",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1793127388.6272454,
+      "category": "job"
+    },
+    {
+      "source": "Sentry careers (direct)",
+      "source_id": "direct_sentry",
+      "kind": "ashby",
+      "title": "Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/sentry/2cdc2ba7-8406-452a-b84f-d94d8e7a09bb",
+      "location": "San Francisco, California",
+      "company": "Sentry",
+      "published": null,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: San Francisco, California — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1793127388.6272454,
+      "category": "job"
+    },
+    {
       "source": "Anthropic careers (direct)",
       "source_id": "direct_anthropic",
       "kind": "greenhouse",
-      "title": "Tech Lead Manager, Developer Platform Product Data Scientist",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5116820008",
-      "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+      "title": "Autonomous Systems Security Engineer",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462972008",
+      "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+      "company": "Anthropic",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Remote-Friendly (Travel Required) | San Francisco, CA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1793141428.2565846,
+      "category": "job"
+    },
+    {
+      "source": "Anthropic careers (direct)",
+      "source_id": "direct_anthropic",
+      "kind": "greenhouse",
+      "title": "Solutions Marketing Manager, Emerging Industries",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5463888008",
+      "location": "San Francisco, CA | New York City, NY",
       "company": "Anthropic",
       "published": null,
       "salary": "",
@@ -214,87 +292,10 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: New York City, NY; San Francisco, CA; Seattle, WA — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793108310.6879315,
-      "category": "job"
-    },
-    {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Backend Engineer, UI Platform",
-      "url": "https://stripe.com/jobs/search?gh_jid=8212319",
-      "location": "Barcelona, Spain",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Barcelona, Spain — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793108310.6879315,
-      "category": "job"
-    },
-    {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Frontend Engineer, UI Platform",
-      "url": "https://stripe.com/jobs/search?gh_jid=8226890",
-      "location": "Barcelona",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Barcelona — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793108310.6879315,
-      "category": "job"
-    },
-    {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Design Engineer, Brand Studio",
-      "url": "https://stripe.com/jobs/search?gh_jid=8283782",
-      "location": "US, Canada, Remote",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: US, Canada, Remote — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793127388.6272454,
-      "category": "job"
-    },
-    {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Regional Marketing Manager, DACH",
-      "url": "https://stripe.com/jobs/search?gh_jid=8288541",
-      "location": "Berlin, Germany",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Berlin, Germany — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793127388.6272454,
+      "region": "Kolimine pärast pakkumist: San Francisco, CA | New York City, NY — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1793141428.2565846,
       "category": "job"
     }
   ],
-  "queued_candidates": 433
+  "queued_candidates": 429
 }
