@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-27T03:15:15+00:00",
+  "checked_at": "2026-11-27T12:40:19+00:00",
   "sources": [
     {
       "id": "remoteok",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "arbeitnow",
@@ -18,45 +18,53 @@
     },
     {
       "id": "remotive",
-      "items": 16,
+      "items": 17,
       "new_candidates": 0
     },
     {
       "id": "news_fellowships",
-      "error": "FetchError"
+      "items": 10,
+      "new_candidates": 0
     },
     {
       "id": "news_paid_training",
-      "error": "FetchError"
+      "items": 34,
+      "new_candidates": 0
     },
     {
       "id": "news_ai_tasks",
-      "error": "FetchError"
+      "items": 6,
+      "new_candidates": 0
     },
     {
       "id": "news_hackathons",
-      "error": "FetchError"
+      "items": 28,
+      "new_candidates": 0
     },
     {
       "id": "news_grants",
-      "error": "FetchError"
+      "items": 62,
+      "new_candidates": 0
     },
     {
       "id": "news_bounties",
-      "error": "FetchError"
+      "items": 57,
+      "new_candidates": 0
     },
     {
       "id": "news_paid_research",
-      "error": "FetchError"
+      "items": 0,
+      "new_candidates": 0
     },
     {
       "id": "news_estonia",
-      "error": "FetchError"
+      "items": 0,
+      "new_candidates": 0
     },
     {
       "id": "jobicy",
       "items": 100,
-      "new_candidates": 0
+      "new_candidates": 1
     },
     {
       "id": "hn_ai",
@@ -75,32 +83,37 @@
     },
     {
       "id": "social_youtube",
-      "error": "FetchError"
+      "items": 98,
+      "new_candidates": 0
     },
     {
       "id": "social_x",
-      "error": "FetchError"
+      "items": 100,
+      "new_candidates": 0
     },
     {
       "id": "social_tiktok",
-      "error": "FetchError"
+      "items": 100,
+      "new_candidates": 0
     },
     {
       "id": "news_corps",
-      "error": "FetchError"
+      "items": 2,
+      "new_candidates": 0
     },
     {
       "id": "news_clients",
-      "error": "FetchError"
+      "items": 1,
+      "new_candidates": 0
     },
     {
       "id": "direct_seb",
-      "items": 159,
+      "items": 162,
       "new_candidates": 0
     },
     {
       "id": "direct_welo",
-      "items": 477,
+      "items": 478,
       "new_candidates": 0
     },
     {
@@ -125,12 +138,12 @@
     },
     {
       "id": "direct_stripe",
-      "items": 767,
+      "items": 766,
       "new_candidates": 0
     },
     {
       "id": "direct_datadog",
-      "items": 390,
+      "items": 391,
       "new_candidates": 0
     },
     {
@@ -140,8 +153,8 @@
     },
     {
       "id": "direct_roblox",
-      "items": 255,
-      "new_candidates": 1
+      "items": 259,
+      "new_candidates": 0
     },
     {
       "id": "direct_gitlab",
@@ -155,7 +168,7 @@
     },
     {
       "id": "direct_n8n",
-      "items": 77,
+      "items": 76,
       "new_candidates": 0
     },
     {
@@ -170,25 +183,87 @@
     },
     {
       "id": "news_estonia_jobs",
-      "error": "FetchError"
+      "items": 0,
+      "new_candidates": 0
     },
     {
       "id": "news_early_career",
-      "error": "FetchError"
+      "items": 1,
+      "new_candidates": 0
     },
     {
       "id": "news_shopify",
-      "error": "FetchError"
+      "items": 0,
+      "new_candidates": 0
     }
   ],
   "selected": [
     {
+      "source": "Jobicy",
+      "source_id": "jobicy",
+      "kind": "jobicy",
+      "title": "Platform Engineer - Database",
+      "url": "https://jobicy.com/jobs/164472-platform-engineer-database",
+      "location": "Europe",
+      "company": "Supabase",
+      "published": 1795767022.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1795783219.7147055,
+      "category": "job"
+    },
+    {
+      "source": "Remote OK",
+      "source_id": "remoteok",
+      "kind": "remoteok",
+      "title": "Senior Frontend Engineer",
+      "url": "https://remoteok.com/remote-jobs/remote-senior-frontend-engineer-lastpass-1138187",
+      "location": "Europe",
+      "company": "LastPass",
+      "published": 1795695612.0,
+      "salary": "",
+      "remote": true,
+      "discovery_only": false,
+      "relocation_employer": false,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 8,
+      "region": "Kaugtöö: Europe — piirkond hõlmab Eestit; kontrolli tööandja lõplikke tingimusi",
+      "found_at": 1795783219.7147055,
+      "category": "job"
+    },
+    {
+      "source": "Stripe careers (direct)",
+      "source_id": "direct_stripe",
+      "kind": "greenhouse",
+      "title": "Staff Software Engineer, Stripe Dashboard",
+      "url": "https://stripe.com/jobs/search?gh_jid=7746721",
+      "location": "Seattle",
+      "company": "Stripe",
+      "published": null,
+      "salary": "",
+      "remote": false,
+      "discovery_only": false,
+      "relocation_employer": true,
+      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
+      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
+      "score": 6,
+      "region": "Kolimine pärast pakkumist: Seattle — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1793197303.3982337,
+      "category": "job"
+    },
+    {
       "source": "OpenAI careers (direct)",
       "source_id": "direct_openai",
       "kind": "ashby",
-      "title": "Fire Protection Engineer",
-      "url": "https://jobs.ashbyhq.com/openai/8ff67de2-7ee8-4d9d-bef4-dadabeeaf312",
-      "location": "US - Remote",
+      "title": "Design Engineer: Power Generation",
+      "url": "https://jobs.ashbyhq.com/openai/5a4a52a0-2eee-4cde-8b9f-320ebff572a4",
+      "location": "San Francisco",
       "company": "OpenAI",
       "published": null,
       "salary": "",
@@ -198,89 +273,29 @@
       "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
-      "region": "Kolimine pärast pakkumist: US - Remote — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793172674.8749213,
+      "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
+      "found_at": 1793216382.5943065,
       "category": "job"
     },
     {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Head of AMER Startups (AI Sales)",
-      "url": "https://stripe.com/jobs/search?gh_jid=8267847",
+      "source": "OpenAI careers (direct)",
+      "source_id": "direct_openai",
+      "kind": "ashby",
+      "title": "Research Engineer / Research Scientist, Human Flourishing",
+      "url": "https://jobs.ashbyhq.com/openai/0f600ed1-d70a-4648-820f-a1d1da3f7617",
       "location": "San Francisco",
-      "company": "Stripe",
+      "company": "OpenAI",
       "published": null,
       "salary": "",
       "remote": false,
       "discovery_only": false,
       "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
       "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
       "score": 6,
       "region": "Kolimine pärast pakkumist: San Francisco — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793172674.8749213,
-      "category": "job"
-    },
-    {
-      "source": "Roblox careers (direct)",
-      "source_id": "direct_roblox",
-      "kind": "greenhouse",
-      "title": "Principal Software Engineer, GenAI Platform",
-      "url": "https://careers.roblox.com/jobs/8287614?gh_jid=8287614",
-      "location": "San Mateo, CA, United States",
-      "company": "Roblox",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Mateo, CA, United States — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793172674.8749213,
-      "category": "job"
-    },
-    {
-      "source": "SEB careers (direct)",
-      "source_id": "direct_seb",
-      "kind": "lever",
-      "title": "Cloud Engineer for AI Solution | SEB, Vilnius",
-      "url": "https://jobs.eu.lever.co/seb/1c9fad60-80e7-4858-8622-a0baa217b740",
-      "location": "Vilnius",
-      "company": "SEB",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: Vilnius — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793197303.3982337,
-      "category": "job"
-    },
-    {
-      "source": "Stripe careers (direct)",
-      "source_id": "direct_stripe",
-      "kind": "greenhouse",
-      "title": "Marketing Strategy & Operations Business Partner",
-      "url": "https://stripe.com/jobs/search?gh_jid=8329719",
-      "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US",
-      "company": "Stripe",
-      "published": null,
-      "salary": "",
-      "remote": false,
-      "discovery_only": false,
-      "relocation_employer": true,
-      "experience_note": "Ambitsioonikam valik: kontrolli nõutud erialast töökogemust; AI kasutamise kestus ei asenda seda automaatselt.",
-      "geo_policy": "estonia-remote-selected-relocation-all-levels-v3",
-      "score": 6,
-      "region": "Kolimine pärast pakkumist: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US — viisa/tööluba ja õpingutega sobivus vajavad kinnitamist",
-      "found_at": 1793197303.3982337,
+      "found_at": 1793216382.5943065,
       "category": "job"
     }
   ],
-  "queued_candidates": 419
+  "queued_candidates": 416
 }
